@@ -1,0 +1,981 @@
+[
+  {
+    "corrections": [
+      {
+        "after": "Ἰγνάτιος",
+        "before": "Ἰγνατιος",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n229.jpg",
+        "expected_occurrences": 1,
+        "human_review_status": "not_reviewed",
+        "patch_id": "igrom-source-001",
+        "printed_page": 224,
+        "reason": "인쇄면에서 이름의 악센트 확인",
+        "reviewer_type": "ai",
+        "upstream_revision_id": "sha256:e604236701be1fb98f30f151ccfa3eb8ff42fdb1e068d4226119a0d4933659d2",
+        "work_location": "praef.1"
+      },
+      {
+        "after": "ἀξιάγνος",
+        "before": "ἀξίαγνος",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n229.jpg",
+        "expected_occurrences": 1,
+        "human_review_status": "not_reviewed",
+        "patch_id": "igrom-source-002",
+        "printed_page": 224,
+        "reason": "인쇄면의 분철 전 ἀξιάγ- 악센트 재확인",
+        "reviewer_type": "ai",
+        "upstream_revision_id": "sha256:e604236701be1fb98f30f151ccfa3eb8ff42fdb1e068d4226119a0d4933659d2",
+        "work_location": "praef.1"
+      }
+    ],
+    "location": "praef.1",
+    "work_id": "ignatius-romans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τῆς σαρκός μου,",
+        "before": "τῆς σαρκός μου.",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n231.jpg",
+        "expected_occurrences": 1,
+        "human_review_status": "not_reviewed",
+        "patch_id": "igrom-source-003",
+        "printed_page": 226,
+        "reason": "쪽 경계 앞 쉼표를 확인",
+        "reviewer_type": "ai",
+        "upstream_revision_id": "sha256:f50ddf0e3f881e5ed30d3035c921c9562bb100f0556bab370d9a673f1c0bca4f",
+        "work_location": "2.1"
+      }
+    ],
+    "location": "2.1",
+    "work_id": "ignatius-romans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ᾄσητε",
+        "before": "ᾅσητε",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n233.jpg",
+        "expected_occurrences": 1,
+        "human_review_status": "not_reviewed",
+        "patch_id": "igrom-source-006",
+        "printed_page": 228,
+        "reason": "노래하다 동사의 기식부호를 인쇄면에 따라 교정",
+        "reviewer_type": "ai",
+        "upstream_revision_id": "sha256:0f69e5f655d9d61d962fe10b5b720deb4ff7c633b49acca78a26f72b4780c4c3",
+        "work_location": "2.2"
+      }
+    ],
+    "location": "2.2",
+    "work_id": "ignatius-romans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’ ὧν",
+        "before": "δἰ ὦν",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n235.jpg",
+        "expected_occurrences": 1,
+        "human_review_status": "not_reviewed",
+        "patch_id": "igrom-source-004",
+        "printed_page": 230,
+        "reason": "생략부호와 관계대명사의 기식부호 확인",
+        "reviewer_type": "ai",
+        "upstream_revision_id": "sha256:f045fcd3177894394a72c36c27dd54dbcda73c14a963d2b084f97994e8fada43",
+        "work_location": "4.1"
+      },
+      {
+        "after": "δι’ ὀδόντων",
+        "before": "δἰ ὀδόντων",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n235.jpg",
+        "expected_occurrences": 1,
+        "human_review_status": "not_reviewed",
+        "patch_id": "igrom-source-005",
+        "printed_page": 230,
+        "reason": "생략부호 확인",
+        "reviewer_type": "ai",
+        "upstream_revision_id": "sha256:f045fcd3177894394a72c36c27dd54dbcda73c14a963d2b084f97994e8fada43",
+        "work_location": "4.1"
+      }
+    ],
+    "location": "4.1",
+    "work_id": "ignatius-romans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἡμέρας",
+        "before": "ἧμερας",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n235.jpg",
+        "expected_occurrences": 1,
+        "human_review_status": "not_reviewed",
+        "patch_id": "igrom-source-007",
+        "printed_page": 230,
+        "reason": "낮을 뜻하는 단어의 악센트 교정",
+        "reviewer_type": "ai",
+        "upstream_revision_id": "sha256:693ab99a9d10cae3a7c96f66cfaf992feb21dae8f5e37abef1d531137db8e965",
+        "work_location": "5.1"
+      },
+      {
+        "after": "οἳ",
+        "before": "οἲ",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n237.jpg",
+        "expected_occurrences": 1,
+        "human_review_status": "not_reviewed",
+        "patch_id": "igrom-source-008",
+        "printed_page": 232,
+        "reason": "관계대명사의 기식부호 교정",
+        "reviewer_type": "ai",
+        "upstream_revision_id": "sha256:693ab99a9d10cae3a7c96f66cfaf992feb21dae8f5e37abef1d531137db8e965",
+        "work_location": "5.1"
+      }
+    ],
+    "location": "5.1",
+    "work_id": "ignatius-romans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’ ἡμᾶς",
+        "before": "δἰ ἡμᾶς",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n237.jpg",
+        "expected_occurrences": 1,
+        "human_review_status": "not_reviewed",
+        "patch_id": "igrom-source-009",
+        "printed_page": 232,
+        "reason": "생략부호 교정",
+        "reviewer_type": "ai",
+        "upstream_revision_id": "sha256:b143c6149ce4be36813c94da11e606594d7cc7367bdd5fea4507e3cbac2219be",
+        "work_location": "6.1"
+      }
+    ],
+    "location": "6.1",
+    "work_id": "ignatius-romans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’ ὀλίγων",
+        "before": "δἰ ὀλίγων",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n241.jpg",
+        "expected_occurrences": 1,
+        "human_review_status": "not_reviewed",
+        "patch_id": "igrom-source-010",
+        "printed_page": 236,
+        "reason": "생략부호 교정",
+        "reviewer_type": "ai",
+        "upstream_revision_id": "sha256:f46792bad059ccb625f1e06b049b8f3263c8b9dd074cbfa6ff34457584e8c67d",
+        "work_location": "8.2"
+      }
+    ],
+    "location": "8.2",
+    "work_id": "ignatius-romans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὢν ἔσχατος",
+        "before": "ὣν ἔσχατος",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n241.jpg",
+        "expected_occurrences": 1,
+        "human_review_status": "not_reviewed",
+        "patch_id": "igrom-source-011",
+        "printed_page": 236,
+        "reason": "분사의 기식부호 교정",
+        "reviewer_type": "ai",
+        "upstream_revision_id": "sha256:bca2509fa9a66b1451abdfadd48d5d9e19831965ccadf47099d327f5f6e5c81b",
+        "work_location": "9.2"
+      }
+    ],
+    "location": "9.2",
+    "work_id": "ignatius-romans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’ Ἐφεσίων",
+        "before": "δἰ Ἐφεσίων",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n241.jpg",
+        "expected_occurrences": 1,
+        "human_review_status": "not_reviewed",
+        "patch_id": "igrom-source-012",
+        "printed_page": 236,
+        "reason": "생략부호 교정",
+        "reviewer_type": "ai",
+        "upstream_revision_id": "sha256:1ffba122b2f5404a1de294ec7b86de90931c01bf797f6888a648008b3302bd52",
+        "work_location": "10.1"
+      }
+    ],
+    "location": "10.1",
+    "work_id": "ignatius-romans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μία τοῦ",
+        "before": "μια τοῦ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n313.jpg",
+        "location": "1.1",
+        "patch_id": "didache-001",
+        "printed_page": 308,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "1.1",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τοὺς καταρωμένους",
+        "before": "τοῦς καταρωμένους",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n313.jpg",
+        "location": "1.3",
+        "patch_id": "didache-002",
+        "printed_page": 308,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "1.3",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "λαμβάνοντι",
+        "before": "λαμβάνονται",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n315.jpg",
+        "location": "1.5",
+        "patch_id": "didache-003",
+        "printed_page": 310,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "1.5",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "πράξει.",
+        "before": "πράξει,",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n317.jpg",
+        "location": "2.5",
+        "patch_id": "didache-004",
+        "printed_page": 312,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "2.5",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δὲ ὧν",
+        "before": "δὲ ὦν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n317.jpg",
+        "location": "2.7",
+        "patch_id": "didache-005",
+        "printed_page": 312,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "2.7",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἁπάντων",
+        "before": "ἀπάντων",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n319.jpg",
+        "location": "3.6",
+        "patch_id": "didache-006",
+        "printed_page": 314,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "3.6",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καθ’",
+        "before": "καθ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n319.jpg",
+        "location": "4.2",
+        "patch_id": "didache-007",
+        "printed_page": 314,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "4.2",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐφ’",
+        "before": "ἐφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n321.jpg",
+        "location": "4.10",
+        "patch_id": "didache-008",
+        "printed_page": 316,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "4.10",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἡ",
+        "before": "ʽΠ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n321.jpg",
+        "location": "5.1",
+        "patch_id": "didache-009",
+        "printed_page": 316,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "5.1",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τούτων",
+        "before": "τούτωι",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n323.jpg",
+        "location": "5.2",
+        "patch_id": "didache-010",
+        "printed_page": 318,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "πονηρόν: ὧν",
+        "before": "πονηρόν ὧν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n323.jpg",
+        "location": "5.2",
+        "patch_id": "didache-011",
+        "printed_page": 318,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "5.2",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "πρόσεχε: λατρεία",
+        "before": "πρόσεχε λατρεία",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n323.jpg",
+        "location": "6.3",
+        "patch_id": "didache-012",
+        "printed_page": 318,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "6.3",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἧς",
+        "before": "ἦς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n327.jpg",
+        "location": "9.2",
+        "patch_id": "didache-013",
+        "printed_page": 322,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "9.2",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἧς",
+        "before": "ἦς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n327.jpg",
+        "location": "9.3",
+        "patch_id": "didache-014",
+        "printed_page": 322,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "9.3",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "εἶ:",
+        "before": "εἶ;",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n329.jpg",
+        "location": "10.4",
+        "patch_id": "didache-015",
+        "printed_page": 324,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "10.4",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὖν",
+        "before": "οὑν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n329.jpg",
+        "location": "11.1",
+        "patch_id": "didache-016",
+        "printed_page": 324,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "11.1",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὗ αὐλισθῇ",
+        "before": "οὖ αὐλισθῇ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n331.jpg",
+        "location": "11.6",
+        "patch_id": "didache-017",
+        "printed_page": 326,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "11.6",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὐ ποιεῖ,",
+        "before": "οὐ ποιεῖ.",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n331.jpg",
+        "location": "11.10",
+        "patch_id": "didache-018",
+        "printed_page": 326,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "11.10",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐφ’",
+        "before": "ἐφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n331.jpg",
+        "location": "11.11",
+        "patch_id": "didache-019",
+        "printed_page": 326,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "11.11",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δύο ἢ τρεῖς",
+        "before": "δύο ἡ τρεῖς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n333.jpg",
+        "location": "12.2",
+        "patch_id": "didache-020",
+        "printed_page": 328,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἐὰν",
+        "before": "ἑὰν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n333.jpg",
+        "location": "12.2",
+        "patch_id": "didache-021",
+        "printed_page": 328,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "12.2",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μεθ’",
+        "before": "μεθ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n333.jpg",
+        "location": "12.4",
+        "patch_id": "didache-022",
+        "printed_page": 328,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "12.4",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οἴνου ἢ ἐλαίου",
+        "before": "οἴνου ἡ ἐλαίου",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n333.jpg",
+        "location": "13.6",
+        "patch_id": "didache-023",
+        "printed_page": 328,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "13.6",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὗ",
+        "before": "ὁ??ʼ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n335.jpg",
+        "location": "14.2",
+        "patch_id": "didache-024",
+        "printed_page": 330,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "14.2",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "κυρίου",
+        "before": "κυρίον",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n335.jpg",
+        "location": "14.3",
+        "patch_id": "didache-025",
+        "printed_page": 330,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "14.3",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "παρ’",
+        "before": "παῤ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n335.jpg",
+        "location": "15.3",
+        "patch_id": "didache-026",
+        "printed_page": 330,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "15.3",
+    "work_id": "didache"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὗ τὸ αἷμα",
+        "before": "οὖ τὸ αἷμα",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n289.jpg",
+        "location": "2.1",
+        "patch_id": "polycarp-philippians-001",
+        "printed_page": 284,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "2.1",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καταλαλιᾶς, ψευδομαρτυρίας",
+        "before": "καταλαλιᾶς,ψευδομαρτυρίας",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n289.jpg",
+        "location": "2.2",
+        "patch_id": "polycarp-philippians-002",
+        "printed_page": 284,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἀντὶ γρόνθου",
+        "before": "ἀντὶ γρόνθον",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n289.jpg",
+        "location": "2.2",
+        "patch_id": "polycarp-philippians-003",
+        "printed_page": 284,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "2.2",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "αὐτῶν",
+        "before": "αὑτῶν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n289.jpg",
+        "location": "2.3",
+        "patch_id": "polycarp-philippians-004",
+        "printed_page": 284,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "2.3",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "κυρίου",
+        "before": "κυριοῦ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n291.jpg",
+        "location": "4.1",
+        "patch_id": "polycarp-philippians-005",
+        "printed_page": 286,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "4.1",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "κυρίου",
+        "before": "κυρίον",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n295.jpg",
+        "location": "6.3",
+        "patch_id": "polycarp-philippians-006",
+        "printed_page": 290,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "6.3",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n297.jpg",
+        "location": "8.1",
+        "patch_id": "polycarp-philippians-007",
+        "printed_page": 292,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "8.1",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n297.jpg",
+        "location": "8.2",
+        "patch_id": "polycarp-philippians-008",
+        "printed_page": 292,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "8.2",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n299.jpg",
+        "location": "9.2",
+        "patch_id": "polycarp-philippians-009",
+        "printed_page": 294,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "9.2",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "before_sha256": "03fcc720804b91477d4b471d05406813114823ce4dadd1e5a20f7d6272622dce",
+        "reason": "인쇄면에서 직접 전사한 라틴어로 대체. 그리스 문자로 잘못 변환된 XML은 번역 대본으로 사용하지 않음",
+        "type": "replace_corrupted_transcription"
+      }
+    ],
+    "location": "10.1",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "before_sha256": "b369bda16f33e2eda902700765e855b243bfacf98161fff942eb3c3967eeeda9",
+        "reason": "인쇄면에서 직접 전사한 라틴어로 대체. 그리스 문자로 잘못 변환된 XML은 번역 대본으로 사용하지 않음",
+        "type": "replace_corrupted_transcription"
+      }
+    ],
+    "location": "10.2",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "before_sha256": "986ed5d3721d7912e59494c2fae4b80d6e39432832b0548e9692923392a09829",
+        "reason": "인쇄면에서 직접 전사한 라틴어로 대체. 그리스 문자로 잘못 변환된 XML은 번역 대본으로 사용하지 않음",
+        "type": "replace_corrupted_transcription"
+      }
+    ],
+    "location": "10.3",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "before_sha256": "c674233b76c8cfc24385bdedb8e118f480a908b8302f1dfef3671e1b24c52c8d",
+        "reason": "인쇄면에서 직접 전사한 라틴어로 대체. 그리스 문자로 잘못 변환된 XML은 번역 대본으로 사용하지 않음",
+        "type": "replace_corrupted_transcription"
+      }
+    ],
+    "location": "11.1",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "before_sha256": "5d0c60b54ef073c2b16cd975230e7947f40cddd6aa858fd89b69e3bdeeee6237",
+        "reason": "인쇄면에서 직접 전사한 라틴어로 대체. 그리스 문자로 잘못 변환된 XML은 번역 대본으로 사용하지 않음",
+        "type": "replace_corrupted_transcription"
+      }
+    ],
+    "location": "11.2",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "before_sha256": "172a74ffb404bf07606da1aef8d2f7bc5ed20a18e924c0df55cb08e928013833",
+        "reason": "인쇄면에서 직접 전사한 라틴어로 대체. 그리스 문자로 잘못 변환된 XML은 번역 대본으로 사용하지 않음",
+        "type": "replace_corrupted_transcription"
+      }
+    ],
+    "location": "11.3",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "before_sha256": "f1bfb5beb5d61c4646a94dec8666f41f7230955e08dc3d5eefa852c9347ef494",
+        "reason": "인쇄면에서 직접 전사한 라틴어로 대체. 그리스 문자로 잘못 변환된 XML은 번역 대본으로 사용하지 않음",
+        "type": "replace_corrupted_transcription"
+      }
+    ],
+    "location": "11.4",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "before_sha256": "74dec78c16baeae4dea8d7e8fdd35c03a80ead7f3d2d1720e85eefcf6ade1ceb",
+        "reason": "인쇄면에서 직접 전사한 라틴어로 대체. 그리스 문자로 잘못 변환된 XML은 번역 대본으로 사용하지 않음",
+        "type": "replace_corrupted_transcription"
+      }
+    ],
+    "location": "12.1",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "before_sha256": "73447e4cdb1c67de4a323c5d6d140d61cbfdb784ec592cc6b783eb673c4032dd",
+        "reason": "인쇄면에서 직접 전사한 라틴어로 대체. 그리스 문자로 잘못 변환된 XML은 번역 대본으로 사용하지 않음",
+        "type": "replace_corrupted_transcription"
+      }
+    ],
+    "location": "12.2",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "before_sha256": "0fff574361c47ba9c59c3af83c407505ff4d0f9cc9b47ecb22dfac85cb4d017a",
+        "reason": "인쇄면에서 직접 전사한 라틴어로 대체. 그리스 문자로 잘못 변환된 XML은 번역 대본으로 사용하지 않음",
+        "type": "replace_corrupted_transcription"
+      }
+    ],
+    "location": "12.3",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἵν’",
+        "before": "ἵν᾽",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n303.jpg",
+        "location": "13.1",
+        "patch_id": "polycarp-philippians-010",
+        "printed_page": 298,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "παρ’",
+        "before": "παῤ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n303.jpg",
+        "location": "13.1",
+        "patch_id": "polycarp-philippians-011",
+        "printed_page": 298,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ποιήσω, ἐὰν",
+        "before": "ποιήσω,ἐὰν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n305.jpg",
+        "location": "13.1",
+        "patch_id": "polycarp-philippians-012",
+        "printed_page": 300,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ὃν πέμπω",
+        "before": "ὄν πέμπω",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n305.jpg",
+        "location": "13.1",
+        "patch_id": "polycarp-philippians-013",
+        "printed_page": 300,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "13.1",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "παρ’",
+        "before": "παῤ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n305.jpg",
+        "location": "13.2",
+        "patch_id": "polycarp-philippians-014",
+        "printed_page": 300,
+        "reason": "인쇄면 대조에 따른 철자·기식부호·악센트·구두점 교정",
+        "reviewer": "Codex AI"
+      },
+      {
+        "reason": "같은 절의 마지막 문장을 라틴어 인쇄면에서 직접 전사하고 그리스어 앞부분과 분리",
+        "type": "replace_corrupted_latin_tail"
+      }
+    ],
+    "location": "13.2",
+    "work_id": "polycarp-philippians"
+  },
+  {
+    "corrections": [
+      {
+        "before_sha256": "57674300beae3d1192a2480d9fe4ecb58af82b8c1ffe19bfe911c12b715f7fff",
+        "reason": "인쇄면에서 직접 전사한 라틴어로 대체. 그리스 문자로 잘못 변환된 XML은 번역 대본으로 사용하지 않음",
+        "type": "replace_corrupted_transcription"
+      }
+    ],
+    "location": "14.1",
+    "work_id": "polycarp-philippians"
+  }
+]
