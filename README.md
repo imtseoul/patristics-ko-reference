@@ -1,6 +1,6 @@
 # 한국어 교부 문헌
 
-[전문 읽기](https://imtseoul.github.io/patristics-ko-reference/) · [기계용 자료 목록](https://imtseoul.github.io/patristics-ko-reference/catalog.json)
+[전문 읽기](https://imtseoul.github.io/patristics-ko-reference/) · [기계용 자료 목록](https://imtseoul.github.io/patristics-ko-reference/catalog.json) · [AI용 목록 대체 주소](https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/main/catalog.json)
 
 이그나티우스의 『로마인들에게 보낸 편지』, 『디다케』, 폴리카르포스의 『필리피인들에게 보낸 편지』를 원어와 한국어로 제공합니다. 채택한 Lake판 전체 167구절입니다.
 
@@ -9,5 +9,7 @@
 이 저장소는 공개 자료의 배포본입니다. 최신 읽기 화면은 `works/`, 인용할 고정 판본은 `releases/`에 있습니다. 고정 판본을 수정하지 않고 새 판본을 추가합니다. `alpha-0.2`는 공개 접속 경로를 바꾼 판본이며 `alpha-0.1`과 원문·번역·검수 기록이 같습니다. 이전 판본의 원래 주소도 보존합니다.
 
 기계 이용자는 `catalog.json`에서 수록 범위와 본문 파일을 찾을 수 있습니다. 본문을 인용할 때 번역 상태와 버전을 함께 전달해 주세요. 목록에 없는 저작이나 구절은 이 자료실의 본문으로 생성하지 마세요. 현재 신약과 칠십인역 본문은 수록하지 않았습니다.
+
+일부 웹 조회 도구가 사이트 주소를 열지 못하면 목록의 `json_mirror_url`을 사용하세요. 특정 Git 수정본으로 고정한 동일한 파일입니다. `source.text`는 실제 번역 대본이고 `upstream_text`는 오기가 남아 있는 교정 전 입력입니다. 번역의 `citation`, `review_state`, 원문과 번역의 수정본 ID를 함께 확인해 주세요.
 
 출처·변경·이용 조건은 [rights.html](rights.html)과 각 JSON의 `rights`를 확인해 주세요. 원자료 가공물과 번역·메모에 보유할 수 있는 권리의 범위에서 CC BY-SA 4.0을 적용합니다. 순수 AI 산출물의 저작권 성립을 단정하지 않습니다.
