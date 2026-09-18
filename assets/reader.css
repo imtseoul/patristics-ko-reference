@@ -34,6 +34,10 @@ h1 { margin: 0; font-family: 'AppleMyungjo', 'Nanum Myeongjo', 'Batang', serif; 
 .chapter-menu nav a { min-width: 2.8rem; padding: .35rem; text-align: center; }
 .passage { display: grid; grid-template-columns: 3.5rem minmax(0, 1fr); gap: 1.5rem; margin: 0 0 2rem; padding: 0; scroll-margin-top: 2rem; }
 .passage.chapter-start:not(:first-child) { margin-top: 3.25rem; }
+.witness-heading { margin: 3rem 0 1.2rem 5rem; padding-top: 1rem; border-top: 1px solid var(--reader-line); }
+.witness-heading h2 { margin: 0; font-size: 1rem; line-height: 1.7; font-weight: 650; word-break: keep-all; }
+.witness-heading p { margin: .3rem 0 0; font-size: .875rem; color: var(--reader-muted); overflow-wrap: anywhere; }
+.witness-heading + .passage.chapter-start { margin-top: 0; }
 .passage:target .passage-number { font-weight: 650; }
 .passage-number { margin: .3rem 0 0; text-align: right; font-size: .875rem; line-height: 1.9; font-weight: 400; font-variant-numeric: tabular-nums; }
 .passage-number a { display: inline-block; color: var(--reader-accent); text-decoration: none; padding: .2rem 0; }
@@ -64,6 +68,7 @@ h1 { margin: 0; font-family: 'AppleMyungjo', 'Nanum Myeongjo', 'Batang', serif; 
   .original { font-size: 1.0625rem; }
   .passage-number { font-size: .875rem; margin-top: .15rem; }
   .reader-notes { margin-left: 3.3rem; }
+  .witness-heading { margin-left: 3.3rem; }
   .reader-footer { padding: 1.2rem 1rem 2rem; }
 }
 @media print {
