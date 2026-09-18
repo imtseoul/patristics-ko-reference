@@ -34,7 +34,7 @@ h1 { margin: 0; font-family: 'AppleMyungjo', 'Nanum Myeongjo', 'Batang', serif; 
 .chapter-menu nav a { min-width: 2.8rem; padding: .35rem; text-align: center; }
 .passage { display: grid; grid-template-columns: 3.5rem minmax(0, 1fr); gap: 1.5rem; margin: 0 0 2rem; padding: 0; scroll-margin-top: 2rem; }
 .passage.chapter-start:not(:first-child) { margin-top: 3.25rem; }
-.passage:target .passage-body { background: #f1f5eb; outline: .7rem solid #f1f5eb; }
+.passage:target .passage-number { font-weight: 650; }
 .passage-number { margin: .3rem 0 0; text-align: right; font-size: .875rem; line-height: 1.9; font-weight: 400; font-variant-numeric: tabular-nums; }
 .passage-number a { display: inline-block; color: var(--reader-accent); text-decoration: none; padding: .2rem 0; }
 .passage-number span { display: inline-block; color: var(--reader-muted); padding: .2rem 0; }
@@ -49,12 +49,9 @@ h1 { margin: 0; font-family: 'AppleMyungjo', 'Nanum Myeongjo', 'Batang', serif; 
 .reader-notes p { margin: .4rem 0; }
 .reader-footer { max-width: 58rem; margin: auto; padding: 1.5rem 2rem 2.5rem; border-top: 1px solid var(--reader-line); display: flex; flex-wrap: wrap; gap: .6rem 1.5rem; font-size: .875rem; }
 .reader-footer a { color: var(--reader-muted); }
-@media (hover: hover) and (pointer: fine) {
-  .passage-body:hover .translation,
-  .passage-body:hover .original { background: #e8efe6; outline: .3rem solid #e8efe6; }
-}
-.passage:focus-within .translation,
-.passage:focus-within .original { background: #e8efe6; outline: .3rem solid #e8efe6; }
+.align-unit { cursor: default; border-radius: 2px; }
+.align-unit.is-aligned { background: #dce9d6; color: #203e2a; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+.align-unit:focus-visible { outline: 1px solid var(--reader-accent); outline-offset: 2px; }
 @media (max-width: 600px) {
   .reader-header-inner { padding: .9rem 1rem; gap: 1rem; align-items: flex-start; }
   .reader-header nav { gap: .8rem; }
@@ -75,4 +72,5 @@ h1 { margin: 0; font-family: 'AppleMyungjo', 'Nanum Myeongjo', 'Batang', serif; 
   .reader { width: 100%; padding: 0; }
   .passage { break-inside: avoid; }
   .passage:target .passage-body { background: none; outline: none; }
+  .align-unit.is-aligned { background: none; color: inherit; }
 }
