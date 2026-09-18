@@ -1451,5 +1451,1466 @@
     ],
     "location": "8.1",
     "work_id": "ignatius-polycarp"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὄνομα",
+        "before": "ὀνομα",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n177.jpg",
+        "location": "1.1",
+        "patch_id": "ignatius-ephesians-001",
+        "printed_page": 172,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "1.1",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὃν εὔχομαι",
+        "before": "ὄν εὔχομαι",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n179.jpg",
+        "location": "1.3",
+        "patch_id": "ignatius-ephesians-002",
+        "printed_page": 174,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "1.3",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀφ’",
+        "before": "ἀφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n179.jpg",
+        "location": "2.1",
+        "patch_id": "ignatius-ephesians-003",
+        "printed_page": 174,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "δι’ ὧν",
+        "before": "δἰ ὦν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n179.jpg",
+        "location": "2.1",
+        "patch_id": "ignatius-ephesians-004",
+        "printed_page": 174,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "2.1",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὖν",
+        "before": "οὗν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n179.jpg",
+        "location": "2.2",
+        "patch_id": "ignatius-ephesians-005",
+        "printed_page": 174,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "2.2",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὢν",
+        "before": "ὤν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n181.jpg",
+        "location": "3.1",
+        "patch_id": "ignatius-ephesians-006",
+        "printed_page": 176,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ὑφ’",
+        "before": "ὑφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n181.jpg",
+        "location": "3.1",
+        "patch_id": "ignatius-ephesians-007",
+        "printed_page": 176,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "3.1",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ᾄδεται",
+        "before": "ᾅδεται",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n181.jpg",
+        "location": "4.1",
+        "patch_id": "ignatius-ephesians-008",
+        "printed_page": 176,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "4.1",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ᾄδητε",
+        "before": "ᾅδητε",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n181.jpg",
+        "location": "4.2",
+        "patch_id": "ignatius-ephesians-009",
+        "printed_page": 176,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "δι’ ὧν",
+        "before": "δἰ ὦν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n181.jpg",
+        "location": "4.2",
+        "patch_id": "ignatius-ephesians-010",
+        "printed_page": 176,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "4.2",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐὰν",
+        "before": "ἑὰν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n183.jpg",
+        "location": "5.2",
+        "patch_id": "ignatius-ephesians-011",
+        "printed_page": 178,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "5.2",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "πέμψαντα.",
+        "before": "πέμψαντα,",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n185.jpg",
+        "location": "6.1",
+        "patch_id": "ignatius-ephesians-012",
+        "printed_page": 180,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "6.1",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀπαθής,",
+        "before": "ἀπαθής.",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n185.jpg",
+        "location": "7.2",
+        "patch_id": "ignatius-ephesians-013",
+        "printed_page": 180,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "7.2",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὐδὲ",
+        "before": "οὐδε",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n187.jpg",
+        "location": "8.2",
+        "patch_id": "ignatius-ephesians-014",
+        "printed_page": 182,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "8.2",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οἷς",
+        "before": "οἶς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n187.jpg",
+        "location": "9.2",
+        "patch_id": "ignatius-ephesians-015",
+        "printed_page": 182,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "δι’ ὧν",
+        "before": "δἰ ὦν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n189.jpg",
+        "location": "9.2",
+        "patch_id": "ignatius-ephesians-016",
+        "printed_page": 184,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "9.2",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "αὐτῶν",
+        "before": "αὐτῶν αὐτῶν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n189.jpg",
+        "location": "10.2",
+        "patch_id": "ignatius-ephesians-017",
+        "printed_page": 184,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "μὴ",
+        "before": "μῆ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n189.jpg",
+        "location": "10.2",
+        "patch_id": "ignatius-ephesians-018",
+        "printed_page": 184,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "αὐτούς.",
+        "before": "αὐτούς,",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n189.jpg",
+        "location": "10.2",
+        "patch_id": "ignatius-ephesians-019",
+        "printed_page": 184,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "10.2",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἢ",
+        "before": "ἦ",
+        "count": 2,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n191.jpg",
+        "location": "11.1",
+        "patch_id": "ignatius-ephesians-020",
+        "printed_page": 186,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἓν",
+        "before": "ἒν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n191.jpg",
+        "location": "11.1",
+        "patch_id": "ignatius-ephesians-021",
+        "printed_page": 186,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "11.1",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τῇ προσευχῇ",
+        "before": "τῆ προσευχῇ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n191.jpg",
+        "location": "11.2",
+        "patch_id": "ignatius-ephesians-022",
+        "printed_page": 186,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἧς",
+        "before": "ἦς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n191.jpg",
+        "location": "11.2",
+        "patch_id": "ignatius-ephesians-023",
+        "printed_page": 186,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "11.2",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἡγιασμένου,",
+        "before": "ἡγιασμένου.",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n191.jpg",
+        "location": "12.2",
+        "patch_id": "ignatius-ephesians-024",
+        "printed_page": 186,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "οὗ",
+        "before": "οὖ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n191.jpg",
+        "location": "12.2",
+        "patch_id": "ignatius-ephesians-025",
+        "printed_page": 186,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "12.2",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ὧν",
+        "before": "Ὦν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n193.jpg",
+        "location": "14.1",
+        "patch_id": "ignatius-ephesians-026",
+        "printed_page": 188,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "14.1",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n193.jpg",
+        "location": "14.2",
+        "patch_id": "ignatius-ephesians-027",
+        "printed_page": 188,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "14.2",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἢ λαλοῦντα",
+        "before": "ἦ λαλοῦντα",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n193.jpg",
+        "location": "15.1",
+        "patch_id": "ignatius-ephesians-028",
+        "printed_page": 188,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "εἷς",
+        "before": "εἶς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n193.jpg",
+        "location": "15.1",
+        "patch_id": "ignatius-ephesians-029",
+        "printed_page": 188,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "15.1",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’ ὧν",
+        "before": "δἰ ὦν",
+        "count": 2,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n193.jpg",
+        "location": "15.2",
+        "patch_id": "ignatius-ephesians-030",
+        "printed_page": 188,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "15.2",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐξ ὧν",
+        "before": "ἐξ ὦν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n193.jpg",
+        "location": "15.3",
+        "patch_id": "ignatius-ephesians-031",
+        "printed_page": 188,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "15.3",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀφθαρσίαν.",
+        "before": "ἀφθαρσίαν,",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n195.jpg",
+        "location": "17.1",
+        "patch_id": "ignatius-ephesians-032",
+        "printed_page": 190,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "17.1",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ζωὴ αἰώνιος.",
+        "before": "ζωὴ αἰώνιος,",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n195.jpg",
+        "location": "18.1",
+        "patch_id": "ignatius-ephesians-033",
+        "printed_page": 190,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "18.1",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἧς",
+        "before": "ἦς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n199.jpg",
+        "location": "20.1",
+        "patch_id": "ignatius-ephesians-034",
+        "printed_page": 194,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "20.1",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Χριστῷ, τῷ",
+        "before": "Χριστῷ. τῷ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n199.jpg",
+        "location": "20.2",
+        "patch_id": "ignatius-ephesians-035",
+        "printed_page": 194,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "20.2",
+    "work_id": "ignatius-ephesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καὶ",
+        "before": "καῖ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n201.jpg",
+        "location": "praef.1",
+        "patch_id": "ignatius-magnesians-001",
+        "printed_page": 196,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "praef.1",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ᾄδω",
+        "before": "ᾅδω",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n201.jpg",
+        "location": "1.2",
+        "patch_id": "ignatius-magnesians-002",
+        "printed_page": 196,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἕνωσιν εὔχομαι",
+        "before": "ἕνωσιν: εὔχομαι",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n201.jpg",
+        "location": "1.2",
+        "patch_id": "ignatius-magnesians-003",
+        "printed_page": 196,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἧς",
+        "before": "ἡς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n201.jpg",
+        "location": "1.2",
+        "patch_id": "ignatius-magnesians-004",
+        "printed_page": 196,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "1.2",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀξίων",
+        "before": "ἀξϊων",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n203.jpg",
+        "location": "2.1",
+        "patch_id": "ignatius-magnesians-005",
+        "printed_page": 198,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "2.1",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Χριστιανούς",
+        "before": "Χρις τιανούς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n205.jpg",
+        "location": "4.1",
+        "patch_id": "ignatius-magnesians-006",
+        "printed_page": 200,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "4.1",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "πράγματα",
+        "before": "πρώγματα",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n205.jpg",
+        "location": "5.1",
+        "patch_id": "ignatius-magnesians-007",
+        "printed_page": 200,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "5.1",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n205.jpg",
+        "location": "5.2",
+        "patch_id": "ignatius-magnesians-008",
+        "printed_page": 200,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "5.2",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὃς",
+        "before": "δς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n207.jpg",
+        "location": "6.1",
+        "patch_id": "ignatius-magnesians-009",
+        "printed_page": 202,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "6.1",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὢν",
+        "before": "ὤν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n207.jpg",
+        "location": "7.1",
+        "patch_id": "ignatius-magnesians-010",
+        "printed_page": 202,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n207.jpg",
+        "location": "7.1",
+        "patch_id": "ignatius-magnesians-011",
+        "printed_page": 202,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "οὗ",
+        "before": "οὖ",
+        "count": 2,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n207.jpg",
+        "location": "7.1",
+        "patch_id": "ignatius-magnesians-012",
+        "printed_page": 202,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "οὖν",
+        "before": "οὗν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n207.jpg",
+        "location": "7.1",
+        "patch_id": "ignatius-magnesians-021",
+        "printed_page": 202,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "7.1",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀφ’",
+        "before": "ἀφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n207.jpg",
+        "location": "7.2",
+        "patch_id": "ignatius-magnesians-013",
+        "printed_page": 202,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "7.2",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἰουδαϊσμὸν",
+        "before": "Ἰουδαῖσμὸν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n209.jpg",
+        "location": "8.1",
+        "patch_id": "ignatius-magnesians-014",
+        "printed_page": 204,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "8.1",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "εἷς",
+        "before": "εἶς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n209.jpg",
+        "location": "8.2",
+        "patch_id": "ignatius-magnesians-015",
+        "printed_page": 204,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἀπὸ",
+        "before": "ἁπὸ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n209.jpg",
+        "location": "8.2",
+        "patch_id": "ignatius-magnesians-016",
+        "printed_page": 204,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "8.2",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 2,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n209.jpg",
+        "location": "9.1",
+        "patch_id": "ignatius-magnesians-017",
+        "printed_page": 204,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "9.1",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἰουδαϊσμὸν",
+        "before": "Ἰουδαῖσμὸν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n211.jpg",
+        "location": "10.3",
+        "patch_id": "ignatius-magnesians-022",
+        "printed_page": 206,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "10.3",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὁ δίκαιος",
+        "before": "ὀ δίκαιος",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n213.jpg",
+        "location": "12.1",
+        "patch_id": "ignatius-magnesians-018",
+        "printed_page": 208,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "12.1",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὑμῶν, ἵνα",
+        "before": "ὑμῶν. ἵνα",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n215.jpg",
+        "location": "14.1",
+        "patch_id": "ignatius-magnesians-019",
+        "printed_page": 210,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "14.1",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οἳ",
+        "before": "οἲ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n215.jpg",
+        "location": "15.1",
+        "patch_id": "ignatius-magnesians-020",
+        "printed_page": 210,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "15.1",
+    "work_id": "ignatius-magnesians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n217.jpg",
+        "location": "1.2",
+        "patch_id": "ignatius-trallians-001",
+        "printed_page": 212,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "1.2",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἰησοῦ",
+        "before": "Ἱησοῦ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n217.jpg",
+        "location": "2.1",
+        "patch_id": "ignatius-trallians-002",
+        "printed_page": 212,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n217.jpg",
+        "location": "2.1",
+        "patch_id": "ignatius-trallians-003",
+        "printed_page": 212,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "2.1",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ᾧ",
+        "before": "ᾦ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n219.jpg",
+        "location": "2.2",
+        "patch_id": "ignatius-trallians-004",
+        "printed_page": 214,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "2.2",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "πατρός,",
+        "before": "πατρός.",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n219.jpg",
+        "location": "3.1",
+        "patch_id": "ignatius-trallians-005",
+        "printed_page": 214,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "3.1",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μεθ’",
+        "before": "μεθ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n219.jpg",
+        "location": "3.2",
+        "patch_id": "ignatius-trallians-006",
+        "printed_page": 214,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "οὗ",
+        "before": "οὖ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n219.jpg",
+        "location": "3.2",
+        "patch_id": "ignatius-trallians-007",
+        "printed_page": 214,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "3.2",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὢν",
+        "before": "ὤν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n219.jpg",
+        "location": "3.3",
+        "patch_id": "ignatius-trallians-008",
+        "printed_page": 214,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "3.3",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὢν",
+        "before": "ὤν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n223.jpg",
+        "location": "7.2",
+        "patch_id": "ignatius-trallians-009",
+        "printed_page": 218,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "τοῦτ’",
+        "before": "τοῦτ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n223.jpg",
+        "location": "7.2",
+        "patch_id": "ignatius-trallians-010",
+        "printed_page": 218,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "7.2",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀγαπητούς,",
+        "before": "ἀγαπητούς.",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n223.jpg",
+        "location": "8.1",
+        "patch_id": "ignatius-trallians-011",
+        "printed_page": 218,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "8.1",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 2,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n225.jpg",
+        "location": "8.2",
+        "patch_id": "ignatius-trallians-012",
+        "printed_page": 220,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "8.2",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Πιλάτου",
+        "before": "Πιλάτον",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n225.jpg",
+        "location": "9.1",
+        "patch_id": "ignatius-trallians-013",
+        "printed_page": 220,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "9.1",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "νεκρῶν,",
+        "before": "νεκρῶν.",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n225.jpg",
+        "location": "9.2",
+        "patch_id": "ignatius-trallians-014",
+        "printed_page": 220,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "9.2",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "edition_location": "11.1",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n227.jpg",
+        "type": "split_merged_sections",
+        "upstream_location": "11.1"
+      },
+      {
+        "after": "παρ’",
+        "before": "παῤ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n227.jpg",
+        "location": "11.1",
+        "patch_id": "ignatius-trallians-015",
+        "printed_page": 222,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "οὐκ",
+        "before": "οὔκ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n227.jpg",
+        "location": "11.1",
+        "patch_id": "ignatius-trallians-016",
+        "printed_page": 222,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "11.1",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "edition_location": "11.2",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n227.jpg",
+        "type": "split_merged_sections",
+        "upstream_location": "11.1"
+      },
+      {
+        "after": "προσκαλεῖται",
+        "before": "προσκαλεῖταν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n227.jpg",
+        "location": "11.2",
+        "patch_id": "ignatius-trallians-017",
+        "printed_page": 222,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n227.jpg",
+        "location": "11.2",
+        "patch_id": "ignatius-trallians-018",
+        "printed_page": 222,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "11.2",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οἳ",
+        "before": "οἲ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n227.jpg",
+        "location": "12.1",
+        "patch_id": "ignatius-trallians-019",
+        "printed_page": 222,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "12.1",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καθ’",
+        "before": "καθ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n227.jpg",
+        "location": "12.2",
+        "patch_id": "ignatius-trallians-020",
+        "printed_page": 222,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "12.2",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "εἰς",
+        "before": "εἶς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n227.jpg",
+        "location": "12.3",
+        "patch_id": "ignatius-trallians-021",
+        "printed_page": 222,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἀφ’",
+        "before": "ἀφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n227.jpg",
+        "location": "12.3",
+        "patch_id": "ignatius-trallians-022",
+        "printed_page": 222,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "οὗ",
+        "before": "οὖ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n227.jpg",
+        "location": "12.3",
+        "patch_id": "ignatius-trallians-023",
+        "printed_page": 222,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "εὑρεθῶ.",
+        "before": "εὑρεθῶ,",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n227.jpg",
+        "location": "12.3",
+        "patch_id": "ignatius-trallians-024",
+        "printed_page": 222,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "12.3",
+    "work_id": "ignatius-trallians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἀσίας,",
+        "before": "Ἀσίας.",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n257.jpg",
+        "location": "praef.1",
+        "patch_id": "ignatius-smyrnaeans-001",
+        "printed_page": 252,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "praef.1",
+    "work_id": "ignatius-smyrnaeans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀφ’ οὗ",
+        "before": "ἀφ̓ οὖ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n257.jpg",
+        "location": "1.2",
+        "patch_id": "ignatius-smyrnaeans-002",
+        "printed_page": 252,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "1.2",
+    "work_id": "ignatius-smyrnaeans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n257.jpg",
+        "location": "2.1",
+        "patch_id": "ignatius-smyrnaeans-003",
+        "printed_page": 252,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "αὐτοὶ τὸ δοκεῖν",
+        "before": "αὐτοὶ το δοκεῖν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n259.jpg",
+        "location": "2.1",
+        "patch_id": "ignatius-smyrnaeans-004",
+        "printed_page": 254,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "2.1",
+    "work_id": "ignatius-smyrnaeans"
+  },
+  {
+    "corrections": [
+      {
+        "edition_location": "4.1",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n261.jpg",
+        "type": "split_merged_sections",
+        "upstream_location": "4.1"
+      }
+    ],
+    "location": "4.1",
+    "work_id": "ignatius-smyrnaeans"
+  },
+  {
+    "corrections": [
+      {
+        "edition_location": "4.2",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n261.jpg",
+        "type": "split_merged_sections",
+        "upstream_location": "4.1"
+      }
+    ],
+    "location": "4.2",
+    "work_id": "ignatius-smyrnaeans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "προσευχῆς",
+        "before": "πρυσευχῆς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n263.jpg",
+        "location": "7.1",
+        "patch_id": "ignatius-smyrnaeans-005",
+        "printed_page": 258,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "δὲ αὐτοῖς",
+        "before": "δε αὐτοῖς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n263.jpg",
+        "location": "7.1",
+        "patch_id": "ignatius-smyrnaeans-006",
+        "printed_page": 258,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "7.1",
+    "work_id": "ignatius-smyrnaeans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἂν",
+        "before": "ἄν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n265.jpg",
+        "location": "8.1",
+        "patch_id": "ignatius-smyrnaeans-007",
+        "printed_page": 260,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "8.1",
+    "work_id": "ignatius-smyrnaeans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n267.jpg",
+        "location": "9.2",
+        "patch_id": "ignatius-smyrnaeans-008",
+        "printed_page": 262,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "9.2",
+    "work_id": "ignatius-smyrnaeans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἔσχατος αὐτῶν ὢν",
+        "before": "ἔσχατος αὐτῶν ὤν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n267.jpg",
+        "location": "11.1",
+        "patch_id": "ignatius-smyrnaeans-009",
+        "printed_page": 262,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "11.1",
+    "work_id": "ignatius-smyrnaeans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὃν ἀπεστείλατε",
+        "before": "ὅν ἀπεστείλατε",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n269.jpg",
+        "location": "12.1",
+        "patch_id": "ignatius-smyrnaeans-010",
+        "printed_page": 264,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "12.1",
+    "work_id": "ignatius-smyrnaeans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἔλεος",
+        "before": "ἕλεος",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n271.jpg",
+        "location": "12.2",
+        "patch_id": "ignatius-smyrnaeans-011",
+        "printed_page": 266,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "12.2",
+    "work_id": "ignatius-smyrnaeans"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὢν",
+        "before": "ὤν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n271.jpg",
+        "location": "13.1",
+        "patch_id": "ignatius-smyrnaeans-012",
+        "printed_page": 266,
+        "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "13.1",
+    "work_id": "ignatius-smyrnaeans"
   }
 ]

@@ -1,8 +1,7 @@
 {
   "base_url": "https://imtseoul.github.io/patristics-ko-reference",
-  "catalog_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/main/catalog.json",
   "human_review_status": "not_reviewed",
-  "release_id": "alpha-0.3",
+  "release_id": "alpha-0.4",
   "rights_url": "https://imtseoul.github.io/patristics-ko-reference/rights.html",
   "schema_version": "patristics-library-catalog-0.1",
   "works": [
@@ -22,14 +21,12 @@
         "Ignatius of Antioch"
       ],
       "chapters": 10,
-      "fixed_html_path": "releases/alpha-0.3/ignatius-romans/index.html",
+      "fixed_html_path": "releases/alpha-0.4/ignatius-romans/index.html",
       "html_path": "works/ignatius-romans/index.html",
       "id": "ignatius-romans",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/7db49362d1083ee57c8fcd9d8b51e85f2a5cc6ef/releases/alpha-0.3/ignatius-romans/passages.json",
-      "json_path": "releases/alpha-0.3/ignatius-romans/passages.json",
-      "json_sha256": "f5065247b847f79521c7aa3bcae48b3c65efdee5bc89ff13b6de8bb3b363da6a",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/7db49362d1083ee57c8fcd9d8b51e85f2a5cc6ef/releases/alpha-0.3/ignatius-romans/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.3/ignatius-romans/passages.jsonl",
+      "json_path": "releases/alpha-0.4/ignatius-romans/passages.json",
+      "json_sha256": "4a8c16dd0665ca7165b0ffc2d12797b0b61fed8b8424bfa295a689f8b28ed52c",
+      "jsonl_path": "releases/alpha-0.4/ignatius-romans/passages.jsonl",
       "passages": 29,
       "scope": "서두와 1-10장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
@@ -52,14 +49,12 @@
         "Anonymus"
       ],
       "chapters": 16,
-      "fixed_html_path": "releases/alpha-0.3/didache/index.html",
+      "fixed_html_path": "releases/alpha-0.4/didache/index.html",
       "html_path": "works/didache/index.html",
       "id": "didache",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/7db49362d1083ee57c8fcd9d8b51e85f2a5cc6ef/releases/alpha-0.3/didache/passages.json",
-      "json_path": "releases/alpha-0.3/didache/passages.json",
-      "json_sha256": "9718e8f56d534e062394be915fdeeaff70b8836982b76e6ef79d5da1ad54a8cd",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/7db49362d1083ee57c8fcd9d8b51e85f2a5cc6ef/releases/alpha-0.3/didache/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.3/didache/passages.jsonl",
+      "json_path": "releases/alpha-0.4/didache/passages.json",
+      "json_sha256": "8e88a57ab53669cc9042606c80f2e28472d266c01d315a4bfd37ebee03dbc5aa",
+      "jsonl_path": "releases/alpha-0.4/didache/passages.jsonl",
       "passages": 100,
       "scope": "Lake가 채택한 그리스어 본문의 1-16장 전체. 현존 판본의 끝을 넘어 결말을 복원하지 않음",
       "source_languages": [
@@ -84,14 +79,12 @@
         "Polycarp"
       ],
       "chapters": 14,
-      "fixed_html_path": "releases/alpha-0.3/polycarp-philippians/index.html",
+      "fixed_html_path": "releases/alpha-0.4/polycarp-philippians/index.html",
       "html_path": "works/polycarp-philippians/index.html",
       "id": "polycarp-philippians",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/7db49362d1083ee57c8fcd9d8b51e85f2a5cc6ef/releases/alpha-0.3/polycarp-philippians/passages.json",
-      "json_path": "releases/alpha-0.3/polycarp-philippians/passages.json",
-      "json_sha256": "db38c026524d560050acb3a70854d003a98795870a4d5545925a542f23309f80",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/7db49362d1083ee57c8fcd9d8b51e85f2a5cc6ef/releases/alpha-0.3/polycarp-philippians/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.3/polycarp-philippians/passages.jsonl",
+      "json_path": "releases/alpha-0.4/polycarp-philippians/passages.json",
+      "json_sha256": "714179859785f149ed2c2a08302ffbabb230103b42dc3f32f7464a0c434c5d4e",
+      "jsonl_path": "releases/alpha-0.4/polycarp-philippians/passages.jsonl",
       "passages": 38,
       "scope": "서두와 1-14장, 그리스어 전승과 라틴어 고대 역본을 구분한 채택 본문 전체",
       "source_languages": [
@@ -113,14 +106,12 @@
         "Ignatius of Antioch"
       ],
       "chapters": 11,
-      "fixed_html_path": "releases/alpha-0.3/ignatius-philadelphians/index.html",
+      "fixed_html_path": "releases/alpha-0.4/ignatius-philadelphians/index.html",
       "html_path": "works/ignatius-philadelphians/index.html",
       "id": "ignatius-philadelphians",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/7db49362d1083ee57c8fcd9d8b51e85f2a5cc6ef/releases/alpha-0.3/ignatius-philadelphians/passages.json",
-      "json_path": "releases/alpha-0.3/ignatius-philadelphians/passages.json",
-      "json_sha256": "e8d788dde94526aa7c24e98ad4c21a4d400511403e451bb812b0e46dce5671cb",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/7db49362d1083ee57c8fcd9d8b51e85f2a5cc6ef/releases/alpha-0.3/ignatius-philadelphians/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.3/ignatius-philadelphians/passages.jsonl",
+      "json_path": "releases/alpha-0.4/ignatius-philadelphians/passages.json",
+      "json_sha256": "81402b0837f95ca1c7f7124af22b4a0c7ba47b8e9424cb8f3c74653ae451f2fd",
+      "jsonl_path": "releases/alpha-0.4/ignatius-philadelphians/passages.jsonl",
       "passages": 24,
       "scope": "서두와 1-11장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
@@ -141,20 +132,136 @@
         "Ignatius of Antioch"
       ],
       "chapters": 8,
-      "fixed_html_path": "releases/alpha-0.3/ignatius-polycarp/index.html",
+      "fixed_html_path": "releases/alpha-0.4/ignatius-polycarp/index.html",
       "html_path": "works/ignatius-polycarp/index.html",
       "id": "ignatius-polycarp",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/7db49362d1083ee57c8fcd9d8b51e85f2a5cc6ef/releases/alpha-0.3/ignatius-polycarp/passages.json",
-      "json_path": "releases/alpha-0.3/ignatius-polycarp/passages.json",
-      "json_sha256": "6bf4557020b5fe215bd87995c63464870f75c4bc328b46d4a85a95de8ad8be60",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/7db49362d1083ee57c8fcd9d8b51e85f2a5cc6ef/releases/alpha-0.3/ignatius-polycarp/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.3/ignatius-polycarp/passages.jsonl",
+      "json_path": "releases/alpha-0.4/ignatius-polycarp/passages.json",
+      "json_sha256": "f775e43680cdc8f7ee30a6b7bc9593a3ee8a70984ff64e38d688cf670af21745",
+      "jsonl_path": "releases/alpha-0.4/ignatius-polycarp/passages.jsonl",
       "passages": 22,
       "scope": "서두와 1-8장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
         "grc"
       ],
       "title": "폴리카르포스에게 보낸 편지"
+    },
+    {
+      "aliases": [
+        "이그나티우스 에베소인들에게 보낸 편지",
+        "Ign. Eph.",
+        "Ignatius to the Ephesians",
+        "이그나티우스 에베소 서신"
+      ],
+      "ambiguous_aliases": [
+        "에베소서",
+        "Ephesians"
+      ],
+      "author": "이그나티우스",
+      "author_aliases": [
+        "이그나티우스",
+        "이그나티오",
+        "Ignatius of Antioch"
+      ],
+      "chapters": 21,
+      "fixed_html_path": "releases/alpha-0.4/ignatius-ephesians/index.html",
+      "html_path": "works/ignatius-ephesians/index.html",
+      "id": "ignatius-ephesians",
+      "json_path": "releases/alpha-0.4/ignatius-ephesians/passages.json",
+      "json_sha256": "572495820c9d9b971f679e8554c28731712bd3c030f73933c332ce71a82f3952",
+      "jsonl_path": "releases/alpha-0.4/ignatius-ephesians/passages.jsonl",
+      "passages": 48,
+      "scope": "서두와 1-21장, 일곱 서신 전승형의 채택 본문 전체",
+      "source_languages": [
+        "grc"
+      ],
+      "title": "에베소인들에게 보낸 편지"
+    },
+    {
+      "aliases": [
+        "이그나티우스 마그네시아인들에게 보낸 편지",
+        "Ign. Magn.",
+        "Ignatius to the Magnesians",
+        "이그나티우스 마그네시아 서신",
+        "마그네시아서"
+      ],
+      "ambiguous_aliases": [],
+      "author": "이그나티우스",
+      "author_aliases": [
+        "이그나티우스",
+        "이그나티오",
+        "Ignatius of Antioch"
+      ],
+      "chapters": 15,
+      "fixed_html_path": "releases/alpha-0.4/ignatius-magnesians/index.html",
+      "html_path": "works/ignatius-magnesians/index.html",
+      "id": "ignatius-magnesians",
+      "json_path": "releases/alpha-0.4/ignatius-magnesians/passages.json",
+      "json_sha256": "748f770e240120e0d73e3cb9de3afaf058cdfaf0fb538a827d7cebe417df55df",
+      "jsonl_path": "releases/alpha-0.4/ignatius-magnesians/passages.jsonl",
+      "passages": 26,
+      "scope": "서두와 1-15장, 일곱 서신 전승형의 채택 본문 전체",
+      "source_languages": [
+        "grc"
+      ],
+      "title": "마그네시아인들에게 보낸 편지"
+    },
+    {
+      "aliases": [
+        "이그나티우스 트랄레스인들에게 보낸 편지",
+        "Ign. Trall.",
+        "Ignatius to the Trallians",
+        "이그나티우스 트랄레스 서신",
+        "트랄레스서"
+      ],
+      "ambiguous_aliases": [],
+      "author": "이그나티우스",
+      "author_aliases": [
+        "이그나티우스",
+        "이그나티오",
+        "Ignatius of Antioch"
+      ],
+      "chapters": 13,
+      "fixed_html_path": "releases/alpha-0.4/ignatius-trallians/index.html",
+      "html_path": "works/ignatius-trallians/index.html",
+      "id": "ignatius-trallians",
+      "json_path": "releases/alpha-0.4/ignatius-trallians/passages.json",
+      "json_sha256": "4e4103369aac060dfdbbd6bdcb14c49da7ec93b4d1f22e13272bce36b58c7804",
+      "jsonl_path": "releases/alpha-0.4/ignatius-trallians/passages.jsonl",
+      "passages": 30,
+      "scope": "서두와 1-13장, 일곱 서신 전승형의 채택 본문 전체",
+      "source_languages": [
+        "grc"
+      ],
+      "title": "트랄레스인들에게 보낸 편지"
+    },
+    {
+      "aliases": [
+        "이그나티우스 스미르나인들에게 보낸 편지",
+        "Ign. Smyrn.",
+        "Ignatius to the Smyrnaeans",
+        "이그나티우스 스미르나 서신",
+        "스미르나서"
+      ],
+      "ambiguous_aliases": [],
+      "author": "이그나티우스",
+      "author_aliases": [
+        "이그나티우스",
+        "이그나티오",
+        "Ignatius of Antioch"
+      ],
+      "chapters": 13,
+      "fixed_html_path": "releases/alpha-0.4/ignatius-smyrnaeans/index.html",
+      "html_path": "works/ignatius-smyrnaeans/index.html",
+      "id": "ignatius-smyrnaeans",
+      "json_path": "releases/alpha-0.4/ignatius-smyrnaeans/passages.json",
+      "json_sha256": "c740fab549cbed8c0d8368b3e4df775816f28a96fdb774139fe8a52d1b928d78",
+      "jsonl_path": "releases/alpha-0.4/ignatius-smyrnaeans/passages.jsonl",
+      "passages": 29,
+      "scope": "서두와 1-13장, 일곱 서신 전승형의 채택 본문 전체",
+      "source_languages": [
+        "grc"
+      ],
+      "title": "스미르나인들에게 보낸 편지"
     }
   ]
 }
