@@ -19,7 +19,7 @@ if (typeof document !== 'undefined') {
     form.addEventListener('submit', async event => {
       event.preventDefault(); results.replaceChildren(); status.textContent = '본문을 찾고 있습니다.';
       try {
-        if (!rows) { const response = await fetch('search-index.json'); if (!response.ok) throw new Error(); rows = await response.json(); }
+        if (!rows) { const response = await fetch('search-index.json', {cache: 'no-cache'}); if (!response.ok) throw new Error(); rows = await response.json(); }
         const query = form.elements.query.value;
         if (!query.trim()) { status.textContent = '검색어를 입력하세요.'; return; }
         const found = findPassages(rows, query, form.elements.work.value);
