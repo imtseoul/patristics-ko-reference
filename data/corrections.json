@@ -2912,5 +2912,2316 @@
     ],
     "location": "13.1",
     "work_id": "ignatius-smyrnaeans"
+  },
+  {
+    "corrections": [
+      {
+        "edition_location": "praef.1",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n13.jpg",
+        "type": "normalize_preface_label",
+        "upstream_location": "preface.1"
+      },
+      {
+        "after": "τῇ ἐκκλησίᾳ",
+        "before": "τῆ ἐκκλησίᾳ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n13.jpg",
+        "location": "preface.1",
+        "patch_id": "clement-1-corinthians-001",
+        "printed_page": 8,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "praef.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "παρ’",
+        "before": "παῤ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n13.jpg",
+        "location": "1.1",
+        "patch_id": "clement-1-corinthians-002",
+        "printed_page": 8,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "1.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "παρ’",
+        "before": "παῤ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n15.jpg",
+        "location": "1.3",
+        "patch_id": "clement-1-corinthians-003",
+        "printed_page": 10,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "1.3",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μᾶλλον ἢ",
+        "before": "μᾶλλον ἦ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n15.jpg",
+        "location": "2.1",
+        "patch_id": "clement-1-corinthians-004",
+        "printed_page": 10,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἦτε",
+        "before": "ἥτε",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n15.jpg",
+        "location": "2.1",
+        "patch_id": "clement-1-corinthians-005",
+        "printed_page": 10,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "2.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἱλέως",
+        "before": "ἵλέως",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n15.jpg",
+        "location": "2.3",
+        "patch_id": "clement-1-corinthians-006",
+        "printed_page": 10,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "2.3",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’ οὗ",
+        "before": "δἰ οὖ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n19.jpg",
+        "location": "3.4",
+        "patch_id": "clement-1-corinthians-007",
+        "printed_page": 14,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "3.4",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μεθ’",
+        "before": "μεθ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n19.jpg",
+        "location": "4.1",
+        "patch_id": "clement-1-corinthians-008",
+        "printed_page": 14,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "4.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἡ ἀποστροφὴ",
+        "before": "ή ἀποστροφὴ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n19.jpg",
+        "location": "4.5",
+        "patch_id": "clement-1-corinthians-009",
+        "printed_page": 14,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "4.5",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐφ’",
+        "before": "ἐφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n21.jpg",
+        "location": "4.10",
+        "patch_id": "clement-1-corinthians-010",
+        "printed_page": 16,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "Αἰγύπτιον",
+        "before": "Λἰγύπτιον",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n21.jpg",
+        "location": "4.10",
+        "patch_id": "clement-1-corinthians-011",
+        "printed_page": 16,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "4.10",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἀαρὼν",
+        "before": "ʼΛαρὼν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n21.jpg",
+        "location": "4.11",
+        "patch_id": "clement-1-corinthians-012",
+        "printed_page": 16,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "4.11",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὁ δεσπότης",
+        "before": "ὀ δεσπότης",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n25.jpg",
+        "location": "7.5",
+        "patch_id": "clement-1-corinthians-013",
+        "printed_page": 20,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "7.5",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n27.jpg",
+        "location": "9.4",
+        "patch_id": "clement-1-corinthians-014",
+        "printed_page": 22,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "9.4",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n29.jpg",
+        "location": "10.2",
+        "patch_id": "clement-1-corinthians-015",
+        "printed_page": 24,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "10.2",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἂν σοι",
+        "before": "ἄν σοι",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n29.jpg",
+        "location": "10.3",
+        "patch_id": "clement-1-corinthians-016",
+        "printed_page": 24,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "10.3",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὗ νῦν",
+        "before": "οὖ νῦν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n29.jpg",
+        "location": "10.4",
+        "patch_id": "clement-1-corinthians-017",
+        "printed_page": 24,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "10.4",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n31.jpg",
+        "location": "10.7",
+        "patch_id": "clement-1-corinthians-018",
+        "printed_page": 26,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "10.7",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἡ δὲ ἀπεκρίθη",
+        "before": "ἥδε ἀπεκρίθη",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n33.jpg",
+        "location": "12.4",
+        "patch_id": "clement-1-corinthians-019",
+        "printed_page": 28,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "12.4",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀλλ’ ἢ ὁ",
+        "before": "ἀλλ’ ἡ ὁ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n33.jpg",
+        "location": "13.1",
+        "patch_id": "clement-1-corinthians-020",
+        "printed_page": 28,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "13.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "θεῷ ἢ τοῖς",
+        "before": "θεῷ ἡ τοῖς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n35.jpg",
+        "location": "14.1",
+        "patch_id": "clement-1-corinthians-021",
+        "printed_page": 30,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "14.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐπ’ αὐτῆς",
+        "before": "ἐπ αὐτῆς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n35.jpg",
+        "location": "14.4",
+        "patch_id": "clement-1-corinthians-022",
+        "printed_page": 30,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "14.4",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μεθ’",
+        "before": "μεθ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n37.jpg",
+        "location": "15.1",
+        "patch_id": "clement-1-corinthians-023",
+        "printed_page": 32,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "15.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "χείλη",
+        "before": "χείηλ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n37.jpg",
+        "location": "15.5",
+        "patch_id": "clement-1-corinthians-024",
+        "printed_page": 32,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "παρ’",
+        "before": "παῤ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n37.jpg",
+        "location": "15.5",
+        "patch_id": "clement-1-corinthians-025",
+        "printed_page": 32,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "15.5",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Κύριε, τίς",
+        "before": "Κύριε. τίς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n39.jpg",
+        "location": "16.3",
+        "patch_id": "clement-1-corinthians-026",
+        "printed_page": 34,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "16.3",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀνθ’",
+        "before": "ἀνθ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n41.jpg",
+        "location": "16.13",
+        "patch_id": "clement-1-corinthians-027",
+        "printed_page": 36,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "16.13",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἄνδρες",
+        "before": "ἅνδρες",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n41.jpg",
+        "location": "16.17",
+        "patch_id": "clement-1-corinthians-028",
+        "printed_page": 36,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n41.jpg",
+        "location": "16.17",
+        "patch_id": "clement-1-corinthians-029",
+        "printed_page": 36,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "16.17",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Μωϋσῆς",
+        "before": "Μωυσῆς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n43.jpg",
+        "location": "17.5",
+        "patch_id": "clement-1-corinthians-030",
+        "printed_page": 38,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "Αἴγυπτον",
+        "before": "Λἴγυπτον",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n43.jpg",
+        "location": "17.5",
+        "patch_id": "clement-1-corinthians-031",
+        "printed_page": 38,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "αἰκισμάτων αὐτοῦ",
+        "before": "αἰκισμάτων αὐτῶν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n43.jpg",
+        "location": "17.5",
+        "patch_id": "clement-1-corinthians-032",
+        "printed_page": 38,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "17.5",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐφ’",
+        "before": "ἐφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n43.jpg",
+        "location": "18.1",
+        "patch_id": "clement-1-corinthians-033",
+        "printed_page": 38,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "18.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "λόγοις σου, καὶ",
+        "before": "λόγοις σου. καὶ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n45.jpg",
+        "location": "18.4",
+        "patch_id": "clement-1-corinthians-034",
+        "printed_page": 40,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "18.4",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "σωτηρίου σου, καὶ",
+        "before": "σωτηρίου σου. καὶ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n45.jpg",
+        "location": "18.12",
+        "patch_id": "clement-1-corinthians-035",
+        "printed_page": 40,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "18.12",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "θυσίαν, ἔδωκα ἂν",
+        "before": "θυσίαν. ἔδωκα ἄν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n45.jpg",
+        "location": "18.16",
+        "patch_id": "clement-1-corinthians-036",
+        "printed_page": 40,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "18.16",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "εἰς κρίμα ἡμῶν",
+        "before": "εἰς κρίμα ἡμῖν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n51.jpg",
+        "location": "21.1",
+        "patch_id": "clement-1-corinthians-037",
+        "printed_page": 46,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "μεθ’",
+        "before": "μεθ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n51.jpg",
+        "location": "21.1",
+        "patch_id": "clement-1-corinthians-038",
+        "printed_page": 46,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "21.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἴδωμεν, πῶς",
+        "before": "ἴδωμεν. πῶς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n51.jpg",
+        "location": "21.3",
+        "patch_id": "clement-1-corinthians-039",
+        "printed_page": 46,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "21.3",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "διανοίᾳ",
+        "before": "διανοιᾳ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n55.jpg",
+        "location": "23.1",
+        "patch_id": "clement-1-corinthians-040",
+        "printed_page": 50,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "23.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀφ’",
+        "before": "ἀφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n55.jpg",
+        "location": "23.3",
+        "patch_id": "clement-1-corinthians-041",
+        "printed_page": 50,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "23.3",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὦ ἀνόητοι",
+        "before": "ὧ ἀνόητοι",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n55.jpg",
+        "location": "23.4",
+        "patch_id": "clement-1-corinthians-042",
+        "printed_page": 50,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "23.4",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀγαπητοί, τὴν",
+        "before": "ἀγαπητοί. τὴν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n55.jpg",
+        "location": "24.2",
+        "patch_id": "clement-1-corinthians-043",
+        "printed_page": 50,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "24.2",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "εἶτ’",
+        "before": "εἶτ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n57.jpg",
+        "location": "24.5",
+        "patch_id": "clement-1-corinthians-044",
+        "printed_page": 52,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "24.5",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n59.jpg",
+        "location": "26.1",
+        "patch_id": "clement-1-corinthians-045",
+        "printed_page": 54,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "26.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "αὐτοῦ σκεπασθῶμεν",
+        "before": "αὐτοῦσκεπασθῶμεν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n61.jpg",
+        "location": "28.1",
+        "patch_id": "clement-1-corinthians-046",
+        "printed_page": 56,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "28.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τῆς γῆς, ἐκεῖ",
+        "before": "τῆς γῆς. ἐκεῖ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n61.jpg",
+        "location": "28.3",
+        "patch_id": "clement-1-corinthians-047",
+        "printed_page": 56,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "28.3",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἁγίου",
+        "before": "Αγίου",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n63.jpg",
+        "location": "30.1",
+        "patch_id": "clement-1-corinthians-048",
+        "printed_page": 58,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "30.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n65.jpg",
+        "location": "31.4",
+        "patch_id": "clement-1-corinthians-049",
+        "printed_page": 60,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "31.4",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καθ’",
+        "before": "καθ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n65.jpg",
+        "location": "32.1",
+        "patch_id": "clement-1-corinthians-050",
+        "printed_page": 60,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "32.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n67.jpg",
+        "location": "32.3",
+        "patch_id": "clement-1-corinthians-051",
+        "printed_page": 62,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "32.3",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 2,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n67.jpg",
+        "location": "32.4",
+        "patch_id": "clement-1-corinthians-052",
+        "printed_page": 62,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ὧν κατειργασάμεθα",
+        "before": "ὦν κατειργασάμεθα",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n67.jpg",
+        "location": "32.4",
+        "patch_id": "clement-1-corinthians-053",
+        "printed_page": 62,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἧς πάντας",
+        "before": "ἦς πάντας",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n67.jpg",
+        "location": "32.4",
+        "patch_id": "clement-1-corinthians-054",
+        "printed_page": 62,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ὁ",
+        "before": "ʽ??ʼ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n67.jpg",
+        "location": "32.4",
+        "patch_id": "clement-1-corinthians-055",
+        "printed_page": 62,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "32.4",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐφ’ ἡμῶν",
+        "before": "ἐφ̓ ἡμῖν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n67.jpg",
+        "location": "33.1",
+        "patch_id": "clement-1-corinthians-056",
+        "printed_page": 62,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "πᾶν ἔργον",
+        "before": "πᾶς ἔργον",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n67.jpg",
+        "location": "33.1",
+        "patch_id": "clement-1-corinthians-057",
+        "printed_page": 62,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "33.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καθ’",
+        "before": "καθ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n69.jpg",
+        "location": "33.5",
+        "patch_id": "clement-1-corinthians-058",
+        "printed_page": 64,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "33.5",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐργοπαρέκτῃ αὐτοῦ.",
+        "before": "ἐργοπαρέκτῃ αὐτοῦ,",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n69.jpg",
+        "location": "34.1",
+        "patch_id": "clement-1-corinthians-059",
+        "printed_page": 64,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "34.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὖς οὐκ",
+        "before": "οὕς οὐκ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n71.jpg",
+        "location": "34.8",
+        "patch_id": "clement-1-corinthians-060",
+        "printed_page": 66,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "34.8",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐστηριγμένη",
+        "before": "ἐστηριγμενη",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n73.jpg",
+        "location": "35.5",
+        "patch_id": "clement-1-corinthians-061",
+        "printed_page": 68,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἀφ’",
+        "before": "ἀφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n73.jpg",
+        "location": "35.5",
+        "patch_id": "clement-1-corinthians-062",
+        "printed_page": 68,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "35.5",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀλλὰ καὶ",
+        "before": "ἀλλά καὶ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n73.jpg",
+        "location": "35.6",
+        "patch_id": "clement-1-corinthians-063",
+        "printed_page": 68,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "35.6",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "κλέπτην, συνέτρεχες",
+        "before": "κλέπτην. συνέτρεχες",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n73.jpg",
+        "location": "35.8",
+        "patch_id": "clement-1-corinthians-064",
+        "printed_page": 68,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἡ γλῶσσα",
+        "before": "ή γλῶσσα",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n73.jpg",
+        "location": "35.8",
+        "patch_id": "clement-1-corinthians-065",
+        "printed_page": 68,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "35.8",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "πρόσωπόν",
+        "before": "προσωπόν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n73.jpg",
+        "location": "35.10",
+        "patch_id": "clement-1-corinthians-066",
+        "printed_page": 68,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "35.10",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τοῦ θεοῦ, μήποτε",
+        "before": "τοῦ θεοῦ. μήποτε",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n73.jpg",
+        "location": "35.11",
+        "patch_id": "clement-1-corinthians-067",
+        "printed_page": 68,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "35.11",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐν ᾗ",
+        "before": "ἐν ᾖ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n75.jpg",
+        "location": "36.1",
+        "patch_id": "clement-1-corinthians-068",
+        "printed_page": 70,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "36.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὃς ὢν",
+        "before": "ὃς ὦν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n75.jpg",
+        "location": "36.2",
+        "patch_id": "clement-1-corinthians-069",
+        "printed_page": 70,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "36.2",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "παρ’",
+        "before": "παῤ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n75.jpg",
+        "location": "36.4",
+        "patch_id": "clement-1-corinthians-070",
+        "printed_page": 70,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "36.4",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Κάθου",
+        "before": "Κάθον",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n75.jpg",
+        "location": "36.5",
+        "patch_id": "clement-1-corinthians-071",
+        "printed_page": 70,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "36.5",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀντιτασσόμενοι",
+        "before": "ἀντιτασσομενοι",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n75.jpg",
+        "location": "36.6",
+        "patch_id": "clement-1-corinthians-072",
+        "printed_page": 70,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "36.6",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "προστάγμασιν",
+        "before": "προστώγμασιν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n75.jpg",
+        "location": "37.1",
+        "patch_id": "clement-1-corinthians-073",
+        "printed_page": 70,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "37.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "σώματι",
+        "before": "σώμᾳτι",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n77.jpg",
+        "location": "37.5",
+        "patch_id": "clement-1-corinthians-074",
+        "printed_page": 72,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "37.5",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n77.jpg",
+        "location": "38.2",
+        "patch_id": "clement-1-corinthians-075",
+        "printed_page": 72,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ὑφ’",
+        "before": "ὑφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n79.jpg",
+        "location": "38.2",
+        "patch_id": "clement-1-corinthians-076",
+        "printed_page": 74,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "38.2",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἄφρονες",
+        "before": "Ἅφρονες",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n79.jpg",
+        "location": "39.1",
+        "patch_id": "clement-1-corinthians-077",
+        "printed_page": 74,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "39.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἢ εἴ",
+        "before": "ἤ εἴ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n81.jpg",
+        "location": "39.7",
+        "patch_id": "clement-1-corinthians-078",
+        "printed_page": 76,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ὀργή, πεπλανημένον",
+        "before": "ὀργή. πεπλανημένον",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n81.jpg",
+        "location": "39.7",
+        "patch_id": "clement-1-corinthians-079",
+        "printed_page": 76,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "39.7",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "γνώσεως, πάντα",
+        "before": "γνώσεως. πάντα",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n81.jpg",
+        "location": "40.1",
+        "patch_id": "clement-1-corinthians-080",
+        "printed_page": 76,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "40.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "βουλήσει, ἵν’",
+        "before": "βουλήσει. ἵν’",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n81.jpg",
+        "location": "40.3",
+        "patch_id": "clement-1-corinthians-081",
+        "printed_page": 76,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "40.3",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "λαϊκοῖς",
+        "before": "λαῖκοῖς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n83.jpg",
+        "location": "40.5",
+        "patch_id": "clement-1-corinthians-082",
+        "printed_page": 78,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "40.5",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Χριστὸς",
+        "before": "Χριστος",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n85.jpg",
+        "location": "42.2",
+        "patch_id": "clement-1-corinthians-083",
+        "printed_page": 80,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "42.2",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἔρχεσθαι.",
+        "before": "ἔρχεσθαι,",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n85.jpg",
+        "location": "42.3",
+        "patch_id": "clement-1-corinthians-084",
+        "printed_page": 80,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "42.3",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἄνδρες",
+        "before": "Ἅνδρες",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n87.jpg",
+        "location": "43.4",
+        "patch_id": "clement-1-corinthians-085",
+        "printed_page": 82,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἧς ἂν",
+        "before": "ἦς ἂν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n87.jpg",
+        "location": "43.4",
+        "patch_id": "clement-1-corinthians-086",
+        "printed_page": 82,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "43.4",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ᾧ",
+        "before": "ᾦ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n87.jpg",
+        "location": "43.6",
+        "patch_id": "clement-1-corinthians-087",
+        "printed_page": 82,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "43.6",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μεταξὺ",
+        "before": "μπταξὺ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n89.jpg",
+        "location": "44.2",
+        "patch_id": "clement-1-corinthians-088",
+        "printed_page": 84,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "δεδώκασιν",
+        "before": "δεδωκασιν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n89.jpg",
+        "location": "44.2",
+        "patch_id": "clement-1-corinthians-089",
+        "printed_page": 84,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "δεδοκιμασμένοι",
+        "before": "δεδοκιμασμὲνοι",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n89.jpg",
+        "location": "44.2",
+        "patch_id": "clement-1-corinthians-090",
+        "printed_page": 84,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἄνδρες",
+        "before": "ἅνδρες",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n89.jpg",
+        "location": "44.2",
+        "patch_id": "clement-1-corinthians-091",
+        "printed_page": 84,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "44.2",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὑφ’",
+        "before": "ὑφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n89.jpg",
+        "location": "44.3",
+        "patch_id": "clement-1-corinthians-092",
+        "printed_page": 84,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "συνευδοκησάσης",
+        "before": "συνενδοκησάσης",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n89.jpg",
+        "location": "44.3",
+        "patch_id": "clement-1-corinthians-093",
+        "printed_page": 84,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "44.3",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀνδρὸς ἀθῴου",
+        "before": "ἀνδρὸς ἀθῷον",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n93.jpg",
+        "location": "46.3",
+        "patch_id": "clement-1-corinthians-094",
+        "printed_page": 88,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἐκλεκτὸς ἔσῃ, καὶ",
+        "before": "ἐκλεκτὸς ἔσῃ. καὶ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n93.jpg",
+        "location": "46.3",
+        "patch_id": "clement-1-corinthians-095",
+        "printed_page": 88,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "46.3",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἕνα Χριστὸν",
+        "before": "ἔνα Χριστὸν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n93.jpg",
+        "location": "46.6",
+        "patch_id": "clement-1-corinthians-096",
+        "printed_page": 88,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἐφ’",
+        "before": "ἐφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n93.jpg",
+        "location": "46.6",
+        "patch_id": "clement-1-corinthians-097",
+        "printed_page": 88,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "46.6",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἢ ἕνα",
+        "before": "ἦ ἕνα",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n93.jpg",
+        "location": "46.8",
+        "patch_id": "clement-1-corinthians-098",
+        "printed_page": 88,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "σκανδαλίσαι: κρεῖττον",
+        "before": "σκανδαλίσαι κρεῖττον",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n93.jpg",
+        "location": "46.8",
+        "patch_id": "clement-1-corinthians-099",
+        "printed_page": 88,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "κρεῖττον ἦν",
+        "before": "κρεῖττον ἢν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n93.jpg",
+        "location": "46.8",
+        "patch_id": "clement-1-corinthians-100",
+        "printed_page": 88,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "καταποντισθῆναι",
+        "before": "καταπον τισθῆναι",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n93.jpg",
+        "location": "46.8",
+        "patch_id": "clement-1-corinthians-101",
+        "printed_page": 88,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "46.8",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "πολλοὺς εἰς",
+        "before": "πολλοὺς: εἰς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n93.jpg",
+        "location": "46.9",
+        "patch_id": "clement-1-corinthians-102",
+        "printed_page": 88,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ὑμῶν",
+        "before": "ἀμῶν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n93.jpg",
+        "location": "46.9",
+        "patch_id": "clement-1-corinthians-103",
+        "printed_page": 88,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "46.9",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "παρ’",
+        "before": "παῤ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n95.jpg",
+        "location": "47.4",
+        "patch_id": "clement-1-corinthians-104",
+        "printed_page": 90,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "47.4",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n95.jpg",
+        "location": "47.6",
+        "patch_id": "clement-1-corinthians-105",
+        "printed_page": 90,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "47.6",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀφ’",
+        "before": "ἀφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n95.jpg",
+        "location": "47.7",
+        "patch_id": "clement-1-corinthians-106",
+        "printed_page": 90,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "47.7",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἐξάρωμεν",
+        "before": "Ἐξαρωμεν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n95.jpg",
+        "location": "48.1",
+        "patch_id": "clement-1-corinthians-107",
+        "printed_page": 90,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "προσπέσωμεν",
+        "before": "προσπεσωμεν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n95.jpg",
+        "location": "48.1",
+        "patch_id": "clement-1-corinthians-108",
+        "printed_page": 90,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "48.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀγαπητοί",
+        "before": "ἀγαπητοι",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n99.jpg",
+        "location": "50.1",
+        "patch_id": "clement-1-corinthians-109",
+        "printed_page": 94,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "μέγα",
+        "before": "μεγα",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n99.jpg",
+        "location": "50.1",
+        "patch_id": "clement-1-corinthians-110",
+        "printed_page": 94,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "50.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὗ",
+        "before": "οὖ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n99.jpg",
+        "location": "50.4",
+        "patch_id": "clement-1-corinthians-111",
+        "printed_page": 94,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "50.4",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n99.jpg",
+        "location": "50.5",
+        "patch_id": "clement-1-corinthians-112",
+        "printed_page": 94,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "50.5",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὧν",
+        "before": "ὦν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n99.jpg",
+        "location": "50.6",
+        "patch_id": "clement-1-corinthians-113",
+        "printed_page": 94,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "οὗ",
+        "before": "οὖ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n99.jpg",
+        "location": "50.6",
+        "patch_id": "clement-1-corinthians-114",
+        "printed_page": 94,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "50.6",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "διά τινας",
+        "before": "δια τινας",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n101.jpg",
+        "location": "51.1",
+        "patch_id": "clement-1-corinthians-115",
+        "printed_page": 96,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "51.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n101.jpg",
+        "location": "51.5",
+        "patch_id": "clement-1-corinthians-116",
+        "printed_page": 96,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "Μωϋσέως",
+        "before": "Μωῦσέως",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n101.jpg",
+        "location": "51.5",
+        "patch_id": "clement-1-corinthians-117",
+        "printed_page": 96,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "51.5",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Μωϋσέως",
+        "before": "Μωῦσέως",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n103.jpg",
+        "location": "53.2",
+        "patch_id": "clement-1-corinthians-118",
+        "printed_page": 98,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "53.2",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n105.jpg",
+        "location": "54.2",
+        "patch_id": "clement-1-corinthians-119",
+        "printed_page": 100,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "54.2",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δουλείαν, καὶ",
+        "before": "δουλείαν. καὶ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n107.jpg",
+        "location": "55.2",
+        "patch_id": "clement-1-corinthians-120",
+        "printed_page": 102,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "55.2",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n107.jpg",
+        "location": "55.5",
+        "patch_id": "clement-1-corinthians-121",
+        "printed_page": 102,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "55.5",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐφ’",
+        "before": "ἐφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n109.jpg",
+        "location": "56.2",
+        "patch_id": "clement-1-corinthians-122",
+        "printed_page": 104,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "56.2",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καθ’ ὥραν",
+        "before": "καθ̓ ὤραν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n111.jpg",
+        "location": "56.15",
+        "patch_id": "clement-1-corinthians-123",
+        "printed_page": 106,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "56.15",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καθ’",
+        "before": "καθ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n111.jpg",
+        "location": "57.2",
+        "patch_id": "clement-1-corinthians-124",
+        "printed_page": 106,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "57.2",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀνθ’ ὧν",
+        "before": "ἀνθ̓ ὦν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n113.jpg",
+        "location": "57.7",
+        "patch_id": "clement-1-corinthians-125",
+        "printed_page": 108,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "57.7",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’ οὗ",
+        "before": "δἰ οὖ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n113.jpg",
+        "location": "58.2",
+        "patch_id": "clement-1-corinthians-126",
+        "printed_page": 108,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "58.2",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n115.jpg",
+        "location": "59.1",
+        "patch_id": "clement-1-corinthians-127",
+        "printed_page": 110,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "59.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n115.jpg",
+        "location": "59.2",
+        "patch_id": "clement-1-corinthians-128",
+        "printed_page": 110,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "59.2",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n117.jpg",
+        "location": "59.3",
+        "patch_id": "clement-1-corinthians-129",
+        "printed_page": 112,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "59.3",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τὰ ἔθνη, ὅτι",
+        "before": "τὰ ἔθνη. ὅτι",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n117.jpg",
+        "location": "59.4",
+        "patch_id": "clement-1-corinthians-130",
+        "printed_page": 112,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "59.4",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐφ’",
+        "before": "ἐφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n119.jpg",
+        "location": "60.3",
+        "patch_id": "clement-1-corinthians-131",
+        "printed_page": 114,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "60.3",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δέσποτα",
+        "before": "δεσποτα",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n119.jpg",
+        "location": "61.1",
+        "patch_id": "clement-1-corinthians-132",
+        "printed_page": 114,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "οἷς",
+        "before": "οἶς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n119.jpg",
+        "location": "61.1",
+        "patch_id": "clement-1-corinthians-133",
+        "printed_page": 114,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "εὐστάθειαν, εἰς",
+        "before": "εὐστάθειαν. εἰς",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n119.jpg",
+        "location": "61.1",
+        "patch_id": "clement-1-corinthians-134",
+        "printed_page": 114,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "61.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μεθ’",
+        "before": "μεθ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n121.jpg",
+        "location": "61.3",
+        "patch_id": "clement-1-corinthians-135",
+        "printed_page": 116,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n121.jpg",
+        "location": "61.3",
+        "patch_id": "clement-1-corinthians-136",
+        "printed_page": 116,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "61.3",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὑφ’",
+        "before": "ὑφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n123.jpg",
+        "location": "63.2",
+        "patch_id": "clement-1-corinthians-137",
+        "printed_page": 118,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἔντευξιν, ἣν",
+        "before": "ἔντευξιν. ἣν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n123.jpg",
+        "location": "63.2",
+        "patch_id": "clement-1-corinthians-138",
+        "printed_page": 118,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "63.2",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "εἰδῆτε, ὅτι",
+        "before": "εἰδῆτε. ὅτι",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n123.jpg",
+        "location": "63.4",
+        "patch_id": "clement-1-corinthians-139",
+        "printed_page": 118,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "ἐν τάχει",
+        "before": "ὲν τάχει",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n123.jpg",
+        "location": "63.4",
+        "patch_id": "clement-1-corinthians-140",
+        "printed_page": 118,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "63.4",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὁ ἐκλεξάμενος",
+        "before": "ό ἐκλεξάμενος",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n123.jpg",
+        "location": "64.1",
+        "patch_id": "clement-1-corinthians-141",
+        "printed_page": 118,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n123.jpg",
+        "location": "64.1",
+        "patch_id": "clement-1-corinthians-142",
+        "printed_page": 118,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n125.jpg",
+        "location": "64.1",
+        "patch_id": "clement-1-corinthians-143",
+        "printed_page": 120,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "τοὺς αἰῶνας",
+        "before": "τοῦς αἰῶνας",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n125.jpg",
+        "location": "64.1",
+        "patch_id": "clement-1-corinthians-144",
+        "printed_page": 120,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "τῶν αἰώνων. ἀμήν",
+        "before": "τῶν αἰώνων ἀμήν",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n125.jpg",
+        "location": "64.1",
+        "patch_id": "clement-1-corinthians-145",
+        "printed_page": 120,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "64.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀφ’",
+        "before": "ἀφ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n125.jpg",
+        "location": "65.1",
+        "patch_id": "clement-1-corinthians-146",
+        "printed_page": 120,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "65.1",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "edition_location": "65.2",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n125.jpg",
+        "type": "separate_subscription",
+        "upstream_location": "65.2"
+      },
+      {
+        "after": "μεθ’",
+        "before": "μεθ̓",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n125.jpg",
+        "location": "65.2",
+        "patch_id": "clement-1-corinthians-147",
+        "printed_page": 120,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "δι’",
+        "before": "δἰ",
+        "count": 2,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n125.jpg",
+        "location": "65.2",
+        "patch_id": "clement-1-corinthians-148",
+        "printed_page": 120,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      },
+      {
+        "after": "αὐτοῦ,",
+        "before": "αὐτοῦ.",
+        "count": 1,
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n125.jpg",
+        "location": "65.2",
+        "patch_id": "clement-1-corinthians-149",
+        "printed_page": 120,
+        "reason": "Lake 1914 인쇄면의 본문·철자·기식·구두점 대조",
+        "reviewer": "Codex AI"
+      }
+    ],
+    "location": "65.2",
+    "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "edition_location": "subscriptio.1",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n125.jpg",
+        "type": "separate_subscription",
+        "upstream_location": "65.2"
+      }
+    ],
+    "location": "subscriptio.1",
+    "work_id": "clement-1-corinthians"
   }
 ]

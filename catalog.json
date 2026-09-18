@@ -1,8 +1,7 @@
 {
   "base_url": "https://imtseoul.github.io/patristics-ko-reference",
-  "catalog_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/main/catalog.json",
   "human_review_status": "not_reviewed",
-  "release_id": "alpha-0.4",
+  "release_id": "alpha-0.5",
   "rights_url": "https://imtseoul.github.io/patristics-ko-reference/rights.html",
   "schema_version": "patristics-library-catalog-0.1",
   "works": [
@@ -22,14 +21,12 @@
         "Ignatius of Antioch"
       ],
       "chapters": 10,
-      "fixed_html_path": "releases/alpha-0.4/ignatius-romans/index.html",
+      "fixed_html_path": "releases/alpha-0.5/ignatius-romans/index.html",
       "html_path": "works/ignatius-romans/index.html",
       "id": "ignatius-romans",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/ignatius-romans/passages.json",
-      "json_path": "releases/alpha-0.4/ignatius-romans/passages.json",
-      "json_sha256": "4a8c16dd0665ca7165b0ffc2d12797b0b61fed8b8424bfa295a689f8b28ed52c",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/ignatius-romans/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.4/ignatius-romans/passages.jsonl",
+      "json_path": "releases/alpha-0.5/ignatius-romans/passages.json",
+      "json_sha256": "219a5d1b11934f51fc70f9eaec63c1db577a0bc8437b818af1557b686ad0ebdc",
+      "jsonl_path": "releases/alpha-0.5/ignatius-romans/passages.jsonl",
       "passages": 29,
       "scope": "서두와 1-10장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
@@ -52,14 +49,12 @@
         "Anonymus"
       ],
       "chapters": 16,
-      "fixed_html_path": "releases/alpha-0.4/didache/index.html",
+      "fixed_html_path": "releases/alpha-0.5/didache/index.html",
       "html_path": "works/didache/index.html",
       "id": "didache",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/didache/passages.json",
-      "json_path": "releases/alpha-0.4/didache/passages.json",
-      "json_sha256": "8e88a57ab53669cc9042606c80f2e28472d266c01d315a4bfd37ebee03dbc5aa",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/didache/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.4/didache/passages.jsonl",
+      "json_path": "releases/alpha-0.5/didache/passages.json",
+      "json_sha256": "1165870e760bbe088fc04b4e0f3a99e3b991508b837671842e79c729d69cab0d",
+      "jsonl_path": "releases/alpha-0.5/didache/passages.jsonl",
       "passages": 100,
       "scope": "Lake가 채택한 그리스어 본문의 1-16장 전체. 현존 판본의 끝을 넘어 결말을 복원하지 않음",
       "source_languages": [
@@ -84,14 +79,12 @@
         "Polycarp"
       ],
       "chapters": 14,
-      "fixed_html_path": "releases/alpha-0.4/polycarp-philippians/index.html",
+      "fixed_html_path": "releases/alpha-0.5/polycarp-philippians/index.html",
       "html_path": "works/polycarp-philippians/index.html",
       "id": "polycarp-philippians",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/polycarp-philippians/passages.json",
-      "json_path": "releases/alpha-0.4/polycarp-philippians/passages.json",
-      "json_sha256": "714179859785f149ed2c2a08302ffbabb230103b42dc3f32f7464a0c434c5d4e",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/polycarp-philippians/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.4/polycarp-philippians/passages.jsonl",
+      "json_path": "releases/alpha-0.5/polycarp-philippians/passages.json",
+      "json_sha256": "0434da38fefefa27f9607c9023c606659f85d9b39ef6106dd3f3e20ed78f601f",
+      "jsonl_path": "releases/alpha-0.5/polycarp-philippians/passages.jsonl",
       "passages": 38,
       "scope": "서두와 1-14장, 그리스어 전승과 라틴어 고대 역본을 구분한 채택 본문 전체",
       "source_languages": [
@@ -113,14 +106,12 @@
         "Ignatius of Antioch"
       ],
       "chapters": 11,
-      "fixed_html_path": "releases/alpha-0.4/ignatius-philadelphians/index.html",
+      "fixed_html_path": "releases/alpha-0.5/ignatius-philadelphians/index.html",
       "html_path": "works/ignatius-philadelphians/index.html",
       "id": "ignatius-philadelphians",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/ignatius-philadelphians/passages.json",
-      "json_path": "releases/alpha-0.4/ignatius-philadelphians/passages.json",
-      "json_sha256": "81402b0837f95ca1c7f7124af22b4a0c7ba47b8e9424cb8f3c74653ae451f2fd",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/ignatius-philadelphians/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.4/ignatius-philadelphians/passages.jsonl",
+      "json_path": "releases/alpha-0.5/ignatius-philadelphians/passages.json",
+      "json_sha256": "00f6905e534c093705fba14d1690b8e326268a45eea9088e83bf6d2f65fb6379",
+      "jsonl_path": "releases/alpha-0.5/ignatius-philadelphians/passages.jsonl",
       "passages": 24,
       "scope": "서두와 1-11장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
@@ -141,14 +132,12 @@
         "Ignatius of Antioch"
       ],
       "chapters": 8,
-      "fixed_html_path": "releases/alpha-0.4/ignatius-polycarp/index.html",
+      "fixed_html_path": "releases/alpha-0.5/ignatius-polycarp/index.html",
       "html_path": "works/ignatius-polycarp/index.html",
       "id": "ignatius-polycarp",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/ignatius-polycarp/passages.json",
-      "json_path": "releases/alpha-0.4/ignatius-polycarp/passages.json",
-      "json_sha256": "f775e43680cdc8f7ee30a6b7bc9593a3ee8a70984ff64e38d688cf670af21745",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/ignatius-polycarp/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.4/ignatius-polycarp/passages.jsonl",
+      "json_path": "releases/alpha-0.5/ignatius-polycarp/passages.json",
+      "json_sha256": "33cff240840352e8c84148583aaeadf6ead0514aab44372302e03bfadb86b0fe",
+      "jsonl_path": "releases/alpha-0.5/ignatius-polycarp/passages.jsonl",
       "passages": 22,
       "scope": "서두와 1-8장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
@@ -174,14 +163,12 @@
         "Ignatius of Antioch"
       ],
       "chapters": 21,
-      "fixed_html_path": "releases/alpha-0.4/ignatius-ephesians/index.html",
+      "fixed_html_path": "releases/alpha-0.5/ignatius-ephesians/index.html",
       "html_path": "works/ignatius-ephesians/index.html",
       "id": "ignatius-ephesians",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/ignatius-ephesians/passages.json",
-      "json_path": "releases/alpha-0.4/ignatius-ephesians/passages.json",
-      "json_sha256": "572495820c9d9b971f679e8554c28731712bd3c030f73933c332ce71a82f3952",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/ignatius-ephesians/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.4/ignatius-ephesians/passages.jsonl",
+      "json_path": "releases/alpha-0.5/ignatius-ephesians/passages.json",
+      "json_sha256": "422250facdd0e82de3b59f597a668cb78f810412392c647fba95a6fb70bdfd84",
+      "jsonl_path": "releases/alpha-0.5/ignatius-ephesians/passages.jsonl",
       "passages": 48,
       "scope": "서두와 1-21장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
@@ -205,14 +192,12 @@
         "Ignatius of Antioch"
       ],
       "chapters": 15,
-      "fixed_html_path": "releases/alpha-0.4/ignatius-magnesians/index.html",
+      "fixed_html_path": "releases/alpha-0.5/ignatius-magnesians/index.html",
       "html_path": "works/ignatius-magnesians/index.html",
       "id": "ignatius-magnesians",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/ignatius-magnesians/passages.json",
-      "json_path": "releases/alpha-0.4/ignatius-magnesians/passages.json",
-      "json_sha256": "748f770e240120e0d73e3cb9de3afaf058cdfaf0fb538a827d7cebe417df55df",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/ignatius-magnesians/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.4/ignatius-magnesians/passages.jsonl",
+      "json_path": "releases/alpha-0.5/ignatius-magnesians/passages.json",
+      "json_sha256": "666b31f3ba805c2b6a4235cfccb4e3dfa47f65eba8f41c7c11e367f2f9e4bc4c",
+      "jsonl_path": "releases/alpha-0.5/ignatius-magnesians/passages.jsonl",
       "passages": 26,
       "scope": "서두와 1-15장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
@@ -236,14 +221,12 @@
         "Ignatius of Antioch"
       ],
       "chapters": 13,
-      "fixed_html_path": "releases/alpha-0.4/ignatius-trallians/index.html",
+      "fixed_html_path": "releases/alpha-0.5/ignatius-trallians/index.html",
       "html_path": "works/ignatius-trallians/index.html",
       "id": "ignatius-trallians",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/ignatius-trallians/passages.json",
-      "json_path": "releases/alpha-0.4/ignatius-trallians/passages.json",
-      "json_sha256": "4e4103369aac060dfdbbd6bdcb14c49da7ec93b4d1f22e13272bce36b58c7804",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/ignatius-trallians/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.4/ignatius-trallians/passages.jsonl",
+      "json_path": "releases/alpha-0.5/ignatius-trallians/passages.json",
+      "json_sha256": "f2c2ce77bb779d8f74314d5613c8c1ac0faea4e7b20f3348020cb38e2c571546",
+      "jsonl_path": "releases/alpha-0.5/ignatius-trallians/passages.jsonl",
       "passages": 30,
       "scope": "서두와 1-13장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
@@ -267,20 +250,50 @@
         "Ignatius of Antioch"
       ],
       "chapters": 13,
-      "fixed_html_path": "releases/alpha-0.4/ignatius-smyrnaeans/index.html",
+      "fixed_html_path": "releases/alpha-0.5/ignatius-smyrnaeans/index.html",
       "html_path": "works/ignatius-smyrnaeans/index.html",
       "id": "ignatius-smyrnaeans",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/ignatius-smyrnaeans/passages.json",
-      "json_path": "releases/alpha-0.4/ignatius-smyrnaeans/passages.json",
-      "json_sha256": "c740fab549cbed8c0d8368b3e4df775816f28a96fdb774139fe8a52d1b928d78",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/42945394f31b72e30ff08a9f4a5414359c60e265/releases/alpha-0.4/ignatius-smyrnaeans/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.4/ignatius-smyrnaeans/passages.jsonl",
+      "json_path": "releases/alpha-0.5/ignatius-smyrnaeans/passages.json",
+      "json_sha256": "d7eec01fe5e0de68b773594ebc31958c30d97e2e2cfb3fdda0445258eae359e6",
+      "jsonl_path": "releases/alpha-0.5/ignatius-smyrnaeans/passages.jsonl",
       "passages": 29,
       "scope": "서두와 1-13장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
         "grc"
       ],
       "title": "스미르나인들에게 보낸 편지"
+    },
+    {
+      "aliases": [
+        "클레멘스 첫째 편지",
+        "고린토인들에게 보낸 첫째 편지",
+        "1 Clement",
+        "1 Clem.",
+        "First Clement"
+      ],
+      "ambiguous_aliases": [],
+      "attribution_status": "traditional_attribution",
+      "author": "로마의 클레멘스 (전승상 귀속)",
+      "author_aliases": [
+        "로마의 클레멘스",
+        "클레멘스",
+        "Clement of Rome",
+        "Clement"
+      ],
+      "chapters": 65,
+      "fixed_html_path": "releases/alpha-0.5/clement-1-corinthians/index.html",
+      "html_path": "works/clement-1-corinthians/index.html",
+      "id": "clement-1-corinthians",
+      "json_path": "releases/alpha-0.5/clement-1-corinthians/passages.json",
+      "json_sha256": "47f230a0ffbc02167b2a48e73e3deee6ff3351a3ebe7b563d605732bc2f23d6d",
+      "jsonl_path": "releases/alpha-0.5/clement-1-corinthians/passages.jsonl",
+      "passages": 401,
+      "scope": "서두와 1-65장 전문, 끝맺음 표제 별도 수록. 채택 판본의 결락 표시 보존",
+      "source_languages": [
+        "grc"
+      ],
+      "stated_sender": "로마에 머무는 하나님의 교회",
+      "title": "클레멘스 1서"
     }
   ]
 }
