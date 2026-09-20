@@ -17,5 +17,15 @@ function revealNotes() {
 document.querySelectorAll('[data-note-link], a[href="#translation-notes"]').forEach(link => {
   link.addEventListener('click', () => { if (notes) notes.open = true; });
 });
-window.addEventListener('hashchange', revealNotes);
+function markChapter() {
+  let id;
+  try { id = decodeURIComponent(location.hash.slice(1)); } catch { return; }
+  const chapter = document.getElementById(id)?.closest('[data-chapter]')?.dataset.chapter;
+  document.querySelectorAll('[data-chapter-link]').forEach(link => {
+    if (chapter && link.dataset.chapterLink === chapter) link.setAttribute('aria-current', 'location');
+    else link.removeAttribute('aria-current');
+  });
+}
+window.addEventListener('hashchange', () => { revealNotes(); markChapter(); });
 revealNotes();
+markChapter();
