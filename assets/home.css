@@ -31,7 +31,6 @@ button:hover { background: #16455f; }
 .results li { border-bottom: 1px solid var(--line); padding: 20px 0; }
 .results h3 { font-size: 16px; }
 .results p { max-width: 75ch; margin-top: 8px; }
-.results .meta { color: var(--muted); font-size: 12px; }
 .author-catalogue { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 36px 38px; }
 .author-section { min-width: 0; scroll-margin-top: 24px; }
 .author-ignatius { grid-column: 1 / -1; }
