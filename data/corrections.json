@@ -5223,5 +5223,1341 @@
     ],
     "location": "subscriptio.1",
     "work_id": "clement-1-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_reading": "ἱερωμένων",
+        "evidence": {
+          "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n95.jpg",
+          "printed_page": 34,
+          "volume": 1
+        },
+        "reason": "인쇄본의 철자와 띄어쓰기",
+        "upstream_reading": "ἱερωμένῶν",
+        "upstream_source_text": "ὃς οὔτε σύμβολα καὶ τύπους ἀρχιερωσύνης παρά του λαβών, ἀλλ’ οὐδὲ γένος τὸ περὶ σῶμα ἐξ ἱερωμένῶν κατάγων, οὐδ’ ἀνδρῶν δορυφορίαις ἐπὶ βασιλείαν προαχθεὶς οὐδὲ μὴν προφήτης ὁμοίως τοῖς πάλαι γενόμενος, οὐδ’ ἀξίας ὅλως ἤ τινος παρὰ Ἰουδαίοις τυχὼν προεδρίας, ὅμως τοῖς πᾶσιν, εἰ καὶ μὴ τοῖς συμβόλοις, ἀλλ’ αὐτῇ γε τῇ ἀληθείᾳ παρὰ τοῦ πατρὸς κεκόσμητο,",
+        "upstream_source_text_sha256": "441bb21a594026eb7fbd66e80a3a909ae2cd62c841fa495efdc6f2f0580c8e20"
+      }
+    ],
+    "location": "1.3.11",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_reading": "μόνον καὶ",
+        "evidence": {
+          "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n99.jpg",
+          "printed_page": 38,
+          "volume": 1
+        },
+        "reason": "인쇄본의 철자와 띄어쓰기",
+        "upstream_reading": "μόνονκαὶ",
+        "upstream_source_text": "τό γε μὴν πάντων παραδοξότατον, ὅτι μὴ φωναῖς αὐτὸ μόνονκαὶ ῥημάτων ψόφοις αὐτὸν γεραίρομεν οἱ καθωσιωμένοι αὐτῷ, ἀλλὰ καὶ πάσῃ διαθέσει ψυχῆς, ὡς καὶ αὐτῆς προτιμᾶν τῆς ἑαυτῶν ζωῆς τὴν εἰς αὐτὸν μαρτυρίαν.",
+        "upstream_source_text_sha256": "3d5d83aa0fd173bfaa912eb77c00037d88f970ba9183f929360604d352a26987"
+      }
+    ],
+    "location": "1.3.20",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "after": "κατέληξε",
+        "before": "κατέληξε, ληξε",
+        "corrected_reading": "κατέληξε",
+        "evidence": {
+          "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n107.jpg",
+          "printed_page": 46,
+          "volume": 1
+        },
+        "evidence_page": "v.1.p.46",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n107.jpg",
+        "reason": "인쇄본 46쪽의 줄 끝에서 다음 줄의 ληξε로 이어지는 단어가 전사문에 중복되어 있다.",
+        "upstream_reading": "κατέληξε, ληξε",
+        "upstream_source_text": "ἦν δὴ οὖν τοῦτο δεύτερον καὶ τεσσαρακοστὸν ἔτος τῆς Αὐγούστου βασιλείας, Αἰγύπτου δ’ ὑποταγῆς καὶ τελευτῆς Ἀντωνίου καὶ Κλεοπάτρας, εἰς ἣν ὑστάτην ἡ κατ’ Αἴγυπτον τῶν Πτολεμαίων κατέληξε, ληξε δυναστεία, ὄγδοον ἔτος καὶ εἰκοστόν, ὁπηνίκα ὁ σωτὴρ καὶ κύριος ἡμῶν Ἰησοῦς ὁ Χριστὸς ἐπὶ τῆς τότε πρώτης ἀπογραφῆς, ἡγεμονεύοντος Κυρινίου τῆς Συρίας, ἀκολούθως ταῖς περὶ αὐτοῦ προφητείαις ἐν Βηθλεὲμ γεννᾶται τῆς Ἰουδαιας.",
+        "upstream_source_text_sha256": "e8c0f48cfdc8369b438ded459612abb3a22bf25a6851f2b19c4c2e4d7243c8b0"
+      }
+    ],
+    "location": "1.5.2",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Φλάυιος",
+        "before": "Φλάυιος ύιος",
+        "corrected_reading": "Φλάυιος",
+        "evidence": {
+          "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n107.jpg",
+          "printed_page": 46,
+          "volume": 1
+        },
+        "evidence_page": "v.1.p.46",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n107.jpg",
+        "reason": "인쇄본 46쪽에서 이름의 끝 ύιος가 다음 줄로 이어진다. 전사문에 이어진 이름과 그 끝부분이 함께 들어 있다.",
+        "upstream_reading": "Φλάυιος ύιος",
+        "upstream_source_text": "ταύτης δὲ τῆς κατὰ Κυρίνιον ἀπογραφῆς καὶ ὁ τῶν παρ’ Ἑβραίοις ἐπισημότατος ἱστορικῶν Φλάυιος ύιος Ἰώσηπος μνημονεύει, καὶ ἄλλην ἐπισυνάπτων ἱστορίαν περὶ τῆς τῶν Γαλιλαίων κατὰ τοὺς αὐτοὺς ἐπιφυείσης χρόνους αἱρέσεως, ἧς καὶ παρ’ ἡμῖν ὁ Λουκᾶς ἐν ταῖς Πράξεσιν μνήμην ὧδέ πως λέγων πεποίηται μετὰ τοῦτον ἀνέστη Ἰούδας ὁ Γαλιλαῖος ἐν ταῖς ἡμέραις τῆς ἀπογραφῆς, καὶ ἀπέστησε λαὸν ὀπίσω αὐτοῦ· κἀκεῖνος ἀπώλετο, καὶ πάντες ὅσοι ἐπείσθησαν αὐτῷ, διεσκορπίσθησαν.",
+        "upstream_source_text_sha256": "e5fc4d95cab87c8b5d6680e930b064de6615e76af1e0f44656c221658e036654"
+      }
+    ],
+    "location": "1.5.3",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "after": "φήσασα",
+        "before": "φήσαοα",
+        "corrected_reading": "φήσασα",
+        "evidence": {
+          "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n109.jpg",
+          "printed_page": 48,
+          "volume": 1
+        },
+        "evidence_page": "v.1.p.48",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n109.jpg",
+        "reason": "인쇄본 48쪽의 읽기는 φήσασα이다. 전사문의 ο를 σ로 교정한다.",
+        "upstream_reading": "φήσαοα",
+        "upstream_source_text": "Τηνικαῦτα δὲ καὶ τοῦ Ἰουδαίων ἔθνους Ἡρῴδου πρώτου τὸ γένος ἀλλοφύλου διειληφότος τὴν βασιλείαν ἡ διὰ Μωυσέως περιγραφὴν ἐλάμβανεν προφητεία οὐκ ἐκλείψειν ἄρχοντα ἐξ Ἰούδα οὐδὲ ἡγούμενον ἐκ τῶν μηρῶν αὐτοῦ φήσαοα, ἕως ἂν ἔλθῃ ᾧ ἀπόκειται, ὃν καὶ ἀποφαίνει προσδοκίαν ἔσεσθαι ἐθνῶν.",
+        "upstream_source_text_sha256": "4c62634f5da2528fb300045117818c7613624ad5220bf1fdaf2e35c28b728906"
+      }
+    ],
+    "location": "1.6.1",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_reading": "αὖθις δέ,",
+        "evidence": {
+          "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n131.jpg",
+          "printed_page": 70,
+          "volume": 1
+        },
+        "original_reading": "αὖθις έ,",
+        "original_source_text_sha256": "dab6e992ff7d370493c5d536064871b7463695aa57d3b846d3990dcf3e14e600",
+        "reason": "인쇄 본문에서 확인한 글자와 띄어쓰기.",
+        "type": "upstream_transcription_correction"
+      },
+      {
+        "corrected_reading": "ἡσσηθεὶς",
+        "evidence": {
+          "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n131.jpg",
+          "parallel_file_sha256": "273748d4e9bcb4906d989cfa4da3eebbabefa139d23dd22771c2e187d9c2ca51",
+          "parallel_reading": "τῶν ἀλγηδόνων ἡσσηθεὶς",
+          "parallel_source_url": "https://www.hs-augsburg.de/~harsch/graeca/Chronologia/S_post01/Josephus/jos_i132.html",
+          "parallel_work": "Josephus, Jewish War 1.662",
+          "printed_page": 70,
+          "printed_reading": "ἡσθεὶς",
+          "volume": 1
+        },
+        "original_reading": "ἡσθεὶς",
+        "original_source_text_sha256": "ebcad26fb9ef06e2c9190d5f9b08a87873194c21dcf10d3f56f9cbd4c4dbb12f",
+        "reason": "인용된 요세푸스 본문의 ἡσσηθεὶς는 고통에 굴복했다는 뜻으로, 자살을 시도하는 문맥과 이어진다. 인쇄 대본의 ἡσθεὶς는 printed_text에 보존했다.",
+        "scope": "source_text",
+        "type": "editorial_emendation_from_cited_source"
+      }
+    ],
+    "location": "1.8.14",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_reading": "πλείους τοῦ",
+        "evidence": {
+          "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n145.jpg",
+          "printed_page": 84,
+          "volume": 1
+        },
+        "original_reading": "πλείουστοῦ",
+        "original_source_text_sha256": "e2daa8c589aedffa459bda4a2e3d149f77de73acf98213691e8014cd94ef9e08",
+        "reason": "인쇄 본문에서 확인한 글자와 띄어쓰기.",
+        "type": "upstream_transcription_correction"
+      }
+    ],
+    "location": "1.12.4",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_reading": "δεινῷ καὶ",
+        "evidence_printed_page": 86,
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n147.jpg",
+        "explanation": "인쇄본 86쪽 첫 줄은 δεινῷ와 καὶ를 띄어 쓴다.",
+        "scope": "source_text",
+        "type": "missing_word_space",
+        "upstream_reading": "δεινῷκαὶ"
+      }
+    ],
+    "location": "1.13.2",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_reading": "ΥΠΟ",
+        "evidence_printed_page": 88,
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n149.jpg",
+        "explanation": "인쇄본 88쪽 답신 표제에는 ΥΠΟ로 인쇄되어 있다.",
+        "scope": "editorial_features[0].text",
+        "type": "keyboarded_heading_typo",
+        "upstream_reading": "ΥΗΟ"
+      }
+    ],
+    "location": "1.13.10",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_reading": "καὶ",
+        "evidence_printed_page": 94,
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n155.jpg",
+        "explanation": "인쇄본 94쪽 20절은 καὶ ὁ Θαδδαῖος로 시작한다. rend=\"merge\"는 전사 XML에 들어간 속성 문자열이다.",
+        "scope": "source_text and editorial_features[0].text",
+        "type": "TEI_attribute_literal_leaked_into_body",
+        "upstream_reading": "rend=\"merge\"καὶ"
+      }
+    ],
+    "location": "1.13.20",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_reading": "SIMONI DEO SANCTO,",
+        "evidence_image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n197.jpg",
+        "evidence_local_image_sha256": "8b0cd48eb51185ccb0d51387f48e59686e27c00d45c0bdce6de03ffd3ff4aa72",
+        "evidence_printed_page": "v.1.p.136",
+        "final_source_indexes": "78-80",
+        "language": "lat",
+        "reason": "인쇄본 136쪽은 로마 비문을 라틴 대문자 SIMONI DEO SANCTO로 싣는다. 전사 패킷은 이 세 단어를 그리스 문자로 옮겼다.",
+        "source_indexes": "78-80",
+        "text": "SIMONI DEO SANCTO",
+        "upstream_reading": "σιμονι δεο σανξτο,"
+      }
+    ],
+    "location": "2.13.3",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Περὶ διαθηκῶν α β·",
+        "before": "Περὶ διαθηκῶν ·",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n217.jpg",
+        "kind": "restored_inline_TEI_num",
+        "original_source_text_sha256": "f479b216e39ed4258fdd1bf7b9a94884b9da6313ac7ebc02efdbca870db6367c",
+        "printed_excerpt": "Περὶ διαθηκῶν αʹ βʹ·",
+        "printed_page": 156,
+        "reason": "원 XML의 num 요소와 인쇄면에 저술의 권수가 남아 있다. 추출문에서 빠진 권수 문자를 복원했다."
+      }
+    ],
+    "location": "2.18.3",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τοὺς ὀνείρους α β γ δ ε.",
+        "before": "τοὺς ὀνείρους .",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n219.jpg",
+        "kind": "restored_inline_TEI_num",
+        "original_source_text_sha256": "8b4ea737a14ad74d85a5b5f7f6dba31f04c698be9df3543804f412c63ced303b",
+        "printed_excerpt": "τοὺς ὀνείρους αʹ βʹ γʹ δʹ εʹ.",
+        "printed_page": 158,
+        "reason": "원 XML의 num 요소와 인쇄면에 저술의 권수가 남아 있다. 추출문에서 빠진 권수 문자를 복원했다."
+      }
+    ],
+    "location": "2.18.4",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ζητημάτων καὶ λύσεων α β γ δ ε,",
+        "before": "Ζητημάτων καὶ λύσεων ,",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n219.jpg",
+        "kind": "restored_inline_TEI_num",
+        "original_source_text_sha256": "e8766ac2699ea5e728a94feb528d9589b6352f8203915ad5d8790340b79697af",
+        "printed_excerpt": "Ζητημάτων καὶ λύσεων αʹ βʹ γʹ δʹ εʹ,",
+        "printed_page": 158,
+        "reason": "원 XML의 num 요소와 인쇄면에 저술의 권수가 남아 있다. 추출문에서 빠진 권수 문자를 복원했다."
+      },
+      {
+        "after": "κεφάλαια τῶν δέκα λόγων α β γ δ,",
+        "before": "κεφάλαια τῶν δέκα λόγων ,",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n219.jpg",
+        "kind": "restored_inline_TEI_num",
+        "original_source_text_sha256": "e8766ac2699ea5e728a94feb528d9589b6352f8203915ad5d8790340b79697af",
+        "printed_excerpt": "κεφάλαια τῶν δέκα λόγων αʹ βʹ γʹ δʹ,",
+        "printed_page": 158,
+        "reason": "원 XML의 num 요소와 인쇄면에 저술의 권수가 남아 있다. 추출문에서 빠진 권수 문자를 복원했다."
+      }
+    ],
+    "location": "2.18.5",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "evidence": "Loeb volume 1 printed page 208",
+        "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n269.jpg",
+        "kind": "word_boundary",
+        "new_reading": "δημοσίου θησαυροῦ",
+        "old_reading": "δημοσίουθησαυροῦ",
+        "reason": "인쇄면에서 구별된 두 단어의 경계를 복원했다.",
+        "upstream_source_text_sha256": "ac802500ba9290056d96fe62acfd2a6a9ab7915c592ae85d70bf2a5ead529bf8"
+      }
+    ],
+    "location": "3.6.15",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "evidence": "Loeb volume 1 printed page 214",
+        "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n275.jpg",
+        "kind": "word_boundary",
+        "new_reading": "δ’, ἐμόν,",
+        "old_reading": "δ’,ἐμόν,",
+        "reason": "인쇄면에서 구별된 두 단어의 경계를 복원했다.",
+        "upstream_source_text_sha256": "347b53aee4af4e0818f4d73a63e4c0cb148bc4c186fe5f451e32ad6968e26a59"
+      }
+    ],
+    "location": "3.6.26",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n277.jpg",
+        "new_reading": "σὺ ἐν τῇ ἡμέρᾳ",
+        "old_reading": "σὺ τῇ ἡμέρᾳ",
+        "original_source_text": "εἰ ἔγνως καί γε σὺ τῇ ἡμέρᾳ ταύτῃ τὰ πρὸς εἰρήνην σου· νῦν δὲ ἐκρύβη ἀπὸ ὀφθαλμῶν σου· ὅτι ἥξουσιν ἡμέραι ἐπὶ σέ, καὶ περιβαλοῦσίν σοι οἱ ἐχθροί σου χάρακα, καὶ περικυκλώσουσίν σε, καὶ συνέξουσίν σε πάντοθεν, καὶ ἐδαφιοῦσίν σε καὶ τὰ τέκνα σου,",
+        "printed_page": "v.1.p.216",
+        "reason": "인쇄본 216쪽은 σὺ 다음에 ἐν을 싣고 있다."
+      }
+    ],
+    "location": "3.7.4",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "evidence_page": "v.1.p.228",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n289.jpg",
+        "new_reading": "συγγράμμασιν",
+        "old_reading": "συγγράμμαοιν",
+        "reason": "인쇄 본문의 συγγράμμασιν과 대조한 전사 오자 교정.",
+        "upstream_source_text_sha256": "3e386e50c2138a38ef8c5a8fc252fec2e855b0e1c15c1f26d03b64a61425c846"
+      }
+    ],
+    "location": "3.10.6",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "evidence_page": "v.1.p.230",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n291.jpg",
+        "new_reading": "Ἀγρίππας ξβ ἔγραψεν",
+        "old_reading": "Ἀγρίππας ἔγραψεν",
+        "reason": "인쇄 본문과 XML num 요소에 있는 수사 ξβ(62)가 추출문에서 빠져 복원.",
+        "upstream_source_text_sha256": "de6030403f82e44804899e2785ba4457a9baa5d94e1b7f2fe7eada6e809e2ab1"
+      }
+    ],
+    "location": "3.10.11",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "evidence_page": "v.1.p.230",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n291.jpg",
+        "new_reading": "μετὰ τὴν Ἰακώβου",
+        "old_reading": "μετὰ τὴν. Ἰακώβου",
+        "reason": "인쇄 본문에는 τὴν 뒤 마침표가 없어 전사 중 들어간 부호를 교정.",
+        "upstream_source_text_sha256": "5c4bd8c81c061aa1056f61c1ba106cc6b4ea8cc35b6dda3cd88a7f79f223c314"
+      }
+    ],
+    "location": "3.11.1",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "evidence_page": "v.1.p.238",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n299.jpg",
+        "new_reading": "γῆς πλέθρων λθ μόνων",
+        "old_reading": "γῆς πλέθρων μόνων",
+        "reason": "인쇄 본문과 XML num 요소에 있는 수사 λθ(39)가 추출문에서 빠져 복원.",
+        "upstream_source_text_sha256": "9ce2448b31f7454faaf6f9d72bd17ee6406b0c9413b9ae8cff0135e06c83cc05"
+      }
+    ],
+    "location": "3.20.2",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_reading": "ἐσθῆτα",
+        "corrected_source_text_sha256": "72cebb647e509ea6755588e7f12b9eb90d86725938453e3717e83fc1394f7c61",
+        "evidence_printed_page": "v.1.p.246",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n307.jpg",
+        "reason": "인쇄본의 행말 ἐσθῆ-와 다음 행 τα는 한 단어 ἐσθῆτα이다. XML은 완성된 단어 뒤에 τα를 중복해서 싣는다.",
+        "upstream_reading": "ἐσθῆτα τα",
+        "upstream_source_text": "καταρρηξάμενος τὴν ἐσθῆτα τα ὁ ἀπόστολος καὶ μετὰ μεγάλης οἰμωγῆς πληξάμενος τὴν κεφαλήν, καλόν γε ἔφη φύλακα τῆς τἀδελφοῦ ψυχῆς κατέλιπον. ἀλλ’ ἵππος ἤδη μοι παρέστω, καὶ ἡγεμὼν γενέσθω μοί τις τῆς ὁδοῦ. ἤλαυνεν, ὥσπερ εἶχεν, αὐτόθεν ἀπὸ τῆς ἐκκλησίας.",
+        "upstream_source_text_sha256": "637529140f688d62446349d9bf76ffd1ce8eb08430bf9586dc81e659a40e76a9"
+      }
+    ],
+    "location": "3.23.14",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_reading": "ῥημάτων ἀρρήτων",
+        "corrected_source_text_sha256": "216edee89f0cb1306b78fbe4e8198b2fc43bff4793b363f2d91f19e341c849ba",
+        "evidence_printed_page": "v.1.p.250",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n311.jpg",
+        "reason": "인쇄본에는 두 단어 ῥημάτων ἀρρήτων이 보인다. XML의 결합·누락된 전사를 복원했다.",
+        "upstream_reading": "ῥημάἀρρήτων",
+        "upstream_source_text": "καὶ τοῦτ’ ἔπραττον ἅτε μείζονι καὶ ὑπὲρ ἄνθρωπον ἐξυπηρετούμενοι διακονίᾳ. ὁ γοῦν Παῦλος πάντων ἐν παρασκευῇ λόγων δυνατώτατος νοήμασίν τε ἱκανώτατος γεγονώς, οὐ πλέον τῶν βραχυτάτων ἐπιστολῶν γραφῇ παραδέδωκεν, καίτοι μυρία γε καὶ ἀπόρρητα λέγειν ἔχων, ἅτε τῶν μέχρις οὐρανοῦ τρίτου θεωρημάτων ἐπιψαύσας ἐπ’ αὐτόν τε τὸν θεοπρεπῆ παράδεισον ἀναρπασθεὶς καὶ τῶν ἐκεῖσε ῥημάἀρρήτων ἀξιωθεὶς ἐπακοῦσαι.",
+        "upstream_source_text_sha256": "143fb9d88cf4c6220f8ced902a9a28e2b30bc59b434499b291c5e8fd4a86a97a"
+      }
+    ],
+    "location": "3.24.4",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "evidence_page": "v.1.p.268",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n329.jpg",
+        "new_reading": "γάμος",
+        "old_reading": "γάρμος",
+        "performed_on": "2026-09-22",
+        "reason": "전자 전사의 철자와 인쇄본의 철자가 다름. 인쇄본 268쪽은 γάμος로 읽힘.",
+        "source_token_index": 66,
+        "upstream_source_text_sha256": "80f25266439b720af340f6bfcc3fe02e767fbb248f9fbb6b473c9b6527b6cce4"
+      }
+    ],
+    "location": "3.30.2",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "evidence_image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n337.jpg",
+        "evidence_printed_page": 276,
+        "new_reading": "ἤδη",
+        "old_reading": "ᾔδη",
+        "performed_on": "2026-09-22",
+        "reason": "인쇄면의 그리스어 본문과 대조한 전사 교정."
+      }
+    ],
+    "location": "3.32.8",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "evidence_image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n339.jpg",
+        "evidence_printed_page": 278,
+        "new_reading": "διὸ ἠγνόει",
+        "old_reading": "διὰ ἠγνόει",
+        "performed_on": "2026-09-22",
+        "reason": "인쇄면의 그리스어 본문과 대조한 전사 교정."
+      }
+    ],
+    "location": "3.33.3",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_reading": "Οὐαλεντίνου",
+        "evidence": {
+          "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n389.jpg",
+          "observation": "328쪽 3절의 이름은 Οὐαλεντίνου로 인쇄되어 있다.",
+          "printed_page": 328,
+          "volume": 1
+        },
+        "original_source_text": "Ὁ δ’ αὐτὸς Εἰρηναῖος τὸν ἄπειρον βυθὸν τῆς Οὐαλεντίνυ πολυπλανοῦς ὕλης εὐτονώτατα διαπλώσας, ἑρπετοῦ δίκην φωλεύοντος ἀπόκρυφον οὖσαν αὐτοῦ καὶ λεληθυῖαν ἀπογυμνοῖ τὴν κακίαν·",
+        "original_source_text_sha256": "103a2a9079a9fe7c62e72b030df288ffdc4a6c7d4997425942fdd850c5bca16d",
+        "type": "upstream_typographical_error",
+        "upstream_reading": "Οὐαλεντίνυ"
+      }
+    ],
+    "location": "4.11.3",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "image_sha256": "16a9ff5785fc7a9c2528da28f62ef6e7974d28a982ac5d2225b86bdc471c686e",
+        "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n421.jpg",
+        "new_reading": "ἡδονὴν",
+        "old_reading": "ἡσονὴν",
+        "printed_page": "v.1.p.360",
+        "reason": "인쇄본 360쪽에는 즐거움을 뜻하는 ἡδονὴν으로 적혀 있다.",
+        "source_text_after_sha256": "d362e155943dd20b7f4aee9437d0a9e22342eaeac11b29b5d850f8a3bdc7d64a",
+        "source_text_before": "κἀγὼ οὖν προσδοκῶ ὑπό τινος τῶν ὠνομασμένων ἐπιβουλευθῆναι καὶ ξύλῳ ἐντιναγῆναι ἢ κἂν ὑπὸ Κρήσκεντος τοῦ ἀφιλοσόφου καὶ φιλοκόμπου· οὐ γὰρ φιλόσοφον εἰπεῖν ἄξιον τὸν ἄνδρα, ὅς γε περὶ ὧν μὴ ἐπίσταται, δημοσίᾳ καταμαρτυρεῖ ὡς ἀθέων καὶ ἀσεβῶν Χριστιανῶν ὄντων, πρὸς χάριν καὶ ἡσονὴν τῶν πολλῶν τῶν πεπλανημένων τοῦτο πράττων.",
+        "source_text_before_sha256": "d566b1f362ec6c27b17bed69df5d397e76fe5d9fc307cd774b55f9b502565639"
+      }
+    ],
+    "location": "4.16.3",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "image_sha256": "24491a7b656f65e31ff50c43b455d49f2eb17f63aa7be62fb97a49bf00dbe78b",
+        "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n423.jpg",
+        "new_reading": "ἀνὴρ",
+        "old_reading": "ἁνὴρ",
+        "printed_page": "v.1.p.362",
+        "reason": "인쇄본 362쪽의 ἀνὴρ은 순기식으로 시작한다.",
+        "source_text_after_sha256": "7573e67ad86f3ce504569b85430246a3b9a48a7e56665dd848d123b8d72f549f",
+        "source_text_before": "εἰ δὲ καὶ ἐγνώσθησαν ὑμῖν αἱ ἐρωτήσεις μου καὶ αἱ ἐκείνου ἀποκρίσεις, φανερὸν ὑμῖν ἐστιν ὅτι οὐδὲν τῶν ἡμετέρων ἐπίσταται· ἢ εἰ ἐπίσταται, διὰ τοὺς ἀκούοντας δὲ οὐ τολμᾷ λέγειν, ὡς πρότερον ἔφην, οὐ φιλόσοφος, ἀλλὰ φιλόδοξος ἁνὴρ δείκνυται, ὅς γε μηδὲ τὸ Σωκρατικόν, ἀξιέραστον ὄν, τιμᾷ.",
+        "source_text_before_sha256": "631ff7ce1922009e036678beeb7273991002995febe4d3bcd9cc84875b40c9dc"
+      }
+    ],
+    "location": "4.16.6",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "image_sha256": "141c0bd3791d1d62f1b7eef1ee0d6c7cadc0234c6c48f7ae77003d3ca2ff3fe3",
+        "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n433.jpg",
+        "new_reading": "προστάντος,",
+        "old_reading": "προστάντος.",
+        "printed_page": "v.1.p.372",
+        "reason": "인쇄본 372쪽은 쉼표 다음에 20장 첫 절이 이어진다.",
+        "source_text_after_sha256": "d5e26795d8d7c652fbe8316efca999cda8f0df0975fdd7cc4caaac7d384e9b06",
+        "source_text_before": "Ἤδη δὲ εἰς ὄγδοον ἐλαυνούσης ἔτος τῆς δηλουμένης ἡγεμονίας, τῆς Ῥωμαίων ἐκκλησίας τὴν ἐπισκοπὴν Ἀνίκητον ἕνδεκα τοῖς πᾶσιν ἔτεσιν διελθόντα Σωτὴρ διαδέχεται, ἀλλὰ καὶ τῆς Ἀλεξανδρέων παροικίας Κελαδίωνος τέτταρσιν ἐπὶ δέκα ἔτεσιν προστάντος.",
+        "source_text_before_sha256": "a500eda04ee7d3421b0403212ff4844ce52ade0b103e66e510c42c66461ab015"
+      }
+    ],
+    "location": "4.19.1",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_text": "Καὶ πρῶτόν γε περὶ Διονυσίου φατέον ὅτι τε τῆς ἐν Κορίνθῳ παροικίας τὸν τῆς ἐπισκοπῆς ἐγκεχείριστο θρόνον, καὶ ὡς τῆς ἐνθέου φιλοπονίας οὐ μόνοις τοῖς ὑπ’ αὐτόν, ἀλλ’ ἤδη καὶ τοῖς ἐπὶ τῆς ἀλλοδαπῆς ἀφθόνως ἐκοινώνει, χρησιμώτατον ἅπασιν ἑαυτὸν καθιστὰς ἐν αἷς ὑπετυποῦτο καθολικαῖς πρὸς τὰς ἐκκλησίας ἐπιστολαῖς·",
+        "corrected_text_sha256": "20b793fd0a2f3f101ed15638536210378cde6dcb73d1105650b6dba6b29c608b",
+        "evidence": {
+          "checked_on": "2026-09-22",
+          "image_sha256": "da6dd5fed2c4fe6446b1efe51f34b6826ce2117e65c0cd0b77cfb3e786905818",
+          "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n439.jpg",
+          "printed_page": 378,
+          "volume": 1
+        },
+        "original_text": "Καὶ πρῶτόν γε περὶ Διονυσίου φατέον ὅτι τε τῆς ἐν Κορίνθῳ παροικίας τὸν τῆς ἐπισκοπῆς ἐγκεχείριστο θρόνον, καὶ ὡς τῆς ἐνθέου φιλοπονίας οὐ μόνοις τοῖς ὑπ’ αὐτόν, ἀλλ’ ἤδη καὶ τοῖς ἐπὶ ἐπιστολαῖς· τῆς ἀλλοδαπῆς ἀφθόνως ἐκοινώνει, χρησιμώτατον ἅπασιν ἑαυτὸν καθιστὰς ἐν αἷς ὑπετυποῦτο καθολικαῖς πρὸς τὰς ἐκκλησίας",
+        "original_text_sha256": "57c10a9f7291a1e95d2610723e22065824d59010d4cde90b019b461e238c69f0",
+        "reason": "인쇄면에서 ἐπιστολαῖς·는 πρὸς τὰς ἐκκλησίας 다음에 온다. 전사 입력에서 ἐπὶ 다음으로 이동한 단어를 본래 위치로 되돌렸다."
+      }
+    ],
+    "location": "4.23.1",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_text": "Τοῦ δ’ Ἀπολιναρίου πολλῶν παρὰ πολλοῖς σῳζομένων τὰ εἰς ἡμᾶς ἐλθόντα ἐστὶν τάδε· λόγος ὁ πρὸς τὸν προειρημένον βασιλέα καὶ Πρὸς Ἕλληνας συγγράμματα πέντε καὶ Περὶ ἀληθείας αʹ βʹ καὶ Πρὸς Ἰουδαίους αʹ βʹ καὶ ἃ μετὰ ταῦτα συνέγραψε κατὰ τῆς τῶν Φρυγῶν αἱρέσεως, μετ’ οὐ πολὺν καινοτομηθείσης χρόνον, τότε γε μὴν ὥσπερ ἐκφύειν ἀρχομένης, ἔτι τοῦ Μοντανοῦ ἅμα ταῖς αὐτοῦ ψευδοπροφήτισιν ἀρχὰς τῆς παρεκτροπῆς ποιουμένου.",
+        "corrected_text_sha256": "d35543a6ddcea2c0ae7fb4385560ed161141dc0d5bb196bfcfe5e15749759450",
+        "evidence": {
+          "checked_on": "2026-09-22",
+          "image_sha256": "64db22d812483e6881ad3d1827ceb54bc59ddf11bedf876b1064a767015f9518",
+          "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n455.jpg",
+          "printed_page": 394,
+          "volume": 1
+        },
+        "original_text": "Τοῦ δ’ Ἀπολιναρίου πολλῶν παρὰ πολλοῖς σῳζομένων τὰ εἰς ἡμᾶς ἐλθόντα ἐστὶν τάδε· λόγος ὁ πρὸς τὸν προειρημένον βασιλέα καὶ Πρὸς Ἕλληνας συγγράμματα πέντε καὶ Περὶ ἀληθείας καὶ Πρὸς Ἰουδαίους καὶ ἃ μετὰ ταῦτα συνέγραψε κατὰ τῆς τῶν Φρυγῶν αἱρέσεως, μετ’ οὐ πολὺν καινοτομηθείσης χρόνον, τότε γε μὴν ὥσπερ ἐκφύειν ἀρχομένης, ἔτι τοῦ Μοντανοῦ ἅμα ταῖς αὐτοῦ ψευδοπροφήτισιν ἀρχὰς τῆς παρεκτροπῆς ποιουμένου.",
+        "original_text_sha256": "8a0b3605f755abde2768aa21da8f3b31fd59ab82daae66037eac8f39e42cbbb2",
+        "reason": "인쇄면과 XML num 요소에 있는 권수 αʹ βʹ 두 쌍이 추출문에서 빠졌다. 『진리에 관하여』와 『유대인들에게』 각각 제1권과 제2권을 나타낸다."
+      }
+    ],
+    "location": "4.27.1",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "adopted_reading": "Χριστιανή",
+        "evidence_image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n475.jpg",
+        "evidence_printed_page": "v.1.p.414",
+        "reason": "인쇄본 414쪽의 인용문은 별표 없이 대문자 Χριστιανή로 시작한다.",
+        "token_index": 23,
+        "upstream_reading": "*χριστιανή",
+        "upstream_source_text": "ἀλλ’ ἡ μακαρία ὡς γενναῖος ἀθλητὴς ἀνενέαζεν ἐν τῇ ὁμολογίᾳ, καὶ ἦν αὐτῆς ἀνάληψις καὶ ἀνάπαυσις καὶ ἀναλγησία τῶν συμβαινόντων τὸ λέγειν ὅτι *χριστιανή εἰμι καὶ παρ’ ἡμῖν οὐδὲν φαῦλον γίνεται.",
+        "upstream_source_text_sha256": "d31244c510340a5f5ece7f8844cef700a68d51c933b6e3c373ed27876a94c550"
+      }
+    ],
+    "location": "5.1.19",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "adopted_reading": "ταύτην.",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n501.jpg",
+        "original_reading": "ταύτην.)",
+        "original_source_text_sha256": "cd07adb12b4a260fa7a9453297ce859b29e7a348899b701c4f715f101dbaafc1",
+        "printed_page": "v.1.p.440",
+        "reason": "인쇄 440쪽에서 이 자리는 기도를 닫는 인용부호이며 닫는 괄호가 없다. 전사 문자열의 불필요한 괄호를 바로잡았다."
+      }
+    ],
+    "location": "5.2.5",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_text": "ὡρμημένον.",
+        "evidence_image_sha256": "5c714e87f4aeb4184fddbd2c3864e9126a4aa8bd522ad5ac2fc3a3d638e042f8",
+        "evidence_image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n523.jpg",
+        "evidence_printed_page": 462,
+        "original_text": "ὡρμημένον",
+        "reason": "인쇄본 문장 끝의 마침표를 복원했다.",
+        "upstream_source_text_sha256": "58c07c6817d6886d639b52e6c35440634b9fe3aa796a8d6a17b6a44ee217b673"
+      }
+    ],
+    "location": "5.10.1",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_text": "φοιτητῇ",
+        "evidence_image_sha256": "57fe0b18a980f21f45e49b5f14264fbf8679d8ff77af01fdcad73e2f52910b32",
+        "evidence_image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n525.jpg",
+        "evidence_printed_page": 464,
+        "original_text": "φοιτῇ",
+        "reason": "인쇄본은 φοιτητῇ로 읽힌다. XML 전사에서 τη 두 글자가 빠졌다.",
+        "upstream_source_text_sha256": "adaa38c8b27fe387d4b47d788da9efd4cd578c9879617c0551a68c5cd5a7894d"
+      }
+    ],
+    "location": "5.11.1",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_reading": "ἀληθείας",
+        "evidence_image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n535.jpg",
+        "evidence_printed_page": "v.1.p.474",
+        "reason": "인쇄본 474쪽 첫 줄의 속격 ἀληθείας에 맞추어 끝 시그마를 복원했다.",
+        "source_token_index": 14,
+        "upstream_reading": "ἀληθεία"
+      }
+    ],
+    "location": "5.16.5",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "confidence": "confirmed_against_print",
+        "defect_type": "upstream_word_fusion",
+        "location": "5.16.20",
+        "old_sha256": "801114f368ac80ccae02c134bf931b1c0532b71280cd61567d24eeeddb0b6118",
+        "original": "Καὶ ταῦτα δ’ ἐκ τοῦ δευτέρου συγγράμματος. καὶ ἀπὸ τοῦ τρίτου δὲ σμικρὰς παραθήσομαι λέξεις, δι’ὧν πρὸς τοὺς αὐχοῦντας ὡς ἄρα πλείους καὶ αὐτῶν μεμαρτυρηκότες εἶεν, ταῦτά φησιν· ὅταν τοίνυν ἐν πᾶσι τοῖς εἰρημένοις ἐλεγχθέντες ἀπορήσωσιν, ἐπὶ τοὺς μάρτυρας καταφεύγειν πειρῶνται, λέγοντες πολλοὺς ἔχειν μάρτυρας καὶ τοῦτ’ εἶναι τεκμήριον πιστὸν τῆς δυνάμεως τοῦ παρ’ αὐτοῖς λεγομένου προφητικοῦ πνεύματος. τὸ δ’ ἐστὶν ἄρα, ὡς ἔοικεν, παντὸς μᾶλλον οὐκ ἀληθές.",
+        "original_span": "δι’ὧν",
+        "print_evidence": [
+          {
+            "image_inspected": true,
+            "image_local_path": "/tmp/patristics-completion/eusebius_inline_images/v.1.p.482.jpg",
+            "image_sha256": "48cbe68eb7455cf00ee6461c6cf23e84f35fee3c541d6e80bf35cb0daada4b09",
+            "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n543.jpg",
+            "page_mapping_evidence": "IA scandata leafNum minus1; verified with printed6/480 image anchors",
+            "page_n": 543,
+            "printed_page": 482,
+            "printed_page_key": "v.1.p.482",
+            "scandata_leaf_num": 544,
+            "volume": 1
+          }
+        ],
+        "printed_pages": [
+          "v.1.p.480",
+          "v.1.p.482"
+        ],
+        "proposed_sha256": "40732f24cd3cc6cf8ff773b3bbf35f713db57f2198532f4636c76074390f31dd",
+        "proposed_source_text": "Καὶ ταῦτα δ’ ἐκ τοῦ δευτέρου συγγράμματος. καὶ ἀπὸ τοῦ τρίτου δὲ σμικρὰς παραθήσομαι λέξεις, δι’ ὧν πρὸς τοὺς αὐχοῦντας ὡς ἄρα πλείους καὶ αὐτῶν μεμαρτυρηκότες εἶεν, ταῦτά φησιν· ὅταν τοίνυν ἐν πᾶσι τοῖς εἰρημένοις ἐλεγχθέντες ἀπορήσωσιν, ἐπὶ τοὺς μάρτυρας καταφεύγειν πειρῶνται, λέγοντες πολλοὺς ἔχειν μάρτυρας καὶ τοῦτ’ εἶναι τεκμήριον πιστὸν τῆς δυνάμεως τοῦ παρ’ αὐτοῖς λεγομένου προφητικοῦ πνεύματος. τὸ δ’ ἐστὶν ἄρα, ὡς ἔοικεν, παντὸς μᾶλλον οὐκ ἀληθές.",
+        "proposed_span": "δι’ ὧν",
+        "reason": "The first printed line separates δι’ and ὧν.",
+        "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div/tei:div[@subtype='book'][@n='5']/tei:div[@subtype='chapter'][@n='16']/tei:div[@subtype='section'][@n='20']"
+      }
+    ],
+    "location": "5.16.20",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "confidence": "confirmed_against_print",
+        "corrected_reading": "παροικιῶν",
+        "defect_type": "upstream_TEI_word_transcription_error",
+        "evidence_image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n571.jpg",
+        "evidence_printed_page": "v.1.p.510",
+        "location": "5.24.15",
+        "old_sha256": "35a781754a8c801179564d01231ccca8c536882f4253c752fb84c6ee5bed929a",
+        "original": "καὶ οὐδέποτε διὰ τὸ εἶδος τοῦτο ἀπεβλήθησάν τινες, ἀλλ’ αὐτοὶ μὴ τηροῦντες οἱ πρὸ σοῦ πρεσβύτεροι τοῖς ἀπὸ τῶν παροικιῶ τηροῦσιν ἔπεμπον εὐχαριστίαν,",
+        "original_reading": "παροικιῶ",
+        "original_source_text": "καὶ οὐδέποτε διὰ τὸ εἶδος τοῦτο ἀπεβλήθησάν τινες, ἀλλ’ αὐτοὶ μὴ τηροῦντες οἱ πρὸ σοῦ πρεσβύτεροι τοῖς ἀπὸ τῶν παροικιῶ τηροῦσιν ἔπεμπον εὐχαριστίαν,",
+        "original_source_text_sha256": "35a781754a8c801179564d01231ccca8c536882f4253c752fb84c6ee5bed929a",
+        "print_evidence": [
+          {
+            "image_sha256": "7688f064505edf7a31159cc886edb703ec87866504cc1b6eec2460437ca29814",
+            "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n571.jpg",
+            "local_image": "/tmp/patristics-completion/eus05_3/middle/tail/n571.jpg",
+            "page_n": 571,
+            "printed_page": 510,
+            "scope": "담당 구절의 그리스어 본문, 절 경계와 인용 경계를 대조함.",
+            "volume": 1
+          }
+        ],
+        "proposed_sha256": "f28578f74cf369df860d41c5f7b76d1002e78ad69deeaff01c0c03448efa014e",
+        "proposed_source_text": "καὶ οὐδέποτε διὰ τὸ εἶδος τοῦτο ἀπεβλήθησάν τινες, ἀλλ’ αὐτοὶ μὴ τηροῦντες οἱ πρὸ σοῦ πρεσβύτεροι τοῖς ἀπὸ τῶν παροικιῶν τηροῦσιν ἔπεμπον εὐχαριστίαν,",
+        "reason": "인쇄본 510쪽의 παροικιῶν에서 끝 글자 ν가 전사문에 빠져 있다.",
+        "source_token_index": 19
+      }
+    ],
+    "location": "5.24.15",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "confidence": "confirmed_against_TEI_and_print",
+        "defect_type": "dropped_tei_num",
+        "diff": [
+          "- .",
+          "+ ρν."
+        ],
+        "location": "5.28.10",
+        "num_texts": [
+          "ρν"
+        ],
+        "old_sha256": "435b30bcef9ace07cba52fc3ff020933747800d70d30fa32dbbfee655ad5ae1b",
+        "original": "ἀνεπείσθη δὲ ὁ Νατάλιος ὑπ’ αὐτῶν ἐπὶ σαλαρίῳ ἐπίσκοπος κληθῆναι ταύτης τῆς αἱρέσεως, ὥστε λαμβάνειν παρ’ αὐτῶν μηνιαῖα δηνάρια .",
+        "print_evidence": [
+          {
+            "checked_on": "2026-09-22",
+            "image_sha256": "2697549c01e17247745b470a7a893fb8fe4d979734bbd38be1004bc19ccc7252",
+            "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n581.jpg",
+            "local_path": "/tmp/patristics-completion/eusebius_extraction_audit/vol1-p520-n581.jpg",
+            "printed_page": 520,
+            "volume": 1
+          }
+        ],
+        "print_note": "Printed numerals confirmed; retain bare Greek numeral text from TEI num elements. The printed numeral mark is supplied typographically by the edition.",
+        "printed_pages": [
+          "v.1.p.520"
+        ],
+        "proposed_sha256": "0a5088daa9b56cc3f03640eb5b9feb69695281e6ea82f444f7b8b4b1a1316011",
+        "proposed_source_text": "ἀνεπείσθη δὲ ὁ Νατάλιος ὑπ’ αὐτῶν ἐπὶ σαλαρίῳ ἐπίσκοπος κληθῆναι ταύτης τῆς αἱρέσεως, ὥστε λαμβάνειν παρ’ αὐτῶν μηνιαῖα δηνάρια ρν.",
+        "reason": "extract_eusebius.py collect excludes num tags with substantive author text; restore every num value in XML order.",
+        "source_xml_fragment_sha256": "6e1fc054552ac98cb092bb4012d768fd479d425a5525e5dd3e15caa8ef30973f",
+        "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div/tei:div[@subtype='book'][@n='5']/tei:div[@subtype='chapter'][@n='28']/tei:div[@subtype='section'][@n='10']"
+      }
+    ],
+    "location": "5.28.10",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "confidence": "confirmed_against_print",
+        "defect_type": "upstream_TEI_omits_printed_body_clause",
+        "location": "5.28.15",
+        "old_sha256": "95a1baeedad12d307dfe6d56947a69a966ff6ac349ddd0b39e7c7af81de4952a",
+        "original": "οἱ δὲ ταῖς τῶν ἀπίστων τέχναις εἰς τὴν τῆς αἱρέσεως αὐτῶν γνώμην ἀποχρώμενοι καὶ τῇ τῶν ἀθέων πανουργίᾳ ὅτι μηδὲ ἐγγὺς πίστεως ὑπάρχουσιν, τί δεῖ καὶ λέγειν; διὰ τοῦτο ταῖς θείαις γραφαῖς ἀφόβως ἐπέβαλον τὰς χεῖρας, λέγοντες αὐτὰς διωρθωκέναι.",
+        "print_evidence": [
+          {
+            "checked_on": "2026-09-22",
+            "image_sha256": "77d2de1ff20e804c8b3085917a5f9477624e8f9b3c9401dbdfac083b4fca252f",
+            "image_url": "https://archive.org/download/ecclesiasticalhi01euseuoft/page/n583.jpg",
+            "local_path": "/tmp/patristics-completion/eus05_3/images/p522.jpg",
+            "printed_page": 522,
+            "volume": 1
+          }
+        ],
+        "proposed_sha256": "d9658247196fe798b64bd1fd202aa98f4497f301f66d66bbf78b10a88bb589fa",
+        "proposed_source_text": "οἱ δὲ ταῖς τῶν ἀπίστων τέχναις εἰς τὴν τῆς αἱρέσεως αὐτῶν γνώμην ἀποχρώμενοι καὶ τῇ τῶν ἀθέων πανουργίᾳ τὴν ἁπλῆν τῶν θείων γραφῶν πίστιν καπηλεύοντες, ὅτι μηδὲ ἐγγὺς πίστεως ὑπάρχουσιν, τί δεῖ καὶ λέγειν; διὰ τοῦτο ταῖς θείαις γραφαῖς ἀφόβως ἐπέβαλον τὰς χεῖρας, λέγοντες αὐτὰς διωρθωκέναι.",
+        "reason": "Printed volume 1 page 522 includes the seven-word clause τὴν ἁπλῆν τῶν θείων γραφῶν πίστιν καπηλεύοντες between πανουργίᾳ and ὅτι; the upstream XML fragment omits it.",
+        "restored_text": "τὴν ἁπλῆν τῶν θείων γραφῶν πίστιν καπηλεύοντες"
+      }
+    ],
+    "location": "5.28.15",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_reading": "Α Περὶ",
+        "evidence": {
+          "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n15.jpg",
+          "printed_page": 2,
+          "volume": 2
+        },
+        "reason": "인쇄본 2쪽은 장 번호 Α와 표제 첫 단어 Περὶ 사이를 띄운다. XML의 num 요소 뒤에 공백이 빠졌다.",
+        "upstream_reading": "ΑΠερὶ",
+        "upstream_source_text": "ΑΠερὶ τοῦ κατὰ Σευῆρον διωγμοῦ.",
+        "upstream_source_text_sha256": "870224a6f41a5f6e5d87d4b22f1c1592388d4f05dd8233da3242bf05db344268"
+      }
+    ],
+    "location": "6.arg.1",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀναπ⟨ιμπ⟩λῶν",
+        "before": "ἀναπ⟨ιμπ⟩ λῶν",
+        "checked_on": "2026-09-22",
+        "image_sha256": "9e15ec2f249697730091724194d953a819da82d2ec3f1dd31cf5219553ffbc1e",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n33.jpg",
+        "reason": "Join the single word across an inline editorial supplement; print II p20 shows ἀναπ<ιμπ>λῶν."
+      }
+    ],
+    "location": "6.3.9",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "evidence": "제2권 인쇄40쪽에서 παρελάβομεν. 뒤의 ἐγὼ가 별도 단어로 인쇄되어 있다.",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n53.jpg",
+        "new_reading": "παρελάβομεν. ἐγὼ",
+        "old_reading": "παρελάβομεν.ἐγὼ",
+        "printed_page": "v.2.p.40",
+        "type": "word_boundary_restored",
+        "upstream_source_text_sha256": "8bcb275bd190b8ddc4813b245e4f2e46c15dde1292f728e4d065a22ae160876b"
+      }
+    ],
+    "location": "6.12.3",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "confidence": "confirmed_against_print",
+        "defect_type": "upstream_word_fusion",
+        "location": "6.19.5",
+        "old_sha256": "b210c980a44fba71d3d65eb7d0edc98b31015c52d0ddf6106558e6f4e59ffe3f",
+        "original": "Εἶτα μεθ’ ἕτερά φησιν· ὁ δὲ τρόπος τῆς ἀτοπίας ἐξ ἀνδρὸς ᾧ κἀγὼ κομιδῇ νέος ὢν ἔτι ἐντετύχηκα, σφόδρα εὐδοκιμήσαντος καὶ ἔτι δι’ὧν καταλέλοιπεν συγγραμμάτων εὐδοκιμοῦντος, παρειλήφθω, Ὠριγένους, οὗ κλέος παρὰ τοῖς διδασκάλοις τούτων τῶν λόγων μέγα διαδέδοται.",
+        "original_span": "δι’ὧν",
+        "print_evidence": [
+          {
+            "image_inspected": true,
+            "image_local_path": "/tmp/patristics-completion/eusebius_inline_images/v.2.p.58.jpg",
+            "image_sha256": "1c0114e604f86ce64a1e89b55a0b392edf9ab311ac8325f56f73f030dee6b5e1",
+            "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n71.jpg",
+            "page_mapping_evidence": "IA scandata leafNum minus1; verified with printed6/480 image anchors",
+            "page_n": 71,
+            "printed_page": 58,
+            "printed_page_key": "v.2.p.58",
+            "scandata_leaf_num": 72,
+            "volume": 2
+          }
+        ],
+        "printed_pages": [
+          "v.2.p.56",
+          "v.2.p.58"
+        ],
+        "proposed_sha256": "9dcf6c73559b41c38597ef4292d4857488ec2c0f5b99028d2e0cfd2f36fa0640",
+        "proposed_source_text": "Εἶτα μεθ’ ἕτερά φησιν· ὁ δὲ τρόπος τῆς ἀτοπίας ἐξ ἀνδρὸς ᾧ κἀγὼ κομιδῇ νέος ὢν ἔτι ἐντετύχηκα, σφόδρα εὐδοκιμήσαντος καὶ ἔτι δι’ ὧν καταλέλοιπεν συγγραμμάτων εὐδοκιμοῦντος, παρειλήφθω, Ὠριγένους, οὗ κλέος παρὰ τοῖς διδασκάλοις τούτων τῶν λόγων μέγα διαδέδοται.",
+        "proposed_span": "δι’ ὧν",
+        "reason": "Print places δι’ at the end of one line and ὧν at the beginning of the next.",
+        "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div/tei:div[@subtype='book'][@n='6']/tei:div[@subtype='chapter'][@n='19']/tei:div[@subtype='section'][@n='5']"
+      }
+    ],
+    "location": "6.19.5",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "adopted_reading": "καὶ",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n83.jpg",
+        "printed_page": "v.2.p.70",
+        "reason": "인쇄본 2권 70쪽의 철자와 악센트",
+        "source_token_index": 3,
+        "upstream_reading": "και"
+      },
+      {
+        "adopted_reading": "Ἀλεξανδρείας",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n83.jpg",
+        "printed_page": "v.2.p.70",
+        "reason": "인쇄본 2권 70쪽의 철자와 악센트",
+        "source_token_index": 15,
+        "upstream_reading": "Ἀλεξανρδείας"
+      }
+    ],
+    "location": "6.24.3",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_text": "Εἶτα μετά τινα ἐπιφέρει λέγων· εἰσὶν δὲ αἱ εἴκοσι δύο βίβλοι καθ’ Ἑβραίους αἵδε· ἡ παρ’ ἡμῖν Γένεσις ἐπιγεγραμμένη, παρὰ δ’ Ἑβραίοις ἀπὸ τῆς ἀρχῆς τῆς βίβλου Βρησιθ, ὅπερ ἐστὶν ἐν ἀρχῇ· Ἔξοδος, Ουελλεσμωθ, ὅπερ ἐστὶν ταῦτα τὰ ὀνόματα· Λευιτικόν, Ουϊκρα, καὶ ἐκάλεσεν· Ἀριθμοί, Αμμεσφεκωδειμ· Δευτερονόμιον, Ελλεαδδεβαρειμ, οὗτοι οἱ λόγοι· Ἰησοῦς υἱὸς Ναυῆ, Ιωσουεβεννουν· Κριταί, Ῥούθ, παρ’ αὐτοῖς ἐν ἑνί, Σωφτειμ· Βασιλειῶν α β, παρ’ αὐτοῖς ἕν, Σαμουηλ, ὁ θεόκλητος· Βασιλειῶν γ δ ἐν ἑνί, Ουαμμελχδαυιδ, ὅπερ ἐστὶν βασιλεία Δαυίδ· Παραλειπομένων α β ἐν ἑνί, Δαβρηϊαμειν ὅπερ ἐστὶν λόγοι ἡμερῶν· Ἔζρας α β ἐν ἑνί, Εζρα, ὅ ἐστιν βοηθός· βίβλος Ψαλμῶν, Σφαρθελλειμ· Σολομῶνος παροιμίαι, Μελωθ· Ἐκκλησιαστής, Κωελθ· Ἆισμα ᾀσμάτων (οὐ γάρ, ὡς ὑπολαμβάνουσίν τινες, Ἄισματα ᾀσμάτων), Σιρασσιρειμ· Ἡσαΐας, Ιεσσια· Ἱερεμίας σὺν Θρήνοις καὶ τῇ Ἐπιστολῇ ἐν ἑνί, Ιερεμια· Δανιήλ, Δανιηλ· Ἰεζεκιήλ, Ιεζεκιηλ· Ἰώβ, Ιωβ· Ἐσθήρ, Εσθηρ. ἔξω δὲ τούτων ἐστὶ τὰ Μακκαβαϊκά, ἅπερ ἐπιγέγραπται Σαρβηθσαβαναιελ.",
+        "evidence": "The raw XML num elements and printed volume 2 page 72 contain Βασιλειῶν α β, Βασιλειῶν γ δ, Παραλειπομένων α β, Ἔζρας α β. The source packet extraction omitted the eight book numerals.",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n85.jpg",
+        "kind": "TEI_num_extraction_omission",
+        "old_text": "Εἶτα μετά τινα ἐπιφέρει λέγων· εἰσὶν δὲ αἱ εἴκοσι δύο βίβλοι καθ’ Ἑβραίους αἵδε· ἡ παρ’ ἡμῖν Γένεσις ἐπιγεγραμμένη, παρὰ δ’ Ἑβραίοις ἀπὸ τῆς ἀρχῆς τῆς βίβλου Βρησιθ, ὅπερ ἐστὶν ἐν ἀρχῇ· Ἔξοδος, Ουελλεσμωθ, ὅπερ ἐστὶν ταῦτα τὰ ὀνόματα· Λευιτικόν, Ουϊκρα, καὶ ἐκάλεσεν· Ἀριθμοί, Αμμεσφεκωδειμ· Δευτερονόμιον, Ελλεαδδεβαρειμ, οὗτοι οἱ λόγοι· Ἰησοῦς υἱὸς Ναυῆ, Ιωσουεβεννουν· Κριταί, Ῥούθ, παρ’ αὐτοῖς ἐν ἑνί, Σωφτειμ· Βασιλειῶν , παρ’ αὐτοῖς ἕν, Σαμουηλ, ὁ θεόκλητος· Βασιλειῶν ἐν ἑνί, Ουαμμελχδαυιδ, ὅπερ ἐστὶν βασιλεία Δαυίδ· Παραλειπομένων ἐν ἑνί, Δαβρηϊαμειν ὅπερ ἐστὶν λόγοι ἡμερῶν· Ἔζρας ἐν ἑνί, Εζρα, ὅ ἐστιν βοηθός· βίβλος Ψαλμῶν, Σφαρθελλειμ· Σολομῶνος παροιμίαι, Μελωθ· Ἐκκλησιαστής, Κωελθ· Ἆισμα ᾀσμάτων (οὐ γάρ, ὡς ὑπολαμβάνουσίν τινες, Ἄισματα ᾀσμάτων), Σιρασσιρειμ· Ἡσαΐας, Ιεσσια· Ἱερεμίας σὺν Θρήνοις καὶ τῇ Ἐπιστολῇ ἐν ἑνί, Ιερεμια· Δανιήλ, Δανιηλ· Ἰεζεκιήλ, Ιεζεκιηλ· Ἰώβ, Ιωβ· Ἐσθήρ, Εσθηρ. ἔξω δὲ τούτων ἐστὶ τὰ Μακκαβαϊκά, ἅπερ ἐπιγέγραπται Σαρβηθσαβαναιελ.",
+        "printed_page": "v.2.p.72"
+      }
+    ],
+    "location": "6.25.2",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_text": "Ἑβραϊκοῖς",
+        "evidence": "Printed volume 2 page 74 has a circumflex over the final iota in Ἑβραϊκοῖς. The keyboarded TEI has a diaeresis at that position.",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n87.jpg",
+        "kind": "keyboarded_accent_error",
+        "old_text": "Ἑβραϊκοϊς",
+        "printed_page": "v.2.p.74"
+      }
+    ],
+    "location": "6.25.4",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "confidence": "confirmed_against_print",
+        "defect_type": "upstream_word_fusion",
+        "location": "6.26.1",
+        "old_sha256": "81d685bdc38293c0dc1a55c14f9d2e4626a918765c4b2ebb0e297452267da31b",
+        "original": "Ἀλλὰ ταῦτα μὲν ὧδε ἐχέτω· ἔτος δ’ ἦν τοῦτο δέκατον τῆς δηλουμένης ἡγεμονίας, καθ’ὃ τὴν ἀπ’ Ἀλεξανδρείας μετανάστασιν ἐπὶ τὴν Καισάρειαν ὁ Ὠριγένης ποιησάμενος, Ἡρακλᾷ τὸ τῆς κατηχήσεως τῶν αὐτόθι διδασκαλεῖον καταλείπει· οὐκ εἰς μακρὸν δὲ καὶ Δημήτριος ὁ τῆς Ἀλεξανδρέων ἐκκλησίας ἐπίσκοπος τελευτᾷ, ἐφ’ ὅλοις ἔτεσι τρισὶ καὶ τεσσαράκοντα τῇ λειτουργίᾳ διαρκέσας· διαδέχεται δ’ αὐτὸν ὁ Ἡρακλᾶς.",
+        "original_span": "καθ’ὃ",
+        "print_evidence": [
+          {
+            "image_inspected": true,
+            "image_local_path": "/tmp/patristics-completion/eusebius_inline_images/v.2.p.78.jpg",
+            "image_sha256": "d8244508a7edf85ed8b80fe221d91b601ccabac9ef4e0c8272ada32c794da2ee",
+            "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n91.jpg",
+            "page_mapping_evidence": "IA scandata leafNum minus1; verified with printed6/480 image anchors",
+            "page_n": 91,
+            "printed_page": 78,
+            "printed_page_key": "v.2.p.78",
+            "scandata_leaf_num": 92,
+            "volume": 2
+          }
+        ],
+        "printed_pages": [
+          "v.2.p.78"
+        ],
+        "proposed_sha256": "d3a6c4929b21bf720350f63db87fe765c5b9f6b03e8052ee0790e818455b3b0f",
+        "proposed_source_text": "Ἀλλὰ ταῦτα μὲν ὧδε ἐχέτω· ἔτος δ’ ἦν τοῦτο δέκατον τῆς δηλουμένης ἡγεμονίας, καθ’ ὃ τὴν ἀπ’ Ἀλεξανδρείας μετανάστασιν ἐπὶ τὴν Καισάρειαν ὁ Ὠριγένης ποιησάμενος, Ἡρακλᾷ τὸ τῆς κατηχήσεως τῶν αὐτόθι διδασκαλεῖον καταλείπει· οὐκ εἰς μακρὸν δὲ καὶ Δημήτριος ὁ τῆς Ἀλεξανδρέων ἐκκλησίας ἐπίσκοπος τελευτᾷ, ἐφ’ ὅλοις ἔτεσι τρισὶ καὶ τεσσαράκοντα τῇ λειτουργίᾳ διαρκέσας· διαδέχεται δ’ αὐτὸν ὁ Ἡρακλᾶς.",
+        "proposed_span": "καθ’ ὃ",
+        "reason": "Print places καθ’ at the end of one line and ὃ at the beginning of the next.",
+        "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div/tei:div[@subtype='book'][@n='6']/tei:div[@subtype='chapter'][@n='26']/tei:div[@subtype='section'][@n='1']"
+      }
+    ],
+    "location": "6.26.1",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Is. 30. 6 (LXX).",
+        "before": "Is. 30. 6, (L3232).",
+        "evidence": "인쇄본 84쪽 난외 참조는 Is. 30. 6 (LXX).로 인쇄되어 있다.",
+        "image_sha256": "671891a48fa13fbea83f5768208d1cd2fcd7586edb1c12208db5731a36118f1a",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n97.jpg",
+        "performed_on": "2026-09-22",
+        "printed_page": 84,
+        "target": "editorial_features[0].text",
+        "type": "editorial_reference_transcription",
+        "upstream_editorial_feature": {
+          "printed_page": "v.2.p.84",
+          "tei_attributes": {
+            "place": "margin",
+            "{http://www.w3.org/XML/1998/namespace}lang": "eng"
+          },
+          "text": "Is. 30. 6, (L3232).",
+          "type": "editorial_note",
+          "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div/tei:div[@subtype='book'][@n='6']/tei:div[@subtype='chapter'][@n='32']/tei:div[@subtype='section'][@n='1']/tei:p/tei:note"
+        }
+      }
+    ],
+    "location": "6.32.1",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "after": "πληθυούσης",
+        "before": "πληθυούσης θυούσης",
+        "evidence": "인쇄본 88쪽의 XXXVI 첫 줄은 πλη-로 끝나고 다음 줄은 θυούσης로 시작한다. 합친 낱말은 πληθυούσης이며 뒤에 θυούσης가 다시 나오지 않는다.",
+        "image_sha256": "d07dbe789a71bbb18ef8b153bcedd8c289fedef318cb66bd591cc88157008243",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n101.jpg",
+        "performed_on": "2026-09-22",
+        "printed_page": 88,
+        "target": "source_text",
+        "type": "duplicated_word_part_in_upstream_transcription",
+        "upstream_source_text": "Τότε δῆτα, οἷα καὶ εἰκὸς ἦν, πληθυούσης θυούσης τῆς πίστεως πεπαρρησιασμένου τε τοῦ καθ’ ἡμᾶς παρὰ πᾶσιν λόγου, ὑπὲρ τὰ ἑξήκοντά φασιν ἔτη τὸν Ὠριγένην γενόμενον, ἅτε δὴ μεγίστην ἤδη συλλεξάμενον ἐκ τῆς μακρᾶς παρασκευῆς ἕξιν, τὰς ἐπὶ τοῦ κοινοῦ λεγομένας αὐτῷ διαλέξεις ταχυγράφοις μεταλαβεῖν ἐπιτρέψαι, οὐ πρότερόν ποτε τοῦτο γενέσθαι συγκεχωρηκότα.",
+        "upstream_source_text_sha256": "eee710ffeccaf1d3b4b600f87627a9a5ad5ee2ce34e25c911aa4ffaf73331d7c"
+      }
+    ],
+    "location": "6.36.1",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "comparison_range": "6.41.1",
+        "confidence": "confirmed",
+        "corrected_reading": "ἀλλὰ",
+        "evidence": "The final word of p98 is ἀλλὰ. The frozen text attaches the grave accent to lambda instead of alpha.",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n111.jpg",
+        "location": "6.41.1",
+        "new": "ἀλλὰ",
+        "old": "ἀλλ̀α",
+        "printed_page": 98,
+        "upstream_reading": "ἀλλ̀α"
+      }
+    ],
+    "location": "6.41.1",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "comparison_range": "6.41.2",
+        "confidence": "confirmed",
+        "corrected_reading": "ὑπέλαβον",
+        "evidence": "Print splits ὑπ- at the right edge and έλαβον at the start of the next line. Pi is visible at the right edge. The frozen string loses pi.",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n113.jpg",
+        "location": "6.41.2",
+        "new": "ὑπέλαβον",
+        "old": "ὑέλαβον",
+        "printed_page": 100,
+        "upstream_reading": "ὑέλαβον"
+      }
+    ],
+    "location": "6.41.2",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "comparison_range": "6.41.4",
+        "confidence": "partial_print_evidence_with_grammatical_restoration",
+        "corrected_reading": "τοῖς μυλιαίοις",
+        "evidence": "The article appears at the right end of the line ending προσαρασσομένην, followed by μυλιαίοις λίθοις on the next line. τοῖ is visible; final sigma is partly obscured by the binding. Dative plural τοῖς also agrees with μυλιαίοις λίθοις. 일부 글자와 문법에 따른 복원이다. 제본부가 가린 어말 전체의 인쇄 확인이 필요하다.",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n113.jpg",
+        "location": "6.41.4",
+        "new": "τοῖς μυλιαίοις",
+        "old": "τοῦ μυλιαίοις",
+        "printed_page": 100,
+        "upstream_reading": "τοῦ μυλιαίοις"
+      }
+    ],
+    "location": "6.41.4",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "comparison_range": "6.41.5",
+        "confidence": "partial_print_evidence_with_grammatical_restoration",
+        "corrected_reading": "θεοσεβῶν",
+        "evidence": "The line has τὰς τῶν θεοσεβῶν before οἰκίας at the start of the next line. The final letter is at the clipped binding edge. The genitive plural is required by τῶν; no nominative or adverbial ending fits this phrase. 일부 글자와 문법에 따른 복원이다. 제본부가 가린 어말 전체의 인쇄 확인이 필요하다.",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n113.jpg",
+        "location": "6.41.5",
+        "new": "θεοσεβῶν",
+        "old": "θεοσεβῶς",
+        "printed_page": 100,
+        "upstream_reading": "θεοσεβῶς"
+      },
+      {
+        "comparison_range": "6.41.5",
+        "confidence": "partial_print_evidence_with_grammatical_restoration",
+        "corrected_reading": "ὁδοῖς",
+        "evidence": "The line ending ἐν ταῖς ὁδοῖς precedes ἑαλωκυίας on the next line. Iota is visible in the right-edge word; the final sigma is partly clipped. ταῖς supplies explicit dative plural agreement. 일부 글자와 문법에 따른 복원이다. 제본부가 가린 어말 전체의 인쇄 확인이 필요하다.",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n113.jpg",
+        "location": "6.41.5",
+        "new": "ὁδοῖς",
+        "old": "ὁδοῦ",
+        "printed_page": 100,
+        "upstream_reading": "ὁδοῦ"
+      }
+    ],
+    "location": "6.41.5",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "evidence": {
+          "image_sha256": "c9dcfc2f4c9cef01033708180b26b8ca81a2b146c35248de56707e6d8299f7fc",
+          "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n135.jpg",
+          "printed_page": "v.2.p.122"
+        },
+        "new_reading": "λόγοις)· ὄμοσόν μοι κατὰ τοῦ αἵματος",
+        "old_reading": "λόγοις)· τοῦ αἵματος",
+        "original_source_text": "Εἶτ’ ἄλλο τι τούτοις χείριστον προστίθησιν τῶν τοῦ ἀνδρὸς ἀτοπημάτων, λέγων· οὕτως ποιήσας γὰρ τὰς προσφορὰς καὶ διανέμων ἑκάστῳ τὸ μέρος καὶ ἐπιδιδοὺς τοῦτο, ὀμνύειν ἀντὶ τοῦ εὐλογεῖν τοὺς ταλαιπώρους ἀνθρώπους ἀναγκάζει, κατέχων ἀμφοτέραις ταῖς χερσὶ τὰς τοῦ λαβόντος καὶ μὴ ἀφιείς, ἔστ’ ἂν ὀμνύοντες εἴπωσιν ταῦτα (τοῖς γὰρ ἐκείνου χρήσομαι λόγοις)· τοῦ αἵματος καὶ τοῦ σώματος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μηδέποτέ με καταλιπεῖν καὶ ἐπιστρέψαι πρὸς Κορνήλιον.",
+        "original_source_text_sha256": "ea291678a218018a7e479221989f1c9069f4a84da33e0067b95a2cb5852b2c03",
+        "reason": "인쇄본의 직접 인용은 ὄμοσόν μοι κατὰ로 시작한다. 이 세 단어는 노바투스가 상대에게 맹세를 요구하는 명령과 그 대상을 나타낸다.",
+        "type": "restore_printed_words_omitted_from_TEI",
+        "upstream_quotation_features": "원래 XML 인용문 정보와 printed_text는 입력 자료를 보존한다. source_text에는 인쇄본의 세 단어를 복원했다."
+      }
+    ],
+    "location": "6.43.18",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τῆς πρᾳότητος τῶν Σεβαστῶν ἡμῶν·",
+        "before": "τῆς πρᾳότητος τῶν Σεβαστῶν·",
+        "evidence": {
+          "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n171.jpg",
+          "printed_page": 158,
+          "volume": 2
+        },
+        "finding": "인쇄본 158쪽은 첫 번째 Σεβαστῶν 뒤에 ἡμῶν을 싣는다. XML 전사에는 이 단어가 빠져 있다.",
+        "type": "print_collation_correction",
+        "upstream_source_text": "Αἰμιλιανὸς διέπων τὴν ἡγεμονίαν αὐτοῖς εἶπεν· ὁρῶ ὑμᾶς ὁμοῦ καὶ ἀχαρίστους ὄντας καὶ ἀναισθήτους τῆς πρᾳότητος τῶν Σεβαστῶν· δι’ ὅπερ οὐκ ἔσεσθε ἐν τῇ πόλει ταύτῃ, ἀλλὰ ἀποσταλήσεσθε εἰς τὰ μέρη τῆς Λιβύης καὶ ἐν τόπῳ λεγομένῳ Κεφρώ· τοῦτον γὰρ τὸν τόπον ἐξελεξάμην ἐκ τῆς κελεύσεως τῶν Σεβαστῶν ἡμῶν. οὐδαμῶς δὲ ἐξέσται οὔτε ὑμῖν οὔτε ἄλλοις τισὶν ἢ συνόδους ποιεῖσθαι ἢ εἰς τὰ καλούμενα κοιμητήρια εἰσιέναι. εἰ δέ τις φανείη ἢ μὴ γενόμενος εἰς τὸν τόπον τοῦτον ὃν ἐκέλευσα, ἢ ἐν συναγωγῇ τινι εὑρεθείη,",
+        "upstream_source_text_sha256": "2a466afddbde5a38d66149cf6ac9a4ca8bb4af74ff6038dca740aa0546e57a9d"
+      }
+    ],
+    "location": "7.11.10",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "evidence": "인쇄면에서 καθ-와 다음 행 ίσταται가 이어진다. 입력문의 거친숨표를 인쇄본의 악센트로 바로잡았다.",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n179.jpg",
+        "new_reading": "καθίσταται",
+        "old_reading": "καθἱσταται",
+        "printed_page": "v.2.p.166",
+        "type": "print_verified_spelling"
+      }
+    ],
+    "location": "7.11.26",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐκκλῖναι ῥᾴδιον.",
+        "before": "ἐκκλῖναιῥᾴδιον.",
+        "evidence": {
+          "finding": "188쪽 첫째 행 끝의 ἐκκλῖναι와 둘째 행의 ῥᾴδιον는 서로 다른 단어이다.",
+          "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n201.jpg",
+          "printed_page": "v.2.p.188"
+        },
+        "type": "word_boundary",
+        "upstream_source_text_sha256": "233d1ff1b282d75b0fed665772a877e4a0a3d7338d569012115fbf6bdd827585"
+      }
+    ],
+    "location": "7.22.10",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "checked_by": "eus07_3",
+        "confidence": "confirmed_against_TEI_and_print",
+        "correction_note": "인쇄 236쪽의 칠십 인 숫자 ο를 복원했다.",
+        "defect_type": "dropped_tei_num",
+        "diff": [
+          "+ ο"
+        ],
+        "location": "7.32.16",
+        "num_texts": [
+          "ο"
+        ],
+        "old_sha256": "a3e364add17d52f2e8aab46d6c85d10f538c227a0387656e38fb85c544f9df48",
+        "original": "ἔστιν δ’ οὐχ ἡμέτερος οὗτος ὁ λόγος, Ἰουδαίοις δὲ ἐγινώσκετο τοῖς πάλαι καὶ πρὸ Χριστοῦ ἐφυλάττετό τε πρὸς αὐτῶν μάλιστα· μαθεῖν δ’ ἔστιν ἐκ τῶν ὑπὸ Φίλωνος Ἰωσήπου Μουσαίου λεγομένων, καὶ οὐ μόνων τούτων, ἀλλὰ καὶ τῶν ἔτι παλαιοτέρων ἀμφοτέρων Ἀγαθοβούλων, τῶν ἐπίκλην διδασκάλων Ἀριστοβούλου τοῦ πάνυ, ὃς ἐν τοῖς κατειλεγμένος τοῖς τὰς ἱερὰς καὶ θείας Ἑβραίων ἑρμηνεύσασι γραφὰς Πτολεμαίῳ τῷ Φιλαδέλφῳ καὶ τῷ τούτου πατρί, καὶ βίβλους ἐξηγητικὰς τοῦ Μωυσέως νόμου τοῖς αὐτοῖς προσεφώνησεν βασιλεῦσιν. οὗτοι τὰ ζητούμενα κατὰ τὴν Ἔξοδον ἐπιλύοντες,",
+        "print_evidence": [
+          {
+            "checked_on": "2026-09-22",
+            "image_sha256": "51a9c00670a3f95dcf33b934d1333aca39086ed8d760e96d6ff8d3c00b2e1509",
+            "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n249.jpg",
+            "local_path": "/tmp/patristics-completion/eusebius_extraction_audit/vol2-p236-n249.jpg",
+            "printed_page": 236,
+            "volume": 2
+          }
+        ],
+        "print_note": "Printed numerals confirmed; retain bare Greek numeral text from TEI num elements. The printed numeral mark is supplied typographically by the edition.",
+        "printed_pages": [
+          "v.2.p.234",
+          "v.2.p.236"
+        ],
+        "proposed_sha256": "1474cffda6b394aad843a0d821ee7dfa55eaa996d6abb058ab5725010ec5a8c9",
+        "proposed_source_text": "ἔστιν δ’ οὐχ ἡμέτερος οὗτος ὁ λόγος, Ἰουδαίοις δὲ ἐγινώσκετο τοῖς πάλαι καὶ πρὸ Χριστοῦ ἐφυλάττετό τε πρὸς αὐτῶν μάλιστα· μαθεῖν δ’ ἔστιν ἐκ τῶν ὑπὸ Φίλωνος Ἰωσήπου Μουσαίου λεγομένων, καὶ οὐ μόνων τούτων, ἀλλὰ καὶ τῶν ἔτι παλαιοτέρων ἀμφοτέρων Ἀγαθοβούλων, τῶν ἐπίκλην διδασκάλων Ἀριστοβούλου τοῦ πάνυ, ὃς ἐν τοῖς ο κατειλεγμένος τοῖς τὰς ἱερὰς καὶ θείας Ἑβραίων ἑρμηνεύσασι γραφὰς Πτολεμαίῳ τῷ Φιλαδέλφῳ καὶ τῷ τούτου πατρί, καὶ βίβλους ἐξηγητικὰς τοῦ Μωυσέως νόμου τοῖς αὐτοῖς προσεφώνησεν βασιλεῦσιν. οὗτοι τὰ ζητούμενα κατὰ τὴν Ἔξοδον ἐπιλύοντες,",
+        "reason": "extract_eusebius.py collect excludes num tags with substantive author text; restore every num value in XML order.",
+        "source_xml_fragment_sha256": "3e5bc0bc07c09a019bc48afa3ba9e9261fcc170180573799569b1d36584e1358",
+        "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div/tei:div[@subtype='book'][@n='7']/tei:div[@subtype='chapter'][@n='32']/tei:div[@subtype='section'][@n='16']"
+      }
+    ],
+    "location": "7.32.16",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "corrected_reading": "εἰς τὴν γῆν κατέρραξεν",
+        "evidence_image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n267.jpg",
+        "evidence_printed_page": "v.2.p.254",
+        "finding": "인쇄본 254쪽의 끝에서 둘째 본문 줄에는 γῆν이 한 번 나온다. 디지털 전사에는 같은 단어가 두 번 이어진다.",
+        "old_reading": "εἰς τὴν γῆν γῆν κατέρραξεν",
+        "type": "duplicate_token_in_digital_transcription",
+        "upstream_source_text": "κατά τε τὰ ἐν Ψαλμοῖς προθεσπισθέντα κατέστρεψεν τὴν διαθήκην τοῦ δούλου αὐτοῦ καὶ ἐβεβήλωσεν εἰς γῆν διὰ τῆς τῶν ἐκκλησιῶν καθαιρέσεως τὸ ἁγίασμα αὐτοῦ καὶ καθεῖλεν πάντας τοὺς φραγμοὺς αὐτοῦ, ἔθετο τὰ ὀχυρώματα αὐτοῦ δειλίαν· διήρπασάν τε τὰ πλήθη τοῦ λαοῦ πάντες οἱ διοδεύοντες ὁδόν, καὶ δὴ ἐπὶ τούτοις ὄνειδος ἐγενήθη τοῖς γείτοσιν αὐτοῦ. ὕψωσεν γὰρ τὴν δεξιὰν τῶν ἐχθρῶν αὐτοῦ καὶ ἀπέστρεψεν τὴν βοήθειαν τῆς ῥομφαίας αὐτοῦ καὶ οὐκ ἀντελάβετο αὐτοῦ ἐν τῷ πολέμῳ· ἀλλὰ καὶ κατέλυσεν ἀπὸ καθαρισμοῦ αὐτὸν καὶ τὸν θρόνον αὐτοῦ εἰς τὴν γῆν γῆν κατέρραξεν ἐσμίκρυνέν τε τὰς ἡμέρας τοῦ χρόνου αὐτοῦ, καὶ ἐπὶ πᾶσιν κατέχεεν αὐτοῦ αἰσχύνην.",
+        "upstream_source_text_sha256": "3fd9cd03703c79221984255bf3b8e506b35186b618716578a43f168a973ccc53"
+      }
+    ],
+    "location": "8.1.9",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "checked_on": "2026-09-22",
+        "corrected": "[Ε Ἀντίγραφα βασιλικῶν νόμων περὶ τῶν Χριστιανῶν προσηκόντων.]",
+        "image_sha256": "b667bdf270888cd7ecb5ab1087671ad71806b37028785e6c4289f930abd53b3b",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n401.jpg",
+        "original": "Ε Ἀντίγραφα βασιλικῶν νόμων περὶ τῶν Χριστιανῶν προσηκόντων.",
+        "printed_page": 388,
+        "reason": "인쇄본 388쪽의 대괄호는 제5항 시작부터 제6항 끝까지 이어진다. 개별 구절에서는 각각 닫힌 괄호로 표시한다."
+      }
+    ],
+    "location": "10.arg.5",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "checked_on": "2026-09-22",
+        "corrected": "[Σ Περὶ τῆς τῶν κληρικῶν ἀλειτουργησίας.]",
+        "image_sha256": "b667bdf270888cd7ecb5ab1087671ad71806b37028785e6c4289f930abd53b3b",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n401.jpg",
+        "original": "Σ Περὶ τῆς τῶν κληρικῶν ἀλειτουργησίας.",
+        "printed_page": 388,
+        "reason": "인쇄본 388쪽의 대괄호는 제5항 시작부터 제6항 끝까지 이어진다. 개별 구절에서는 각각 닫힌 괄호로 표시한다."
+      }
+    ],
+    "location": "10.arg.6",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "checked_on": "2026-09-22",
+        "corrected": "εἴτε τις νέον σε Βεσελεηλ θείας ἀρχιτέκτονα σκηνῆς ἐθέλοι καλεῖν εἴτε Σολομῶνα καινῆς καὶ πολὺ κρείττονος Ἱερουσαλὴμ βασιλέα εἴτε καὶ νέον Ζοροβαβελ τὴν πολὺ κρείττονα δόξαν τῆς προτέρας τῷ νεῷ τοῦ θεοῦ περιτιθέντα,",
+        "image_sha256": "b8a7580c2cab0eeca7684b290379d754e171d39dd08571cb1ca30345a92d9d26",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n411.jpg",
+        "original": "εἴτε τις νέον σε Βεσελεηλ θείας ἀρχιτέκτονα τέκτονα σκηνῆς ἐθέλοι καλεῖν εἴτε Σολομῶνα καινῆς καὶ πολὺ κρείττονος Ἱερουσαλὴμ βασιλέα εἴτε καὶ νέον Ζοροβαβελ τὴν πολὺ κρείττονα δόξαν τῆς προτέρας τῷ νεῷ τοῦ θεοῦ περιτιθέντα,",
+        "printed_page": 398,
+        "reason": "인쇄본 398쪽은 ἀρχιτέκτονα σκηνῆς이며 중복 τέκτονα가 없다."
+      }
+    ],
+    "location": "10.4.3",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "checked_on": "2026-09-22",
+        "corrected": "πάλαι μὲν ἡμῖν τὰς παραδόξους θεοσημίας καὶ τῶν τοῦ κυρίου θαυμάτων τὰς εἰς ἀνθρώπους εὐεργεσίας διὰ θείων ἀναγνωσμάτων ἀκοῇ παραδεχομένοις ὕμνους εἰς θεὸν καὶ ᾠδὰς ἀναπέμπειν ἐξῆν λέγειν παιδευομένοις ‘ὁ θεός, ἐν τοῖς ὠσὶν ἡμῶν ἠκούσαμεν, οἱ πατέρες ἡμῶν ἀνήγγειλαν ἡμῖν ἔργον ὃ εἰργάσω ἐν ταῖς ἡμέραις αὐτῶν, ἐν ἡμέραις ἀρχαίαις’·",
+        "image_sha256": "b8a7580c2cab0eeca7684b290379d754e171d39dd08571cb1ca30345a92d9d26",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n411.jpg",
+        "original": "πάλαι μὲν ἡμῖν τὰς παραδόξους θεοσημίας καὶ τῶν τοῦ κυρίου θαυμάτων τὰς εἰς ἀνθρώπους εὐεργεσίας διὰ θείων ἀναγνωσμάτων ἀκοῇ παραδεχομένοις ὕμνους εἰς θεὸν καὶ ᾠδὰς ἀναπέμπειν ἐξῆν λέγειν παιδευομένοις (ὁ θεός, ἐν τοῖς ὠσὶν ἡμῶν ἠκούσαμεν, οἱ πατέρες ἡμῶν ἀνήγγειλαν ἡμῖν ἔργον ὃ εἰργάσω ἐν ταῖς ἡμέραις αὐτῶν, ἐν ἡμέραις ἀρχαίαις̓·",
+        "printed_page": 398,
+        "reason": "인쇄본 398쪽의 시편 인용은 작은따옴표로 열고 닫힌다. 전사의 여는 괄호와 마지막 결합 문자를 인용부호로 교정했다."
+      }
+    ],
+    "location": "10.4.5",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "checked_on": "2026-09-22",
+        "corrected": "Νῦν δ’ ἐπὶ τῇ τοσαύτῃ χάριτι καὶ εὐεργεσίᾳ τοῦ μισοκάλου φθόνου καὶ φιλοπονήρου δαίμονος μόνον οὐχὶ διαρρηγνυμένου καὶ πάσας αὐτοῦ τὰς θανατοποιοὺς καθ’ ἡμῶν ἐπιστρατεύοντος δυνάμεις καὶ τὰ μὲν πρῶτα κυνὸς δίχην λυττῶντος τοὺς ὀδόντας ἐπὶ τοὺς ἀφιεμένους κατ’ αὐτοῦ λίθους προσαράττοντος καὶ τὸν κατὰ τῶν ἀμυνομένων θυμὸν ἐπὶ τὰ ἄψυχα βλήματα καθιέντος, τοῖς τῶν προσευκτηρίων λίθοις καὶ ταῖς τῶν οἴκων ἀψύχοις ὕλαις τὴν θηριώδη μανίαν ἐπερείσαντος ἐρημίαν τε, ὥς γε δὴ αὐτὸς ἑαυτῷ ᾤετο, τῶν ἐκκλησιῶν ἀπεργασαμένου, εἶτα δὲ δεινὰ συρίγματα καὶ τὰς ὀφιώδεις αὐτοῦ φωνὰς τοτὲ μὲν ἀσεβῶν τυράννων ἀπειλαῖς, τοτὲ δὲ βλασφήμοις δυσσεβῶν ἀρχόντων διατάξεσιν ἀφιέντος καὶ προσέτι τὸν αὐτοῦ θάνατον ἐξερευγομένου καὶ τοῖς ἰώδεσι καὶ ψυχοφθόροις δηλητηρίοις τὰς ἁλισκομένας πρὸς αὐτοῦ ψυχὰς φαρμάττοντος καὶ μόνον οὐχὶ νεκροῦντος ταῖς τῶν νεκρῶν εἰδώλων νεκροποιοῖς θυσίαις πάντα τε ἀνθρωπόμορφον θῆρα καὶ πάντα τρόπον ἄγριον καθ’ ἡμῶν ὑποσαλεύοντος,",
+        "image_sha256": "c719ba261b37be58dde42c9ff543c32d0da08859e303513dd62c4237a6b25e09",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n417.jpg",
+        "original": "Νῦν δ’ ἐπὶ τῇ τοσαύτῃ χάριτι καὶ εὐεργεσίᾳ τοῦ μισοκάλου φθόνου καὶ φιλοπονήρου δαίμονος μόνον οὐχὶ διαρρηγνυμένου καὶ πάσας αὐτοῦ τὰς θανατοποιοὺς καθ’ ἡμῶν ἐπιστρατεύοντος δυνάμεις καὶ τὰ μὲν πρῶτα κυνὸς δίχην λυττῶντος τοὺς ὀδόντας ἐπὶ τοὺς ἀφιεμένους κατ’ αὐτοῦ λίθους προσαράττοντος καὶ τὸν κατὰ τῶν ἀμυνομένων θυμὸν ἐπὶ τὰ ἄψυχα βλήματα καθιέντος, τοῖς τῶν προσευκητρίων λίθοις καὶ ταῖς τῶν οἴκων ἀψύχοις ὕλαις τὴν θηριώδη μανίαν ἐπερείσαντος ἐρημίαν τε, ὥς γε δὴ αὐτὸς ἑαυτῷ ᾤετο, τῶν ἐκκλησιῶν ἀπεργασαμένου, εἶτα δὲ δεινὰ συρίγματα καὶ τὰς ὀφιώδεις αὐτοῦ φωνὰς τοτὲ μὲν ἀσεβῶν τυράννων ἀπειλαῖς, τοτὲ δὲ βλασφήμοις δυσσεβῶν ἀρχόντων διατάξεσιν ἀφιέντος καὶ προσέτι τὸν αὐτοῦ θάνατον ἐξερευγομένου καὶ τοῖς ἰώδεσι καὶ ψυχοφθόροις δηλητηρίοις τὰς ἁλισκομένας πρὸς αὐτοῦ ψυχὰς φαρμάττοντος καὶ μόνον οὐχὶ νεκροῦντος ταῖς τῶν νεκρῶν εἰδώλων νεκροποιοῖς θυσίαις πάντα τε ἀνθρωπόμορφον θῆρα καὶ πάντα τρόπον ἄγριον καθ’ ἡμῶν ὑποσαλεύοντος,",
+        "printed_page": 404,
+        "reason": "인쇄본 404쪽의 προσευκτηρίων에 따라 전사의 자모 순서를 교정했다."
+      }
+    ],
+    "location": "10.4.14",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "checked_on": "2026-09-23",
+        "corrected": "πεπτωκυῖαν δῆτα αὐτὴν ἐκείνην τὴν κατ’ εἰκόνα θεοῦ κατασκευασθεῖσαν ἐλυμήνατο οὐχ ὗς οὗτος ὁ ἐκ δρυμοῦ τοῦ παρ’ ἡμῖν ὁρατοῦ, ἀλλά τις φθοροποιὸς δαίμων καὶ θῆρες ἄγριοι νοητοί, οἳ καὶ τοῖς πάθεσιν οἷα πεπυρακτωμένοις τῆς σφῶν κακίας βέλεσιν αὐτὴν ἐξυφάψαντες, ἐνεπύρισαν ἐν πυρὶ τὸ θεῖον ὄντως ἁγιαστήριον τοῦ θεοῦ εἰς τὴν γῆν τε ἐβεβήλωσαν τὸ σκήνωμα τοῦ ὀνόματος αὐτοῦ, εἶτα πολλῷ τῷ προσχώματι τὴν ἀθλίαν κατορύξαντες, εἰς ἀνέλπιστον πάσης περιέτρεψαν σωτηρίας.",
+        "image_sha256": "a32ec4350f02ddc4fe575f86f8d848aeadd0d35a1699d798cec1ecd94fe57053",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n447.jpg",
+        "original": "πεπτωκυῖαν δῆτα αὐτὴν ἐκείνην τὴν κατ’ εἰκόνα θεοῦ κατασκευασθεῖσαν ἐλυμήνατο οὐχ ὗς οὗτος ὁ ἐκ δρυμοῦ τοῦ παρ’ ἡμῖν ὁρατοῦ, ἀλλά τις φθοροποιὸς δαίμων καὶ θῆρες ἄγριοι νοητοί, οἳ καὶ τοῖς πάθεσιν οἷα πεπυρακτωμένοις μένοις τῆς σφῶν κακίας βέλεσιν αὐτὴν ἐξυφάψαντες, ἐνεπύρισαν ἐν πυρὶ τὸ θεῖον ὄντως ἁγιαστήριον τοῦ θεοῦ εἰς τὴν γῆν τε ἐβεβήλωσαν τὸ σκήνωμα τοῦ ὀνόματος αὐτοῦ, εἶτα πολλῷ τῷ προσχώματι τὴν ἀθλίαν κατορύξαντες, εἰς ἀνέλπιστον πάσης περιέτρεψαν σωτηρίας.",
+        "printed_page": 434,
+        "reason": "줄바꿈 뒤의 음절이 원 XML에 중복 입력되어 있다. 인쇄면의 한 단어로 교정했다."
+      }
+    ],
+    "location": "10.4.58",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "checked_on": "2026-09-23",
+        "corrected": "ὧν ἤδη ἐν μέρει καταξιωθέντες, ἄνδρες ἅμα παισὶν καὶ γυναιξίν, σμικροὶ καὶ μεγάλοι, πάντες ἀθρόως ἐν ἑνὶ πνεύματι καὶ μιᾷ ψυχῇ μὴ διαλίπωμεν ἐξομολογούμενοι καὶ τὸν τοσούτων ἡμῖν ἀγαθῶν παραίτιον ἀνευφημοῦντες, τὸν εὐιλατεύοντα πάσαις ταῖς ἀνομίαις ἡμῶν, τὸν ἰώμενον πάσας τὰς νόσους ἡμῶν, τὸν λυτρούμενον ἐκ φθορᾶς τὴν ζωὴν ἡμῶν, τὸν στεφανοῦντα ἡμᾶς ἐν ἐλέει καὶ οἰκτιρμοῖς, τὸν ἐμπιμπλῶντα ἐν ἀγαθοῖς τὴν ἐπιθυμίαν ἡμῶν, ὅτι οὐ κατὰ τὰς ἁμαρτίας ἡμῶν ἐποίησεν ἡμῖν οὐδὲ κατὰ τὰς ἀνομίας ἡμῶν ἀνταπέδωκεν ἡμῖν, ὅτι καθ’ ὅσον ἀπέχουσιν ἀνατολαὶ ἀπὸ δυσμῶν, ἐμάκρυνεν ἀφ’ ἡμῶν τὰς ἀνομίας ἡμῶν· καθὼς οἰκτείρει πατὴρ υἱοὺς αὐτοῦ, ᾠκτείρησεν κύριος τοὺς φοβουμένους αὐτόν.",
+        "image_sha256": "247a3cfc97e78da2b902acef019bdb76196a2125e994b972c41bddb49b1d7cff",
+        "image_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n455.jpg",
+        "original": "ὧν ἤδη ἐν μέρει καταξιωθέντες, ἄνδρες ἅμα παισὶν καὶ γυναιξίν, σμικροὶ καὶ μεγάλοι, πάντες ἀθρόως ἐν ἑνὶ πνεύματι καὶ μιᾷ ψυχῇ μὴ διαλίπωμεν ἐξομολογούμενοι καὶ τὸν τοσούτων ἡμῖν ἀγαθῶν παραίτιον ἀνευφημοῦντες, τὸν εὐιλατεύοντα πάσαις ταῖς ἀνομίαις ἡμῶν, τὸν ἰώμενον πάσας τὰς νόσους ἡμῶν, τὸν λυτρούμενον ἐκ φθορᾶς τὴν ζωὴν ἡμῶν, τὸν στεφανοῦντα ἡμᾶς ἐν ἐλέει καὶ οἰκτιρμοῖς, τὸν ἐμπιμπλῶντα ἐν ἀγαθοῖς τὴν ἐπιθυμίαν ἡμῶν, ὅτι οὐ κατὰ τὰς ἁμαρτίας τίας ἡμῶν ἐποίησεν ἡμῖν οὐδὲ κατὰ τὰς ἀνομίας ἡμῶν ἀνταπέδωκεν ἡμῖν, ὅτι καθ’ ὅσον ἀπέχουσιν ἀνατολαὶ ἀπὸ δυσμῶν, ἐμάκρυνεν ἀφ’ ἡμῶν τὰς ἀνομίας ἡμῶν· καθὼς οἰκτείρει πατὴρ υἱοὺς αὐτοῦ, ᾠκτείρησεν κύριος τοὺς φοβουμένους αὐτόν.",
+        "printed_page": 442,
+        "reason": "줄바꿈 뒤의 음절이 원 XML에 중복 입력되어 있다. 인쇄면의 한 단어로 교정했다."
+      }
+    ],
+    "location": "10.4.71",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "adopted_reading": "ΑΝΤΙΓΡΑΦΟΝ ΒΑΣΙΛΙΚΗΣ ΕΠΙΣΤΟΛΗΣ ΔΙ’ ΗΣ ΧΡΗΜΑΤΑ ΤΑΙΣ ΕΚΚΛΗΣΙΑΙΣ ΔΩΡΕΙΤΑΙ",
+        "evidence_printed_page": "v.2.p.460",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n473.jpg",
+        "field": "editorial_features[0].text",
+        "reason": "인쇄본 460쪽 표제의 글자는 ΕΚΚΛΗΣΙΑΙΣ이다.",
+        "upstream_reading": "ΑΝΤΙΓΡΑΦΟΝ ΒΑΣΙΛΙΚΗΣ ΕΠΙΣΤΟΛΗΣ ΔΙ’ ΗΣ ΧΡΗΜΑΤΑ ΤΑΙΣ ΕΚΚΑΗΣΙΑΙΣ ΔΩΡΕΙΤΑΙ"
+      }
+    ],
+    "location": "10.6.1",
+    "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "adopted_reading": "ἐν αὐτῇ τῇ μανίᾳ",
+        "evidence_printed_page": "v.2.p.462",
+        "evidence_url": "https://archive.org/download/ecclesiasticalhi02euseuoft/page/n475.jpg",
+        "field": "source_text",
+        "reason": "인쇄본 462쪽에는 αὐτῇ 뒤에 관사 τῇ가 있다.",
+        "upstream_reading": "ἐν αὐτῇ μανίᾳ",
+        "upstream_source_text": "διόπερ εἴ τινας τοιούτους ἀνθρώπους ἐν αὐτῇ μανίᾳ ἐπιμένειν κατίδοις, ἄνευ τινὸς ἀμφιβολίας τοῖς προειρημένοις δικασταῖς πρόσελθε καὶ αὐτὸ τοῦτο προσανένεγκε ὅπως αὐτοὺς ἐκεῖνοι, καθάπερ αὐτοῖς παροῦσιν ἐκέλευσα, ἐπιστρέψωσιν. ἡ θειότης τοῦ μεγάλου θεοῦ σε διαφυλάξαι ἐπὶ πολλοῖς ἔτεσιν.",
+        "upstream_source_text_sha256": "a56a1c36d5e6346058b1d4ad548d9049f48fe37d4364a1420fc9f417d74c4068"
+      }
+    ],
+    "location": "10.6.5",
+    "work_id": "eusebius-ecclesiastical-history"
   }
 ]

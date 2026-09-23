@@ -16,6 +16,9 @@ html { scroll-padding-top: 66px; overflow-anchor: none; }
 .work-context a { color: var(--muted); }
 .work-heading h1 { font: 600 28px/1.55 var(--font); letter-spacing: -.03em; text-wrap: balance; word-break: keep-all; overflow-wrap: anywhere; }
 .original-title { font: 15px/1.7 Georgia, 'Times New Roman', serif; color: #606f7a; margin: 10px 0 8px; letter-spacing: .015em; overflow-wrap: anywhere; }
+.document-heading { margin: 0 0 20px; padding-bottom: 14px; border-bottom: 1px solid var(--line); }
+.document-heading h3 { margin: 0; font-size: calc(15px * var(--reader-text-scale, 1)); line-height: 1.65; font-weight: 600; word-break: keep-all; }
+.document-heading p { margin: 8px 0 0; color: var(--muted); font: calc(13px * var(--reader-text-scale, 1))/1.7 Georgia, 'Times New Roman', serif; overflow-wrap: anywhere; }
 .work-author { font-size: 13px; color: var(--muted); }
 .reader-tools { display: none; position: sticky; top: 0; z-index: 2; align-items: center; justify-content: flex-end; gap: 12px; margin: 0 0 26px 54px; padding: 6px 0; border-block: 1px solid var(--line); background: #fff; }
 .reader-tools.has-font-controls { display: flex; }
