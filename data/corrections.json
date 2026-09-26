@@ -7571,5 +7571,309 @@
     ],
     "location": "16.2",
     "work_id": "polycarp-martyrdom"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’ αἵματος",
+        "before": "δἰ αἵματος",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n368.jpg",
+        "image_sha256": "15c3920edc48ea2628eeb04b3ee2d5ce1d2185ce8a8ac8dff56ab30eaae197c8",
+        "kind": "digital_transcription_correction",
+        "printed_page": 356,
+        "reviewer_kind": "ai",
+        "work_location": "3.5"
+      }
+    ],
+    "location": "3.5",
+    "work_id": "diognetus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐπίγειον",
+        "before": "ἐπιγειον",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n374.jpg",
+        "image_sha256": "fc5978690027452aa84b598d9f5b780cb3538cf434cb7a93837a9f494f09d319",
+        "kind": "digital_transcription_correction",
+        "printed_page": 362,
+        "reviewer_kind": "ai",
+        "work_location": "7.1"
+      }
+    ],
+    "location": "7.1",
+    "work_id": "diognetus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἄστρα τῷ",
+        "before": "ἄστρα: τῷ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n376.jpg",
+        "image_sha256": "b73af3601f7dce074374618204ee1ba683ffb88277bd97a799f99adc81995560",
+        "kind": "digital_transcription_correction",
+        "printed_page": 364,
+        "reviewer_kind": "ai",
+        "work_location": "7.2"
+      }
+    ],
+    "location": "7.2",
+    "work_id": "diognetus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "... παραβαλλομένους",
+        "before": ".. παραβαλλομένους",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n376.jpg",
+        "image_sha256": "b73af3601f7dce074374618204ee1ba683ffb88277bd97a799f99adc81995560",
+        "kind": "digital_transcription_correction",
+        "printed_page": 364,
+        "reviewer_kind": "ai",
+        "work_location": "7.7"
+      }
+    ],
+    "location": "7.7",
+    "work_id": "diognetus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "(οὗ",
+        "before": "ʽοὗ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n378.jpg",
+        "image_sha256": "f748ad089f489bfb332ab6f7b27db85abe9b77c471c9748c6a7a8099dc7d753a",
+        "kind": "digital_transcription_correction",
+        "printed_page": 366,
+        "reviewer_kind": "ai",
+        "work_location": "8.2"
+      },
+      {
+        "after": "θεόν),",
+        "before": "θεόν̓,",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n378.jpg",
+        "image_sha256": "f748ad089f489bfb332ab6f7b27db85abe9b77c471c9748c6a7a8099dc7d753a",
+        "kind": "digital_transcription_correction",
+        "printed_page": 366,
+        "reviewer_kind": "ai",
+        "work_location": "8.2"
+      }
+    ],
+    "location": "8.2",
+    "work_id": "diognetus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "(ὢ",
+        "before": "ʽὢ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n380.jpg",
+        "image_sha256": "6c943a8b986e2132c17601ae28731093b39ca23c29de93677c128aa12bc76eb4",
+        "kind": "digital_transcription_correction",
+        "printed_page": 368,
+        "reviewer_kind": "ai",
+        "work_location": "9.2"
+      },
+      {
+        "after": "θεοῦ),",
+        "before": "θεοὖ,",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n380.jpg",
+        "image_sha256": "6c943a8b986e2132c17601ae28731093b39ca23c29de93677c128aa12bc76eb4",
+        "kind": "digital_transcription_correction",
+        "printed_page": 368,
+        "reviewer_kind": "ai",
+        "work_location": "9.2"
+      }
+    ],
+    "location": "9.2",
+    "work_id": "diognetus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’ οὓς",
+        "before": "δἰ οὓς",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n382.jpg",
+        "image_sha256": "69842584fc94d0cf37d0d86294625b2e21f0d57cb40bdf6edf8e91cf4ae07bdc",
+        "kind": "digital_transcription_correction",
+        "printed_page": 370,
+        "reviewer_kind": "ai",
+        "work_location": "10.2"
+      }
+    ],
+    "location": "10.2",
+    "work_id": "diognetus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τὸν οὕτως",
+        "before": "τὸ οὕτως",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n384.jpg",
+        "image_sha256": "a2fe238219dc354d858fa129f02864af79159244d7897f7b325b501dbfb58cac",
+        "kind": "digital_transcription_correction",
+        "printed_page": 372,
+        "reviewer_kind": "ai",
+        "work_location": "10.3"
+      }
+    ],
+    "location": "10.3",
+    "work_id": "diognetus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μιμητὴς",
+        "before": "μιμη τὴς",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n384.jpg",
+        "image_sha256": "a2fe238219dc354d858fa129f02864af79159244d7897f7b325b501dbfb58cac",
+        "kind": "digital_transcription_correction",
+        "printed_page": 372,
+        "reviewer_kind": "ai",
+        "work_location": "10.4"
+      },
+      {
+        "after": "θαυμάσῃς, εἰ",
+        "before": "θαυμάσῃ εἰ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n384.jpg",
+        "image_sha256": "a2fe238219dc354d858fa129f02864af79159244d7897f7b325b501dbfb58cac",
+        "kind": "digital_transcription_correction",
+        "printed_page": 372,
+        "reviewer_kind": "ai",
+        "work_location": "10.4"
+      },
+      {
+        "after": "θεοῦ. δύναται",
+        "before": "θεοῦ δύναται",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n384.jpg",
+        "image_sha256": "a2fe238219dc354d858fa129f02864af79159244d7897f7b325b501dbfb58cac",
+        "kind": "digital_transcription_correction",
+        "printed_page": 372,
+        "reviewer_kind": "ai",
+        "work_location": "10.4"
+      }
+    ],
+    "location": "10.4",
+    "work_id": "diognetus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καταδυναστεύειν",
+        "before": "καταδυν̔??ʼ στεύειν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n384.jpg",
+        "image_sha256": "a2fe238219dc354d858fa129f02864af79159244d7897f7b325b501dbfb58cac",
+        "kind": "digital_transcription_correction",
+        "printed_page": 372,
+        "reviewer_kind": "ai",
+        "work_location": "10.5"
+      },
+      {
+        "after": "βούλεσθαι",
+        "before": "βούλεσθ̔??ʼ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n384.jpg",
+        "image_sha256": "a2fe238219dc354d858fa129f02864af79159244d7897f7b325b501dbfb58cac",
+        "kind": "digital_transcription_correction",
+        "printed_page": 372,
+        "reviewer_kind": "ai",
+        "work_location": "10.5"
+      },
+      {
+        "after": "βιάζεσθαι",
+        "before": "βιάζεσθἁ??ʼ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n384.jpg",
+        "image_sha256": "a2fe238219dc354d858fa129f02864af79159244d7897f7b325b501dbfb58cac",
+        "kind": "digital_transcription_correction",
+        "printed_page": 372,
+        "reviewer_kind": "ai",
+        "work_location": "10.5"
+      }
+    ],
+    "location": "10.5",
+    "work_id": "diognetus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’ οὗ",
+        "before": "δἰ οὗ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n386.jpg",
+        "image_sha256": "f69613bcbf50351369832ff3e8027ad16e099a2d096e82d31e4f8e2cb07731df",
+        "kind": "digital_transcription_correction",
+        "printed_page": 374,
+        "reviewer_kind": "ai",
+        "work_location": "11.5"
+      }
+    ],
+    "location": "11.5",
+    "work_id": "diognetus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ᾄδεται",
+        "before": "ᾅδεται",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n388.jpg",
+        "image_sha256": "124c2c161f331bfb5d17eb2157bfbe065da2e3f238daa993c90d140c4988a736",
+        "kind": "digital_transcription_correction",
+        "printed_page": 376,
+        "reviewer_kind": "ai",
+        "work_location": "11.6"
+      }
+    ],
+    "location": "11.6",
+    "work_id": "diognetus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’ ὧν",
+        "before": "δἰ ὧν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n388.jpg",
+        "image_sha256": "124c2c161f331bfb5d17eb2157bfbe065da2e3f238daa993c90d140c4988a736",
+        "kind": "digital_transcription_correction",
+        "printed_page": 376,
+        "reviewer_kind": "ai",
+        "work_location": "11.7"
+      }
+    ],
+    "location": "11.7",
+    "work_id": "diognetus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’ οὗ",
+        "before": "δἰ οὗ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n390.jpg",
+        "image_sha256": "cbb7f234d1ba14ee6d774b2613a763426ad7ad62362136779648c22ce6c3bdb4",
+        "kind": "digital_transcription_correction",
+        "printed_page": 378,
+        "reviewer_kind": "ai",
+        "work_location": "12.9"
+      }
+    ],
+    "location": "12.9",
+    "work_id": "diognetus"
   }
 ]
