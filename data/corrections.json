@@ -8707,5 +8707,135 @@
     ],
     "location": "3.29",
     "work_id": "theophilus-autolycus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "πολλῶν",
+        "before": "κολλῶν",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/corpusapologeta03moragoog/page/n66.jpg",
+        "image_sha256": "786fc3f713d9f45644ca7af5de7df672b30918d153ab64fecb13c1339a74a7a8",
+        "kind": "digital_transcription_correction",
+        "printed_page": 14,
+        "reviewer_kind": "ai",
+        "work_location": "3.1"
+      }
+    ],
+    "location": "3.1",
+    "work_id": "tatian-greeks"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μόνων",
+        "before": "μόγων",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/corpusapologeta01unkngoog/page/n86.jpg",
+        "image_sha256": "766a9659126a16a0198e882f40206e1f635590a405bf06f12ce5ac3e5d2ea0b4",
+        "kind": "digital_transcription_correction",
+        "printed_page": 26,
+        "reviewer_kind": "ai",
+        "work_location": "6.1"
+      }
+    ],
+    "location": "6.1",
+    "work_id": "tatian-greeks"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Τίνι",
+        "before": "Τίνε",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/corpusapologeta03moragoog/page/n94.jpg",
+        "image_sha256": "7601b2913a53a12320456e3f60eb3943b75e933f0712a4c77effba33a9a891b2",
+        "kind": "digital_transcription_correction",
+        "printed_page": 44,
+        "reviewer_kind": "ai",
+        "work_location": "9.1"
+      }
+    ],
+    "location": "9.1",
+    "work_id": "tatian-greeks"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Δίκαιος",
+        "before": "Λίκαιος",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/corpusapologeta03moragoog/page/n98.jpg",
+        "image_sha256": "78eb93bb25050a2cacd4bbe21b2994fdd8a122d204520f787b27da8a8f90ff4d",
+        "kind": "digital_transcription_correction",
+        "printed_page": 48,
+        "reviewer_kind": "ai",
+        "work_location": "10.1"
+      },
+      {
+        "after": "Προμηθέα",
+        "before": "Προμηθία",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/corpusapologeta03moragoog/page/n98.jpg",
+        "image_sha256": "78eb93bb25050a2cacd4bbe21b2994fdd8a122d204520f787b27da8a8f90ff4d",
+        "kind": "digital_transcription_correction",
+        "printed_page": 48,
+        "reviewer_kind": "ai",
+        "work_location": "10.1"
+      }
+    ],
+    "location": "10.1",
+    "work_id": "tatian-greeks"
+  },
+  {
+    "corrections": [
+      {
+        "after": "πλουσιώτατοι",
+        "before": "πλουσιώτατοι σιώτατοι",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/corpusapologeta03moragoog/page/n100.jpg",
+        "image_sha256": "d2462b023ddf167b7eb8daff3f30cada8a752934ea74883219664f2100331f60",
+        "kind": "digital_transcription_correction",
+        "printed_page": 50,
+        "reviewer_kind": "ai",
+        "work_location": "11.1"
+      }
+    ],
+    "location": "11.1",
+    "work_id": "tatian-greeks"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καὶ κατὰ Ἀριστόξενον",
+        "before": "καὶ καὶ Ἀριστόξενον",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/corpusapologeta03moragoog/page/n150.jpg",
+        "image_sha256": "d90a2c521c13fab1ebb34429d70e93a4cc1914a695b4d3e50dd5d512203e2b15",
+        "kind": "digital_transcription_correction",
+        "printed_page": 100,
+        "reviewer_kind": "ai",
+        "work_location": "24.1"
+      }
+    ],
+    "location": "24.1",
+    "work_id": "tatian-greeks"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὀλυμπιάδα",
+        "before": "ὀλυμπεάδα",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/corpusapologeta03moragoog/page/n212.jpg",
+        "image_sha256": "b037d68963021ff4f35771f33aad42b36b0add7855999d8751682fe591b25693",
+        "kind": "digital_transcription_correction",
+        "printed_page": 162,
+        "reviewer_kind": "ai",
+        "work_location": "41.1"
+      }
+    ],
+    "location": "41.1",
+    "work_id": "tatian-greeks"
   }
 ]
