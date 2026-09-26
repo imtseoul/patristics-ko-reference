@@ -7475,5 +7475,101 @@
     ],
     "location": "20.5",
     "work_id": "clement-2-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἔλεος,",
+        "before": "ἐλεος,",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n324.jpg",
+        "image_sha256": "eba21d27951fb97707f268329fddd6bb4fa3688d9765681e546a536c98875028",
+        "kind": "digital_transcription_correction",
+        "printed_page": 312,
+        "reviewer_kind": "ai",
+        "work_location": "praef.1"
+      },
+      {
+        "after": "Ἰησοῦ Χριστοῦ",
+        "before": "Ἰησου Χριστοῦ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n324.jpg",
+        "image_sha256": "eba21d27951fb97707f268329fddd6bb4fa3688d9765681e546a536c98875028",
+        "kind": "digital_transcription_correction",
+        "printed_page": 312,
+        "reviewer_kind": "ai",
+        "work_location": "praef.1"
+      }
+    ],
+    "location": "praef.1",
+    "work_id": "polycarp-martyrdom"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μάστιξιν",
+        "before": "μάστιξιν:",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n326.jpg",
+        "image_sha256": "09b653bc988fcd2ef6b5255cbf06b55a7255b0dbe026b683e00863e1400c0cdc",
+        "kind": "digital_transcription_correction",
+        "printed_page": 314,
+        "reviewer_kind": "ai",
+        "work_location": "2.2"
+      }
+    ],
+    "location": "2.2",
+    "work_id": "polycarp-martyrdom"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’ οὗ",
+        "before": "δἰ οὗ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n342.jpg",
+        "image_sha256": "479f5c18bc10e622cc91ee162700a6e8bcc7672d7b9919171260f98036cf381b",
+        "kind": "digital_transcription_correction",
+        "printed_page": 330,
+        "reviewer_kind": "ai",
+        "work_location": "14.1"
+      }
+    ],
+    "location": "14.1",
+    "work_id": "polycarp-martyrdom"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’ οὗ",
+        "before": "δἰ οὗ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n344.jpg",
+        "image_sha256": "67dc747fbe521b55a111896e2133384f3d8a8d05944611fbe24b80115255ae89",
+        "kind": "digital_transcription_correction",
+        "printed_page": 332,
+        "reviewer_kind": "ai",
+        "work_location": "14.3"
+      }
+    ],
+    "location": "14.3",
+    "work_id": "polycarp-martyrdom"
+  },
+  {
+    "corrections": [
+      {
+        "after": "στόματος αὐτοῦ,",
+        "before": "στόματος αὐτοῦ.",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/apostolicfather01lakegoog/page/n346.jpg",
+        "image_sha256": "e4b2affdadce156e1a8c14d0991894925ef08be318cea6a8511bb649a99be03d",
+        "kind": "digital_transcription_correction",
+        "printed_page": 334,
+        "reviewer_kind": "ai",
+        "work_location": "16.2"
+      }
+    ],
+    "location": "16.2",
+    "work_id": "polycarp-martyrdom"
   }
 ]
