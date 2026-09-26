@@ -6977,5 +6977,248 @@
     ],
     "location": "66.1",
     "work_id": "justin-first-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὡς εἷς",
+        "before": "ὧς εἰς",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n347.jpg",
+        "image_sha256": "c070cf94c520261019f50550e56a42bfde011ed019d7c61933edd25a3acf674b",
+        "kind": "digital_transcription_correction",
+        "printed_page": 342,
+        "reviewer_kind": "ai",
+        "work_location": "1.8"
+      }
+    ],
+    "location": "1.8",
+    "work_id": "barnabas"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐνώπιον",
+        "before": "ἐνώπιαν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n357.jpg",
+        "image_sha256": "d2d34223951eaa16132ef68d9cc31e620a6596ab895ab0fcb4c5d12fd16e7e8b",
+        "kind": "digital_transcription_correction",
+        "printed_page": 352,
+        "reviewer_kind": "ai",
+        "work_location": "4.11"
+      }
+    ],
+    "location": "4.11",
+    "work_id": "barnabas"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐπανέστησάν",
+        "before": "ἐπανέστησάν νέστησάν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n361.jpg",
+        "image_sha256": "416f6a5e756de6737af2e8d08eabcf0c3a7196e32d8906f6ef9eca85b60ec33e",
+        "kind": "digital_transcription_correction",
+        "printed_page": 356,
+        "reviewer_kind": "ai",
+        "work_location": "5.13"
+      }
+    ],
+    "location": "5.13",
+    "work_id": "barnabas"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Αὐξάνεσθε",
+        "before": "Λὐξάνεσθε",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n365.jpg",
+        "image_sha256": "56ce9f38424a08705a8fbb0f17bf63ca48668219b0d80c45c712ed5dde332ad5",
+        "kind": "digital_transcription_correction",
+        "printed_page": 360,
+        "reviewer_kind": "ai",
+        "work_location": "6.12"
+      }
+    ],
+    "location": "6.12",
+    "work_id": "barnabas"
+  },
+  {
+    "corrections": [
+      {
+        "after": "(ἴδε",
+        "before": "ʽἴδε",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n373.jpg",
+        "image_sha256": "6248e23901b91bcfa4cbd16a17e999f0adfc64cd77ee94ca142f94da94fe6beb",
+        "kind": "digital_transcription_correction",
+        "printed_page": 368,
+        "reviewer_kind": "ai",
+        "work_location": "8.1"
+      },
+      {
+        "after": "κόκκινον)",
+        "before": "κόκκινον̓",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n373.jpg",
+        "image_sha256": "6248e23901b91bcfa4cbd16a17e999f0adfc64cd77ee94ca142f94da94fe6beb",
+        "kind": "digital_transcription_correction",
+        "printed_page": 368,
+        "reviewer_kind": "ai",
+        "work_location": "8.1"
+      }
+    ],
+    "location": "8.1",
+    "work_id": "barnabas"
+  },
+  {
+    "corrections": [
+      {
+        "after": "(οὖσιν",
+        "before": "ʽοὖσιν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n373.jpg",
+        "image_sha256": "6248e23901b91bcfa4cbd16a17e999f0adfc64cd77ee94ca142f94da94fe6beb",
+        "kind": "digital_transcription_correction",
+        "printed_page": 368,
+        "reviewer_kind": "ai",
+        "work_location": "8.3"
+      },
+      {
+        "after": "Ἰσραήλ),",
+        "before": "Ἰσραήλ’ ,",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n373.jpg",
+        "image_sha256": "6248e23901b91bcfa4cbd16a17e999f0adfc64cd77ee94ca142f94da94fe6beb",
+        "kind": "digital_transcription_correction",
+        "printed_page": 368,
+        "reviewer_kind": "ai",
+        "work_location": "8.3"
+      }
+    ],
+    "location": "8.3",
+    "work_id": "barnabas"
+  },
+  {
+    "corrections": [
+      {
+        "after": "(ὧδε",
+        "before": "ʽὧδε",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n377.jpg",
+        "image_sha256": "219a4f4c5f9fac6901aafcda6c7d7b8cca87631b0e269ed36e6d2b4e3071cd38",
+        "kind": "digital_transcription_correction",
+        "printed_page": 372,
+        "reviewer_kind": "ai",
+        "work_location": "9.5"
+      },
+      {
+        "after": "ἐντολήν)",
+        "before": "ἐντολήν̓",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n377.jpg",
+        "image_sha256": "219a4f4c5f9fac6901aafcda6c7d7b8cca87631b0e269ed36e6d2b4e3071cd38",
+        "kind": "digital_transcription_correction",
+        "printed_page": 372,
+        "reviewer_kind": "ai",
+        "work_location": "9.5"
+      }
+    ],
+    "location": "9.5",
+    "work_id": "barnabas"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἡ δοθεῖσα",
+        "before": "ἧ δοθεῖσα",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n377.jpg",
+        "image_sha256": "219a4f4c5f9fac6901aafcda6c7d7b8cca87631b0e269ed36e6d2b4e3071cd38",
+        "kind": "digital_transcription_correction",
+        "printed_page": 372,
+        "reviewer_kind": "ai",
+        "work_location": "9.8"
+      }
+    ],
+    "location": "9.8",
+    "work_id": "barnabas"
+  },
+  {
+    "corrections": [
+      {
+        "after": "(ἐποίησεν",
+        "before": "ʽἐποίησεν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n389.jpg",
+        "image_sha256": "e17599e6f3b37ded165235228afd23b9d6adc6b0037055d14b55ae41d869f40d",
+        "kind": "digital_transcription_correction",
+        "printed_page": 384,
+        "reviewer_kind": "ai",
+        "work_location": "12.5"
+      },
+      {
+        "after": "ἐγένετο),",
+        "before": "ἐγένετὀ.",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n389.jpg",
+        "image_sha256": "e17599e6f3b37ded165235228afd23b9d6adc6b0037055d14b55ae41d869f40d",
+        "kind": "digital_transcription_correction",
+        "printed_page": 384,
+        "reviewer_kind": "ai",
+        "work_location": "12.5"
+      }
+    ],
+    "location": "12.5",
+    "work_id": "barnabas"
+  },
+  {
+    "corrections": [
+      {
+        "after": "κληρονομεῖ ἢ ὁ",
+        "before": "κληρονομεῖ ἡ ὁ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n391.jpg",
+        "image_sha256": "670e2c2d21c5f02727179f856c9081f1459b2f887ad496cc47ba0fdf8b6dcff1",
+        "kind": "digital_transcription_correction",
+        "printed_page": 386,
+        "reviewer_kind": "ai",
+        "work_location": "13.1"
+      }
+    ],
+    "location": "13.1",
+    "work_id": "barnabas"
+  },
+  {
+    "corrections": [
+      {
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n413.jpg",
+        "kind": "paratext_separation",
+        "new_location": "subscriptio.1",
+        "text": "Ἐπιστολὴ Βαρνάβα"
+      }
+    ],
+    "location": "21.9",
+    "work_id": "barnabas"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἐπιστολὴ Βαρνάβα.",
+        "before": "Ἐπιστολὴ Βαρνάβα",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n413.jpg",
+        "image_sha256": "ac217d172887b9b84bacfd259f12041cf5c4cc1344cfc470dce2663c0d88c608",
+        "kind": "digital_transcription_correction",
+        "printed_page": 408,
+        "reviewer_kind": "ai",
+        "work_location": "subscriptio.1"
+      }
+    ],
+    "location": "subscriptio.1",
+    "work_id": "barnabas"
   }
 ]
