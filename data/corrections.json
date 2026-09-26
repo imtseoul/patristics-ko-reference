@@ -7220,5 +7220,260 @@
     ],
     "location": "subscriptio.1",
     "work_id": "barnabas"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὗ ἡμῖν",
+        "before": "οὖ ἡμῖν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n133.jpg",
+        "image_sha256": "e6e7a1b671ce0c59d6f08a06303e840a3d2f840863d7b819f7f4db23d32047f1",
+        "kind": "digital_transcription_correction",
+        "printed_page": 128,
+        "reviewer_kind": "ai",
+        "work_location": "1.3"
+      }
+    ],
+    "location": "1.3",
+    "work_id": "clement-2-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἢ μισθὸν",
+        "before": "ἡ μισθὸν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n133.jpg",
+        "image_sha256": "e6e7a1b671ce0c59d6f08a06303e840a3d2f840863d7b819f7f4db23d32047f1",
+        "kind": "digital_transcription_correction",
+        "printed_page": 128,
+        "reviewer_kind": "ai",
+        "work_location": "1.5"
+      },
+      {
+        "after": "ὧν ἐλάβομεν",
+        "before": "ὦν ἐλάβομεν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n133.jpg",
+        "image_sha256": "e6e7a1b671ce0c59d6f08a06303e840a3d2f840863d7b819f7f4db23d32047f1",
+        "kind": "digital_transcription_correction",
+        "printed_page": 128,
+        "reviewer_kind": "ai",
+        "work_location": "1.5"
+      }
+    ],
+    "location": "1.5",
+    "work_id": "clement-2-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "στείρα ἡ οὐ",
+        "before": "στείρα ἦ οὐ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n135.jpg",
+        "image_sha256": "b0580f9e5dbb49aca074b5d9d20d772fa9f90b4cf47669da8a350afef2cb69dd",
+        "kind": "digital_transcription_correction",
+        "printed_page": 130,
+        "reviewer_kind": "ai",
+        "work_location": "2.1"
+      }
+    ],
+    "location": "2.1",
+    "work_id": "clement-2-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὃ δὲ εἶπεν",
+        "before": "δ δὲ εἶπεν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n135.jpg",
+        "image_sha256": "b0580f9e5dbb49aca074b5d9d20d772fa9f90b4cf47669da8a350afef2cb69dd",
+        "kind": "digital_transcription_correction",
+        "printed_page": 130,
+        "reviewer_kind": "ai",
+        "work_location": "2.3"
+      }
+    ],
+    "location": "2.3",
+    "work_id": "clement-2-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Μὴ",
+        "before": "Mt. 7, 21Μὴ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n137.jpg",
+        "image_sha256": "8509a1d4bc56782e7f5ab961ad773fa74d7ec740a0a1d734538ef2395954d035",
+        "kind": "digital_transcription_correction",
+        "printed_page": 132,
+        "reviewer_kind": "ai",
+        "work_location": "4.1"
+      }
+    ],
+    "location": "4.1",
+    "work_id": "clement-2-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καταπλέουσι",
+        "before": "καταπλέουσα:",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n143.jpg",
+        "image_sha256": "5483e375d1e86eb04ee68e441b79ed91662db3769a4b4a299e17c44249f6bf8e",
+        "kind": "digital_transcription_correction",
+        "printed_page": 138,
+        "reviewer_kind": "ai",
+        "work_location": "7.1"
+      }
+    ],
+    "location": "7.1",
+    "work_id": "clement-2-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐκ τοῦ κόσμου",
+        "before": "ἐκ τοῦ κόσμον",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n145.jpg",
+        "image_sha256": "7cf745d9199a4584653c692b48f22b69d526f7038687fff66901e825bfbc9dd7",
+        "kind": "digital_transcription_correction",
+        "printed_page": 140,
+        "reviewer_kind": "ai",
+        "work_location": "8.3"
+      }
+    ],
+    "location": "8.3",
+    "work_id": "clement-2-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὥραν",
+        "before": "ῶραν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n151.jpg",
+        "image_sha256": "e918bf6e67ed928070b53fc9fb2853d1ff3f77c8fdd7eae7b597ab1262222ca2",
+        "kind": "digital_transcription_correction",
+        "printed_page": 146,
+        "reviewer_kind": "ai",
+        "work_location": "12.1"
+      }
+    ],
+    "location": "12.1",
+    "work_id": "clement-2-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὔτε ἄρσεν",
+        "before": "οὔτε ἅρσεν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n151.jpg",
+        "image_sha256": "e918bf6e67ed928070b53fc9fb2853d1ff3f77c8fdd7eae7b597ab1262222ca2",
+        "kind": "digital_transcription_correction",
+        "printed_page": 146,
+        "reviewer_kind": "ai",
+        "work_location": "12.2"
+      }
+    ],
+    "location": "12.2",
+    "work_id": "clement-2-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τὸ ἔσω",
+        "before": "τὸ ἕσω",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n151.jpg",
+        "image_sha256": "e918bf6e67ed928070b53fc9fb2853d1ff3f77c8fdd7eae7b597ab1262222ca2",
+        "kind": "digital_transcription_correction",
+        "printed_page": 146,
+        "reviewer_kind": "ai",
+        "work_location": "12.4"
+      }
+    ],
+    "location": "12.4",
+    "work_id": "clement-2-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἄνθρωπον",
+        "before": "ἅνθρωπον",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n155.jpg",
+        "image_sha256": "da85af37cd4cfe182970555ded740f015aaf5a73c920e5389a32a677d275e3b1",
+        "kind": "digital_transcription_correction",
+        "printed_page": 150,
+        "reviewer_kind": "ai",
+        "work_location": "14.2"
+      },
+      {
+        "after": "ἄρσεν",
+        "before": "ἅρσεν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n155.jpg",
+        "image_sha256": "da85af37cd4cfe182970555ded740f015aaf5a73c920e5389a32a677d275e3b1",
+        "kind": "digital_transcription_correction",
+        "printed_page": 150,
+        "reviewer_kind": "ai",
+        "work_location": "14.2"
+      }
+    ],
+    "location": "14.2",
+    "work_id": "clement-2-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "κυρίου.",
+        "before": "κυρίον.",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n161.jpg",
+        "image_sha256": "9412b710ea41f8c35362583c2c5727454aeefd655482f78c1def0aa48ffb9a36",
+        "kind": "digital_transcription_correction",
+        "printed_page": 156,
+        "reviewer_kind": "ai",
+        "work_location": "17.3"
+      }
+    ],
+    "location": "17.3",
+    "work_id": "clement-2-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μὴ ὂν",
+        "before": "μὴ ὃν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n167.jpg",
+        "image_sha256": "e7bf24e36dd47cc0cd399a8a3bb9d200efae9a4f55460b809ed847068022ff26",
+        "kind": "digital_transcription_correction",
+        "printed_page": 162,
+        "reviewer_kind": "ai",
+        "work_location": "20.4"
+      }
+    ],
+    "location": "20.4",
+    "work_id": "clement-2-corinthians"
+  },
+  {
+    "corrections": [
+      {
+        "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n167.jpg",
+        "kind": "paratext_separation",
+        "new_location": "subscriptio.1",
+        "text": "Κλήμεντος πρὸς Κορινθίους ἐπιστολὴ β."
+      }
+    ],
+    "location": "20.5",
+    "work_id": "clement-2-corinthians"
   }
 ]

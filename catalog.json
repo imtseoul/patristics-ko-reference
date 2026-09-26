@@ -1,12 +1,10 @@
 {
   "base_url": "https://imtseoul.github.io/patristics-ko-reference",
-  "catalog_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/main/catalog.json",
   "human_review_status": "not_reviewed",
-  "release_id": "alpha-0.12",
+  "release_id": "alpha-0.13",
   "rights_url": "https://imtseoul.github.io/patristics-ko-reference/rights.html",
   "schema_version": "patristics-library-catalog-0.1",
   "topics_html_path": "topics.html",
-  "topics_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/topics.json",
   "topics_path": "topics.json",
   "works": [
     {
@@ -25,14 +23,12 @@
         "Ignatius of Antioch"
       ],
       "chapters": 10,
-      "fixed_html_path": "releases/alpha-0.12/ignatius-romans/index.html",
+      "fixed_html_path": "releases/alpha-0.13/ignatius-romans/index.html",
       "html_path": "works/ignatius-romans/index.html",
       "id": "ignatius-romans",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/ignatius-romans/passages.json",
-      "json_path": "releases/alpha-0.12/ignatius-romans/passages.json",
-      "json_sha256": "4f435cafc7b9c98f110f1dd91a75464774c81d03fd24647c5bc7bdbc7cb516a4",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/ignatius-romans/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/ignatius-romans/passages.jsonl",
+      "json_path": "releases/alpha-0.13/ignatius-romans/passages.json",
+      "json_sha256": "fd1d033a6ba2ab50b5cd828c4ea26d4a5e7963df4c95db17e171b53c25f8d81e",
+      "jsonl_path": "releases/alpha-0.13/ignatius-romans/passages.jsonl",
       "passages": 29,
       "scope": "서두와 1-10장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
@@ -55,14 +51,12 @@
         "Anonymus"
       ],
       "chapters": 16,
-      "fixed_html_path": "releases/alpha-0.12/didache/index.html",
+      "fixed_html_path": "releases/alpha-0.13/didache/index.html",
       "html_path": "works/didache/index.html",
       "id": "didache",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/didache/passages.json",
-      "json_path": "releases/alpha-0.12/didache/passages.json",
-      "json_sha256": "9c40c3fd689d1cf51c7e3dbaf6bb2d6f5f843c7df00c7b698a7699930f9a2549",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/didache/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/didache/passages.jsonl",
+      "json_path": "releases/alpha-0.13/didache/passages.json",
+      "json_sha256": "3e1051ce51490300216140a5b97dac2aae7af3a32ad94c68ec659b0894929f01",
+      "jsonl_path": "releases/alpha-0.13/didache/passages.jsonl",
       "passages": 100,
       "scope": "Lake가 채택한 그리스어 본문의 1-16장 전체. 현존 판본의 끝을 넘어 결말을 복원하지 않음",
       "source_languages": [
@@ -87,14 +81,12 @@
         "Polycarp"
       ],
       "chapters": 14,
-      "fixed_html_path": "releases/alpha-0.12/polycarp-philippians/index.html",
+      "fixed_html_path": "releases/alpha-0.13/polycarp-philippians/index.html",
       "html_path": "works/polycarp-philippians/index.html",
       "id": "polycarp-philippians",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/polycarp-philippians/passages.json",
-      "json_path": "releases/alpha-0.12/polycarp-philippians/passages.json",
-      "json_sha256": "41c6cfc0d7ce01c20044ea193837be7c82915d5cc5c8ae1debe19141d1cb6b4c",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/polycarp-philippians/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/polycarp-philippians/passages.jsonl",
+      "json_path": "releases/alpha-0.13/polycarp-philippians/passages.json",
+      "json_sha256": "110a20f5f00b801e5a728700460ad71e040d081b31be558a4c613db26d356929",
+      "jsonl_path": "releases/alpha-0.13/polycarp-philippians/passages.jsonl",
       "passages": 38,
       "scope": "서두와 1-14장, 그리스어 전승과 라틴어 고대 역본을 구분한 채택 본문 전체",
       "source_languages": [
@@ -116,14 +108,12 @@
         "Ignatius of Antioch"
       ],
       "chapters": 11,
-      "fixed_html_path": "releases/alpha-0.12/ignatius-philadelphians/index.html",
+      "fixed_html_path": "releases/alpha-0.13/ignatius-philadelphians/index.html",
       "html_path": "works/ignatius-philadelphians/index.html",
       "id": "ignatius-philadelphians",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/ignatius-philadelphians/passages.json",
-      "json_path": "releases/alpha-0.12/ignatius-philadelphians/passages.json",
-      "json_sha256": "8450b25efe07e1bdde1a11de59028dd2918fa33af5e2c95558d1a01c32338a87",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/ignatius-philadelphians/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/ignatius-philadelphians/passages.jsonl",
+      "json_path": "releases/alpha-0.13/ignatius-philadelphians/passages.json",
+      "json_sha256": "ba3de7d621a795413d4b8b0399d79304e7426b10784c3dd4d65f88bae903f852",
+      "jsonl_path": "releases/alpha-0.13/ignatius-philadelphians/passages.jsonl",
       "passages": 24,
       "scope": "서두와 1-11장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
@@ -144,14 +134,12 @@
         "Ignatius of Antioch"
       ],
       "chapters": 8,
-      "fixed_html_path": "releases/alpha-0.12/ignatius-polycarp/index.html",
+      "fixed_html_path": "releases/alpha-0.13/ignatius-polycarp/index.html",
       "html_path": "works/ignatius-polycarp/index.html",
       "id": "ignatius-polycarp",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/ignatius-polycarp/passages.json",
-      "json_path": "releases/alpha-0.12/ignatius-polycarp/passages.json",
-      "json_sha256": "54a87a51c86a0c3eb32afa4f2d4a2708d2de7a9a31aae4b874dc5cd3928ce7ac",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/ignatius-polycarp/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/ignatius-polycarp/passages.jsonl",
+      "json_path": "releases/alpha-0.13/ignatius-polycarp/passages.json",
+      "json_sha256": "53c5cebd7efc3fcb58bc46d1122f0cf82885ac5482e7a964278a192b64fd1cbd",
+      "jsonl_path": "releases/alpha-0.13/ignatius-polycarp/passages.jsonl",
       "passages": 22,
       "scope": "서두와 1-8장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
@@ -177,14 +165,12 @@
         "Ignatius of Antioch"
       ],
       "chapters": 21,
-      "fixed_html_path": "releases/alpha-0.12/ignatius-ephesians/index.html",
+      "fixed_html_path": "releases/alpha-0.13/ignatius-ephesians/index.html",
       "html_path": "works/ignatius-ephesians/index.html",
       "id": "ignatius-ephesians",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/ignatius-ephesians/passages.json",
-      "json_path": "releases/alpha-0.12/ignatius-ephesians/passages.json",
-      "json_sha256": "ddaba37756db9adaac3b98b44f647903abc676f10cbbb55985dd5a51d0894549",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/ignatius-ephesians/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/ignatius-ephesians/passages.jsonl",
+      "json_path": "releases/alpha-0.13/ignatius-ephesians/passages.json",
+      "json_sha256": "60601f07200ccb5f6448fe28bb8401e8ce27fd0a40c036cf2943d550f3acc5c5",
+      "jsonl_path": "releases/alpha-0.13/ignatius-ephesians/passages.jsonl",
       "passages": 48,
       "scope": "서두와 1-21장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
@@ -208,14 +194,12 @@
         "Ignatius of Antioch"
       ],
       "chapters": 15,
-      "fixed_html_path": "releases/alpha-0.12/ignatius-magnesians/index.html",
+      "fixed_html_path": "releases/alpha-0.13/ignatius-magnesians/index.html",
       "html_path": "works/ignatius-magnesians/index.html",
       "id": "ignatius-magnesians",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/ignatius-magnesians/passages.json",
-      "json_path": "releases/alpha-0.12/ignatius-magnesians/passages.json",
-      "json_sha256": "a772b0f60247214d1e168b9e33daa3e5d2c37c036fddf2ad3639f843a38d1316",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/ignatius-magnesians/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/ignatius-magnesians/passages.jsonl",
+      "json_path": "releases/alpha-0.13/ignatius-magnesians/passages.json",
+      "json_sha256": "d98947f35a1e6ed7f11fa045f60db7ab18bac326a42d477b3771b0c7ca2806a5",
+      "jsonl_path": "releases/alpha-0.13/ignatius-magnesians/passages.jsonl",
       "passages": 26,
       "scope": "서두와 1-15장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
@@ -239,14 +223,12 @@
         "Ignatius of Antioch"
       ],
       "chapters": 13,
-      "fixed_html_path": "releases/alpha-0.12/ignatius-trallians/index.html",
+      "fixed_html_path": "releases/alpha-0.13/ignatius-trallians/index.html",
       "html_path": "works/ignatius-trallians/index.html",
       "id": "ignatius-trallians",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/ignatius-trallians/passages.json",
-      "json_path": "releases/alpha-0.12/ignatius-trallians/passages.json",
-      "json_sha256": "9e3b4af97cccdd91421f7fb0c55ae4a2ca5a84fcb491ed1ea33cc1b83185fc67",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/ignatius-trallians/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/ignatius-trallians/passages.jsonl",
+      "json_path": "releases/alpha-0.13/ignatius-trallians/passages.json",
+      "json_sha256": "4d44a760b1d2b2acc0d8edbbef889e27f4406841c6c81c87bd338d3c824d77a7",
+      "jsonl_path": "releases/alpha-0.13/ignatius-trallians/passages.jsonl",
       "passages": 30,
       "scope": "서두와 1-13장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
@@ -270,14 +252,12 @@
         "Ignatius of Antioch"
       ],
       "chapters": 13,
-      "fixed_html_path": "releases/alpha-0.12/ignatius-smyrnaeans/index.html",
+      "fixed_html_path": "releases/alpha-0.13/ignatius-smyrnaeans/index.html",
       "html_path": "works/ignatius-smyrnaeans/index.html",
       "id": "ignatius-smyrnaeans",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/ignatius-smyrnaeans/passages.json",
-      "json_path": "releases/alpha-0.12/ignatius-smyrnaeans/passages.json",
-      "json_sha256": "941d3402c1cf570959badbe042187e57b230d1b26c09cf514efa50e99d0ba9dd",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/ignatius-smyrnaeans/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/ignatius-smyrnaeans/passages.jsonl",
+      "json_path": "releases/alpha-0.13/ignatius-smyrnaeans/passages.json",
+      "json_sha256": "5eeb79009ca67ceb563509e31c8f9b0dfe7b01ea449c172fc2813fa19a2904af",
+      "jsonl_path": "releases/alpha-0.13/ignatius-smyrnaeans/passages.jsonl",
       "passages": 29,
       "scope": "서두와 1-13장, 일곱 서신 전승형의 채택 본문 전체",
       "source_languages": [
@@ -303,14 +283,12 @@
         "Clement"
       ],
       "chapters": 65,
-      "fixed_html_path": "releases/alpha-0.12/clement-1-corinthians/index.html",
+      "fixed_html_path": "releases/alpha-0.13/clement-1-corinthians/index.html",
       "html_path": "works/clement-1-corinthians/index.html",
       "id": "clement-1-corinthians",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/clement-1-corinthians/passages.json",
-      "json_path": "releases/alpha-0.12/clement-1-corinthians/passages.json",
-      "json_sha256": "ebe9f15899fb3816e0395efb2c2a4ae92aff5d2126e072dd5157cc28d071c8ee",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/clement-1-corinthians/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/clement-1-corinthians/passages.jsonl",
+      "json_path": "releases/alpha-0.13/clement-1-corinthians/passages.json",
+      "json_sha256": "16f065eaa665ac82ab74d6b86121568974d9b772dafa6e269f03402b151afa44",
+      "jsonl_path": "releases/alpha-0.13/clement-1-corinthians/passages.jsonl",
       "passages": 401,
       "scope": "서두와 1-65장 전문, 끝맺음 표제 별도 수록. 채택 판본의 결락 표시 보존",
       "source_languages": [
@@ -337,14 +315,12 @@
       "chapters": null,
       "citation_scheme": "local_sections",
       "edition_short_label": "Westcott 1896",
-      "fixed_html_path": "releases/alpha-0.12/muratorian-fragment/index.html",
+      "fixed_html_path": "releases/alpha-0.13/muratorian-fragment/index.html",
       "html_path": "works/muratorian-fragment/index.html",
       "id": "muratorian-fragment",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/muratorian-fragment/passages.json",
-      "json_path": "releases/alpha-0.12/muratorian-fragment/passages.json",
-      "json_sha256": "2a551156456bdd0ccfe1452e4dd3f798a815c446f668f3b20cf685cdb72fe61b",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/muratorian-fragment/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/muratorian-fragment/passages.jsonl",
+      "json_path": "releases/alpha-0.13/muratorian-fragment/passages.json",
+      "json_sha256": "4195f391d205b6a3697d3b68a8a71977aeb7ce324a80a50217a92119d22a86b6",
+      "jsonl_path": "releases/alpha-0.13/muratorian-fragment/passages.jsonl",
       "passages": 22,
       "scope": "Westcott 1896의 현존 라틴어 단편 전체. §1-§22는 이 저장소의 단락 구분",
       "source_languages": [
@@ -371,14 +347,12 @@
       "chapters": 20,
       "citation_scheme": "collection_items",
       "edition_short_label": "Funk 1901",
-      "fixed_html_path": "releases/alpha-0.12/papias-fragments/index.html",
+      "fixed_html_path": "releases/alpha-0.13/papias-fragments/index.html",
       "html_path": "works/papias-fragments/index.html",
       "id": "papias-fragments",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/papias-fragments/passages.json",
-      "json_path": "releases/alpha-0.12/papias-fragments/passages.json",
-      "json_sha256": "192f500643d7e22b46020eae723223d0c8ed301f00bd8d72ccc6ec5864d20667",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/papias-fragments/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/papias-fragments/passages.jsonl",
+      "json_path": "releases/alpha-0.13/papias-fragments/passages.json",
+      "json_sha256": "74cd6797e6d77e6cda053c8a569ab24176b34e6802bc5c0dffc2e8ebb9720606",
+      "jsonl_path": "releases/alpha-0.13/papias-fragments/passages.jsonl",
       "passages": 48,
       "scope": "Funk 1901의 I-XX 단편·증언 전체와 서문 표제. 후기 증언과 XX의 근대 라틴어 중역 구분",
       "source_languages": [
@@ -515,7 +489,7 @@
             "1.h28.s9",
             "1.h29"
           ],
-          "fixed_html_path": "releases/alpha-0.12/irenaeus-against-heresies/book-1.html",
+          "fixed_html_path": "releases/alpha-0.13/irenaeus-against-heresies/book-1.html",
           "html_path": "works/irenaeus-against-heresies/book-1.html"
         },
         {
@@ -677,7 +651,7 @@
             "2.h58.s1",
             "2.h58.s2"
           ],
-          "fixed_html_path": "releases/alpha-0.12/irenaeus-against-heresies/book-2.html",
+          "fixed_html_path": "releases/alpha-0.13/irenaeus-against-heresies/book-2.html",
           "html_path": "works/irenaeus-against-heresies/book-2.html"
         },
         {
@@ -808,7 +782,7 @@
             "3.h42.s1",
             "3.h42.s2"
           ],
-          "fixed_html_path": "releases/alpha-0.12/irenaeus-against-heresies/book-3.html",
+          "fixed_html_path": "releases/alpha-0.13/irenaeus-against-heresies/book-3.html",
           "html_path": "works/irenaeus-against-heresies/book-3.html"
         },
         {
@@ -982,7 +956,7 @@
             "4.h68.s1",
             "4.h68.s2"
           ],
-          "fixed_html_path": "releases/alpha-0.12/irenaeus-against-heresies/book-4.html",
+          "fixed_html_path": "releases/alpha-0.13/irenaeus-against-heresies/book-4.html",
           "html_path": "works/irenaeus-against-heresies/book-4.html"
         },
         {
@@ -1092,7 +1066,7 @@
             "5.h35.s2",
             "5.h36.s1"
           ],
-          "fixed_html_path": "releases/alpha-0.12/irenaeus-against-heresies/book-5.html",
+          "fixed_html_path": "releases/alpha-0.13/irenaeus-against-heresies/book-5.html",
           "html_path": "works/irenaeus-against-heresies/book-5.html"
         }
       ],
@@ -1100,14 +1074,12 @@
       "chapters": 233,
       "citation_scheme": "edition_bound_books",
       "edition_short_label": "Harvey 1857",
-      "fixed_html_path": "releases/alpha-0.12/irenaeus-against-heresies/index.html",
+      "fixed_html_path": "releases/alpha-0.13/irenaeus-against-heresies/index.html",
       "html_path": "works/irenaeus-against-heresies/index.html",
       "id": "irenaeus-against-heresies",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/irenaeus-against-heresies/passages.json",
-      "json_path": "releases/alpha-0.12/irenaeus-against-heresies/passages.json",
-      "json_sha256": "91f3de3cd863ea775e840bbc27c1588cde3442814ab58fef65d1546c1f082e03",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/irenaeus-against-heresies/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/irenaeus-against-heresies/passages.jsonl",
+      "json_path": "releases/alpha-0.13/irenaeus-against-heresies/passages.json",
+      "json_sha256": "94cd6061c063c3e02c7e1489c2eb1290c980bfabf25aada217ff8b39b1e49992",
+      "jsonl_path": "releases/alpha-0.13/irenaeus-against-heresies/passages.jsonl",
       "passages": 652,
       "reader_layout": "books",
       "scope": "Harvey 1857의 1-5권 서문과 본문 전체. 라틴어 고대 역본 대본과 그리스어 병렬문, 통상 장절 대응 포함",
@@ -1328,7 +1300,7 @@
             "1.13.21",
             "1.13.22"
           ],
-          "fixed_html_path": "releases/alpha-0.12/eusebius-ecclesiastical-history/book-1.html",
+          "fixed_html_path": "releases/alpha-0.13/eusebius-ecclesiastical-history/book-1.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-1.html"
         },
         {
@@ -1536,7 +1508,7 @@
             "2.26.1",
             "2.26.2"
           ],
-          "fixed_html_path": "releases/alpha-0.12/eusebius-ecclesiastical-history/book-2.html",
+          "fixed_html_path": "releases/alpha-0.13/eusebius-ecclesiastical-history/book-2.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-2.html"
         },
         {
@@ -1825,7 +1797,7 @@
             "3.39.16",
             "3.39.17"
           ],
-          "fixed_html_path": "releases/alpha-0.12/eusebius-ecclesiastical-history/book-3.html",
+          "fixed_html_path": "releases/alpha-0.13/eusebius-ecclesiastical-history/book-3.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html"
         },
         {
@@ -2072,7 +2044,7 @@
             "4.30.2",
             "4.30.3"
           ],
-          "fixed_html_path": "releases/alpha-0.12/eusebius-ecclesiastical-history/book-4.html",
+          "fixed_html_path": "releases/alpha-0.13/eusebius-ecclesiastical-history/book-4.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-4.html"
         },
         {
@@ -2351,7 +2323,7 @@
             "5.28.18",
             "5.28.19"
           ],
-          "fixed_html_path": "releases/alpha-0.12/eusebius-ecclesiastical-history/book-5.html",
+          "fixed_html_path": "releases/alpha-0.13/eusebius-ecclesiastical-history/book-5.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-5.html"
         },
         {
@@ -2655,7 +2627,7 @@
             "6.46.4",
             "6.46.5"
           ],
-          "fixed_html_path": "releases/alpha-0.12/eusebius-ecclesiastical-history/book-6.html",
+          "fixed_html_path": "releases/alpha-0.13/eusebius-ecclesiastical-history/book-6.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html"
         },
         {
@@ -2899,7 +2871,7 @@
             "7.32.31",
             "7.32.32"
           ],
-          "fixed_html_path": "releases/alpha-0.12/eusebius-ecclesiastical-history/book-7.html",
+          "fixed_html_path": "releases/alpha-0.13/eusebius-ecclesiastical-history/book-7.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-7.html"
         },
         {
@@ -3055,7 +3027,7 @@
             "8.app.5",
             "8.app.6"
           ],
-          "fixed_html_path": "releases/alpha-0.12/eusebius-ecclesiastical-history/book-8.html",
+          "fixed_html_path": "releases/alpha-0.13/eusebius-ecclesiastical-history/book-8.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-8.html"
         },
         {
@@ -3175,7 +3147,7 @@
             "9.11.7",
             "9.11.8"
           ],
-          "fixed_html_path": "releases/alpha-0.12/eusebius-ecclesiastical-history/book-9.html",
+          "fixed_html_path": "releases/alpha-0.13/eusebius-ecclesiastical-history/book-9.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-9.html"
         },
         {
@@ -3336,7 +3308,7 @@
             "10.9.8",
             "10.9.9"
           ],
-          "fixed_html_path": "releases/alpha-0.12/eusebius-ecclesiastical-history/book-10.html",
+          "fixed_html_path": "releases/alpha-0.13/eusebius-ecclesiastical-history/book-10.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-10.html"
         }
       ],
@@ -3344,14 +3316,12 @@
       "chapters": 252,
       "citation_scheme": "edition_bound_books",
       "edition_short_label": "Loeb 1926-1932",
-      "fixed_html_path": "releases/alpha-0.12/eusebius-ecclesiastical-history/index.html",
+      "fixed_html_path": "releases/alpha-0.13/eusebius-ecclesiastical-history/index.html",
       "html_path": "works/eusebius-ecclesiastical-history/index.html",
       "id": "eusebius-ecclesiastical-history",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/eusebius-ecclesiastical-history/passages.json",
-      "json_path": "releases/alpha-0.12/eusebius-ecclesiastical-history/passages.json",
-      "json_sha256": "0c04345518f23a338af2aa889fab7790d2e41a278f2431e23eb421d6b36255f3",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/eusebius-ecclesiastical-history/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/eusebius-ecclesiastical-history/passages.jsonl",
+      "json_path": "releases/alpha-0.13/eusebius-ecclesiastical-history/passages.json",
+      "json_sha256": "01905847025392a76a02ae264fc3467c9686b8b2d77a62ca18eaa06fc1eb4a21",
+      "jsonl_path": "releases/alpha-0.13/eusebius-ecclesiastical-history/passages.jsonl",
       "passages": 2126,
       "reader_layout": "books",
       "scope": "Perseus Loeb판의 1-10권 전문, 권별 장 목록과 8권 부록. 그리스어 편집 본문에서 번역",
@@ -3383,14 +3353,12 @@
       "chapters": 68,
       "citation_scheme": "chapters_with_project_paragraphs",
       "edition_short_label": "Rauschen 1911",
-      "fixed_html_path": "releases/alpha-0.12/justin-first-apology/index.html",
+      "fixed_html_path": "releases/alpha-0.13/justin-first-apology/index.html",
       "html_path": "works/justin-first-apology/index.html",
       "id": "justin-first-apology",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/justin-first-apology/passages.json",
-      "json_path": "releases/alpha-0.12/justin-first-apology/passages.json",
-      "json_sha256": "58e8f05f380e4c66d2558f13baf3c0e249b7ab134628ba1c6da4c7cc013081e7",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/justin-first-apology/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/justin-first-apology/passages.jsonl",
+      "json_path": "releases/alpha-0.13/justin-first-apology/passages.json",
+      "json_sha256": "f65667f6bb848c7f6d2a97f4532fcbddf3e6767ad2159cfcdf605d4973364d90",
+      "jsonl_path": "releases/alpha-0.13/justin-first-apology/passages.jsonl",
       "passages": 70,
       "scope": "Rauschen 1911 제2판의 1-68장과 끝에 실린 하드리아누스의 답신 전체. 장 단위 번역과 별도 답신 표제·본문",
       "source_languages": [
@@ -3424,14 +3392,12 @@
       "chapters": 21,
       "citation_scheme": "chapters_sections",
       "edition_short_label": "Lake 1914",
-      "fixed_html_path": "releases/alpha-0.12/barnabas/index.html",
+      "fixed_html_path": "releases/alpha-0.13/barnabas/index.html",
       "html_path": "works/barnabas/index.html",
       "id": "barnabas",
-      "json_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/barnabas/passages.json",
-      "json_path": "releases/alpha-0.12/barnabas/passages.json",
-      "json_sha256": "7ba4ce91772fd28784ba235e45d869d510502c870af81630731aaf0c8ddab128",
-      "jsonl_mirror_url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/fc0bc12c9d111bc1f10bb160a7a8b453a1edf181/releases/alpha-0.12/barnabas/passages.jsonl",
-      "jsonl_path": "releases/alpha-0.12/barnabas/passages.jsonl",
+      "json_path": "releases/alpha-0.13/barnabas/passages.json",
+      "json_sha256": "be71a367bce3cb974607bc8fb4c4bca153f097814e28e9bf80522683b81ca619",
+      "jsonl_path": "releases/alpha-0.13/barnabas/passages.jsonl",
       "passages": 195,
       "scope": "Lake 1914 재쇄본의 1-21장 194절 전문과 별도 끝맺음 표제",
       "source_languages": [
@@ -3442,6 +3408,51 @@
       "title": "바르나바 서신",
       "title_is_unambiguous": true,
       "translation_method": "고정 First1KGreek의 Lake계 그리스어 본문에서 한국어로 직접 AI 번역. Lake 1914 재쇄본과 대조한 전사 교정과 표본 의미 검토의 범위를 기록."
+    },
+    {
+      "aliases": [
+        "클레멘스 둘째 편지",
+        "클레멘스 두 번째 편지",
+        "2 Clement",
+        "2 Clem.",
+        "Second Clement"
+      ],
+      "ambiguous_aliases": [
+        "고린도후서",
+        "고린토인들에게 보낸 둘째 편지",
+        "2 Corinthians"
+      ],
+      "annotation_rights_id": "clement-2-corinthians-notes-cc-by-sa-4.0",
+      "attribution_status": "traditional_attribution",
+      "author": "익명 (클레멘스에게 전승상 귀속)",
+      "author_aliases": [
+        "익명",
+        "클레멘스",
+        "로마의 클레멘스",
+        "Pseudo-Clement",
+        "Clement of Rome",
+        "Anonymous"
+      ],
+      "chapters": 20,
+      "citation_scheme": "chapters_sections",
+      "edition_short_label": "Lake 1914",
+      "fixed_html_path": "releases/alpha-0.13/clement-2-corinthians/index.html",
+      "html_path": "works/clement-2-corinthians/index.html",
+      "id": "clement-2-corinthians",
+      "json_path": "releases/alpha-0.13/clement-2-corinthians/passages.json",
+      "json_sha256": "3bfffd5f40e0afe73aa0f75ba95a964d2a87725421af6dabf67b7498f94fe1d1",
+      "jsonl_path": "releases/alpha-0.13/clement-2-corinthians/passages.jsonl",
+      "literary_form": "homily",
+      "passages": 119,
+      "scope": "Lake 1914 재쇄본의 1-20장 118절 전문과 별도 끝맺음 표제",
+      "source_languages": [
+        "grc"
+      ],
+      "source_profile": "prepared_tei",
+      "stated_author": null,
+      "title": "클레멘스 2서",
+      "title_is_unambiguous": true,
+      "translation_method": "고정 First1KGreek의 Lake계 그리스어 본문에서 한국어로 직접 AI 번역. 인쇄면으로 확인한 전사·편집주 교정과 난해한 본문의 해석 범위를 기록."
     }
   ]
 }
