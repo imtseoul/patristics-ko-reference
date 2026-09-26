@@ -8521,5 +8521,191 @@
     ],
     "location": "36.171",
     "work_id": "athenagoras-plea"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐπειδὴ οὖν",
+        "before": "ἐπειδὴ οὐν",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/libritresadautho00theo/page/n17.jpg",
+        "image_sha256": "b84dc06c9d72889911cb25b744f9a9efb2de23d47eb8eca112b5fd3639e812a5",
+        "kind": "digital_transcription_correction",
+        "printed_page": 4,
+        "reviewer_kind": "ai",
+        "work_location": "1.1"
+      }
+    ],
+    "location": "1.1",
+    "work_id": "theophilus-autolycus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὁ Θεὸς",
+        "before": "ὁ Θεὸς διὰ τοῦ λόγου αὐτοῦ καὶ τῆς σοφίας. ὁ Θεὸς",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/libritresadautho00theo/page/n31.jpg",
+        "image_sha256": "ead9adee37fce2467a5661bde66b2c34095b194f27590c6f21218c905fb30f79",
+        "kind": "digital_transcription_correction",
+        "printed_page": 18,
+        "reviewer_kind": "ai",
+        "work_location": "1.7"
+      }
+    ],
+    "location": "1.7",
+    "work_id": "theophilus-autolycus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὕλη",
+        "before": "ὕγη",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/libritresadautho00theo/page/n57.jpg",
+        "image_sha256": "43c8c6a968a534e66ed80a203a02849ac6530b1a3108ca8b4588aa93a441d60a",
+        "kind": "digital_transcription_correction",
+        "printed_page": 44,
+        "reviewer_kind": "ai",
+        "work_location": "2.4"
+      }
+    ],
+    "location": "2.4",
+    "work_id": "theophilus-autolycus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δύναμις ὢν",
+        "before": "δύναμις ὦν",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/libritresadautho00theo/page/n109.jpg",
+        "image_sha256": "bbdc3fb5c994c0a8cef6fecaea44a878b96bb30ca3abaad8c5bb6614ff68cb53",
+        "kind": "digital_transcription_correction",
+        "printed_page": 96,
+        "reviewer_kind": "ai",
+        "work_location": "2.22"
+      }
+    ],
+    "location": "2.22",
+    "work_id": "theophilus-autolycus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐπιστολῶν",
+        "before": "ἐπιτστολῶν",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/libritresadautho00theo/page/n205.jpg",
+        "image_sha256": "ad317fdabc076c056db38092a17b46882426ca19b7ffbfb322608db75f413846",
+        "kind": "digital_transcription_correction",
+        "printed_page": 192,
+        "reviewer_kind": "ai",
+        "work_location": "3.22"
+      }
+    ],
+    "location": "3.22",
+    "work_id": "theophilus-autolycus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ρϟ΄.",
+        "before": "ρ(??).",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/libritresadautho00theo/page/n211.jpg",
+        "image_sha256": "a8b4414246e07c027efae6280dcf0e0f8a4de8f38fd877d509e1734e3e92aba8",
+        "kind": "digital_transcription_correction",
+        "printed_page": 198,
+        "reviewer_kind": "ai",
+        "work_location": "3.24"
+      },
+      {
+        "after": "γϡλη΄.",
+        "before": "γ(??)λη΄.",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/libritresadautho00theo/page/n211.jpg",
+        "image_sha256": "a8b4414246e07c027efae6280dcf0e0f8a4de8f38fd877d509e1734e3e92aba8",
+        "kind": "digital_transcription_correction",
+        "printed_page": 198,
+        "reviewer_kind": "ai",
+        "work_location": "3.24"
+      }
+    ],
+    "location": "3.24",
+    "work_id": "theophilus-autolycus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "υϟς΄.",
+        "before": "υ(??)ς΄.",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/libritresadautho00theo/page/n213.jpg",
+        "image_sha256": "8c2070c1d98bb04ff91e5cf38ec313ab8d859b82bc274f9c7d4dc02433962d16",
+        "kind": "digital_transcription_correction",
+        "printed_page": 200,
+        "reviewer_kind": "ai",
+        "work_location": "3.25"
+      },
+      {
+        "after": "δϡνδ΄.",
+        "before": "δ(??)νδ΄.",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/libritresadautho00theo/page/n215.jpg",
+        "image_sha256": "e8c36ee79261a097e706cffdedac9187c6d181d64141929da97a6e2c4875352d",
+        "kind": "digital_transcription_correction",
+        "printed_page": 202,
+        "reviewer_kind": "ai",
+        "work_location": "3.25"
+      }
+    ],
+    "location": "3.25",
+    "work_id": "theophilus-autolycus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "υϟη΄.",
+        "before": "υ(??)η΄.",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/libritresadautho00theo/page/n223.jpg",
+        "image_sha256": "55307f5114f55564afb546701936d2923bff4639d916b614e0cc2e21bd7f025b",
+        "kind": "digital_transcription_correction",
+        "printed_page": 210,
+        "reviewer_kind": "ai",
+        "work_location": "3.28"
+      },
+      {
+        "after": "εχϟη΄,",
+        "before": "εχ(??)η΄,",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/libritresadautho00theo/page/n223.jpg",
+        "image_sha256": "55307f5114f55564afb546701936d2923bff4639d916b614e0cc2e21bd7f025b",
+        "kind": "digital_transcription_correction",
+        "printed_page": 210,
+        "reviewer_kind": "ai",
+        "work_location": "3.28"
+      }
+    ],
+    "location": "3.28",
+    "work_id": "theophilus-autolycus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ϡ΄",
+        "before": "(??)",
+        "checked_on": "2026-09-27",
+        "evidence_url": "https://archive.org/download/libritresadautho00theo/page/n225.jpg",
+        "image_sha256": "bee9e8c08b449fd617d4db1c1ebbddb4a6c1ee124518a9a47fd37f4dac48de27",
+        "kind": "digital_transcription_correction",
+        "printed_page": 212,
+        "reviewer_kind": "ai",
+        "work_location": "3.29"
+      }
+    ],
+    "location": "3.29",
+    "work_id": "theophilus-autolycus"
   }
 ]
