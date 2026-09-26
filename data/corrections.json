@@ -7875,5 +7875,385 @@
     ],
     "location": "12.9",
     "work_id": "diognetus"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Χριστιανῶν",
+        "before": "Χριστιαῶν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n121.jpg",
+        "image_sha256": "74b20549211eeaffd29aaed50b5f01643a586ad5a84e87e16e69e6c68cdd9b23",
+        "kind": "digital_transcription_correction",
+        "printed_page": 114,
+        "reviewer_kind": "ai",
+        "work_location": "1.1"
+      }
+    ],
+    "location": "1.1",
+    "work_id": "justin-second-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὑπὸ τῶν",
+        "before": "ὑπο τῶν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n123.jpg",
+        "image_sha256": "8878294ae18babfc4039e40ecfe6c35d8f51492cb5e513679b8e7c75486ed901",
+        "kind": "digital_transcription_correction",
+        "printed_page": 116,
+        "reviewer_kind": "ai",
+        "work_location": "2.1"
+      },
+      {
+        "after": "εἰς ἐλπίδα",
+        "before": "εῖς ἐλπίδα",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n123.jpg",
+        "image_sha256": "8878294ae18babfc4039e40ecfe6c35d8f51492cb5e513679b8e7c75486ed901",
+        "kind": "digital_transcription_correction",
+        "printed_page": 116,
+        "reviewer_kind": "ai",
+        "work_location": "2.1"
+      },
+      {
+        "after": "ὧν οὐδὲν",
+        "before": "ὦν οὐδὲν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n125.jpg",
+        "image_sha256": "dd254e5613222c1a9b8d6299849a1ed1f5de3eee016124be104bc6ad1d192eaa",
+        "kind": "digital_transcription_correction",
+        "printed_page": 118,
+        "reviewer_kind": "ai",
+        "work_location": "2.1"
+      }
+    ],
+    "location": "2.1",
+    "work_id": "justin-second-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἑαυτοὺς",
+        "before": "ἑαυτους",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n127.jpg",
+        "image_sha256": "4f3441f4e3fb86c24163821566a3b768fe8de2aba4c0c209d8f8e29a01649229",
+        "kind": "digital_transcription_correction",
+        "printed_page": 120,
+        "reviewer_kind": "ai",
+        "work_location": "3.1"
+      },
+      {
+        "after": "αἴτιοι",
+        "before": "αἰτιοι",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n127.jpg",
+        "image_sha256": "4f3441f4e3fb86c24163821566a3b768fe8de2aba4c0c209d8f8e29a01649229",
+        "kind": "digital_transcription_correction",
+        "printed_page": 120,
+        "reviewer_kind": "ai",
+        "work_location": "3.1"
+      }
+    ],
+    "location": "3.1",
+    "work_id": "justin-second-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀκολασίας",
+        "before": "ἀπολασίας",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n127.jpg",
+        "image_sha256": "4f3441f4e3fb86c24163821566a3b768fe8de2aba4c0c209d8f8e29a01649229",
+        "kind": "digital_transcription_correction",
+        "printed_page": 120,
+        "reviewer_kind": "ai",
+        "work_location": "4.1"
+      }
+    ],
+    "location": "4.1",
+    "work_id": "justin-second-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὧν ἂν",
+        "before": "ὦν ἂν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n131.jpg",
+        "image_sha256": "0ef97684f38a14474545ac5d1247a60c0a26e22d0c5f29361da8406a5dc8a7a6",
+        "kind": "digital_transcription_correction",
+        "printed_page": 124,
+        "reviewer_kind": "ai",
+        "work_location": "6.1"
+      },
+      {
+        "after": "ἄνθρωποι",
+        "before": "ἄθρωποι",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n131.jpg",
+        "image_sha256": "0ef97684f38a14474545ac5d1247a60c0a26e22d0c5f29361da8406a5dc8a7a6",
+        "kind": "digital_transcription_correction",
+        "printed_page": 124,
+        "reviewer_kind": "ai",
+        "work_location": "6.1"
+      },
+      {
+        "after": "οἱ",
+        "before": "σι῾",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n131.jpg",
+        "image_sha256": "0ef97684f38a14474545ac5d1247a60c0a26e22d0c5f29361da8406a5dc8a7a6",
+        "kind": "digital_transcription_correction",
+        "printed_page": 124,
+        "reviewer_kind": "ai",
+        "work_location": "6.1"
+      }
+    ],
+    "location": "6.1",
+    "work_id": "justin-second-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οἱ",
+        "before": "σι῾",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n131.jpg",
+        "image_sha256": "0ef97684f38a14474545ac5d1247a60c0a26e22d0c5f29361da8406a5dc8a7a6",
+        "kind": "digital_transcription_correction",
+        "printed_page": 124,
+        "reviewer_kind": "ai",
+        "work_location": "7.1"
+      }
+    ],
+    "location": "7.1",
+    "work_id": "justin-second-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐρωτήσεις",
+        "before": "ἐρωτησεις",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n133.jpg",
+        "image_sha256": "a0047d08a588b13b392e33139b2b5bc1d6bd7929a0822c9735086a380fcd5066",
+        "kind": "digital_transcription_correction",
+        "printed_page": 126,
+        "reviewer_kind": "ai",
+        "work_location": "8.1"
+      },
+      {
+        "after": "Σωκράτει",
+        "before": "Σωρκάτει",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n133.jpg",
+        "image_sha256": "a0047d08a588b13b392e33139b2b5bc1d6bd7929a0822c9735086a380fcd5066",
+        "kind": "digital_transcription_correction",
+        "printed_page": 126,
+        "reviewer_kind": "ai",
+        "work_location": "8.1"
+      },
+      {
+        "after": "Κυνικῷ,",
+        "before": "Κυνικῷ.",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n133.jpg",
+        "image_sha256": "a0047d08a588b13b392e33139b2b5bc1d6bd7929a0822c9735086a380fcd5066",
+        "kind": "digital_transcription_correction",
+        "printed_page": 126,
+        "reviewer_kind": "ai",
+        "work_location": "8.1"
+      },
+      {
+        "after": "τιμᾷ· „Ἀλλ᾿",
+        "before": "τιμᾷ· Ἀλλ᾿",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n133.jpg",
+        "image_sha256": "a0047d08a588b13b392e33139b2b5bc1d6bd7929a0822c9735086a380fcd5066",
+        "kind": "digital_transcription_correction",
+        "printed_page": 126,
+        "reviewer_kind": "ai",
+        "work_location": "8.1"
+      }
+    ],
+    "location": "8.1",
+    "work_id": "justin-second-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἵνα",
+        "before": "Ἰνα",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n133.jpg",
+        "image_sha256": "a0047d08a588b13b392e33139b2b5bc1d6bd7929a0822c9735086a380fcd5066",
+        "kind": "digital_transcription_correction",
+        "printed_page": 126,
+        "reviewer_kind": "ai",
+        "work_location": "9.1"
+      },
+      {
+        "after": "εἴπῃ",
+        "before": "εἰπῃ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n133.jpg",
+        "image_sha256": "a0047d08a588b13b392e33139b2b5bc1d6bd7929a0822c9735086a380fcd5066",
+        "kind": "digital_transcription_correction",
+        "printed_page": 126,
+        "reviewer_kind": "ai",
+        "work_location": "9.1"
+      },
+      {
+        "after": "ὑφ᾿ ἡμῶν",
+        "before": "ὑφ ἡμῶν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n133.jpg",
+        "image_sha256": "a0047d08a588b13b392e33139b2b5bc1d6bd7929a0822c9735086a380fcd5066",
+        "kind": "digital_transcription_correction",
+        "printed_page": 126,
+        "reviewer_kind": "ai",
+        "work_location": "9.1"
+      },
+      {
+        "after": "τὰ αὐτὰ αὐτῷ",
+        "before": "τὰ αὐτὸ αὐτῷ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n133.jpg",
+        "image_sha256": "a0047d08a588b13b392e33139b2b5bc1d6bd7929a0822c9735086a380fcd5066",
+        "kind": "digital_transcription_correction",
+        "printed_page": 126,
+        "reviewer_kind": "ai",
+        "work_location": "9.1"
+      },
+      {
+        "after": "ἀγγέλους",
+        "before": "ἀγγέλλους",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n135.jpg",
+        "image_sha256": "1dbdcfa5e570a934c05a9bfdc11f02d5893976d0e3322df7ecc3e0f64bfd205d",
+        "kind": "digital_transcription_correction",
+        "printed_page": 128,
+        "reviewer_kind": "ai",
+        "work_location": "9.1"
+      }
+    ],
+    "location": "9.1",
+    "work_id": "justin-second-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "πράξαντας ἃ",
+        "before": "πράξαντας ὰ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n135.jpg",
+        "image_sha256": "1dbdcfa5e570a934c05a9bfdc11f02d5893976d0e3322df7ecc3e0f64bfd205d",
+        "kind": "digital_transcription_correction",
+        "printed_page": 128,
+        "reviewer_kind": "ai",
+        "work_location": "10.1"
+      }
+    ],
+    "location": "10.1",
+    "work_id": "justin-second-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Πλάτωνος χαίρων",
+        "before": "Πλάτωνος· χαίρων",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n137.jpg",
+        "image_sha256": "0e4f08ab84d5f5dfb8ca943b662388da842728476a5b771ab43e21bd3c3640c2",
+        "kind": "digital_transcription_correction",
+        "printed_page": 130,
+        "reviewer_kind": "ai",
+        "work_location": "12.1"
+      },
+      {
+        "after": "φανερῶς",
+        "before": "φανερᾶς",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n139.jpg",
+        "image_sha256": "a134f4a66e1eb698de9659a21450c2b74bf84dfc02306a16e31174d2e11f76d2",
+        "kind": "digital_transcription_correction",
+        "printed_page": 132,
+        "reviewer_kind": "ai",
+        "work_location": "12.1"
+      }
+    ],
+    "location": "12.1",
+    "work_id": "justin-second-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὐχ",
+        "before": "οἰχ",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n139.jpg",
+        "image_sha256": "a134f4a66e1eb698de9659a21450c2b74bf84dfc02306a16e31174d2e11f76d2",
+        "kind": "digital_transcription_correction",
+        "printed_page": 132,
+        "reviewer_kind": "ai",
+        "work_location": "13.1"
+      },
+      {
+        "after": "παρὰ πᾶσι καλῶς",
+        "before": "παρὰ καλῶς",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n139.jpg",
+        "image_sha256": "a134f4a66e1eb698de9659a21450c2b74bf84dfc02306a16e31174d2e11f76d2",
+        "kind": "digital_transcription_correction",
+        "printed_page": 132,
+        "reviewer_kind": "ai",
+        "work_location": "13.1"
+      },
+      {
+        "after": "τῶν",
+        "before": "τᾶν",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n139.jpg",
+        "image_sha256": "a134f4a66e1eb698de9659a21450c2b74bf84dfc02306a16e31174d2e11f76d2",
+        "kind": "digital_transcription_correction",
+        "printed_page": 132,
+        "reviewer_kind": "ai",
+        "work_location": "13.1"
+      }
+    ],
+    "location": "13.1",
+    "work_id": "justin-second-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὑμᾶς",
+        "before": "ὑμῦς",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n139.jpg",
+        "image_sha256": "a134f4a66e1eb698de9659a21450c2b74bf84dfc02306a16e31174d2e11f76d2",
+        "kind": "digital_transcription_correction",
+        "printed_page": 132,
+        "reviewer_kind": "ai",
+        "work_location": "14.1"
+      },
+      {
+        "after": "τῆς ψευδοδοξίας",
+        "before": "της ψευδοδοξίας",
+        "checked_on": "2026-09-26",
+        "evidence_url": "https://archive.org/download/siustiniapologia00just/page/n141.jpg",
+        "image_sha256": "2d678fac5053084b1cf8f29045e9c8e245fce0bcba340eb47a514e845fb3c404",
+        "kind": "digital_transcription_correction",
+        "printed_page": 134,
+        "reviewer_kind": "ai",
+        "work_location": "14.1"
+      }
+    ],
+    "location": "14.1",
+    "work_id": "justin-second-apology"
   }
 ]
