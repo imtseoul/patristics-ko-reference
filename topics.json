@@ -15,9 +15,13 @@
     {
       "id": "hebrews",
       "title": "히브리서의 집필자"
+    },
+    {
+      "id": "worship",
+      "title": "성경 낭독과 공동 예배"
     }
   ],
-  "release_id": "alpha-0.10",
+  "release_id": "alpha-0.11",
   "schema_version": "patristics-topics-1",
   "topics": [
     {
@@ -27,8 +31,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-6",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-6",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-6",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-6",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-24-6",
           "label": "교회사 3.24.6",
           "location": "3.24.6",
@@ -111,8 +115,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 16절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-16",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-16",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 16절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-16",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-16",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-16",
           "label": "교회사 3.39.16",
           "location": "3.39.16",
@@ -195,8 +199,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-4",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-4",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-4",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-4",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-25-4",
           "label": "교회사 6.25.4",
           "location": "6.25.4",
@@ -279,8 +283,8 @@
         },
         {
           "author": "파피아스와 전승자들",
-          "citation": "파피아스와 전승자들, 『파피아스 단편과 증언』 선집 항목 II.16, 유세비우스가 보존한 그리스어 본문, Funk 1901, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/papias-fragments/index.html#p-II-16",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/papias-fragments/index.html#p-II-16",
+          "citation": "파피아스와 전승자들, 『파피아스 단편과 증언』 선집 항목 II.16, 유세비우스가 보존한 그리스어 본문, Funk 1901, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/papias-fragments/index.html#p-II-16",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/papias-fragments/index.html#p-II-16",
           "html_path": "works/papias-fragments/index.html#p-II-16",
           "label": "파피아스 단편과 증언 II.16",
           "location": "II.16",
@@ -376,8 +380,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 14절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-14",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-14",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 14절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-14",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-14",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-14",
           "label": "교회사 3.39.14",
           "location": "3.39.14",
@@ -458,8 +462,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 15절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-15",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-15",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 15절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-15",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-15",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-15",
           "label": "교회사 3.39.15",
           "location": "3.39.15",
@@ -544,8 +548,8 @@
         },
         {
           "author": "파피아스와 전승자들",
-          "citation": "파피아스와 전승자들, 『파피아스 단편과 증언』 선집 항목 II.15, 유세비우스가 보존한 그리스어 본문, Funk 1901, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/papias-fragments/index.html#p-II-15",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/papias-fragments/index.html#p-II-15",
+          "citation": "파피아스와 전승자들, 『파피아스 단편과 증언』 선집 항목 II.15, 유세비우스가 보존한 그리스어 본문, Funk 1901, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/papias-fragments/index.html#p-II-15",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/papias-fragments/index.html#p-II-15",
           "html_path": "works/papias-fragments/index.html#p-II-15",
           "label": "파피아스 단편과 증언 II.15",
           "location": "II.15",
@@ -640,8 +644,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 5절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-5",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-5",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 5절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-5",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-5",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-14-5",
           "label": "교회사 6.14.5",
           "location": "6.14.5",
@@ -724,8 +728,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-6",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-6",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-6",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-6",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-14-6",
           "label": "교회사 6.14.6",
           "location": "6.14.6",
@@ -808,8 +812,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 7절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-7",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-7",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 7절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-7",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-7",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-14-7",
           "label": "교회사 6.14.7",
           "location": "6.14.7",
@@ -902,8 +906,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 15절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-15",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-15",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 15절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-15",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-15",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-24-15",
           "label": "교회사 3.24.15",
           "location": "3.24.15",
@@ -986,8 +990,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-6",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-6",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-6",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-6",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-25-6",
           "label": "교회사 6.25.6",
           "location": "6.25.6",
@@ -1068,8 +1072,8 @@
         },
         {
           "author": "이레네우스",
-          "citation": "이레네우스, 『이단 논박』 Harvey 1857 3권 1장 2절, 라틴어 고대 역본, Harvey 1857, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
+          "citation": "이레네우스, 『이단 논박』 Harvey 1857 3권 1장 2절, 라틴어 고대 역본, Harvey 1857, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
           "html_path": "works/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
           "label": "이단 논박 3권 1장 2절 (Harvey판)",
           "location": "3.h1.s2",
@@ -1166,8 +1170,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 7절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-7",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-7",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 7절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-7",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-7",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-24-7",
           "label": "교회사 3.24.7",
           "location": "3.24.7",
@@ -1250,8 +1254,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 8절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-8",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-8",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 8절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-8",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-8",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-24-8",
           "label": "교회사 3.24.8",
           "location": "3.24.8",
@@ -1334,8 +1338,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 11절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-11",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-11",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 11절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-11",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-11",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-24-11",
           "label": "교회사 3.24.11",
           "location": "3.24.11",
@@ -1418,8 +1422,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 12절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-12",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-12",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 12절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-12",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-12",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-24-12",
           "label": "교회사 3.24.12",
           "location": "3.24.12",
@@ -1500,8 +1504,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 13절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-13",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-13",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 13절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-13",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-13",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-24-13",
           "label": "교회사 3.24.13",
           "location": "3.24.13",
@@ -1593,8 +1597,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 7절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-7",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-7",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 7절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-7",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-7",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-14-7",
           "label": "교회사 6.14.7",
           "location": "6.14.7",
@@ -1687,8 +1691,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 5절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-5",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-5",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 5절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-5",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-5",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-14-5",
           "label": "교회사 6.14.5",
           "location": "6.14.5",
@@ -1771,8 +1775,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-6",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-6",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-6",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-6",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-14-6",
           "label": "교회사 6.14.6",
           "location": "6.14.6",
@@ -1855,8 +1859,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 7절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-7",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-7",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 7절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-7",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-7",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-14-7",
           "label": "교회사 6.14.7",
           "location": "6.14.7",
@@ -1940,8 +1944,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-4",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-4",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-4",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-4",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-25-4",
           "label": "교회사 6.25.4",
           "location": "6.25.4",
@@ -2024,8 +2028,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 5절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-5",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-5",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 5절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-5",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-5",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-25-5",
           "label": "교회사 6.25.5",
           "location": "6.25.5",
@@ -2108,8 +2112,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-6",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-6",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-6",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-6",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-25-6",
           "label": "교회사 6.25.6",
           "location": "6.25.6",
@@ -2190,8 +2194,8 @@
         },
         {
           "author": "이레네우스",
-          "citation": "이레네우스, 『이단 논박』 Harvey 1857 3권 1장 2절, 라틴어 고대 역본, Harvey 1857, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
+          "citation": "이레네우스, 『이단 논박』 Harvey 1857 3권 1장 2절, 라틴어 고대 역본, Harvey 1857, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
           "html_path": "works/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
           "label": "이단 논박 3권 1장 2절 (Harvey판)",
           "location": "3.h1.s2",
@@ -2288,8 +2292,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 1절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-1",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-1",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 1절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-1",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-1",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-25-1",
           "label": "교회사 3.25.1",
           "location": "3.25.1",
@@ -2370,8 +2374,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 3절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-3",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-3",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 3절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-3",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-3",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-25-3",
           "label": "교회사 6.25.3",
           "location": "6.25.3",
@@ -2454,8 +2458,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-4",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-4",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-4",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-4",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-25-4",
           "label": "교회사 6.25.4",
           "location": "6.25.4",
@@ -2538,8 +2542,8 @@
         },
         {
           "author": "이레네우스",
-          "citation": "이레네우스, 『이단 논박』 Harvey 1857 3권 1장 2절, 라틴어 고대 역본, Harvey 1857, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
+          "citation": "이레네우스, 『이단 논박』 Harvey 1857 3권 1장 2절, 라틴어 고대 역본, Harvey 1857, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
           "html_path": "works/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
           "label": "이단 논박 3권 1장 2절 (Harvey판)",
           "location": "3.h1.s2",
@@ -2636,8 +2640,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 1절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-1",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-1",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 1절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-1",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-1",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-1",
           "label": "교회사 3.39.1",
           "location": "3.39.1",
@@ -2720,8 +2724,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 2절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-2",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-2",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 2절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-2",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-2",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-2",
           "label": "교회사 3.39.2",
           "location": "3.39.2",
@@ -2813,8 +2817,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 3절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-3",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-3",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 3절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-3",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-3",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-3",
           "label": "교회사 3.39.3",
           "location": "3.39.3",
@@ -2895,8 +2899,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-4",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-4",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-4",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-4",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-4",
           "label": "교회사 3.39.4",
           "location": "3.39.4",
@@ -2989,8 +2993,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-4",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-4",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-4",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-4",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-4",
           "label": "교회사 3.39.4",
           "location": "3.39.4",
@@ -3074,8 +3078,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 5절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-5",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-5",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 5절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-5",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-5",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-5",
           "label": "교회사 3.39.5",
           "location": "3.39.5",
@@ -3158,8 +3162,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-6",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-6",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-6",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-6",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-6",
           "label": "교회사 3.39.6",
           "location": "3.39.6",
@@ -3242,8 +3246,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 7절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-7",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-7",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 7절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-7",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-7",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-7",
           "label": "교회사 3.39.7",
           "location": "3.39.7",
@@ -3333,8 +3337,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 11절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-11",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-11",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 11절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-11",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-11",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-11",
           "label": "교회사 3.39.11",
           "location": "3.39.11",
@@ -3415,8 +3419,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 12절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-12",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-12",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 12절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-12",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-12",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-12",
           "label": "교회사 3.39.12",
           "location": "3.39.12",
@@ -3499,8 +3503,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 13절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-13",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-13",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 13절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-13",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-13",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-13",
           "label": "교회사 3.39.13",
           "location": "3.39.13",
@@ -3592,8 +3596,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 1절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-1",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-1",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 1절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-1",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-1",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-25-1",
           "label": "교회사 3.25.1",
           "location": "3.25.1",
@@ -3674,8 +3678,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 2절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-2",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-2",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 2절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-2",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-2",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-25-2",
           "label": "교회사 3.25.2",
           "location": "3.25.2",
@@ -3767,8 +3771,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 3절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-3",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-3",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 3절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-3",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-3",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-25-3",
           "label": "교회사 3.25.3",
           "location": "3.25.3",
@@ -3860,8 +3864,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-4",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-4",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-4",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-4",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-25-4",
           "label": "교회사 3.25.4",
           "location": "3.25.4",
@@ -3944,8 +3948,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 5절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-5",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-5",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 5절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-5",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-5",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-25-5",
           "label": "교회사 3.25.5",
           "location": "3.25.5",
@@ -4026,8 +4030,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-6",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-6",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-6",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-6",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-25-6",
           "label": "교회사 3.25.6",
           "location": "3.25.6",
@@ -4110,8 +4114,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 7절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-7",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-7",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 7절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-7",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-7",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-25-7",
           "label": "교회사 3.25.7",
           "location": "3.25.7",
@@ -4201,8 +4205,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 18절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-18",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-18",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 18절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-18",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-18",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-24-18",
           "label": "교회사 3.24.18",
           "location": "3.24.18",
@@ -4285,8 +4289,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 2절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-2",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-2",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 2절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-2",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-2",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-25-2",
           "label": "교회사 3.25.2",
           "location": "3.25.2",
@@ -4369,8 +4373,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-4",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-4",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-4",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-4",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-25-4",
           "label": "교회사 3.25.4",
           "location": "3.25.4",
@@ -4453,8 +4457,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-6",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-39-6",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 39장 6절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-6",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-39-6",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-6",
           "label": "교회사 3.39.6",
           "location": "3.39.6",
@@ -4546,8 +4550,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 8절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-8",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-8",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 8절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-8",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-8",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-25-8",
           "label": "교회사 6.25.8",
           "location": "6.25.8",
@@ -4639,8 +4643,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 17절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-17",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-17",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 17절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-17",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-17",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-24-17",
           "label": "교회사 3.24.17",
           "location": "3.24.17",
@@ -4723,8 +4727,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 18절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-18",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-24-18",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 24장 18절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-18",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-24-18",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-24-18",
           "label": "교회사 3.24.18",
           "location": "3.24.18",
@@ -4807,8 +4811,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 3절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-3",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-3.html#p-3-25-3",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 3권 25장 3절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-3",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-3.html#p-3-25-3",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-25-3",
           "label": "교회사 3.25.3",
           "location": "3.25.3",
@@ -4891,8 +4895,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 10절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-10",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-10",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 10절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-10",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-10",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-25-10",
           "label": "교회사 6.25.10",
           "location": "6.25.10",
@@ -4984,8 +4988,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 2절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-2",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-2",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 2절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-2",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-2",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-14-2",
           "label": "교회사 6.14.2",
           "location": "6.14.2",
@@ -5068,8 +5072,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 3절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-3",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-3",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 3절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-3",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-3",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-14-3",
           "label": "교회사 6.14.3",
           "location": "6.14.3",
@@ -5150,8 +5154,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-4",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-14-4",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 14장 4절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-4",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-14-4",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-14-4",
           "label": "교회사 6.14.4",
           "location": "6.14.4",
@@ -5243,8 +5247,8 @@
       "passages": [
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 11절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-11",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-11",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 11절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-11",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-11",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-25-11",
           "label": "교회사 6.25.11",
           "location": "6.25.11",
@@ -5327,8 +5331,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 12절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-12",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-12",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 12절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-12",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-12",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-25-12",
           "label": "교회사 6.25.12",
           "location": "6.25.12",
@@ -5409,8 +5413,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 13절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-13",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-13",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 13절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-13",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-13",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-25-13",
           "label": "교회사 6.25.13",
           "location": "6.25.13",
@@ -5493,8 +5497,8 @@
         },
         {
           "author": "유세비우스",
-          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 14절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.10, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-14",
-          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.10/eusebius-ecclesiastical-history/book-6.html#p-6-25-14",
+          "citation": "유세비우스, 『교회사』 Loeb 1926-1932 6권 25장 14절, 그리스어 편집 본문, Loeb 1926-1932, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-14",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/eusebius-ecclesiastical-history/book-6.html#p-6-25-14",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-25-14",
           "label": "교회사 6.25.14",
           "location": "6.25.14",
@@ -5578,6 +5582,460 @@
       ],
       "summary": "히브리서의 사상과 문체를 구분하고 집필자에 관한 여러 전승을 소개한 대목입니다.",
       "title": "오리게네스가 말한 히브리서 저자"
+    },
+    {
+      "attribution": "유스티노스의 설명과 그가 인용하는 예수의 말",
+      "group": "gospels",
+      "id": "justin-apostolic-memoirs",
+      "passages": [
+        {
+          "author": "유스티노스",
+          "citation": "유스티노스, 『제1변증서』 66장 전체, 그리스어 편집 본문, Rauschen 1911, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/justin-first-apology/index.html#p-66-1",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/justin-first-apology/index.html#p-66-1",
+          "html_path": "works/justin-first-apology/index.html#p-66-1",
+          "label": "제1변증서 66장",
+          "location": "66.1",
+          "public_url": "https://imtseoul.github.io/patristics-ko-reference/works/justin-first-apology/index.html#p-66-1",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:84f948bae721cdbe5aa639e24f3b03d6828aba663ee04f419996460e636815d3",
+              "sha256:0caf97719ab73f9574b568ec57e806054f80179121e453e3a7f09395b94308d6"
+            ]
+          },
+          "rights": {
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "justin-first1k-cc-by-sa-4.0": {
+              "attribution": "Justin Martyr; Gerhard Rauschen 편집; Trustees of Tufts University, Perseus Project; OpenGreekAndLatin/First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg0645/tlg001/tlg0645.tlg001.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "이용허락이 명시된 그리스어 XML과 그 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "justin-notes-cc-by-sa-4.0": {
+              "attribution": "그리스어 본문을 근거로 작성한 Codex AI 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "프로젝트의 번역 메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "rauschen-1911-justin-first-apology",
+            "edition_label": "Gerhard Rauschen 편집, S. Iustini Apologiae Duae, 제2판, Bonn: Petri Hanstein, 1911, 8-114쪽 그리스어 본문",
+            "rights_id": "justin-first1k-cc-by-sa-4.0",
+            "text": "Καὶ ἡ τροφὴ αὕτη καλεῖται παρ᾿ ἡμῖν εὐχαριστία, ἧς οὐδενὶ ἄλλῳ μετασχεῖν ἐξόν ἐστιν ἢ τῷ πιστεύοντι ἀληθῆ εἶναι τὰ δεδιδαγμένα ὑφ᾿ ἡμῶν, καὶ λουσαμένῳ τὸ ὑπὲρ ἀφέσεως ἁμαρτιῶν καὶ εἰς ἀναγέννησιν λουτρόν, καὶ οὕτως βιοῦντι ὡς ὁ Χριστὸς παρέδωκεν. Οὐ γὰρ ὡς κοινὸν ἄρτον οὐδὲ κοινὸν πόμα ταῦτα λαμβάνομεν· ἀλλ᾿ ὃν τρόπον διὰ λόγου θεοῦ σαρκοποιηθεὶς Ἰησοῦς Χριστὸς ὁ σωτὴρ ἡμῶν καὶ σάρκα καὶ αἷμα ὑπὲρ σωτηρίας ἡμῶν ἔσχεν, οὕτως καὶ τὴν δι᾿ εὐχῆς λόγου τοῦ παρ᾿ αὐτοῦ εὐχαριστηθεῖσαν τροφήν, ἐξ ἠς αἷμα καὶ σάρκες κατὰ μεταβολὴν τρέφονται ἡμῶν, ἐκείνου τοῦ σαρκοποιηθέντος Ἰησοῦ καὶ σάρκα καὶ αἷμα ἐδιδάχθημεν εἶναι. Οἱ γὰρ ἀπόστολοι ἐν τοῖς γενομένοις ὑπ᾿ αὐτῶν ἀπομνημονεύμασιν, ἃ καλεῖται εὐαγγέλια, οὕτως παρέδωκαν ἐντετάλθαι αὐτοῖς, τὸν Ἰησοῦν λαβόντα ἄρτον εὐχαριστήσαντα εἰπεῖν· „Τοῦτο ποιεῖτε εἰς τὴν ἀνάμνησίν μου, τοῦτό ἐστι τὸ σῶμά μου“· καὶ τὸ ποτήριον ὁμοίως λαβόντα καὶ εὐχαριστήσαντα εἰπεῖν· Τοῦτό ἐστι τὸ αἷμά μου“· καὶ μόνοις αὐτοῖς μεταδοῦναι. Ὅπερ καὶ ἐν τοῖς τοῖ Μίθρα μυστηρίοις παρέδωκαν γίνεσθαι μιμησάμενοι οἱ πονηροὶ δαίμονες· ὅτι γὰρ ἄρτος καὶ ποτήριον ὕδατος τίθεται ἐν ταῖς τοῦ μυουμένου τελεταῖς μετ᾿ ἐπιλόγων τινῶν, ἢ ἐπίστασθε ἢ μαθεῖν δύνασθε."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:38c54da46354b7e20ac1061e3518aac3e6a819a91f8f1bcbd0b1ad8448047ade",
+          "title": "제1변증서",
+          "translation": {
+            "notes": [
+              "감사의 식사는 εὐχαριστία를 옮긴 것으로, 여기서는 성찬의 음식을 부르는 명칭이다. 감사기도를 드리는 행위와 음식의 이름이 같은 어근으로 연결된다.",
+              "사도들의 회고록(ἀπομνημονεύματα)을 복음서(εὐαγγέλια)라고 부르는 대목이다. 이어지는 인용은 빵과 잔에 관해 예수가 한 말이다.",
+              "변화(μεταβολή)는 음식이 몸에 받아들여져 피와 살을 기르는 관계절 안에 나온다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "우리는 이 음식을 감사의 식사라고 부릅니다. 우리에게 배운 것이 참되다고 믿는 사람, 죄의 용서와 새로 태어남을 위한 씻음을 받은 사람, 그리스도께서 전하신 대로 살아가는 사람만이 여기에 참여할 수 있습니다. 우리는 이것을 보통의 빵이나 보통의 음료로 받지 않습니다. 우리 구주 예수 그리스도께서 하나님의 말씀을 통해 육신을 입으시고 우리의 구원을 위해 살과 피를 지니셨듯이, 그분에게서 온 말씀으로 기도하여 감사를 드린 음식도, 곧 변화의 과정을 거쳐 우리의 피와 살을 기르는 그 음식도, 육신을 입으신 그 예수의 살과 피라고 우리는 배웠습니다. 사도들은 자신들이 남긴 회고록, 곧 복음서라 불리는 글에서 자기들에게 이렇게 명령하셨다고 전했습니다. 예수께서 빵을 들고 감사를 드린 뒤 “나를 기억하여 이것을 행하여라. 이것은 내 몸이다”라고 말씀하셨으며, 마찬가지로 잔도 들고 감사를 드린 뒤 “이것은 내 피다”라고 말씀하셨고, 오직 그들에게만 나누어 주셨다는 것입니다. 악한 다이몬들은 이것도 모방하여 미트라의 신비 의식에서 행하게 했습니다. 입문자의 의식에 빵과 물이 든 잔을 놓고 어떤 말들을 덧붙인다는 것은 여러분도 이미 알거나 알아볼 수 있습니다."
+          },
+          "translation_revision_id": "sha256:2652115d9f05d9bed84842ab4e0a5dd0d27b2494ea3e0880510098939db4d4e4",
+          "work_id": "justin-first-apology",
+          "work_passage_id": "justin-first-apology:66.1"
+        }
+      ],
+      "summary": "유스티노스가 사도들의 회고록을 복음서라고 부르며 예수의 빵과 잔에 관한 말을 전하는 대목입니다.",
+      "title": "사도들의 회고록과 복음서"
+    },
+    {
+      "attribution": "유스티노스가 서술하는 공동 예배",
+      "group": "worship",
+      "id": "justin-sunday-reading",
+      "passages": [
+        {
+          "author": "유스티노스",
+          "citation": "유스티노스, 『제1변증서』 67장 전체, 그리스어 편집 본문, Rauschen 1911, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/justin-first-apology/index.html#p-67-1",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/justin-first-apology/index.html#p-67-1",
+          "html_path": "works/justin-first-apology/index.html#p-67-1",
+          "label": "제1변증서 67장",
+          "location": "67.1",
+          "public_url": "https://imtseoul.github.io/patristics-ko-reference/works/justin-first-apology/index.html#p-67-1",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:59fa6fa40d0db2f4e9478cdc76fd76a175310627399274b60c5eb33e2f144f04",
+              "sha256:d6ff4154ae8562ce8cb655bb88aa557e4b952abcc296fc6f310e9c35cfed26d6"
+            ]
+          },
+          "rights": {
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "justin-first1k-cc-by-sa-4.0": {
+              "attribution": "Justin Martyr; Gerhard Rauschen 편집; Trustees of Tufts University, Perseus Project; OpenGreekAndLatin/First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg0645/tlg001/tlg0645.tlg001.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "이용허락이 명시된 그리스어 XML과 그 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "justin-notes-cc-by-sa-4.0": {
+              "attribution": "그리스어 본문을 근거로 작성한 Codex AI 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "프로젝트의 번역 메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "rauschen-1911-justin-first-apology",
+            "edition_label": "Gerhard Rauschen 편집, S. Iustini Apologiae Duae, 제2판, Bonn: Petri Hanstein, 1911, 8-114쪽 그리스어 본문",
+            "rights_id": "justin-first1k-cc-by-sa-4.0",
+            "text": "Ἡμεῖς δὲ μετὰ ταῦτα λοιπὸν ἀεὶ τούτων ἀλλήλους ἀναμιμνήσκομεν· καὶ οἱ ἔχοντες τοῖς λειπομένοις πᾶσιν ἐπικουροῦμεν, καὶ σύνεσμεν ἀλλήλοις ἀεί. Ἐπὶ πᾶσί τε οἷς προσφερόμεθα εὐλογοῦμεν τὸν ποιητὴν τῶν πάντων διὰ τοῦ υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ καὶ διὰ πνεύματος τοῦ ἁγίου. Καὶ τῇ τοῦ ἡλίου λεγομένῃ ἡμέρᾳ πάντων κατὰ πόλεις ἢ ἀγροὺς μενόντων ἐπὶ τὸ αὐτὸ συνέλευσις γίνεται, καὶ τὰ ἀπομνημονεύματα τῶν ἀποστόλων ἢ τὰ συγγράμματα τῶν προφητῶν ἀναγινώσκεται, μέχρις ἐγχωρεῖ. Εἶτα παυσαμένου τοῦ ἀναγινώσκοντος ὁ προεστὼς διὰ λόγου τὴν νουθεσίαν καὶ πρόκλησιν τῆς τῶν καλῶν τούτων μιμήσεως ποιεῖται. Ἔπειτα ἀνιστάμεθα κοινῇ πάντες καὶ εὐχὰς πέμπομεν· καὶ, ὡς προέφημεν, παυσαμένων ἡμῶν τῆς εὐχῆς ἄρτος προσφέρεται καὶ οἶνος καὶ ὕδωρ, καὶ ὁ προεστὼς εὐχὰς ὁμοίως καὶ εὐχαριστίας, ὅση δύναμις αὐτῷ, ἀναπέμπει, καὶ ὁ λαὸς ἐπευφημεῖ λέγων τὸ Ἀμήν, καὶ ἡ διάδοσις καὶ ἡ μετάληψις ἀπὸ τῶν εὐχαριστηθέντων ἑκάστῳ γίνεται, καὶ τοῖς οὐ παροῦσι διὰ τῶν διακόνων πέμπεται. Οἱ εὐποροῦντες δὲ καὶ βουλόμενοι κατὰ προαίρεσιν ἕκαστος τὴν ἑαυτοῦ ὃ βούλεται δίδωσι, καὶ τὸ συλλεγόμενον παρὰ τῷ προεστῶτι ἀποτίθεται, καὶ αὐτὸς ἐπικουρεῖ ὀρφανοῖς τε καὶ χήραις, καὶ τοῖς διὰ νόσον ἢ δι᾿ ἄλλην αἰτίαν λειπομένοις, καὶ τοῖς ἐν δεσμοῖς οὖσι, καὶ τοῖς παρεπιδήμοις οὖσι ξένοις, καὶ ἁπλῶς πᾶσι τοῖς ἐν χρείᾳ οὖσι κηδεμὼν γίνεται. Τὴν δὲ τοῦ ἡλίου ἡμέρα κοινῇ πάντες τὴν συνέλευσιν ποιούμεθα, ἐπειδὴ πρώτη ἐστὶν ἡμέρα, ἐν ᾗ ὁ θεὸς τὸ σκότος καὶ τὴν ὕλην τρέψας κόσμον ἐποίησε, καὶ Ἰησοῦς Χριστὸς ὁ ἡμέτερος σωτὴρ τῇ αὐτῇ ἡμέρᾳ ἐκ νεκρῶν ἀνέστη· τῇ γὰρ πρὸ τῆς κρονικῆς ἐσταύρωσαν αὐτόν, καὶ τῇ μετὰ τὴν κρονικήν, ἥτις ἐστὶν ἡλίου ἡμέρα, φανεὶς τοῖς ἀποστόλοις αὐτοῦ καὶ μαθηταῖς ἐδίδαξε ταῦτα, ἅπερ εἰς ἐπίσκεψιν καὶ ὑμῖν ἀνεδώκαμεν."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:db94d27ab48558c3cf7fdb04c5958abbd4550f6d3c7786992dcb2b311c8044f5",
+          "title": "제1변증서",
+          "translation": {
+            "notes": [
+              "태양의 날은 일요일, 크로노스의 날은 토요일에 해당한다. 유스티노스는 독자들에게 익숙한 요일 명칭으로 모임의 때와 예수의 죽음·부활을 설명한다.",
+              "모임의 순서는 회고록이나 예언서 낭독, 권면, 공동 기도, 빵·포도주·물의 분배, 자발적 나눔으로 제시된다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "그 뒤로 우리는 언제나 서로에게 이것들을 일깨워 줍니다. 가진 이들은 부족한 모든 사람을 돕고, 우리는 언제나 서로 함께합니다. 우리가 누리는 모든 것에 대하여 만물을 지으신 분께, 그분의 아들 예수 그리스도와 거룩한 영을 통하여 찬양을 드립니다. 태양의 날이라고 불리는 날에는 도시나 시골에 사는 모든 사람이 한곳에 모입니다. 시간이 허락하는 동안 사도들의 회고록이나 예언자들의 글을 읽습니다. 읽는 사람이 그치면 모임을 인도하는 이가 말로 권면하며, 방금 들은 훌륭한 것들을 본받으라고 격려합니다. 그다음 모두 함께 일어나 기도를 올립니다. 앞서 말했듯이 기도를 마치면 빵과 포도주와 물을 가져옵니다. 모임을 인도하는 이는 힘을 다해 마찬가지로 기도와 감사를 올리고, 백성은 “아멘”이라고 응답합니다. 감사기도를 드린 것을 각 사람에게 나누어 함께 먹으며, 참석하지 못한 이들에게는 봉사자들을 통해 보냅니다. 형편이 넉넉하고 뜻이 있는 사람들은 각자 자기가 원하는 만큼 자유롭게 내놓습니다. 모인 것은 모임을 인도하는 이에게 맡깁니다. 그는 고아와 과부, 병이나 다른 까닭으로 궁핍한 사람들을 돕고, 감옥에 갇힌 이들과 타향에 머무는 나그네들도 돕습니다. 한마디로 필요한 모든 이의 보호자가 됩니다. 우리가 태양의 날에 모두 함께 모이는 것은 그날이 첫째 날이기 때문입니다. 그날 하나님께서 어둠과 질료를 바꾸어 세계를 만드셨고, 우리 구주 예수 그리스도께서도 같은 날에 죽은 이들 가운데서 일어나셨습니다. 사람들은 크로노스의 날 전날에 그분을 십자가에 못 박았습니다. 그분은 크로노스의 날 다음 날, 곧 태양의 날에 자신의 사도들과 제자들에게 나타나 이것들을 가르치셨습니다. 우리가 여러분도 살펴보시도록 제시한 것들입니다."
+          },
+          "translation_revision_id": "sha256:c01168cbbd2bc7ac27d6d9582a851fcbdcdc28b842b76f9c6c91183d0b9e7772",
+          "work_id": "justin-first-apology",
+          "work_passage_id": "justin-first-apology:67.1"
+        }
+      ],
+      "summary": "사도들의 회고록과 예언서의 낭독, 권면, 기도와 나눔을 순서대로 설명합니다.",
+      "title": "공동 모임에서 읽는 문헌"
+    },
+    {
+      "attribution": "유스티노스의 설명",
+      "group": "worship",
+      "id": "justin-baptism-and-meal",
+      "passages": [
+        {
+          "author": "유스티노스",
+          "citation": "유스티노스, 『제1변증서』 61장 전체, 그리스어 편집 본문, Rauschen 1911, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/justin-first-apology/index.html#p-61-1",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/justin-first-apology/index.html#p-61-1",
+          "html_path": "works/justin-first-apology/index.html#p-61-1",
+          "label": "제1변증서 61장",
+          "location": "61.1",
+          "public_url": "https://imtseoul.github.io/patristics-ko-reference/works/justin-first-apology/index.html#p-61-1",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "needs_review",
+            "valid_review_ids": [
+              "sha256:54e462db057ee27e58a98c63d418f00d1e88396156a501afbd62e7dae2862da3",
+              "sha256:121d2d1dc66aea9674cbae3233e198f2a42466ab4befa452a64eae037faec3c8"
+            ]
+          },
+          "rights": {
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "justin-first1k-cc-by-sa-4.0": {
+              "attribution": "Justin Martyr; Gerhard Rauschen 편집; Trustees of Tufts University, Perseus Project; OpenGreekAndLatin/First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg0645/tlg001/tlg0645.tlg001.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "이용허락이 명시된 그리스어 XML과 그 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "justin-notes-cc-by-sa-4.0": {
+              "attribution": "그리스어 본문을 근거로 작성한 Codex AI 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "프로젝트의 번역 메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "rauschen-1911-justin-first-apology",
+            "edition_label": "Gerhard Rauschen 편집, S. Iustini Apologiae Duae, 제2판, Bonn: Petri Hanstein, 1911, 8-114쪽 그리스어 본문",
+            "rights_id": "justin-first1k-cc-by-sa-4.0",
+            "text": "Ὃν τρόπον δὲ καὶ ἀνεθήκαμεν ἑαυτοὺς τῷ θεῷ καινοποιηθέντες διὰ τοῦ Χριστοῦ, ἐξηγησόμεθα, ὅπως μὴ τοῦτο παραλιπόντες δόξωμεν πονηρεύειν τι ἐν τῇ ἐξηγήσει. Ὅσοι ἂν πεισθῶσι καὶ πιστεύωσιν ἀληθῆ ταῦτα τὰ ὑφ᾿ ἡμῶν διδασκόμενα καὶ λεγόμενα εἶναι, καὶ βιοῦν οὕτως δύνασθαι ὑπισχνῶνται, εὔχεσθαί τε καὶ αἰτεῖν νηστεύοντες παρὰ τοῦ θεοῦ τῶν προημαρτημένων ἄφεσιν διδάσκονται, ἡμῶν συνευχομένων καὶ συννηστευόντων αὐτοῖς. Ἔπειτα ἄγονται ὑφ᾿ ἡμῶν, ἔνθα ὕδωρ ἐστί, καὶ τρόπον ἀναγεννήσεως, ὃν καὶ ἡμεῖς αὐτοὶ ἀνεγεννήθημεν, ἀναγεννῶνται· ἐπ᾿ ὀνόματος γὰρ τοῦ πατρὸς τῶν ὅλων καὶ δεσπότου θεοῦ καὶ τοῦ σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ καὶ πνεῦματος ἁγίου τὸ ἐν τῷ ὕδατι τότε λουτρὸν ποιοῦνται. Καὶ γὰρ ὁ Χριστὸς εἶπεν· Ἂν μὴ ἀναγεννηθῆτε, οὐ μὴ εἰσέλθητε εἰς τὴν βασιλείαν τῶν οὐρανῶν.“ Ὅτι δὲ καὶ ἀδύνατον εἰς τὰς μήτρας τῶν τεκουσῶν τοὺς ἅπαξ γεννωμένους ἐμβῆναι, φανερὸν πᾶσίν ἐστι. Καὶ διὰ Ἡσαΐου τοῦ προφήτου, ὡς προεγράψαμεν, εἴρηται, τίνα τρόπον φεύξονται τὰς ἁμαρτίας οἱ ἁμαρτήσαντες καὶ μετανοοῦντες. Ἐλέχθη δὲ οὕτως· Λούσασθε, καθαροὶ γένεσθε, ἀφέλετε τὰς πονηρίας ἀπὸ τῶν ψυχῶν ὑμῶν, μάθετε καλὸν ποιεῖν, κρίνατε ὀρφανῷ καὶ δικαιώσατε χήραν, καὶ δεῦτε καὶ διαλεχθῶμεν, λέγει κύριος· καὶ ἐὰν ὦσιν αἱ ἁμαρτίαι ὑμῶν ὡς φοινικοῦν, ὡσεὶ ἔριον λευκανῶ, καὶ ἐὰν ὦσιν ὡς κόκκινον, ὡς χιόνα λευκανῶ. Ἐὰν δὲ μὴ εἰσακούσητέ μου, μάχαιρα ὑμᾶς κατέδεται· τὸ γὰρ στόμα κυρίου ἐλάλησε ταῦτα“. Καὶ λόγον δὲ εἰς τοῦτο παρὰ τῶν ἀποστόλων ἐμάθομεν τοῦτον. Ἐπειδὴ τὴν πρώτην γένεσιν ἡμῶν ἀγνοοῦντες κατ᾿ ἀνάγκην γεγεννήμεθα ἐξ ὑγρᾶς σπορᾶς κατὰ μῖξιν τὴν τῶν γονέων πρὸς ἀλλήλους καὶ ἐν ἔθεσι φαύλοις καὶ πονηραῖς ἀναστροφαῖς γεγόναμεν, ὅπως μὴ ἀνάγκης τέκνα μηδὲ ἀγνοίας μένωμεν ἀλλὰ προαιρέσεως καὶ ἐπιστήμης, ἀφέσεώς ἁμαρτιῶν ὧν προημάρτομεν τύχωμεν, ἐν τῷ ὕδατι ἐπονομάζεται τῷ ἑλομένῳ ἀναγεννηθῆναι καὶ μετανοήσαντι ἐπὶ τοῖς ἡμαρτημένοις τὸ τοῦ πατρὸς τῶν ὅλων καὶ δεσπότου θεοῦ ὄνομα, αὐτὸ τοῦτο μόνον ἐπιλέγοντος τοῦ τὸν λουσόμενον ἄγοντος ἐπὶ τὸ λουτρόν. Ὄνομα γὰρ τῷ ἀῤῥήτῳ θεῷ οὐδεὶς ἔχει εἰπεῖν· εἰ δέ τις τολμήσειεν εἶναι λέγειν, μέμηνε τὴν ἄσωτον μανίαν. Καλεῖται δὲ τοῦτο τὸ λουτρὸν φωτισμός, ὡς φωτιζομένων τὴν διάνοιαν τῶν ταῦτα μανθανόντων. Καὶ ἐπ᾿ ὀνόματος δὲ Ἰησοῦ Χριστοῦ, τοῦ σταυρωθέντος ἐπὶ Ποντίου Πιλάτου, καὶ ἐπ᾿ ὀνόματος πνεύματος ἁγίου, ὃ διὰ τῶν προφητῶν προεκήρυξε τὰ κατὰ τὸν Ἰησοῦν πάντα, ὁ φωτιζόμενος λούεται."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:67c38224227ca3b9e1021da613eaa8a45cb22d21659dd26bc445c2da9966fd9b",
+          "title": "제1변증서",
+          "translation": {
+            "notes": [
+              "씻음(λουτρόν), 새로 태어남(ἀναγέννησις), 빛을 받음(φωτισμός)은 이 장에서 세례를 설명하는 서로 연결된 표현들이다.",
+              "새로 태어나 하늘나라에 들어간다는 예수의 말과 어머니의 태에 다시 들어가는 문제를 함께 다룬다. 인용문은 유스티노스 본문의 어휘와 순서대로 옮겼다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "우리가 그리스도를 통해 새로워져 어떻게 하나님께 자신을 바쳤는지도 설명하겠습니다. 이 점을 빼놓아 설명에 무슨 속임수가 있다고 여겨지지 않도록 하려는 것입니다. 우리가 가르치고 말하는 것이 참됨을 받아들이고 믿으며, 그에 따라 살겠다고 약속하는 이들은 금식하면서 하나님께 기도하고 이전에 지은 죄의 용서를 구하도록 가르침을 받습니다. 우리도 그들과 함께 기도하고 함께 금식합니다. 그다음 우리는 그들을 물이 있는 곳으로 데려가며, 그들은 우리 자신이 새로 태어났던 것과 같은 방식으로 새로 태어납니다. 그때 만물의 아버지요 주권자이신 하나님, 우리의 구주 예수 그리스도, 그리고 거룩한 영의 이름으로 물속에서 씻음을 받습니다. 그리스도께서도 “너희가 새로 태어나지 않으면 결코 하늘나라에 들어가지 못한다”고 말씀하셨기 때문입니다. 한 번 태어난 사람이 자기를 낳은 어머니의 태에 다시 들어갈 수 없다는 것은 누구에게나 분명합니다. 앞서 적었듯이, 죄를 짓고 회개하는 이들이 어떻게 죄에서 벗어날지도 예언자 이사야를 통해 말씀하셨습니다. 이렇습니다. “씻고 깨끗해져라. 너희 혼에서 악을 없애라. 선을 행하기를 배우고, 고아에게 공정한 판결을 내리며 과부의 권리를 세워 주어라. 와서 함께 이야기하자. 주님이 말씀하신다. 너희 죄가 붉은빛이라도 양털처럼 희게 하겠고, 진홍빛이라도 눈처럼 희게 하겠다. 내 말을 듣지 않으면 칼이 너희를 먹어 버릴 것이다. 주님의 입이 이것을 말하였다.” 이에 관한 이유도 사도들에게서 다음과 같이 배웠습니다. 우리는 처음 태어날 때 아무것도 모른 채, 부모의 결합에 따른 액체인 씨에서 필연적으로 태어났으며, 악한 관습과 그릇된 생활 속에서 자랐습니다. 우리가 필연과 무지의 자녀로 머물지 않고 선택과 앎의 자녀가 되며, 이전에 지은 죄의 용서를 얻도록, 다시 태어나기를 선택하고 자기 죄를 회개한 사람에게 물속에서 만물의 아버지요 주권자이신 하나님의 이름이 불립니다. 씻음을 받을 사람을 씻는 곳으로 데려가는 이는 바로 이 호칭만을 말합니다. 말로 다 표현할 수 없는 하나님의 이름을 말할 수 있는 사람은 아무도 없기 때문입니다. 감히 그런 이름이 있다고 말하는 이가 있다면 걷잡을 수 없는 광기에 빠진 것입니다. 이 씻음은 빛을 받음이라고도 불립니다. 이것들을 배우는 이들의 생각이 밝아지기 때문입니다. 빛을 받는 이는 본디오 빌라도 아래에서 십자가에 달리신 예수 그리스도의 이름과, 예언자들을 통해 예수에 관한 모든 일을 미리 선포하신 거룩한 영의 이름으로도 씻음을 받습니다."
+          },
+          "translation_revision_id": "sha256:48985b8a54e14e4ae66edff07ebf109027485c7cf10903646817b2fdd9c48b73",
+          "work_id": "justin-first-apology",
+          "work_passage_id": "justin-first-apology:61.1"
+        },
+        {
+          "author": "유스티노스",
+          "citation": "유스티노스, 『제1변증서』 65장 전체, 그리스어 편집 본문, Rauschen 1911, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/justin-first-apology/index.html#p-65-1",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/justin-first-apology/index.html#p-65-1",
+          "html_path": "works/justin-first-apology/index.html#p-65-1",
+          "label": "제1변증서 65장",
+          "location": "65.1",
+          "public_url": "https://imtseoul.github.io/patristics-ko-reference/works/justin-first-apology/index.html#p-65-1",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:f9752bc9e149a13b6143b56c0253ff2ec3bdb4b3886c779f53fb75f4a72a7261",
+              "sha256:616c5a52ce103be7eb8a5fb60cfeca5e6840fd424714a16b49368b50dfc7cb8d"
+            ]
+          },
+          "rights": {
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "justin-first1k-cc-by-sa-4.0": {
+              "attribution": "Justin Martyr; Gerhard Rauschen 편집; Trustees of Tufts University, Perseus Project; OpenGreekAndLatin/First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg0645/tlg001/tlg0645.tlg001.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "이용허락이 명시된 그리스어 XML과 그 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "justin-notes-cc-by-sa-4.0": {
+              "attribution": "그리스어 본문을 근거로 작성한 Codex AI 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "프로젝트의 번역 메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "rauschen-1911-justin-first-apology",
+            "edition_label": "Gerhard Rauschen 편집, S. Iustini Apologiae Duae, 제2판, Bonn: Petri Hanstein, 1911, 8-114쪽 그리스어 본문",
+            "rights_id": "justin-first1k-cc-by-sa-4.0",
+            "text": "Ἡμεῖς δὲ μετὰ τὸ οὕτως λοῦσαι τὸν πεπεισμένον καὶ συγκατατεθειμένον ἐπὶ τοὺς λεγομένους ἀδελφοὺς ἄγομεν, ἔνθα συνηγμένοι εἰσί, κοινὰς εὐχὰς ποιησόμενοι ὑπέρ τε ἑαυτῶν καὶ τοῦ φωτισθέντος καὶ ἄλλων πανταχοῦ πάντων εὐτόνως, ὅπως καταξιωθῶμεν τὰ ἀληθῆ μαθόντες καὶ δι᾿ ἔργων ἀγαθοὶ πολιτευταὶ καὶ φύλακες τῶν ἐντεταλμένων εὑρεθῆναι, ὅπως τὴν αἰώνιον σωτηρίαν σωθῶμεν. Ἀλλήλους φιλήματι ἀσπαζόμεθα παυσάμενοι τῶν εὐχῶν. Ἔπειτα προσφέρεται τῷ προεστῶτι τῶν ἀδελφῶν ἄρτος καὶ ποτήριον ὕδατος καὶ κράματος, καὶ οὗτος λαβὼν αἶνον καὶ δόξαν τῷ πατρὶ τῶν ὅλων διὰ τοῦ ὀνόματος τοῦ υἱοῦ καὶ τοῦ πνεύματος τοῦ ἁγίου ἀναπέμπει καὶ εὐχαριστίαν ὑπὲρ τοῦ κατηξιῶσθαι τούτων παρ᾿ αὐτοῦ ἐπὶ πολὺ ποιεῖται· οὗ συντελέσαντος τὰς εὐχὰς καὶ τὴν εὐχαριστίαν πᾶς ὁ παρὼν λαὸς ἐπευφημεῖ λέγων· Ἀμήν. Τὸ δὲ ἀμὴν τῇ ἑβραΐδι φωνῇ τὸ γένοιτο σημαίνει. Εὐχαριστήσαντος δὲ τοῦ προεστῶτος καὶ ἐπευφημήσαντος παντὸς τοῦ λαοῦ οἱ καλούμενοι παρ᾿ ἡμῖν διάκονοι διδόασιν ἑκάστῳ τῶν παρόντων μεταλαβεῖν ἀπὸ τοῦ εὐχαριστηθέντος ἄρτου καὶ οἴνου καὶ ὕδατος καὶ τοῖς οὐ παροῦσιν ἀποφέρουσι."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:08115202487ae5afbeccb3dabb3a1a6d50e0a32c07ece855c4d37c742a7eb7bb",
+          "title": "제1변증서",
+          "translation": {
+            "notes": [
+              "모임을 인도하는 이는 προεστώς, 봉사자는 διάκονος를 옮긴 것이다. 기도, 음식의 분배, 참석하지 못한 이들을 돌보는 역할이 묘사된다.",
+              "κρᾶμα는 섞은 음료를 뜻한다. 이 장은 뒤에서 빵과 포도주와 물을 명시하며, Rauschen판 106쪽 편집주도 이 문맥의 포도주를 설명한다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "우리는 이처럼 가르침을 받아들이고 동의한 사람에게 씻음을 베푼 뒤, 형제들이라 불리는 이들이 모인 곳으로 데려갑니다. 우리 자신과 빛을 받은 그 사람, 그리고 어디에나 있는 다른 모든 사람을 위해 함께 힘써 기도하려는 것입니다. 진리를 배운 우리가 행위로도 선하게 살아가고 명령받은 것을 지키는 이들로 인정받아, 영원한 구원을 얻도록 기도합니다. 기도를 마치면 우리는 입맞춤으로 서로 인사합니다. 그다음 형제들의 모임을 인도하는 이에게 빵과, 물과 혼합주를 담은 잔을 가져옵니다. 그는 이것을 받아 아들과 거룩한 영의 이름을 통해 만물의 아버지께 찬양과 영광을 올립니다. 그분께 이런 것을 받을 자격을 얻었다는 데 대해 오래 감사기도를 드립니다. 그가 기도와 감사를 마치면, 자리에 있는 모든 백성이 “아멘”이라고 응답합니다. 히브리 말 아멘은 ‘그렇게 되기를’이라는 뜻입니다. 모임을 인도하는 이가 감사를 드리고 모든 백성이 응답한 뒤, 우리 가운데 봉사자라고 불리는 이들이 자리에 있는 각 사람에게 감사기도를 드린 빵과 포도주와 물을 나누어 먹게 하며, 참석하지 못한 이들에게도 가져다줍니다."
+          },
+          "translation_revision_id": "sha256:17732d14346e1aba105184743ec65bad126168ae43a82c38d2ab3142158bb1a5",
+          "work_id": "justin-first-apology",
+          "work_passage_id": "justin-first-apology:65.1"
+        },
+        {
+          "author": "유스티노스",
+          "citation": "유스티노스, 『제1변증서』 66장 전체, 그리스어 편집 본문, Rauschen 1911, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.11, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/justin-first-apology/index.html#p-66-1",
+          "fixed_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.11/justin-first-apology/index.html#p-66-1",
+          "html_path": "works/justin-first-apology/index.html#p-66-1",
+          "label": "제1변증서 66장",
+          "location": "66.1",
+          "public_url": "https://imtseoul.github.io/patristics-ko-reference/works/justin-first-apology/index.html#p-66-1",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:84f948bae721cdbe5aa639e24f3b03d6828aba663ee04f419996460e636815d3",
+              "sha256:0caf97719ab73f9574b568ec57e806054f80179121e453e3a7f09395b94308d6"
+            ]
+          },
+          "rights": {
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "justin-first1k-cc-by-sa-4.0": {
+              "attribution": "Justin Martyr; Gerhard Rauschen 편집; Trustees of Tufts University, Perseus Project; OpenGreekAndLatin/First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg0645/tlg001/tlg0645.tlg001.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "이용허락이 명시된 그리스어 XML과 그 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "justin-notes-cc-by-sa-4.0": {
+              "attribution": "그리스어 본문을 근거로 작성한 Codex AI 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "프로젝트의 번역 메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "rauschen-1911-justin-first-apology",
+            "edition_label": "Gerhard Rauschen 편집, S. Iustini Apologiae Duae, 제2판, Bonn: Petri Hanstein, 1911, 8-114쪽 그리스어 본문",
+            "rights_id": "justin-first1k-cc-by-sa-4.0",
+            "text": "Καὶ ἡ τροφὴ αὕτη καλεῖται παρ᾿ ἡμῖν εὐχαριστία, ἧς οὐδενὶ ἄλλῳ μετασχεῖν ἐξόν ἐστιν ἢ τῷ πιστεύοντι ἀληθῆ εἶναι τὰ δεδιδαγμένα ὑφ᾿ ἡμῶν, καὶ λουσαμένῳ τὸ ὑπὲρ ἀφέσεως ἁμαρτιῶν καὶ εἰς ἀναγέννησιν λουτρόν, καὶ οὕτως βιοῦντι ὡς ὁ Χριστὸς παρέδωκεν. Οὐ γὰρ ὡς κοινὸν ἄρτον οὐδὲ κοινὸν πόμα ταῦτα λαμβάνομεν· ἀλλ᾿ ὃν τρόπον διὰ λόγου θεοῦ σαρκοποιηθεὶς Ἰησοῦς Χριστὸς ὁ σωτὴρ ἡμῶν καὶ σάρκα καὶ αἷμα ὑπὲρ σωτηρίας ἡμῶν ἔσχεν, οὕτως καὶ τὴν δι᾿ εὐχῆς λόγου τοῦ παρ᾿ αὐτοῦ εὐχαριστηθεῖσαν τροφήν, ἐξ ἠς αἷμα καὶ σάρκες κατὰ μεταβολὴν τρέφονται ἡμῶν, ἐκείνου τοῦ σαρκοποιηθέντος Ἰησοῦ καὶ σάρκα καὶ αἷμα ἐδιδάχθημεν εἶναι. Οἱ γὰρ ἀπόστολοι ἐν τοῖς γενομένοις ὑπ᾿ αὐτῶν ἀπομνημονεύμασιν, ἃ καλεῖται εὐαγγέλια, οὕτως παρέδωκαν ἐντετάλθαι αὐτοῖς, τὸν Ἰησοῦν λαβόντα ἄρτον εὐχαριστήσαντα εἰπεῖν· „Τοῦτο ποιεῖτε εἰς τὴν ἀνάμνησίν μου, τοῦτό ἐστι τὸ σῶμά μου“· καὶ τὸ ποτήριον ὁμοίως λαβόντα καὶ εὐχαριστήσαντα εἰπεῖν· Τοῦτό ἐστι τὸ αἷμά μου“· καὶ μόνοις αὐτοῖς μεταδοῦναι. Ὅπερ καὶ ἐν τοῖς τοῖ Μίθρα μυστηρίοις παρέδωκαν γίνεσθαι μιμησάμενοι οἱ πονηροὶ δαίμονες· ὅτι γὰρ ἄρτος καὶ ποτήριον ὕδατος τίθεται ἐν ταῖς τοῦ μυουμένου τελεταῖς μετ᾿ ἐπιλόγων τινῶν, ἢ ἐπίστασθε ἢ μαθεῖν δύνασθε."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:38c54da46354b7e20ac1061e3518aac3e6a819a91f8f1bcbd0b1ad8448047ade",
+          "title": "제1변증서",
+          "translation": {
+            "notes": [
+              "감사의 식사는 εὐχαριστία를 옮긴 것으로, 여기서는 성찬의 음식을 부르는 명칭이다. 감사기도를 드리는 행위와 음식의 이름이 같은 어근으로 연결된다.",
+              "사도들의 회고록(ἀπομνημονεύματα)을 복음서(εὐαγγέλια)라고 부르는 대목이다. 이어지는 인용은 빵과 잔에 관해 예수가 한 말이다.",
+              "변화(μεταβολή)는 음식이 몸에 받아들여져 피와 살을 기르는 관계절 안에 나온다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "우리는 이 음식을 감사의 식사라고 부릅니다. 우리에게 배운 것이 참되다고 믿는 사람, 죄의 용서와 새로 태어남을 위한 씻음을 받은 사람, 그리스도께서 전하신 대로 살아가는 사람만이 여기에 참여할 수 있습니다. 우리는 이것을 보통의 빵이나 보통의 음료로 받지 않습니다. 우리 구주 예수 그리스도께서 하나님의 말씀을 통해 육신을 입으시고 우리의 구원을 위해 살과 피를 지니셨듯이, 그분에게서 온 말씀으로 기도하여 감사를 드린 음식도, 곧 변화의 과정을 거쳐 우리의 피와 살을 기르는 그 음식도, 육신을 입으신 그 예수의 살과 피라고 우리는 배웠습니다. 사도들은 자신들이 남긴 회고록, 곧 복음서라 불리는 글에서 자기들에게 이렇게 명령하셨다고 전했습니다. 예수께서 빵을 들고 감사를 드린 뒤 “나를 기억하여 이것을 행하여라. 이것은 내 몸이다”라고 말씀하셨으며, 마찬가지로 잔도 들고 감사를 드린 뒤 “이것은 내 피다”라고 말씀하셨고, 오직 그들에게만 나누어 주셨다는 것입니다. 악한 다이몬들은 이것도 모방하여 미트라의 신비 의식에서 행하게 했습니다. 입문자의 의식에 빵과 물이 든 잔을 놓고 어떤 말들을 덧붙인다는 것은 여러분도 이미 알거나 알아볼 수 있습니다."
+          },
+          "translation_revision_id": "sha256:2652115d9f05d9bed84842ab4e0a5dd0d27b2494ea3e0880510098939db4d4e4",
+          "work_id": "justin-first-apology",
+          "work_passage_id": "justin-first-apology:66.1"
+        }
+      ],
+      "summary": "새로 태어나는 씻음에서 공동 기도와 음식의 분배로 이어지는 과정을 설명합니다.",
+      "title": "세례와 감사의 식사"
     }
   ]
 }

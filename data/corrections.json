@@ -6574,5 +6574,408 @@
     ],
     "location": "10.6.5",
     "work_id": "eusebius-ecclesiastical-history"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὅτι",
+        "before": "ὅτι ὅτι",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "a107c13e34b59742ece04e95bc26b2f3e00424abf475d796d89d17ff79700f3d",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n25.jpg",
+          "printed_page": 18
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "7.1"
+      }
+    ],
+    "location": "7.1",
+    "work_id": "justin-first-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἵνα",
+        "before": "(??)να",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "4a46d11426f40ef4513f600db00264a0f1f59cefc9db8b309f4907914a56885e",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n55.jpg",
+          "printed_page": 48
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "23.1"
+      },
+      {
+        "after": "ποιησόμεθα.",
+        "before": "ποιησόμεθα.¦",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "4a46d11426f40ef4513f600db00264a0f1f59cefc9db8b309f4907914a56885e",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n55.jpg",
+          "printed_page": 48
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "23.1"
+      }
+    ],
+    "location": "23.1",
+    "work_id": "justin-first-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἃ",
+        "before": "(??)",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "4af4c9c845375d416fe416afe28c57783289a333a5990ee0b8c35d34a99afba5",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n59.jpg",
+          "printed_page": 52
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "26.1"
+      }
+    ],
+    "location": "26.1",
+    "work_id": "justin-first-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀρχὴ",
+        "before": "ἀρχ(??)",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "c08c2045049ece490e39661ce6e4f413cdad014bf3e05ae54a1be52fbdd7c331",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n75.jpg",
+          "printed_page": 68
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "35.1"
+      },
+      {
+        "after": "Αὐτοὶ",
+        "before": "Αὐιοὶ",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "c08c2045049ece490e39661ce6e4f413cdad014bf3e05ae54a1be52fbdd7c331",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n75.jpg",
+          "printed_page": 68
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "35.1"
+      }
+    ],
+    "location": "35.1",
+    "work_id": "justin-first-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀπ᾿",
+        "before": "(??)π᾿",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "c08c2045049ece490e39661ce6e4f413cdad014bf3e05ae54a1be52fbdd7c331",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n75.jpg",
+          "printed_page": 68
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "36.1"
+      }
+    ],
+    "location": "36.1",
+    "work_id": "justin-first-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Παρέστησαν",
+        "before": "(??)αρέστησαν",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "3a731e1fdaf2bde0548ad24eed67c98f565fe6c63a597cca4c6122d59bf946ad",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n81.jpg",
+          "printed_page": 74
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "40.1"
+      },
+      {
+        "after": "τρόμῳ",
+        "before": "τρ(??)μῳ",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "3a731e1fdaf2bde0548ad24eed67c98f565fe6c63a597cca4c6122d59bf946ad",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n81.jpg",
+          "printed_page": 74
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "40.1"
+      },
+      {
+        "after": "μου",
+        "before": "μσυ",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "3a731e1fdaf2bde0548ad24eed67c98f565fe6c63a597cca4c6122d59bf946ad",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n81.jpg",
+          "printed_page": 74
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "40.1"
+      },
+      {
+        "after": "αὐτῶν",
+        "before": "αἰ τῶν",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "3a731e1fdaf2bde0548ad24eed67c98f565fe6c63a597cca4c6122d59bf946ad",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n81.jpg",
+          "printed_page": 74
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "40.1"
+      }
+    ],
+    "location": "40.1",
+    "work_id": "justin-first-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Χριστός",
+        "before": "Χριστ(??)ς",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "3a731e1fdaf2bde0548ad24eed67c98f565fe6c63a597cca4c6122d59bf946ad",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n81.jpg",
+          "printed_page": 74
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "41.1"
+      }
+    ],
+    "location": "41.1",
+    "work_id": "justin-first-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "„Συναχθήσεται",
+        "before": "(??)Συναχθήσεται",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "4b72b31237c25d984c7a191669dc887a2de185123ed9124290aa2318206b7060",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n93.jpg",
+          "printed_page": 86
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "52.1"
+      },
+      {
+        "after": "Ποῖα",
+        "before": "Ηοῖα",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "4b72b31237c25d984c7a191669dc887a2de185123ed9124290aa2318206b7060",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n93.jpg",
+          "printed_page": 86
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "52.1"
+      },
+      {
+        "after": "Ζαχαρίου",
+        "before": "Ζαχαρίσυ",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "4b72b31237c25d984c7a191669dc887a2de185123ed9124290aa2318206b7060",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n93.jpg",
+          "printed_page": 86
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "52.1"
+      }
+    ],
+    "location": "52.1",
+    "work_id": "justin-first-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀποστεροῦντες",
+        "before": "(??)ποστεροῦντες",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "3e984b9bba04d4c4b13ce58b1247a71ff0379cf5384490b27495ca61a9297e2a",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n101.jpg",
+          "printed_page": 94
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "57.1"
+      }
+    ],
+    "location": "57.1",
+    "work_id": "justin-first-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὡς",
+        "before": "ἁ ς",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "3e984b9bba04d4c4b13ce58b1247a71ff0379cf5384490b27495ca61a9297e2a",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n101.jpg",
+          "printed_page": 94
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "58.1"
+      },
+      {
+        "after": "ὡς",
+        "before": "ὁ ς",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "3e984b9bba04d4c4b13ce58b1247a71ff0379cf5384490b27495ca61a9297e2a",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n101.jpg",
+          "printed_page": 94
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "58.1"
+      }
+    ],
+    "location": "58.1",
+    "work_id": "justin-first-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "πυρὸς",
+        "before": "πυρὶ ς",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "270dfd004b0d1b142f5bac98a010f34db25fb7888e4e24867e4f72fe6ea20f75",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n109.jpg",
+          "printed_page": 102
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "63.1"
+      },
+      {
+        "after": "θεὸς",
+        "before": "θεὶς",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "c12f4f858c5f805e79077b39d612737a27527ff4b3381e942c1dc3204c420a43",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n111.jpg",
+          "printed_page": 104
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "63.1"
+      },
+      {
+        "after": "μὴ",
+        "before": "μἰ",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "c12f4f858c5f805e79077b39d612737a27527ff4b3381e942c1dc3204c420a43",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n111.jpg",
+          "printed_page": 104
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "63.1"
+      },
+      {
+        "after": "τῶν",
+        "before": "τᾶν",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "c12f4f858c5f805e79077b39d612737a27527ff4b3381e942c1dc3204c420a43",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n111.jpg",
+          "printed_page": 104
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "63.1"
+      }
+    ],
+    "location": "63.1",
+    "work_id": "justin-first-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Κόρης",
+        "before": "Κ(??)ρης",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "c12f4f858c5f805e79077b39d612737a27527ff4b3381e942c1dc3204c420a43",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n111.jpg",
+          "printed_page": 104
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "64.1"
+      },
+      {
+        "after": "Διὸς",
+        "before": "Λιὸς",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "c12f4f858c5f805e79077b39d612737a27527ff4b3381e942c1dc3204c420a43",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n111.jpg",
+          "printed_page": 104
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "64.1"
+      }
+    ],
+    "location": "64.1",
+    "work_id": "justin-first-apology"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἡμῖν",
+        "before": "ἡ μῖν",
+        "checked_on": "2026-09-26",
+        "evidence": {
+          "image_sha256": "87a6565e836cb79992f1e31683756f81cfd6cf89a5452e9d614e54d839a11b8d",
+          "image_url": "https://archive.org/download/siustiniapologia00just/page/n113.jpg",
+          "printed_page": 106
+        },
+        "kind": "digital_transcription_correction",
+        "reviewer_kind": "ai",
+        "work_location": "66.1"
+      }
+    ],
+    "location": "66.1",
+    "work_id": "justin-first-apology"
   }
 ]

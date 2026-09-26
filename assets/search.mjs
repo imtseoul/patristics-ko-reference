@@ -22,7 +22,7 @@ if (typeof document !== 'undefined') {
         for (const row of found) {
           const item = document.createElement('li');
           const heading = document.createElement('h3'); const link = document.createElement('a');
-          link.href = row.path; link.textContent = `${row.author} · ${row.title} ${row.location}`;
+          link.href = row.path; link.textContent = `${row.author} · ${row.title} ${row.display_location || row.location}`;
           heading.append(link); const body = document.createElement('p'); body.textContent = row.text;
           item.append(heading, body); results.append(item);
         }
