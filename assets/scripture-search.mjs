@@ -1,4 +1,8 @@
-import scriptureIndex from './scripture-index.mjs?v=94b0eb80c213';
+import scriptureIndex from './scripture-index.mjs?v=8087605b46c4';
+
+if (scriptureIndex.schema_version !== 'patristics-topic-scripture-index-1') {
+  throw new Error('성경 구절 색인의 자료 형식을 읽을 수 없습니다.');
+}
 
 const compact = text => text.normalize('NFKC').toLocaleLowerCase('ko').replace(/\s+/g,'');
 const books = new Map(scriptureIndex.books.map(book => [book.id,book]));

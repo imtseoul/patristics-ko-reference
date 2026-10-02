@@ -2,11 +2,9 @@
   "base_url": "https://patristics.missionalbible.org",
   "human_review_status": "not_reviewed",
   "patched_work_ids": [
-    "athenagoras-plea",
-    "athenagoras-resurrection",
-    "tatian-greeks"
+    "athanasius-gentes"
   ],
-  "release_id": "alpha-0.27",
+  "release_id": "alpha-0.28",
   "release_kind": "changed_work_patch",
   "rights_url": "https://patristics.missionalbible.org/rights.html",
   "schema_version": "patristics-library-catalog-0.1",
@@ -4491,6 +4489,45 @@
       "source_profile": "prepared_tei",
       "title": "말씀의 성육신에 관하여",
       "translation_method": "고정 First1KGreek의 Robertson 1893년 제2판 그리스어에서 직접 한국어 AI 번역. 인쇄1-86쪽 대조, 기록한 전사 교정과 절 경계 복원, 전체 의미 대응 자체 검토. 사람 검수 미실시."
+    },
+    {
+      "aliases": [
+        "이방인 논박",
+        "이방인들에게 반박함",
+        "우상 논박",
+        "Contra Gentes",
+        "Against the Gentiles",
+        "Κατὰ Ἑλλήνων",
+        "Κατὰ εἰδώλων"
+      ],
+      "ambiguous_aliases": [],
+      "annotation_rights_id": "athanasius-gentes-notes-cc-by-sa-4.0",
+      "author": "아타나시우스",
+      "author_aliases": [
+        "아타나시우스",
+        "아타나시오스",
+        "Athanasius",
+        "Athanasius of Alexandria"
+      ],
+      "chapters": 47,
+      "citation_scheme": "chapters",
+      "data_release_id": "alpha-0.28",
+      "edition_short_label": "PTA Savvidis (예비 교감판)",
+      "fixed_html_path": "releases/alpha-0.28/athanasius-gentes/index.html",
+      "html_path": "works/athanasius-gentes/index.html",
+      "id": "athanasius-gentes",
+      "json_path": "releases/alpha-0.28/athanasius-gentes/passages.json",
+      "json_sha256": "38384649c863136c533a173093c429922f53bdb437b996ec419b2e4d2ed58df7",
+      "jsonl_path": "releases/alpha-0.28/athanasius-gentes/passages.jsonl",
+      "passages": 47,
+      "scope": "PTA Savvidis 예비 교감 전자판의 1-47장 전체. 기록한 전자 중복·삽입 오류를 PG 25의 해당 인쇄면으로 확인하여 교정.",
+      "source_languages": [
+        "grc"
+      ],
+      "source_profile": "prepared_tei",
+      "title": "이방인 논박",
+      "title_is_unambiguous": true,
+      "translation_method": "고정 PTA 예비 교감 전자판의 그리스어 lemma에서 직접 한국어로 AI 번역. 이문·근대 편집 서문을 구별하고 기록한 인쇄면으로 전자 오류를 교정. 730개 의미 구간의 전체 대응을 자체 점검. 사람 검수 미실시."
     }
   ]
 }

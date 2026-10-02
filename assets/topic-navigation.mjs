@@ -2020,6 +2020,16 @@ export default {
           "title": "제1변증서",
           "work_id": "justin-first-apology",
           "work_passage_id": "justin-first-apology:46.1"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-40",
+          "label": "이방인 논박 40",
+          "location": "40",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent40"
         }
       ],
       "title": "로고스의 씨앗과 온전한 로고스"
@@ -2460,6 +2470,16 @@ export default {
           "title": "교회사",
           "work_id": "eusebius-ecclesiastical-history",
           "work_passage_id": "eusebius-ecclesiastical-history:3.24.7"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-42",
+          "label": "이방인 논박 42",
+          "location": "42",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent42"
         }
       ],
       "title": "요한의 이름과 복음서 첫머리"
@@ -2554,6 +2574,16 @@ export default {
           "title": "아우톨리코스에게",
           "work_id": "theophilus-autolycus",
           "work_passage_id": "theophilus-autolycus:2.21"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-46",
+          "label": "이방인 논박 46",
+          "location": "46",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent46"
         }
       ],
       "title": "창세기 그리스어 인용과 창조 해석"
@@ -2840,6 +2870,16 @@ export default {
           "title": "아우톨리코스에게",
           "work_id": "theophilus-autolycus",
           "work_passage_id": "theophilus-autolycus:2.22"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-42",
+          "label": "이방인 논박 42",
+          "location": "42",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent42"
         }
       ],
       "title": "빛과 어둠, 만물의 창조에 관한 요한복음 인용"
@@ -5149,6 +5189,46 @@ export default {
           "title": "말씀의 성육신에 관하여",
           "work_id": "athanasius-incarnation",
           "work_passage_id": "athanasius-incarnation:57.1"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-2",
+          "label": "이방인 논박 2",
+          "location": "2",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent2"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-30",
+          "label": "이방인 논박 30",
+          "location": "30",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent30"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-34",
+          "label": "이방인 논박 34",
+          "location": "34",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent34"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-35",
+          "label": "이방인 논박 35",
+          "location": "35",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent35"
         }
       ],
       "title": "하나님을 아는 길과 인간의 한계"
@@ -5486,6 +5566,36 @@ export default {
           "title": "세라피온에게 보낸 제4서신",
           "work_id": "athanasius-serapion-4",
           "work_passage_id": "athanasius-serapion-4:5"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-41",
+          "label": "이방인 논박 41",
+          "location": "41",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent41"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-46",
+          "label": "이방인 논박 46",
+          "location": "46",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent46"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-47",
+          "label": "이방인 논박 47",
+          "location": "47",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent47"
         }
       ],
       "title": "신적 이름과 성경의 표현"
@@ -5894,6 +6004,26 @@ export default {
           "title": "부활에 관하여",
           "work_id": "athenagoras-resurrection",
           "work_passage_id": "athenagoras-resurrection:14.65"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-2",
+          "label": "이방인 논박 2",
+          "location": "2",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent2"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-41",
+          "label": "이방인 논박 41",
+          "location": "41",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent41"
         }
       ],
       "title": "창조의 목적과 사람의 지속"
@@ -5941,6 +6071,36 @@ export default {
           "title": "부활에 관하여",
           "work_id": "athenagoras-resurrection",
           "work_passage_id": "athenagoras-resurrection:25.125"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-31",
+          "label": "이방인 논박 31",
+          "location": "31",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent31"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-33",
+          "label": "이방인 논박 33",
+          "location": "33",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent33"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-47",
+          "label": "이방인 논박 47",
+          "location": "47",
+          "relation": "related_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent47"
         }
       ],
       "title": "몸과 영혼의 심판, 사람에게 주어진 법"

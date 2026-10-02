@@ -105626,5 +105626,522 @@
     ],
     "location": "57.3",
     "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "διδασκάλων εἰς ταῦτα",
+        "before": "διδασκάλων εἰς διδασκάλων ταῦτα",
+        "chapter": 1,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n284/mode/1up",
+        "image_sha256": "43d2c692a251cf2337db13d572ca84e4b9de1ee7b2b473788c7beefb9e9749ce",
+        "pdf_page": 285,
+        "printed_columns": [
+          3,
+          4
+        ],
+        "reason": "전자판에서 반복된 διδασκάλων을 제거. PG 25, 4열의 해당 문장은 이 단어를 한 번만 인쇄한다."
+      },
+      {
+        "after": "οἷς ἐάν τις ἐντύχοι",
+        "before": "οἷς ἐάν τις ταῦτα ἐντύχοι",
+        "chapter": 1,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n284/mode/1up",
+        "image_sha256": "43d2c692a251cf2337db13d572ca84e4b9de1ee7b2b473788c7beefb9e9749ce",
+        "pdf_page": 285,
+        "printed_columns": [
+          3,
+          4
+        ],
+        "reason": "전자판에 중복 삽입된 ταῦτα를 제거. PG 25, 4열의 해당 문장에는 이 단어가 없다."
+      }
+    ],
+    "location": "1",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἀδὰμ",
+        "before": "ἈδὰμἈδὰμ",
+        "chapter": 2,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n286/mode/1up",
+        "image_sha256": "c168757a82f54a3a834343c02599a40b72e9c7aa65030739eb7f3150bef8a7cc",
+        "pdf_page": 287,
+        "printed_columns": [
+          7,
+          8
+        ],
+        "reason": "persName 안과 뒤에서 중복된 이름 제거. PG 25, 8열에는 Ἀδὰμ이 한 번만 인쇄되어 있다."
+      }
+    ],
+    "location": "2",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὅθεν",
+        "before": "μέλη ὅθεν",
+        "chapter": 5,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n288/mode/1up",
+        "image_sha256": "a1a2ddb2427f94fabacde3e3dcad18e9d9506f80baa03e98f8acd83c8fafcd1f",
+        "pdf_page": 289,
+        "printed_columns": [
+          11,
+          12
+        ],
+        "reason": "잘못 삽입된 μέλη 제거. 인쇄12열에서는 ὅθεν으로 다음 문장이 시작된다."
+      }
+    ],
+    "location": "5",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀνύμνησαν.",
+        "before": "ἀνύμνησανκαὶ.",
+        "chapter": 9,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n291/mode/1up",
+        "image_sha256": "ceb20f5a745423c99048477dd13f9b840e1a7699060a639a272bb2d281fdd3ed",
+        "pdf_page": 292,
+        "printed_columns": [
+          17,
+          18
+        ],
+        "reason": "전자판 단어 뒤의 잘못 삽입된 καὶ 제거. 인쇄17열의 문장 끝을 확인."
+      },
+      {
+        "after": "τὸν τοῦ Χριστοῦ πατέρα",
+        "before": "τὸν τοῦ Χριστοῦ εἰς πατέρα",
+        "chapter": 9,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n292/mode/1up",
+        "image_sha256": "08726ec29853c9052a12ac516f5e1d339986bb3891b22704591b8db09cbc298c",
+        "pdf_page": 293,
+        "printed_columns": [
+          19,
+          20
+        ],
+        "reason": "전자판의 잘못 삽입된 εἰς 제거. 인쇄20열은 τοῦ Χριστοῦ Πατέρα."
+      },
+      {
+        "after": "οἷός ἐστιν ὁ παρ’",
+        "before": "οἷός ἐστιν ὁ ὁ παρ’",
+        "chapter": 9,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n292/mode/1up",
+        "image_sha256": "08726ec29853c9052a12ac516f5e1d339986bb3891b22704591b8db09cbc298c",
+        "pdf_page": 293,
+        "printed_columns": [
+          19,
+          20
+        ],
+        "reason": "관사 중복 제거. 인쇄20열 확인."
+      },
+      {
+        "after": "κρίνωσι ἐν",
+        "before": "κρίνωσι, κρίνωσι ἐν",
+        "chapter": 9,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n292/mode/1up",
+        "image_sha256": "08726ec29853c9052a12ac516f5e1d339986bb3891b22704591b8db09cbc298c",
+        "pdf_page": 293,
+        "printed_columns": [
+          19,
+          20
+        ],
+        "reason": "중복 동사 제거. 인쇄20열에 동일 동사의 연속 반복은 없다. 다른 판본의 δογματίζουσιν 독법은 합치지 않음."
+      },
+      {
+        "after": "πολεμίους",
+        "before": "πολεμίους πολεμίους",
+        "chapter": 9,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n293/mode/1up",
+        "image_sha256": "bd32bed652481b79222571576822aebea1bc078432848d6f67927e733514fa13",
+        "pdf_page": 294,
+        "printed_columns": [
+          21,
+          22
+        ],
+        "reason": "중복 단어 제거. 인쇄21열 확인."
+      }
+    ],
+    "location": "9",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Τοῦτο",
+        "before": "Tοῦτο",
+        "chapter": 10,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n293/mode/1up",
+        "image_sha256": "bd32bed652481b79222571576822aebea1bc078432848d6f67927e733514fa13",
+        "pdf_page": 294,
+        "printed_columns": [
+          21,
+          22
+        ],
+        "reason": "라틴 T를 그리스어 Τ로 교정. 인쇄21열 확인."
+      }
+    ],
+    "location": "10",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μηδὲ ἐν",
+        "before": "μηδὲ μηδὲ ἐν",
+        "chapter": 12,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n296/mode/1up",
+        "image_sha256": "38050a3a0977f10d9a831a40d9b017c01bf62a646f6c2d48858410e4f993111d",
+        "pdf_page": 297,
+        "printed_columns": [
+          27,
+          28
+        ],
+        "reason": "중복 부정어 제거. 인쇄28열 확인."
+      }
+    ],
+    "location": "12",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἕως",
+        "before": "ἀγοράσαντες μισθοῦ παρὰ τοῦ γλύψαντος πολλάκις δὲ καὶ αὐτὸς ἕως",
+        "chapter": 13,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n296/mode/1up",
+        "image_sha256": "38050a3a0977f10d9a831a40d9b017c01bf62a646f6c2d48858410e4f993111d",
+        "pdf_page": 297,
+        "printed_columns": [
+          27,
+          28
+        ],
+        "reason": "뒤의 문장들에서 중복 삽입된 구절 제거. 인쇄28열은 ἕως로 새 문장이 시작된다."
+      },
+      {
+        "after": "σχῆμα τυπώσῃ",
+        "before": "σχῆμα τὰς συμμετρίας καὶ ἀνδρὸς ἢ γυναικὸς εἰς τὴν τυπώσῃ",
+        "chapter": 13,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n296/mode/1up",
+        "image_sha256": "38050a3a0977f10d9a831a40d9b017c01bf62a646f6c2d48858410e4f993111d",
+        "pdf_page": 297,
+        "printed_columns": [
+          27,
+          28
+        ],
+        "reason": "전자판에 반복 삽입된 앞 구절 제거. 인쇄28열의 σχῆμα τυπώσῃ 확인."
+      }
+    ],
+    "location": "13",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐστὶ καὶ παρὰ",
+        "before": "ἐστὶ καὶ καὶ παρὰ",
+        "chapter": 14,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n297/mode/1up",
+        "image_sha256": "7d80e6e1122557ad1b62c6f54ef2f7479c7d19276b02bd778a2c77f84cb73bfe",
+        "pdf_page": 298,
+        "printed_columns": [
+          29,
+          30
+        ],
+        "reason": "중복 접속사 제거. 인쇄29열 확인."
+      },
+      {
+        "after": "ἄνωθεν καὶ λεγούσης",
+        "before": "ἄνωθεν καὶ καὶ λεγούσης",
+        "chapter": 14,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n297/mode/1up",
+        "image_sha256": "7d80e6e1122557ad1b62c6f54ef2f7479c7d19276b02bd778a2c77f84cb73bfe",
+        "pdf_page": 298,
+        "printed_columns": [
+          29,
+          30
+        ],
+        "reason": "중복 접속사 제거. 인쇄29열에는 접속사 한 번."
+      }
+    ],
+    "location": "14",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὥσπερ οὖν",
+        "before": "ὥσπερ ὥσπερ οὖν",
+        "chapter": 16,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n299/mode/1up",
+        "image_sha256": "22f49b46ce5b9328b28178d73258b83624eb7a49590ac55915aa531ca62d5b1c",
+        "pdf_page": 300,
+        "printed_columns": [
+          33,
+          34
+        ],
+        "reason": "중복 접속어 제거. 인쇄33열 확인."
+      },
+      {
+        "after": "τοῦ δὲ Θερσίτου",
+        "before": "τοῦ τῶν ἡρώων ἐψεύσαντο καὶ ἀντὶ μὲν ἀνδρείας δὲ Θερσίτου",
+        "chapter": 16,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n299/mode/1up",
+        "image_sha256": "22f49b46ce5b9328b28178d73258b83624eb7a49590ac55915aa531ca62d5b1c",
+        "pdf_page": 300,
+        "printed_columns": [
+          33,
+          34
+        ],
+        "reason": "전자판에 앞 문장에서 반복 삽입된 구절 제거. 인쇄33열의 τοῦ δὲ Θερσίτου 확인."
+      },
+      {
+        "after": "ἀληθεύοντες λέγωσι",
+        "before": "ἀληθεύοντες λέγωσι λέγουσι",
+        "chapter": 16,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n300/mode/1up",
+        "image_sha256": "454c172cdb5b110b7df4ae0d92021e6c51acf82b3938423d71f8edb6be648152",
+        "pdf_page": 301,
+        "printed_columns": [
+          35,
+          36
+        ],
+        "reason": "중복 동사 제거. 인쇄36열에는 해당 동사가 한 번. 다른 판본의 λέγουσιν으로 바꾸지 않음."
+      },
+      {
+        "after": "Ἄρεος",
+        "before": "Ἄρεoς",
+        "chapter": 16,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n299/mode/1up",
+        "image_sha256": "22f49b46ce5b9328b28178d73258b83624eb7a49590ac55915aa531ca62d5b1c",
+        "pdf_page": 300,
+        "printed_columns": [
+          33,
+          34
+        ],
+        "reason": "혼입된 라틴 o를 그리스어 ο로 교정. 인쇄33열 확인."
+      }
+    ],
+    "location": "16",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ζῶντα θρησκεύειν",
+        "before": "ζῶνταθρησκεύειν",
+        "chapter": 20,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n303/mode/1up",
+        "image_sha256": "282071ef8247760aca809d9cf02bc78011a8176327aa185f4a370c48401977e8",
+        "pdf_page": 304,
+        "printed_columns": [
+          41,
+          42
+        ],
+        "reason": "전자판에서 붙은 두 단어를 분리. 인쇄41열 확인."
+      }
+    ],
+    "location": "20",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Εἰ",
+        "before": "μορφῆς παρ’ αὐτῶν ἀξιῶν Εἰ",
+        "chapter": 22,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n304/mode/1up",
+        "image_sha256": "594ff212fbdeb23f3fd238edc8af94dcb264c0ea162054f71cebb785e11e025f",
+        "pdf_page": 305,
+        "printed_columns": [
+          43,
+          44
+        ],
+        "reason": "앞 장에서 반복 삽입된 구절 제거. 인쇄44열의22장 시작은 Εἰ."
+      },
+      {
+        "after": "ἡ Σκύλλα καὶ ἡ Χάρυβδις",
+        "before": "ἡ Σκύλλα καὶ γλύφουσιν, ὁποῖα τὰ παρὰ τοῖς μύθοις ἐστὶ πλάσματα, ἡ Χάρυβδις",
+        "chapter": 22,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n304/mode/1up",
+        "image_sha256": "594ff212fbdeb23f3fd238edc8af94dcb264c0ea162054f71cebb785e11e025f",
+        "pdf_page": 305,
+        "printed_columns": [
+          43,
+          44
+        ],
+        "reason": "앞 구절의 반복 삽입 제거. 인쇄44열의 두 신화 이름 사이에는 접속사와 관사만 있다."
+      }
+    ],
+    "location": "22",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δυσωπήσῃ",
+        "before": "δυσωπήσῃ δυσωπήσῃ",
+        "chapter": 27,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n309/mode/1up",
+        "image_sha256": "e585bbff9f764a8e303d6ca0b37ec27e2acd2b1dfa5a7d4d75685fa68d941396",
+        "pdf_page": 310,
+        "printed_columns": [
+          53,
+          54
+        ],
+        "reason": "중복 동사 제거. 인쇄53열 확인."
+      }
+    ],
+    "location": "27",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "συστάντος γὰρ τοῦ ὅλου",
+        "before": "συστάντος γὰρ τοῦ ὅλου γὰρ",
+        "chapter": 28,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n310/mode/1up",
+        "image_sha256": "8d5285696dbac2adede195b7700c49edfa5743d73c51a9466e193243c0f3f777",
+        "pdf_page": 311,
+        "printed_columns": [
+          55,
+          56
+        ],
+        "reason": "중복 삽입된 두 번째 γὰρ 제거. 인쇄56열 확인."
+      }
+    ],
+    "location": "28",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἡ βασιλεία",
+        "before": "εὑρεῖν τὴν ἡ βασιλεία",
+        "chapter": 30,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n312/mode/1up",
+        "image_sha256": "932747e773deedc76219b74ee1a69f88b52cd17824204049069152653931fd07",
+        "pdf_page": 313,
+        "printed_columns": [
+          59,
+          60
+        ],
+        "reason": "앞 문장에서 반복 삽입된 구절 제거. 인쇄60열의 인용은 ἡ βασιλεία로 시작한다."
+      },
+      {
+        "after": "ταχέως",
+        "before": "ταχέως ταχέως",
+        "chapter": 30,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n312/mode/1up",
+        "image_sha256": "932747e773deedc76219b74ee1a69f88b52cd17824204049069152653931fd07",
+        "pdf_page": 313,
+        "printed_columns": [
+          59,
+          60
+        ],
+        "reason": "중복 부사 제거. 인쇄60열 확인."
+      }
+    ],
+    "location": "30",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "παρ’ ἐμαυτοῦ",
+        "before": "παρ’ παρ’ ἐμαυτοῦ",
+        "chapter": 35,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n317/mode/1up",
+        "image_sha256": "c2f6bc5b734d99157c9120120ce9ae2909cf02810e12e61603cbe3f673cad199",
+        "pdf_page": 318,
+        "printed_columns": [
+          69,
+          70
+        ],
+        "reason": "중복 전치사 제거. 인쇄69열 확인."
+      }
+    ],
+    "location": "35",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "κινούμενον",
+        "before": "κινού μενον",
+        "chapter": 36,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n318/mode/1up",
+        "image_sha256": "fdc05dae286537dba8cfd2827cb5653747716ea4fd2b3f3b75326128c12c96ce",
+        "pdf_page": 319,
+        "printed_columns": [
+          71,
+          72
+        ],
+        "reason": "witnesses 경계와 공백으로 나뉜 한 단어를 결합. 인쇄72열 확인. 개별 사본의 gap은 채택 lemma의 결락으로 옮기지 않는다."
+      }
+    ],
+    "location": "36",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καὶ τοῦτο δὲ",
+        "before": "καὶ τοῦτο καὶ τοῦτο δὲ",
+        "chapter": 39,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n321/mode/1up",
+        "image_sha256": "a83242ce96de13a6c91176b00e7637156314a233502a58e332424467cb5cbae3",
+        "pdf_page": 322,
+        "printed_columns": [
+          77,
+          78
+        ],
+        "reason": "중복 구절 제거. 인쇄77열 확인."
+      }
+    ],
+    "location": "39",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὐκ",
+        "before": "oὐκ",
+        "chapter": 40,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n322/mode/1up",
+        "image_sha256": "60526833c2a4310dff7215311b6f4a84c3e24c67a86a0556fcd2631936faf0c4",
+        "pdf_page": 323,
+        "printed_columns": [
+          79,
+          80
+        ],
+        "reason": "라틴 o를 그리스어 ο로 교정. 인쇄80열 확인."
+      }
+    ],
+    "location": "40",
+    "work_id": "athanasius-gentes"
+  },
+  {
+    "corrections": [
+      {
+        "after": "θεός, ὁ καὶ",
+        "before": "θεός, ὁ ὁ καὶ",
+        "chapter": 41,
+        "evidence_url": "https://archive.org/stream/patrologicursus78migngoog#page/n323/mode/1up",
+        "image_sha256": "6e3fc7e23e11140083ebfee554bce1a3c4825c7627ff8945d67e581df1dd35dc",
+        "pdf_page": 324,
+        "printed_columns": [
+          81,
+          82
+        ],
+        "reason": "중복 관사 제거. 인쇄81열 확인."
+      }
+    ],
+    "location": "41",
+    "work_id": "athanasius-gentes"
   }
 ]
