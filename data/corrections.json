@@ -8508,6 +8508,25 @@
   {
     "corrections": [
       {
+        "after": "οὖν",
+        "audit_id": "resurrection-passages-20261002",
+        "before": "οὗν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://archive.org/download/athenagoras00owengoog/page/n67.jpg",
+        "image_path": ".cache/athenagoras-sources/owen-page-51.jpg",
+        "image_sha256": "a27548c0cc6828ed3be88e45d4aec03611e7e54a05d4f4dcde8973c1e48728ca",
+        "kind": "digital_transcription_correction",
+        "printed_page": 51,
+        "reviewer_kind": "ai",
+        "work_location": "36.168"
+      }
+    ],
+    "location": "36.168",
+    "work_id": "athenagoras-plea"
+  },
+  {
+    "corrections": [
+      {
         "after": "ἐκ μὲν",
         "before": "ἐκ μὲν.",
         "checked_on": "2026-09-26",
@@ -8515,6 +8534,19 @@
         "image_sha256": "a27548c0cc6828ed3be88e45d4aec03611e7e54a05d4f4dcde8973c1e48728ca",
         "kind": "digital_transcription_correction",
         "printed_page": 51,
+        "reviewer_kind": "ai",
+        "work_location": "36.171"
+      },
+      {
+        "after": "ἐξ ὧν",
+        "audit_id": "resurrection-passages-20261002",
+        "before": "ἐξ ὤν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://archive.org/download/athenagoras00owengoog/page/n68.jpg",
+        "image_path": ".cache/athenagoras-sources/owen-page-52.jpg",
+        "image_sha256": "c13e56fcff98f83e7f52986e724410256c19af5f2f62f83585653de38fa789af",
+        "kind": "digital_transcription_correction",
+        "printed_page": 52,
         "reviewer_kind": "ai",
         "work_location": "36.171"
       }
@@ -8802,6 +8834,25 @@
       }
     ],
     "location": "11.1",
+    "work_id": "tatian-greeks"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μὴ ἀποθνήσκειν.",
+        "audit_id": "resurrection-passages-20261002",
+        "before": "μὴ ἀποθνήσκειν,",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://archive.org/download/corpusapologeta03moragoog/page/n108.jpg",
+        "image_path": ".cache/resurrection-review-20261002/tatian-leaf-108.jpg",
+        "image_sha256": "99e294eec24a3851b48f0d116ddae5dddda1a57e42924bc4346ed6d49fbe8f05",
+        "kind": "digital_transcription_correction",
+        "printed_page": 58,
+        "reviewer_kind": "ai",
+        "work_location": "13.1"
+      }
+    ],
+    "location": "13.1",
     "work_id": "tatian-greeks"
   },
   {
@@ -101280,6 +101331,25 @@
       }
     ],
     "location": "10.40",
+    "work_id": "athenagoras-resurrection"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐκ τοῦ μὴ",
+        "audit_id": "resurrection-passages-20261002",
+        "before": "ἐκ τοῦ· μὴ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://archive.org/download/athenagoras00owengoog/page/n97.jpg",
+        "image_path": ".cache/resurrection-review-20261002/athenagoras-print-81.jpg",
+        "image_sha256": "d6040d7c05a804ed0643419ecf5956550cec066e10d1368d2aeb563fafafab08",
+        "kind": "digital_transcription_correction",
+        "printed_page": 81,
+        "reviewer_kind": "ai",
+        "work_location": "21.101"
+      }
+    ],
+    "location": "21.101",
     "work_id": "athenagoras-resurrection"
   },
   {

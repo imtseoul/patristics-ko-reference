@@ -2318,6 +2318,46 @@ export default {
           "work_passage_id": "clement-2-corinthians:lake-1914:9.1"
         },
         {
+          "author": "익명 (클레멘스에게 전승상 귀속)",
+          "html_path": "works/clement-2-corinthians/index.html#p-9-2",
+          "label": "클레멘스 2서 9.2",
+          "location": "9.2",
+          "relation": "related_testimony",
+          "title": "클레멘스 2서",
+          "work_id": "clement-2-corinthians",
+          "work_passage_id": "clement-2-corinthians:lake-1914:9.2"
+        },
+        {
+          "author": "익명 (클레멘스에게 전승상 귀속)",
+          "html_path": "works/clement-2-corinthians/index.html#p-9-3",
+          "label": "클레멘스 2서 9.3",
+          "location": "9.3",
+          "relation": "related_testimony",
+          "title": "클레멘스 2서",
+          "work_id": "clement-2-corinthians",
+          "work_passage_id": "clement-2-corinthians:lake-1914:9.3"
+        },
+        {
+          "author": "익명 (클레멘스에게 전승상 귀속)",
+          "html_path": "works/clement-2-corinthians/index.html#p-9-4",
+          "label": "클레멘스 2서 9.4",
+          "location": "9.4",
+          "relation": "related_testimony",
+          "title": "클레멘스 2서",
+          "work_id": "clement-2-corinthians",
+          "work_passage_id": "clement-2-corinthians:lake-1914:9.4"
+        },
+        {
+          "author": "익명 (클레멘스에게 전승상 귀속)",
+          "html_path": "works/clement-2-corinthians/index.html#p-9-5",
+          "label": "클레멘스 2서 9.5",
+          "location": "9.5",
+          "relation": "related_testimony",
+          "title": "클레멘스 2서",
+          "work_id": "clement-2-corinthians",
+          "work_passage_id": "clement-2-corinthians:lake-1914:9.5"
+        },
+        {
           "author": "아테나고라스 (전승상 귀속)",
           "html_path": "works/athenagoras-resurrection/index.html#p-14-65",
           "label": "부활에 관하여 14.65",
