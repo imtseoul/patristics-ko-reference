@@ -2,9 +2,9 @@
   "base_url": "https://patristics.missionalbible.org",
   "human_review_status": "not_reviewed",
   "patched_work_ids": [
-    "athanasius-serapion-1"
+    "athenagoras-resurrection"
   ],
-  "release_id": "alpha-0.24.6",
+  "release_id": "alpha-0.25",
   "release_kind": "changed_work_patch",
   "rights_url": "https://patristics.missionalbible.org/rights.html",
   "schema_version": "patristics-library-catalog-0.1",
@@ -4411,6 +4411,47 @@
       "title": "세라피온에게 보낸 제4서신",
       "title_is_unambiguous": true,
       "translation_method": "Migne PG 26의 그리스어 인쇄 본문 전체와 대조·교정한 고정 OCR에서 직접 한국어로 AI 번역. 모든 절의 의미 구간을 원문과 연결하고 같은 AI의 자체 대조 범위를 기록."
+    },
+    {
+      "aliases": [
+        "아테나고라스 부활론",
+        "죽은 이들의 부활에 관하여",
+        "On the Resurrection of the Dead",
+        "De Resurrectione Mortuorum",
+        "De Resurrectione"
+      ],
+      "ambiguous_aliases": [
+        "부활론",
+        "부활에 관하여"
+      ],
+      "annotation_rights_id": "athenagoras-resurrection-notes-cc-by-sa-4.0",
+      "author": "아테나고라스 (전승상 귀속)",
+      "author_aliases": [
+        "아테나고라스",
+        "아테나고라",
+        "Athenagoras",
+        "Athenagoras of Athens"
+      ],
+      "chapters": 25,
+      "citation_scheme": "chapters_sections",
+      "data_release_id": "alpha-0.25",
+      "edition_short_label": "March·Owen 1876",
+      "fixed_html_path": "releases/alpha-0.25/athenagoras-resurrection/index.html",
+      "html_path": "works/athenagoras-resurrection/index.html",
+      "id": "athenagoras-resurrection",
+      "json_path": "releases/alpha-0.25/athenagoras-resurrection/passages.json",
+      "json_sha256": "6fe4a2245650978896ae776992879197c712d3d719d686d6d562f12d3e77a87b",
+      "jsonl_path": "releases/alpha-0.25/athenagoras-resurrection/passages.jsonl",
+      "passages": 126,
+      "scope": "March·Owen 1876년판 53-86쪽의 1-25장 전문. 절 번호1-126은 작품 전체의 연속 번호",
+      "section_numbering": "continuous_across_work",
+      "source_languages": [
+        "grc"
+      ],
+      "source_profile": "prepared_tei",
+      "title": "부활에 관하여",
+      "title_is_unambiguous": false,
+      "translation_method": "고정 First1KGreek의 March·Owen 1876년판 그리스어에서 직접 한국어 AI 번역. 기록한 인쇄 대조와 교정, 전체 의미 대응 자체 검토. 사람 검수 미실시."
     }
   ]
 }
