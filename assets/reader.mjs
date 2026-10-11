@@ -1,3 +1,6 @@
+import {installReaderToolbar} from './reader-toolbar.mjs?v=c58caaa1e294';
+import {installReaderFeatures} from './reader-features.mjs?v=c90baed71c31';
+import {installReaderSearch} from './reader-search.mjs?v=f3bd50f09359';
 const chapterMenu = document.querySelector('.chapter-menu');
 chapterMenu?.querySelectorAll('a').forEach(link => {
   link.addEventListener('click', () => { chapterMenu.open = false; });
@@ -34,9 +37,19 @@ async function installTopicContext() {
   const params = new URLSearchParams(location.search);
   const id = params.get('topic');
   if (!id) return;
+  const initialHash = location.hash;
+  let moved = false;
+  const readingIntent = event => {
+    if (event.type === 'keydown' && !['ArrowDown','ArrowUp','PageDown','PageUp','Home','End',' '].includes(event.key)) return;
+    moved = true;
+  };
+  for (const event of ['wheel','touchmove','keydown','pointerdown']) window.addEventListener(event, readingIntent, {passive:true});
+  const stopWatching = () => {
+    for (const event of ['wheel','touchmove','keydown','pointerdown']) window.removeEventListener(event, readingIntent);
+  };
   try {
     const [{default:navigation},{topicBrowseURL,topicReaderURL,topicReadingPosition}] = await Promise.all([
-      import('./topic-navigation.mjs'), import('./topics.mjs'),
+      import('./topic-navigation.mjs?v=701b392d6fb6'), import('./topics.mjs?v=12e9f1ca5da7'),
     ]);
     const topic = navigation.topics.find(t=>t.id===id);
     if (!topic?.passages.length) return;
@@ -124,7 +137,7 @@ async function installTopicContext() {
     });
     inner.append(back,count,steps);bar.append(inner);document.querySelector('.site-header').after(bar);
     document.body.classList.add('has-topic-context');
-    new ResizeObserver(()=>document.documentElement.style.setProperty('--topic-context-height',bar.getBoundingClientRect().height+'px')).observe(bar);
+    new ResizeObserver(()=>document.documentElement.style.setProperty('--topic-context-height',(getComputedStyle(bar).position==='sticky'?bar.getBoundingClientRect().height:0)+'px')).observe(bar);
     window.addEventListener('hashchange',()=>update(topicReadingPosition(topic.passages,location.href,selected.work_passage_id)));
     const inDocument=topic.passages.map((p,i)=>({i,node:document.querySelector('[data-passage-id="'+CSS.escape(p.work_passage_id)+'"]')})).filter(p=>p.node);
     let scrollIntentUntil=0;
@@ -147,9 +160,22 @@ async function installTopicContext() {
       });
     },{passive:true});
     update();
+    // The topic bar arrives after native fragment navigation. Settle the
+    // original target against the measured controls, unless the reader moved.
+    if (initialHash) {
+      requestAnimationFrame(() => requestAnimationFrame(() => {
+        if (!moved && location.hash === initialHash) {
+          let target;
+          try { target = document.getElementById(decodeURIComponent(initialHash.slice(1))); } catch {}
+          target?.scrollIntoView({block:'start'});
+        }
+        stopWatching();
+      }));
+    } else stopWatching();
   } catch {
+    stopWatching();
     const fallback=document.createElement('a');fallback.className='topic-context-fallback';fallback.textContent='주제별 탐색으로 돌아가기';
-    const url=new URL('topics.html',location.origin+'/');url.hash='topic-'+id;for(const key of ['group','q','read','compare','pane'])if(params.has(key))url.searchParams.set(key,params.get(key));fallback.href=url;
+    const url=new URL('topics.html',location.origin+'/');url.hash='topic-'+id;for(const key of ['group','q','read','compare','pane','guide'])if(params.has(key))url.searchParams.set(key,params.get(key));fallback.href=url;
     document.querySelector('.work-context')?.prepend(fallback);
   }
 }
@@ -160,3 +186,6 @@ if(readerTools){
   if(heading){const title=document.createElement('a');title.className='reader-current-title';title.href='#main';title.textContent=heading.textContent;readerTools.prepend(title);}
   new ResizeObserver(()=>document.documentElement.style.setProperty('--reader-tools-height',readerTools.getBoundingClientRect().height+'px')).observe(readerTools);
 }
+installReaderFeatures();
+installReaderToolbar(readerTools);
+installReaderSearch();

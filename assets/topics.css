@@ -87,7 +87,7 @@ html { overflow-anchor: none; }
   .topic-disclosure > summary { column-gap: 12px; grid-template-columns: minmax(0, 1fr) 20px; padding-block: 20px; }
   .topic-disclosure > summary h3 { font-size: 16px; line-height: 1.65; }
   .topic-disclosure > summary .topic-chevron { grid-column: 2; grid-row: 1; }
-  .topic-size { grid-column: 1; grid-row: 3; padding-top: 0; font-size: 11px; }
+  .topic-size { grid-column: 1; grid-row: 3; padding-top: 0; font-size: 13px; }
   .topic-description { grid-column: 1 / -1; padding-right: 0; font-size: 13px; line-height: 1.8; }
   .topic-detail { padding: 0 16px 16px; }
   .topic-attribution { font-size: 12px; }
@@ -185,3 +185,6 @@ html { overflow-anchor: none; }
   .topic-comparison-grid[data-active-pane="read"] [data-comparison-pane="compare"],
   .topic-comparison-grid[data-active-pane="compare"] [data-comparison-pane="read"] { display: none; }
 }
+.copy-fallback { flex-basis: 100%; width: 100%; }
+.copy-fallback textarea { display: block; box-sizing: border-box; width: 100%; min-height: 96px; font: inherit; font-size: 16px; border: 1px solid var(--line); padding: 10px; color: var(--ink); }
+.all-scripture-search { display: inline-flex; align-items: center; min-height: 44px; margin-block: 4px 12px; font-size: 14px; }

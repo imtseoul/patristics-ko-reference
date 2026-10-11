@@ -40,7 +40,7 @@ async function loadCurrentReader() {
     const params = new URL(location.href).searchParams;
     if (params.get('topic')) {
       const back = new URL('/topics.html', current);
-      for (const key of ['group', 'q', 'read', 'compare', 'pane']) if (params.has(key)) back.searchParams.set(key, params.get(key));
+      for (const key of ['group', 'q', 'read', 'compare', 'pane', 'guide']) if (params.has(key)) back.searchParams.set(key, params.get(key));
       back.hash = 'topic-' + params.get('topic');
       for (const link of document.querySelectorAll('.site-header a')) if (new URL(link.href).pathname.endsWith('/topics.html')) link.href = back.href;
     }
@@ -69,6 +69,7 @@ async function loadCurrentReader() {
     if (config.required_anchors.some(id => !saved.getElementById(id))) throw new Error('Reader anchor mismatch');
     saved.getElementById('edition-information')?.remove();
     saved.querySelectorAll('script').forEach(script => script.remove());
+    saved.querySelectorAll('[lang="lat"]').forEach(element => { element.lang = 'la'; });
     for (const element of saved.body.querySelectorAll('[href],[src],[action],[poster],[data-source]')) {
       for (const name of ['href','src','action','poster','data-source']) {
         if (element.hasAttribute(name)) element.setAttribute(name, readerLink(element.getAttribute(name), source, current));
@@ -89,7 +90,11 @@ async function loadCurrentReader() {
       const hash = location.hash;
       let id; try { id = decodeURIComponent(hash.slice(1)); } catch { return; }
       requestAnimationFrame(() => {
-        if (!userMoved && location.hash === hash) document.getElementById(id)?.scrollIntoView({block:'start'});
+        // Resize observers measure the restored header and controls after the
+        // first frame. Scroll with their final padding on the following frame.
+        requestAnimationFrame(() => {
+          if (!userMoved && location.hash === hash) document.getElementById(id)?.scrollIntoView({block:'start'});
+        });
       });
     };
     const observer = new MutationObserver(() => {
@@ -107,6 +112,14 @@ async function loadCurrentReader() {
     syncNavigation();
     if (message?.isConnected) message.textContent = '본문을 불러오지 못했습니다. 아래에서 이어 읽을 수 있습니다.';
     if (!fallback?.isConnected && recoveryHref) location.replace(recoveryHref);
+    if(message?.isConnected&&!document.querySelector('[data-reader-retry]')) {
+      const retry=document.createElement('button');retry.type='button';retry.dataset.readerRetry='true';retry.textContent='다시 불러오기';
+      retry.addEventListener('click',async()=>{
+        retry.remove();message.textContent='본문을 불러오는 중입니다.';
+        await loadCurrentReader();
+      });
+      message.after(retry);
+    }
     cleanIntent();
   }
 }

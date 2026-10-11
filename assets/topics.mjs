@@ -1,7 +1,11 @@
-import {markedText} from './text-matches.mjs';
-import {installPhraseHover} from './phrase-hover.mjs';
-import {installTopicComparison,comparisonPair} from './topic-comparison.mjs';
-import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=bbf25fc01547';
+import {markedText} from './text-matches.mjs?v=c9235b0b8b9b';
+import {installPhraseHover} from './phrase-hover.mjs?v=4f4926fe87ad';
+import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
+import {passageTools} from './archive-tools.mjs?v=17c9a713e514';
+import {preserveGuide,installGuideContext,guideReadingControls} from './reading-guides.mjs?v=3195acedeec2';
+import {installTopicComparison,comparisonPair} from './topic-comparison.mjs?v=eb4889bb8be8';
+import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=87f1af21c71a';
+import {searchURL} from './archive-search-core.mjs?v=c183809f9954';
 
 export function topicBrowseURL(base, state) {
   const url = new URL('topics.html', new URL('/', base));
@@ -10,7 +14,7 @@ export function topicBrowseURL(base, state) {
   if (state.passage) url.searchParams.set('read', state.passage);
   if (state.compare && state.compare!==state.passage) {url.searchParams.set('compare',state.compare);if(state.pane==='compare')url.searchParams.set('pane','compare');}
   url.hash = state.topic ? 'topic-' + state.topic : 'topics-all';
-  return url;
+  return preserveGuide(url,base);
 }
 
 export function topicReaderURL(path, base, state) {
@@ -24,7 +28,7 @@ export function topicReaderURL(path, base, state) {
   if (state.passage) url.searchParams.set('read', state.passage);
   url.searchParams.delete('compare');url.searchParams.delete('pane');
   if(state.compare && state.compare!==state.passage){url.searchParams.set('compare',state.compare);if(state.pane==='compare')url.searchParams.set('pane','compare');}
-  return url;
+  return preserveGuide(url,base);
 }
 
 export function topicReadingPosition(passages, base, savedPassage) {
@@ -43,7 +47,7 @@ export function topicReadingPosition(passages, base, savedPassage) {
 
 function alignedText(text, groups, side, language) {
   const p = document.createElement('p');
-  p.className = side === 'ko' ? 'translation' : 'original'; p.lang = language;
+  p.className = side === 'ko' ? 'translation' : 'original'; p.lang = language === 'lat' ? 'la' : language;
   const tokens = [...text.matchAll(/\S+/g)];
   const keys = new Map();
   for (const group of groups) for (const i of group[side + '_token_indexes']) keys.set(i, group.id);
@@ -65,8 +69,10 @@ function initTopics() {
   const input = document.querySelector('#topic-query');
   const form = document.querySelector('.topic-search');
   if (!input || !form) return;
+  const refreshGuide=installGuideContext();
   const clear = document.querySelector('#topic-clear');
   const empty = document.querySelector('.topic-empty');
+  const allScripture=document.createElement('a');allScripture.className='all-scripture-search';allScripture.hidden=true;allScripture.textContent='이 성경 구절을 전체 문헌에서 찾기';form.after(allScripture);
   const mobile = document.querySelector('.topic-mobile-categories');
   const links = [...document.querySelectorAll('[data-topic-group]')];
   const sections = [...document.querySelectorAll('.topic-section')];
@@ -138,6 +144,7 @@ function initTopics() {
     const url = topicBrowseURL(location.href, state(entry, passage));
     if (!entry && location.hash.startsWith('#section-')) url.hash = location.hash;
     history[push ? 'pushState' : 'replaceState'](push ? null : history.state, '', url);
+    refreshGuide();
     for(const a of document.querySelectorAll('.site-header nav a,.browse-switch a'))if(new URL(a.href).pathname.endsWith('/topics.html'))a.href=url;
   };
   const showResume = entry => {
@@ -176,6 +183,8 @@ function initTopics() {
 
   function render() {
     const scripture=parseScriptureQuery(input.value);
+    allScripture.hidden=!scripture;
+    if(scripture)allScripture.href=searchURL(location.href,{query:input.value,mode:'scripture',work:'',exact:false,page:1,relation:'',numbering:'edition'}).href;
     const terms = normalize(input.value).split(' ').filter(Boolean);
     const scripturePassages=new Set();
     let count = 0;
@@ -230,7 +239,7 @@ function initTopics() {
     for(const a of document.querySelectorAll('.site-header nav a,.browse-switch a'))if(new URL(a.href).pathname.endsWith('/topics.html'))a.href=location.href;
   }
 
-  async function readPassage(entry, key, {scroll = true, push = true, focus = true, resume = false} = {}) {
+  async function readPassage(entry, key, {scroll = true, push = true, focus = true, resume = false,continueAt=null} = {}) {
     if(push)savePosition();
     if (!entry.selected) entry.browsePosition = push ? snapshot() : {y:bookmarks[entry.id]?.browseY};
     const bookmark = resume ? {...bookmarks[entry.id]} : null;
@@ -317,7 +326,14 @@ function initTopics() {
       installTopicComparison({entry,data,primary:p,body,toolbar,controls,heading,author,bookmark,alignedText,
         refresh:()=>updateReadingContext(entry,parseScriptureQuery(input.value)),
         activate:()=>{persist(entry,entry.selected,false);rememberReading(entry);},
-        change:pair=>{savePosition();entry.comparison=pair.compare;entry.activePane=pair.pane||'read';readPassage(entry,pair.read,{push:true});}});
+        change:pair=>{savePosition();entry.comparison=pair.compare;entry.activePane=pair.pane||'read';readPassage(entry,pair.read,{push:true,continueAt:pair.continueAt});}});
+      controls.append(copyControl('링크 복사',()=>topicBrowseURL(location.href,state(entry,entry.selected)).href,'주제와 읽는 대목 링크 복사'));
+      const guideNavigation=guideReadingControls(location.href,entry.id);if(guideNavigation)toolbar.append(guideNavigation);
+      for(const content of entry.viewer.querySelectorAll('[data-reading-passage]')) {
+        const item=data.passages.find(p=>p.work_passage_id===content.dataset.readingPassage);
+        const pane=content.closest('[data-comparison-pane]')?.dataset.comparisonPane||'read';
+        content.prepend(passageTools(()=>({work:item.work_id,id:item.work_passage_id,path:topicReaderURL(item.html_path,location.href,{...state(entry,entry.selected),pane}).href})));
+      }
       updateReadingContext(entry,parseScriptureQuery(input.value));persist(entry,key,push);
       if (bookmark) { readingList.open=bookmark.listOpen ?? readingList.open; readingList.scrollTop=bookmark.listY || 0; }
       const active=readingList.querySelector('.source-locations [aria-current]');
@@ -330,7 +346,12 @@ function initTopics() {
         requestAnimationFrame(()=>window.scrollTo({top:saved.y,behavior:'auto'}));
       } else {
         savedPosition=null;
-        if(scroll) {
+        if(continueAt) {
+          requestAnimationFrame(()=>{
+            const unit=entry.viewer.querySelector('.translation [data-align="'+CSS.escape(continueAt.group)+'"]');
+            if(unit){const r=unit.getBoundingClientRect();window.scrollBy({top:r.top+r.height*continueAt.fraction-toolbar.getBoundingClientRect().bottom-20,behavior:'auto'});}
+          });
+        } else if(scroll) {
           entry.viewer.scrollIntoView({block:'start'});
           if (bookmark?.offset) window.scrollBy({top:bookmark.offset,behavior:'auto'});
         }
@@ -348,6 +369,7 @@ function initTopics() {
     savedPosition=storedPosition();
     if(savedPosition)for(const entry of entries)entry.disclosure.open=savedPosition.open?.includes(entry.id) || false;
     const url=new URL(location.href);let id='';try{id=decodeURIComponent(url.hash.slice(1));}catch{}
+    refreshGuide();
     const entry=entries.find(e=>e.element.id===id);
     const section=sections.find(s=>s.querySelector('h2').id===id);
     group=names.has(url.searchParams.get('group')) ? url.searchParams.get('group') : section?.dataset.section || entry?.group || 'all';

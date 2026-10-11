@@ -6104,6 +6104,170 @@ export default {
         }
       ],
       "title": "몸과 영혼의 심판, 사람에게 주어진 법"
+    },
+    {
+      "group": "context",
+      "id": "idols-creator",
+      "passages": [
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-13",
+          "label": "이방인 논박 13",
+          "location": "13",
+          "relation": "primary_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent13"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-27",
+          "label": "이방인 논박 27",
+          "location": "27",
+          "relation": "primary_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent27"
+        },
+        {
+          "author": "아테나고라스",
+          "html_path": "works/athenagoras-plea/index.html#p-15-60",
+          "label": "그리스도인들을 위한 청원 15.60",
+          "location": "15.60",
+          "relation": "primary_passage",
+          "title": "그리스도인들을 위한 청원",
+          "work_id": "athenagoras-plea",
+          "work_passage_id": "athenagoras-plea:15.60"
+        },
+        {
+          "author": "아테나고라스",
+          "html_path": "works/athenagoras-plea/index.html#p-15-61",
+          "label": "그리스도인들을 위한 청원 15.61",
+          "location": "15.61",
+          "relation": "primary_passage",
+          "title": "그리스도인들을 위한 청원",
+          "work_id": "athenagoras-plea",
+          "work_passage_id": "athenagoras-plea:15.61"
+        },
+        {
+          "author": "아테나고라스",
+          "html_path": "works/athenagoras-plea/index.html#p-16-63",
+          "label": "그리스도인들을 위한 청원 16.63",
+          "location": "16.63",
+          "relation": "primary_passage",
+          "title": "그리스도인들을 위한 청원",
+          "work_id": "athenagoras-plea",
+          "work_passage_id": "athenagoras-plea:16.63"
+        },
+        {
+          "author": "유스티노스",
+          "html_path": "works/justin-first-apology/index.html#p-9-1",
+          "label": "제1변증서 9장",
+          "location": "9.1",
+          "relation": "primary_passage",
+          "title": "제1변증서",
+          "work_id": "justin-first-apology",
+          "work_passage_id": "justin-first-apology:9.1"
+        },
+        {
+          "author": "타티아노스",
+          "html_path": "works/tatian-greeks/index.html#p-4-1",
+          "label": "그리스인들에게 4장",
+          "location": "4.1",
+          "relation": "primary_passage",
+          "title": "그리스인들에게",
+          "work_id": "tatian-greeks",
+          "work_passage_id": "tatian-greeks:4.1"
+        }
+      ],
+      "title": "우상과 창조주"
+    },
+    {
+      "group": "faith-life",
+      "id": "evil-free-choice",
+      "passages": [
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-2",
+          "label": "이방인 논박 2",
+          "location": "2",
+          "relation": "primary_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent2"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-4",
+          "label": "이방인 논박 4",
+          "location": "4",
+          "relation": "primary_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent4"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-6",
+          "label": "이방인 논박 6",
+          "location": "6",
+          "relation": "primary_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent6"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-gentes/index.html#p-7",
+          "label": "이방인 논박 7",
+          "location": "7",
+          "relation": "primary_passage",
+          "title": "이방인 논박",
+          "work_id": "athanasius-gentes",
+          "work_passage_id": "AGent7"
+        },
+        {
+          "author": "유스티노스",
+          "html_path": "works/justin-first-apology/index.html#p-43-1",
+          "label": "제1변증서 43장",
+          "location": "43.1",
+          "relation": "primary_passage",
+          "title": "제1변증서",
+          "work_id": "justin-first-apology",
+          "work_passage_id": "justin-first-apology:43.1"
+        },
+        {
+          "author": "타티아노스",
+          "html_path": "works/tatian-greeks/index.html#p-7-1",
+          "label": "그리스인들에게 7장",
+          "location": "7.1",
+          "relation": "primary_passage",
+          "title": "그리스인들에게",
+          "work_id": "tatian-greeks",
+          "work_passage_id": "tatian-greeks:7.1"
+        },
+        {
+          "author": "타티아노스",
+          "html_path": "works/tatian-greeks/index.html#p-11-1",
+          "label": "그리스인들에게 11장",
+          "location": "11.1",
+          "relation": "primary_passage",
+          "title": "그리스인들에게",
+          "work_id": "tatian-greeks",
+          "work_passage_id": "tatian-greeks:11.1"
+        },
+        {
+          "author": "안티오키아의 테오필로스",
+          "html_path": "works/theophilus-autolycus/book-2.html#p-2-27",
+          "label": "아우톨리코스에게 2.27",
+          "location": "2.27",
+          "relation": "primary_passage",
+          "title": "아우톨리코스에게",
+          "work_id": "theophilus-autolycus",
+          "work_passage_id": "theophilus-autolycus:2.27"
+        }
+      ],
+      "title": "악의 기원과 자유로운 선택"
     }
   ]
 };
