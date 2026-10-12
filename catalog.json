@@ -2,9 +2,9 @@
   "base_url": "https://patristics.missionalbible.org",
   "human_review_status": "not_reviewed",
   "patched_work_ids": [
-    "tertullian-marcion-2"
+    "tertullian-marcion-3"
   ],
-  "release_id": "alpha-0.30",
+  "release_id": "alpha-0.31",
   "release_kind": "changed_work_patch",
   "rights_url": "https://patristics.missionalbible.org/rights.html",
   "schema_version": "patristics-library-catalog-0.1",
@@ -4601,6 +4601,42 @@
       "title": "마르키온 반박 2권",
       "title_is_unambiguous": true,
       "translation_method": "Kroymann 1906의 라틴어 본문에서 직접 한국어로 AI 번역. 인쇄면 대조로 전자 원문의 오류를 교정하고 편집자의 삭제 제안·보충·† 표시를 유지. 465개 의미 구간의 전체 대응을 자체 점검."
+    },
+    {
+      "aliases": [
+        "마르키온 반박 3권",
+        "마르키온 논박 3권",
+        "Adversus Marcionem III",
+        "Against Marcion III"
+      ],
+      "ambiguous_aliases": [],
+      "annotation_rights_id": "tertullian-marcion-3-notes-cc-by-sa-4.0",
+      "author": "테르툴리아누스",
+      "author_aliases": [
+        "테르툴리아누스",
+        "Tertullian",
+        "Tertullianus",
+        "Quintus Septimius Florens Tertullianus"
+      ],
+      "chapters": 24,
+      "citation_scheme": "chapters",
+      "data_release_id": "alpha-0.31",
+      "edition_short_label": "Kroymann 1906 (CSEL 47)",
+      "fixed_html_path": "releases/alpha-0.31/tertullian-marcion-3/index.html",
+      "html_path": "works/tertullian-marcion-3/index.html",
+      "id": "tertullian-marcion-3",
+      "json_path": "releases/alpha-0.31/tertullian-marcion-3/passages.json",
+      "json_sha256": "b02f0bfb03f453bb3697ed9ad262329ee94aa962109d555ee386a9a54cb25ead",
+      "jsonl_path": "releases/alpha-0.31/tertullian-marcion-3/passages.jsonl",
+      "passages": 24,
+      "scope": "Kroymann 1906, CSEL 47의 마르키온 반박 3권 1-24장. 전체 5권 가운데 3권이다. 고정 전자 원문을 377-422쪽 인쇄면과 대조해 교정.",
+      "source_languages": [
+        "lat"
+      ],
+      "source_profile": "prepared_tei",
+      "title": "마르키온 반박 3권",
+      "title_is_unambiguous": true,
+      "translation_method": "Kroymann 1906의 라틴어 본문에서 직접 한국어로 AI 번역. 인쇄면 대조로 전자 원문의 오류를 교정하고 편집자의 삭제 제안·보충·† 표시를 유지. 460개 의미 구간의 전체 대응을 자체 점검."
     }
   ]
 }

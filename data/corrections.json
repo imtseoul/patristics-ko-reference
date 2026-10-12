@@ -106846,5 +106846,374 @@
     ],
     "location": "29",
     "work_id": "tertullian-marcion-2"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.1-note-1",
+      "tert-marcion-3.1-001"
+    ],
+    "location": "1",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.2-001",
+      "tert-marcion-3.2-002"
+    ],
+    "location": "2",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.3-note-1",
+      "tert-marcion-3.3-001",
+      "tert-marcion-3.3-002",
+      "tert-marcion-3.3-003",
+      "tert-marcion-3.3-004",
+      "tert-marcion-3.3-note-3",
+      "tert-marcion-3.3-005"
+    ],
+    "location": "3",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.4-001",
+      "tert-marcion-3.4-note-1"
+    ],
+    "location": "4",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.5-note-1",
+      "tert-marcion-3.5-001",
+      "tert-marcion-3.5-002",
+      "tert-marcion-3.5-003",
+      "tert-marcion-3.5-note-2",
+      "tert-marcion-3.5-note-3"
+    ],
+    "location": "5",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.6-001",
+      "tert-marcion-3.6-note-1",
+      "tert-marcion-3.6-note-2",
+      "tert-marcion-3.6-002",
+      "tert-marcion-3.6-003",
+      "tert-marcion-3.6-004",
+      "tert-marcion-3.6-005",
+      "tert-marcion-3.6-006",
+      "tert-marcion-3.6-007",
+      "tert-marcion-3.6-note-3",
+      "tert-marcion-3.6-note-4",
+      "tert-marcion-3.6-008",
+      "tert-marcion-3.6-009",
+      "tert-marcion-3.6-010",
+      "tert-marcion-3.6-note-6",
+      "tert-marcion-3.6-011",
+      "tert-marcion-3.6-012",
+      "tert-marcion-3.6-013"
+    ],
+    "location": "6",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.7-001",
+      "tert-marcion-3.7-002",
+      "tert-marcion-3.7-note-1",
+      "tert-marcion-3.7-note-2",
+      "tert-marcion-3.7-003",
+      "tert-marcion-3.7-note-3",
+      "tert-marcion-3.7-note-4",
+      "tert-marcion-3.7-004",
+      "tert-marcion-3.7-005"
+    ],
+    "location": "7",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.8-001",
+      "tert-marcion-3.8-note-2",
+      "tert-marcion-3.8-002",
+      "tert-marcion-3.8-003",
+      "tert-marcion-3.8-note-3",
+      "tert-marcion-3.8-note-4",
+      "tert-marcion-3.8-004",
+      "tert-marcion-3.8-005",
+      "tert-marcion-3.8-006",
+      "tert-marcion-3.8-007",
+      "tert-marcion-3.8-008",
+      "tert-marcion-3.8-009"
+    ],
+    "location": "8",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.9-001",
+      "tert-marcion-3.9-002",
+      "tert-marcion-3.9-note-1",
+      "tert-marcion-3.9-note-2",
+      "tert-marcion-3.9-003",
+      "tert-marcion-3.9-004",
+      "tert-marcion-3.9-note-4",
+      "tert-marcion-3.9-005"
+    ],
+    "location": "9",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.10-001",
+      "tert-marcion-3.10-note-1",
+      "tert-marcion-3.10-note-2"
+    ],
+    "location": "10",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.11-note-1",
+      "tert-marcion-3.11-note-2",
+      "tert-marcion-3.11-001",
+      "tert-marcion-3.11-002",
+      "tert-marcion-3.11-003",
+      "tert-marcion-3.11-004",
+      "tert-marcion-3.11-005",
+      "tert-marcion-3.11-006",
+      "tert-marcion-3.11-007",
+      "tert-marcion-3.11-008",
+      "tert-marcion-3.11-009",
+      "tert-marcion-3.11-010",
+      "tert-marcion-3.11-note-3",
+      "tert-marcion-3.11-011"
+    ],
+    "location": "11",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.12-001",
+      "tert-marcion-3.12-002",
+      "tert-marcion-3.12-003",
+      "tert-marcion-3.12-004",
+      "tert-marcion-3.12-note-1",
+      "tert-marcion-3.12-note-2",
+      "tert-marcion-3.12-005"
+    ],
+    "location": "12",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.13-001",
+      "tert-marcion-3.13-002",
+      "tert-marcion-3.13-note-2",
+      "tert-marcion-3.13-003",
+      "tert-marcion-3.13-004",
+      "tert-marcion-3.13-005",
+      "tert-marcion-3.13-006",
+      "tert-marcion-3.13-007",
+      "tert-marcion-3.13-note-4"
+    ],
+    "location": "13",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.14-note-1",
+      "tert-marcion-3.14-note-2",
+      "tert-marcion-3.14-001",
+      "tert-marcion-3.14-002",
+      "tert-marcion-3.14-note-3",
+      "tert-marcion-3.14-note-4"
+    ],
+    "location": "14",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.15-001",
+      "tert-marcion-3.15-note-1",
+      "tert-marcion-3.15-note-2",
+      "tert-marcion-3.15-002",
+      "tert-marcion-3.15-003",
+      "tert-marcion-3.15-note-4",
+      "tert-marcion-3.15-note-5",
+      "tert-marcion-3.15-004",
+      "tert-marcion-3.15-005"
+    ],
+    "location": "15",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.16-001",
+      "tert-marcion-3.16-002",
+      "tert-marcion-3.16-003",
+      "tert-marcion-3.16-004",
+      "tert-marcion-3.16-005",
+      "tert-marcion-3.16-006",
+      "tert-marcion-3.16-007",
+      "tert-marcion-3.16-008",
+      "tert-marcion-3.16-009",
+      "tert-marcion-3.16-010",
+      "tert-marcion-3.16-011",
+      "tert-marcion-3.16-012",
+      "tert-marcion-3.16-note-1",
+      "tert-marcion-3.16-note-2",
+      "tert-marcion-3.16-013",
+      "tert-marcion-3.16-014",
+      "tert-marcion-3.16-015",
+      "tert-marcion-3.16-016",
+      "tert-marcion-3.16-note-3",
+      "tert-marcion-3.16-note-4",
+      "tert-marcion-3.16-017",
+      "tert-marcion-3.16-018"
+    ],
+    "location": "16",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.17-001",
+      "tert-marcion-3.17-002",
+      "tert-marcion-3.17-003",
+      "tert-marcion-3.17-004",
+      "tert-marcion-3.17-note-1",
+      "tert-marcion-3.17-note-2",
+      "tert-marcion-3.17-005",
+      "tert-marcion-3.17-006",
+      "tert-marcion-3.17-007"
+    ],
+    "location": "17",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.18-note-1",
+      "tert-marcion-3.18-note-2",
+      "tert-marcion-3.18-001",
+      "tert-marcion-3.18-002",
+      "tert-marcion-3.18-note-3",
+      "tert-marcion-3.18-note-4",
+      "tert-marcion-3.18-note-5",
+      "tert-marcion-3.18-note-6"
+    ],
+    "location": "18",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.19-001",
+      "tert-marcion-3.19-002",
+      "tert-marcion-3.19-003",
+      "tert-marcion-3.19-004",
+      "tert-marcion-3.19-note-1",
+      "tert-marcion-3.19-note-2",
+      "tert-marcion-3.19-005",
+      "tert-marcion-3.19-006",
+      "tert-marcion-3.19-007",
+      "tert-marcion-3.19-008",
+      "tert-marcion-3.19-note-4",
+      "tert-marcion-3.19-009",
+      "tert-marcion-3.19-010"
+    ],
+    "location": "19",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.20-001",
+      "tert-marcion-3.20-002",
+      "tert-marcion-3.20-note-1",
+      "tert-marcion-3.20-note-2",
+      "tert-marcion-3.20-003",
+      "tert-marcion-3.20-004",
+      "tert-marcion-3.20-note-3",
+      "tert-marcion-3.20-note-4",
+      "tert-marcion-3.20-005",
+      "tert-marcion-3.20-006",
+      "tert-marcion-3.20-007",
+      "tert-marcion-3.20-008",
+      "tert-marcion-3.20-009"
+    ],
+    "location": "20",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.21-note-1",
+      "tert-marcion-3.21-note-2",
+      "tert-marcion-3.21-001",
+      "tert-marcion-3.21-note-3",
+      "tert-marcion-3.21-note-4"
+    ],
+    "location": "21",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.22-001",
+      "tert-marcion-3.22-002",
+      "tert-marcion-3.22-note-1",
+      "tert-marcion-3.22-note-2",
+      "tert-marcion-3.22-003",
+      "tert-marcion-3.22-004",
+      "tert-marcion-3.22-005",
+      "tert-marcion-3.22-note-3",
+      "tert-marcion-3.22-note-4",
+      "tert-marcion-3.22-006",
+      "tert-marcion-3.22-007",
+      "tert-marcion-3.22-008",
+      "tert-marcion-3.22-009",
+      "tert-marcion-3.22-010"
+    ],
+    "location": "22",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.23-note-1",
+      "tert-marcion-3.23-note-2",
+      "tert-marcion-3.23-001",
+      "tert-marcion-3.23-002",
+      "tert-marcion-3.23-note-3",
+      "tert-marcion-3.23-note-4",
+      "tert-marcion-3.23-003",
+      "tert-marcion-3.23-note-7",
+      "tert-marcion-3.23-note-8"
+    ],
+    "location": "23",
+    "work_id": "tertullian-marcion-3"
+  },
+  {
+    "corrections": [
+      "tert-marcion-3.24-001",
+      "tert-marcion-3.24-002",
+      "tert-marcion-3.24-003",
+      "tert-marcion-3.24-note-1",
+      "tert-marcion-3.24-note-2",
+      "tert-marcion-3.24-note-3",
+      "tert-marcion-3.24-004",
+      "tert-marcion-3.24-005",
+      "tert-marcion-3.24-006",
+      "tert-marcion-3.24-note-4",
+      "tert-marcion-3.24-note-5",
+      "tert-marcion-3.24-007",
+      "tert-marcion-3.24-note-6",
+      "tert-marcion-3.24-note-7",
+      "tert-marcion-3.24-008",
+      "tert-marcion-3.24-009",
+      "tert-marcion-3.24-010",
+      "tert-marcion-3.24-011"
+    ],
+    "location": "24",
+    "work_id": "tertullian-marcion-3"
   }
 ]
