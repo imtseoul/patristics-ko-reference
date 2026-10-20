@@ -6,12 +6,10 @@ export default {
       "author": "유세비우스",
       "groups": [
         {
-          "id": "a-2a3b2ad4a0ead4a35b17",
+          "id": "a-0038a434dd7431403239",
           "ko_token_indexes": [
             0,
-            1,
-            2,
-            3
+            1
           ],
           "source_token_indexes": [
             0,
@@ -27,11 +25,11 @@ export default {
           ]
         },
         {
-          "id": "a-7b32cfdb81497e729fac",
+          "id": "a-9d73efdb77511d578584",
           "ko_token_indexes": [
-            4,
-            5,
-            6
+            2,
+            3,
+            4
           ],
           "source_token_indexes": [
             10,
@@ -45,12 +43,12 @@ export default {
           ]
         },
         {
-          "id": "a-1fc719d07c434427f47a",
+          "id": "a-92f91c60a459d9a04bae",
           "ko_token_indexes": [
+            5,
+            6,
             7,
-            8,
-            9,
-            10
+            8
           ],
           "source_token_indexes": [
             18,
@@ -63,13 +61,13 @@ export default {
           ]
         },
         {
-          "id": "a-0ddfaf48b98dbbe66313",
+          "id": "a-e333beab6b9e16bf1044",
           "ko_token_indexes": [
+            9,
+            10,
             11,
             12,
-            13,
-            14,
-            15
+            13
           ],
           "source_token_indexes": [
             25,
@@ -81,10 +79,10 @@ export default {
           ]
         },
         {
-          "id": "a-04c572165ad115a9fc2a",
+          "id": "a-9bbcf4b618574f188987",
           "ko_token_indexes": [
-            16,
-            17
+            14,
+            15
           ],
           "source_token_indexes": [
             31,
@@ -94,10 +92,10 @@ export default {
           ]
         },
         {
-          "id": "a-41a4d426aa1d1d0fa850",
+          "id": "a-d9c8fc5c4eecef7bbcf2",
           "ko_token_indexes": [
-            18,
-            19
+            16,
+            17
           ],
           "source_token_indexes": [
             38,
@@ -105,13 +103,13 @@ export default {
           ]
         },
         {
-          "id": "a-868ac405ef5f3633828e",
+          "id": "a-93a2be6d200212b43d5f",
           "ko_token_indexes": [
+            18,
+            19,
             20,
             21,
-            22,
-            23,
-            24
+            22
           ],
           "source_token_indexes": [
             35,
@@ -120,16 +118,16 @@ export default {
           ]
         },
         {
-          "id": "a-2a3ac538f42113ee1298",
+          "id": "a-1a99d244e881b6d52892",
           "ko_token_indexes": [
+            23,
+            24,
             25,
             26,
             27,
             28,
             29,
-            30,
-            31,
-            32
+            30
           ],
           "source_token_indexes": [
             40,
@@ -140,14 +138,14 @@ export default {
           ]
         },
         {
-          "id": "a-7bd26490afb2844cba42",
+          "id": "a-4fabdf6928a22220a384",
           "ko_token_indexes": [
+            31,
+            32,
             33,
             34,
             35,
-            36,
-            37,
-            38
+            36
           ],
           "source_token_indexes": [
             45,
@@ -170,10 +168,10 @@ export default {
       "title": "교회사",
       "translation": {
         "notes": [
-          "νόθοι는 이 목록에서 진정성이 의심되는 문헌을 가리킨다. 7절은 이단자들의 문헌을 이 범주에서도 배제한다. Διδαχαὶ τῶν ἀποστόλων은 사도들의 가르침이라는 제목의 복수형이다."
+          "νόθοι는 이 목록에서 위작을 가리킨다. 3절의 논쟁의 대상이 되는 문헌(ἀντιλεγόμενα)과 따로 세운 범주이지만, 6절은 이 문헌들까지 모두 논쟁의 대상이 되는 문헌에 속할 것이라고 말한다. 7절은 이단자들의 문헌을 이 범주에서도 배제한다. Διδαχαὶ τῶν ἀποστόλων은 사도들의 가르침이라는 제목의 복수형이다."
         ],
-        "revision_id": "sha256:a3704becf2bed9f526cfc9df9f6dece0d8e30e90bb4161dbb944e70b608686ff",
-        "text": "진정성이 의심되는 문헌에는 바울행전, 이른바 목자와 베드로계시록, 바나바의 서신으로 전해지는 문헌, 이른바 사도들의 가르침을 넣어야 한다. 앞서 말했듯이 적절하다고 여겨진다면 요한계시록도 여기에 넣어야 할 것이다. 이미 말한 대로 어떤 이들은 이 문헌을 배척하고, 다른 이들은 널리 인정되는 문헌에 포함한다."
+        "revision_id": "sha256:7a898012a5769283c0e077b2c4b6180b3ab253bff426f35d9d733d048cd02f36",
+        "text": "위작에는 바울행전, 이른바 목자와 베드로계시록, 바나바의 서신으로 전해지는 문헌, 이른바 사도들의 가르침을 넣어야 한다. 앞서 말했듯이 적절하다고 여겨진다면 요한계시록도 여기에 넣어야 할 것이다. 이미 말한 대로 어떤 이들은 이 문헌을 배척하고, 다른 이들은 널리 인정되는 문헌에 포함한다."
       },
       "work_id": "eusebius-ecclesiastical-history",
       "work_passage_id": "eusebius-ecclesiastical-history:3.25.4"
@@ -576,7 +574,7 @@ export default {
       "author": "유세비우스",
       "groups": [
         {
-          "id": "a-3fe0b295b9604cafa5e1",
+          "id": "a-88201e6dc93ac2c592d0",
           "ko_token_indexes": [
             0,
             1,
@@ -604,7 +602,7 @@ export default {
           ]
         },
         {
-          "id": "a-b8df8e015a3c6063b68b",
+          "id": "a-229adde55b18aff59212",
           "ko_token_indexes": [
             7,
             8,
@@ -626,7 +624,7 @@ export default {
           ]
         },
         {
-          "id": "a-c46223c6cb06768bcebd",
+          "id": "a-c04ad98c00d76dfbc902",
           "ko_token_indexes": [
             12,
             13,
@@ -644,7 +642,7 @@ export default {
           ]
         },
         {
-          "id": "a-38210c90526a5586dee1",
+          "id": "a-3e43b1ae84d0f9b20487",
           "ko_token_indexes": [
             17,
             18,
@@ -662,7 +660,7 @@ export default {
           ]
         },
         {
-          "id": "a-ee9aee53f432a13eced8",
+          "id": "a-84fd84788ce79c1134be",
           "ko_token_indexes": [
             22,
             23
@@ -673,16 +671,14 @@ export default {
           ]
         },
         {
-          "id": "a-6b14f6e71291faf80d3f",
+          "id": "a-73d332fa0540db617549",
           "ko_token_indexes": [
             24,
             25,
             26,
             27,
             28,
-            29,
-            30,
-            31
+            29
           ],
           "source_token_indexes": [
             38,
@@ -694,14 +690,14 @@ export default {
           ]
         },
         {
-          "id": "a-88a87b75571d514f45eb",
+          "id": "a-559609761b061c09676a",
           "ko_token_indexes": [
+            30,
+            31,
             32,
             33,
             34,
-            35,
-            36,
-            37
+            35
           ],
           "source_token_indexes": [
             44,
@@ -726,8 +722,8 @@ export default {
       "title": "교회사",
       "translation": {
         "notes": [],
-        "revision_id": "sha256:9d9bd0efacfc67487f3381fe5db9840a24a3cdaacdd51d925b0a5f02fda8c9e1",
-        "text": "그 문체도 사도들의 특징과 아주 동떨어져 있다. 그 안에 담긴 생각과 의도는 참된 올바른 신앙과 크게 어긋나서, 그 문헌들이 이단자들이 꾸며낸 것임을 분명히 드러낸다. 그러므로 그것들은 진정성이 의심되는 문헌에조차 넣어서는 안 되며, 전적으로 터무니없고 불경한 것으로 배척해야 한다."
+        "revision_id": "sha256:a7463ac761c4cba60973f935cb19ac728916ca89ea8b358e33b0cc1c32ddd3d0",
+        "text": "그 문체도 사도들의 특징과 아주 동떨어져 있다. 그 안에 담긴 생각과 의도는 참된 올바른 신앙과 크게 어긋나서, 그 문헌들이 이단자들이 꾸며낸 것임을 분명히 드러낸다. 그러므로 그것들은 위작에조차 넣어서는 안 되며, 전적으로 터무니없고 불경한 것으로 배척해야 한다."
       },
       "work_id": "eusebius-ecclesiastical-history",
       "work_passage_id": "eusebius-ecclesiastical-history:3.25.7"

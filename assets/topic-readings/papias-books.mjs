@@ -212,7 +212,7 @@ export default {
       "author": "유세비우스",
       "groups": [
         {
-          "id": "a-01878b2f3478382fa1be",
+          "id": "a-21863ffce9ae16385dfb",
           "ko_token_indexes": [
             0,
             1,
@@ -227,7 +227,7 @@ export default {
           ]
         },
         {
-          "id": "a-16f7f6effaeca5f448ad",
+          "id": "a-05fdf04d7b5d678f67cc",
           "ko_token_indexes": [
             3,
             4,
@@ -251,7 +251,7 @@ export default {
           ]
         },
         {
-          "id": "a-7d10e8e4fb021caf4d4f",
+          "id": "a-31cdfd81dba8d1e3bd86",
           "ko_token_indexes": [
             9,
             10,
@@ -262,7 +262,9 @@ export default {
             15,
             16,
             17,
-            18
+            18,
+            19,
+            20
           ],
           "source_token_indexes": [
             16,
@@ -279,10 +281,8 @@ export default {
           ]
         },
         {
-          "id": "a-276e9482b832ce8a89b7",
+          "id": "a-235b2321856b7754d2f8",
           "ko_token_indexes": [
-            19,
-            20,
             21,
             22,
             23,
@@ -290,7 +290,9 @@ export default {
             25,
             26,
             27,
-            28
+            28,
+            29,
+            30
           ],
           "source_token_indexes": [
             27,
@@ -306,11 +308,11 @@ export default {
           ]
         },
         {
-          "id": "a-e7a85f4b75384cf54b76",
+          "id": "a-3ec5b3899d9549daa3a2",
           "ko_token_indexes": [
-            29,
-            30,
-            31
+            31,
+            32,
+            33
           ],
           "source_token_indexes": [
             37,
@@ -334,8 +336,8 @@ export default {
         "notes": [
           "파피아스의 서문을 근거로 그의 사도 접촉 관계를 설명하는 대목은 유세비우스의 서술이다. 파피아스 자신의 직접 인용은 다음 절에서 시작된다."
         ],
-        "revision_id": "sha256:fe090a079a577b8cae710858c9c5d7a990d3bcccf9d48434a32f328f7154953c",
-        "text": "이레네우스는 이렇게 말했다. 그런데 파피아스 자신은 자기 저술의 서문에서 자신이 거룩한 사도들에게 직접 듣고 그들을 보았다고는 전혀 밝히지 않으며, 그들과 친분이 있던 이들에게서 믿음에 관한 것을 전해 받았다고 가르친다. 그는 이렇게 말한다."
+        "revision_id": "sha256:4178f55a3ee57ce3c4582605a64fee1fc9a74be7fca7ffb47b743d4b4b6ce997",
+        "text": "이레네우스는 이렇게 말했다. 그런데 파피아스 자신은 자기 저술의 서문에서 자신이 거룩한 사도들에게서 직접 듣거나 그들을 직접 본 사람이 결코 아니었음을 드러내며, 그들과 친분이 있던 이들에게서 믿음에 관한 것을 전해 받았다고 가르친다. 그는 이렇게 말한다."
       },
       "work_id": "eusebius-ecclesiastical-history",
       "work_passage_id": "eusebius-ecclesiastical-history:3.39.2"

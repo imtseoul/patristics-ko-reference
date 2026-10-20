@@ -70,7 +70,7 @@ export default {
       "author": "니케아 공의회",
       "groups": [
         {
-          "id": "a-e81e5913574eafe95721",
+          "id": "a-8b74dd484a932842fa32",
           "ko_token_indexes": [
             0,
             1,
@@ -90,7 +90,7 @@ export default {
           ]
         },
         {
-          "id": "a-9e0269d5b9e100adb602",
+          "id": "a-da57e8afe5f66db0cb1b",
           "ko_token_indexes": [
             7,
             8,
@@ -104,7 +104,7 @@ export default {
           ]
         },
         {
-          "id": "a-338d97e729f3acc96bb2",
+          "id": "a-1bc89087e19aad461340",
           "ko_token_indexes": [
             10,
             11,
@@ -119,7 +119,7 @@ export default {
           ]
         },
         {
-          "id": "a-d2770dc32c090ebe9928",
+          "id": "a-40836aadfd835d2491b2",
           "ko_token_indexes": [
             13,
             14,
@@ -136,7 +136,7 @@ export default {
           ]
         },
         {
-          "id": "a-04f799916569af590e39",
+          "id": "a-3563545ade3290a84b84",
           "ko_token_indexes": [
             17,
             18,
@@ -149,7 +149,7 @@ export default {
           ]
         },
         {
-          "id": "a-fdd1c361e5625e962e6c",
+          "id": "a-3ddf6c75558b3772319f",
           "ko_token_indexes": [
             20,
             21,
@@ -162,7 +162,7 @@ export default {
           ]
         },
         {
-          "id": "a-433ab34d7c72e0e92d4f",
+          "id": "a-320881d6e375500dc1b3",
           "ko_token_indexes": [
             23,
             24,
@@ -179,7 +179,7 @@ export default {
           ]
         },
         {
-          "id": "a-5c2767636b1d6dc0dd7e",
+          "id": "a-e2a46b6c551fc7ca57e4",
           "ko_token_indexes": [
             28,
             29,
@@ -193,7 +193,7 @@ export default {
           ]
         },
         {
-          "id": "a-6d22b471bcdbc8e05a75",
+          "id": "a-55beeacbe8f494749af0",
           "ko_token_indexes": [
             32,
             33
@@ -205,7 +205,7 @@ export default {
           ]
         },
         {
-          "id": "a-85bb4fc977e44b6222e0",
+          "id": "a-11c2034aba18a4a9480f",
           "ko_token_indexes": [
             34,
             35,
@@ -221,7 +221,7 @@ export default {
           ]
         },
         {
-          "id": "a-fb73e7f2f77c7f88f555",
+          "id": "a-a93dcbfbe90087c78087",
           "ko_token_indexes": [
             38,
             39,
@@ -245,7 +245,7 @@ export default {
           ]
         },
         {
-          "id": "a-eddbb9f0459b12ba0b27",
+          "id": "a-1b042f9fa5d94c1d840d",
           "ko_token_indexes": [
             45,
             46,
@@ -278,7 +278,7 @@ export default {
           ]
         },
         {
-          "id": "a-0f4cf7783699a2c5e27c",
+          "id": "a-69eba6874455c5c17c8c",
           "ko_token_indexes": [
             56
           ],
@@ -287,7 +287,7 @@ export default {
           ]
         },
         {
-          "id": "a-4b7e5c1a3b4a39d2a51c",
+          "id": "a-36a602cf17fec79c00ec",
           "ko_token_indexes": [
             57,
             58,
@@ -303,7 +303,7 @@ export default {
           ]
         },
         {
-          "id": "a-ba96038296b23daed609",
+          "id": "a-50a4c51dfcf056f91ad4",
           "ko_token_indexes": [
             61,
             62
@@ -317,7 +317,7 @@ export default {
           ]
         },
         {
-          "id": "a-15c499a3fc4c9f84aa97",
+          "id": "a-aadf537691c0e5707f74",
           "ko_token_indexes": [
             63,
             64,
@@ -349,9 +349,9 @@ export default {
       "translation": {
         "notes": [
           "ὁμοούσιον은 ‘동일본질’로 옮겼다. 이어지는 γέννησις(나심)와 ποίησις(지음)의 구별을 함께 읽을 수 있다.",
-          "μονογενής는 전통적인 호칭인 ‘독생자’로 옮겼다. 본문은 이어서 ‘아버지의 본질에서’라는 설명을 붙인다."
+          "μονογενής는 ‘외아들’로 옮겼다. 전통적인 호칭으로는 ‘독생자’가 있다. 본문은 이어서 ‘아버지의 본질에서’라는 설명을 붙인다."
         ],
-        "revision_id": "sha256:68005ed26ba8b8463534f1c9fe3b0c24915d8abfa51908d6da668881a6fbb308",
+        "revision_id": "sha256:b6e95d47fac952e55c021168e569471b62c2db5770120dedcb2b25a0d9b5e064",
         "text": "또 한 분 주 예수 그리스도를 믿습니다. 그분은 하나님의 아들이시며, 아버지에게서 외아들로 나셨습니다. 곧 아버지의 본질에서 나셨으며, 하나님에게서 나신 하나님, 빛에서 나신 빛, 참 하나님에게서 나신 참 하나님이십니다. 지음을 받지 않고 나셨으며, 아버지와 동일본질이십니다. 그분을 통해 만물이 생겨났으니, 하늘에 있는 것들과 땅 위에 있는 것들입니다. 그분은 우리 인간과 우리의 구원을 위해 내려오셔서 육신을 취하고 사람이 되셨으며, 고난받으시고, 셋째 날에 다시 살아나셨으며, 하늘로 올라가셨고, 산 자와 죽은 자를 심판하러 오십니다."
       },
       "work_id": "nicene-creed-325",
@@ -400,7 +400,7 @@ export default {
       "author": "니케아 공의회",
       "groups": [
         {
-          "id": "a-0dc0444ff11571532146",
+          "id": "a-19e38f4634958e4760f8",
           "ko_token_indexes": [
             0,
             1,
@@ -415,7 +415,7 @@ export default {
           ]
         },
         {
-          "id": "a-b729851e0807e8796b20",
+          "id": "a-0a7cdcf732feafbb3f04",
           "ko_token_indexes": [
             5,
             6,
@@ -433,7 +433,7 @@ export default {
           ]
         },
         {
-          "id": "a-4983b65fce1613a89a19",
+          "id": "a-e3255a545427ef06dcd8",
           "ko_token_indexes": [
             10,
             11,
@@ -449,7 +449,7 @@ export default {
           ]
         },
         {
-          "id": "a-11cb38530fe8ca2cfff8",
+          "id": "a-33f0730e2423ffb45d94",
           "ko_token_indexes": [
             14,
             15,
@@ -468,7 +468,7 @@ export default {
           ]
         },
         {
-          "id": "a-98652670b2b1ce9ff54b",
+          "id": "a-0973597c32eab460d7ba",
           "ko_token_indexes": [
             20,
             21,
@@ -490,7 +490,7 @@ export default {
           ]
         },
         {
-          "id": "a-1e6b1df65a5912f04008",
+          "id": "a-99fdb02e83c08dc8e558",
           "ko_token_indexes": [
             27,
             28,
@@ -518,13 +518,14 @@ export default {
           ]
         },
         {
-          "id": "a-2257c20bb3a67ec8994c",
+          "id": "a-a00bddb172e0edc64899",
           "ko_token_indexes": [
             39,
             40,
             41,
             42,
-            43
+            43,
+            44
           ],
           "source_token_indexes": [
             37,
@@ -550,10 +551,10 @@ export default {
       "translation": {
         "notes": [
           "여기서 ὑπόστασις는 ‘실체’, οὐσία는 ‘본질’로 옮겼다. 두 말이 함께 쓰인 325년의 용례는 『안티오키아인들에게 보낸 서한』 5-6장의 용어 논의와 비교할 수 있다.",
-          "대괄호는 Schaff의 편집 표지를 원문과 번역에 보존한 것이다. ἀναθεματίζει는 해당 가르침을 교회의 신앙에서 배제한다는 뜻으로 ‘배척한다’고 옮겼다."
+          "대괄호는 Schaff의 편집 표지를 원문과 번역에 보존한 것이다. ἀναθεματίζει는 그렇게 말하는 사람들을 아나테마로 선언하여 교회의 사귐에서 끊는다는 정죄 용어로, ‘아나테마로 정죄한다’고 옮겼다."
         ],
-        "revision_id": "sha256:778387d5acdd49f748c1e34a87af4fa9c6fc1315fb2833c32d9c6a5c356dac68",
-        "text": "그러나 다음과 같이 말하는 이들, “그분이 계시지 않던 때가 있었다”, “나시기 전에는 계시지 않았다”, “존재하지 않는 것들에서 생겨났다”고 말하는 이들, 혹은 다른 실체나 본질에서 나왔다고 주장하는 이들, 하나님의 아들을 [피조물이라거나] 변할 수 있고 달라질 수 있는 분이라고 하는 이들, 보편적 [사도적] 교회는 [이들을] 배척합니다."
+        "revision_id": "sha256:467bc56ec882813437da740c6dec8a4dac52a1202a707966a7eac22929c409ba",
+        "text": "그러나 다음과 같이 말하는 이들, “그분이 계시지 않던 때가 있었다”, “나시기 전에는 계시지 않았다”, “존재하지 않는 것들에서 생겨났다”고 말하는 이들, 혹은 다른 실체나 본질에서 나왔다고 주장하는 이들, 하나님의 아들을 [피조물이라거나] 변할 수 있고 달라질 수 있는 분이라고 하는 이들, 보편적 [사도적] 교회는 [이들을] 아나테마로 정죄합니다."
       },
       "work_id": "nicene-creed-325",
       "work_passage_id": "nicene-creed-325:4"

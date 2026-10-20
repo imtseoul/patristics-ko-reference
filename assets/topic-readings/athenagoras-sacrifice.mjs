@@ -915,7 +915,7 @@ export default {
       "author": "익명",
       "groups": [
         {
-          "id": "a-6cf918df090d84236720",
+          "id": "a-80e307245052b1545745",
           "ko_token_indexes": [
             0,
             1
@@ -928,7 +928,7 @@ export default {
           ]
         },
         {
-          "id": "a-1ed2c7bdd60a20f5b23e",
+          "id": "a-58ea37886e3975999486",
           "ko_token_indexes": [
             2
           ],
@@ -937,7 +937,7 @@ export default {
           ]
         },
         {
-          "id": "a-15f64fd3ff7403e9b208",
+          "id": "a-b9446d85173423fbdb10",
           "ko_token_indexes": [
             3,
             4
@@ -948,7 +948,7 @@ export default {
           ]
         },
         {
-          "id": "a-098f0fa2f3b96976f4b1",
+          "id": "a-52acfebe9f366e4e39c9",
           "ko_token_indexes": [
             5
           ],
@@ -958,7 +958,7 @@ export default {
           ]
         },
         {
-          "id": "a-f0de44f9d7b0fbdf5030",
+          "id": "a-bae5ecb50149c7d8558e",
           "ko_token_indexes": [
             6,
             7,
@@ -973,7 +973,7 @@ export default {
           ]
         },
         {
-          "id": "a-5ad4a4cfc25247691d70",
+          "id": "a-ce2da58801f503e083f0",
           "ko_token_indexes": [
             10,
             11,
@@ -1002,9 +1002,9 @@ export default {
       "title": "디다케",
       "translation": {
         "notes": [
-          "‘주님의 날’에 모이기 전에 잘못을 고백하도록 지시한다. 제물을 가리키는 채택 본문의 인칭은 ‘너희’이다."
+          "‘주님의 날’에 모여 빵을 떼고 감사하기 전에 먼저 잘못을 고백하도록 지시한다. 제물을 가리키는 채택 본문의 인칭은 ‘너희’이다."
         ],
-        "revision_id": "sha256:e590b2ce4d1c0e0f3de2eeb19f609aa49730ce672930de31e1f86badb71b664b",
+        "revision_id": "sha256:488957c0bf816e2469232777ca841abaaf8be607630af4daaf6aa7f148a697a8",
         "text": "주님의 날에 모여 빵을 떼고 감사하라. 먼저 너희의 잘못을 고백하여 너희의 제물이 깨끗하게 하라."
       },
       "work_id": "didache",

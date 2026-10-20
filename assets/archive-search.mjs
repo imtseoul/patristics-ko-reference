@@ -1,11 +1,11 @@
-import {createArchiveSearchClient} from './archive-search-client.mjs?v=b874a56f531e';
+import {createArchiveSearchClient} from './archive-search-client.mjs?v=84916aba807a';
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
-export {archiveResults} from './archive-search-engine.mjs?v=b8d90ed0c63b';
-import index from './archive-search-index.mjs?v=ef7e1aef0ae5';
+export {archiveResults} from './archive-search-engine.mjs?v=66bf62eb6aa2';
+import index from './archive-search-index.mjs?v=1fbcbe54d13f';
 import {dataErrorMessage} from './packed-data.mjs?v=1a75398990a6';
 import {markedText,matchExcerpts} from './text-matches.mjs?v=c9235b0b8b9b';
-import {parseScriptureQuery,scriptureIntersects,scriptureReferenceLabel} from './scripture-search.mjs?v=87f1af21c71a';
-import {workInformationURL} from './work-information.mjs?v=b902a68834ad';
+import {parseScriptureQuery,scriptureIntersects,scriptureReferenceLabel} from './scripture-search.mjs?v=c22b3943da88';
+import {workInformationURL} from './work-information.mjs?v=08fe874cceb9';
 import {searchState,searchURL,searchReaderURL,workReference,pageSlice,plainExcerpt,useLabels,originLabels,speakerLabels,compositionLabels,resultCitation,resultCSV} from './archive-search-core.mjs?v=c183809f9954';
 
 const works=new Map(index.works.map(work=>[work.id,work]));
