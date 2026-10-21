@@ -2,9 +2,9 @@
   "base_url": "https://patristics.missionalbible.org",
   "human_review_status": "not_reviewed",
   "patched_work_ids": [
-    "tertullian-marcion-4"
+    "tertullian-marcion-5"
   ],
-  "release_id": "alpha-0.33",
+  "release_id": "alpha-0.34",
   "release_kind": "changed_work_patch",
   "rights_url": "https://patristics.missionalbible.org/rights.html",
   "schema_version": "patristics-library-catalog-0.1",
@@ -4673,6 +4673,42 @@
       "title": "마르키온 반박 4권",
       "title_is_unambiguous": true,
       "translation_method": "Kroymann 1906의 라틴어 본문에서 직접 한국어로 AI 번역. 인쇄면 대조로 전자 원문의 오류를 교정하고 편집자의 삭제 제안·보충·† 표시를 유지. 1568개 의미 구간의 전체 대응을 자체 점검."
+    },
+    {
+      "aliases": [
+        "마르키온 반박 5권",
+        "마르키온 논박 5권",
+        "Adversus Marcionem V",
+        "Against Marcion V"
+      ],
+      "ambiguous_aliases": [],
+      "annotation_rights_id": "tertullian-marcion-5-notes-cc-by-sa-4.0",
+      "author": "테르툴리아누스",
+      "author_aliases": [
+        "테르툴리아누스",
+        "Tertullian",
+        "Tertullianus",
+        "Quintus Septimius Florens Tertullianus"
+      ],
+      "chapters": 21,
+      "citation_scheme": "chapters",
+      "data_release_id": "alpha-0.34",
+      "edition_short_label": "Kroymann 1906 (CSEL 47)",
+      "fixed_html_path": "releases/alpha-0.34/tertullian-marcion-5/index.html",
+      "html_path": "works/tertullian-marcion-5/index.html",
+      "id": "tertullian-marcion-5",
+      "json_path": "releases/alpha-0.34/tertullian-marcion-5/passages.json",
+      "json_sha256": "b4b31dfb75a80de35ef4dd42da3ace06693effa5a51b57967b654d2350a7d83c",
+      "jsonl_path": "releases/alpha-0.34/tertullian-marcion-5/passages.jsonl",
+      "passages": 21,
+      "scope": "Kroymann 1906, CSEL 47의 마르키온 반박 5권 1-21장. 전체 5권 가운데 5권이다. 고정 전자 원문을 568-650쪽 인쇄면과 두 AI가 따로 대조하고 세 번째 AI가 판정해 교정.",
+      "source_languages": [
+        "lat"
+      ],
+      "source_profile": "prepared_tei",
+      "title": "마르키온 반박 5권",
+      "title_is_unambiguous": true,
+      "translation_method": "Kroymann 1906의 라틴어 본문에서 직접 한국어로 AI 번역. 인쇄면 대조로 전자 원문의 오류를 교정하고 편집자의 삭제 제안·보충·† 표시를 유지. 879개 의미 구간의 전체 대응을 자체 점검."
     }
   ]
 }
