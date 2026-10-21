@@ -6,7 +6,7 @@ export default {
       "author": "유세비우스",
       "groups": [
         {
-          "id": "a-04e50819fa6d9185cce1",
+          "id": "a-cd7e275365074faa7ed1",
           "ko_token_indexes": [
             0,
             1,
@@ -32,7 +32,7 @@ export default {
           ]
         },
         {
-          "id": "a-4700267c2ff31bcfbee5",
+          "id": "a-fa51675ba88a0432e6c4",
           "ko_token_indexes": [
             7,
             8,
@@ -52,7 +52,7 @@ export default {
           ]
         },
         {
-          "id": "a-32d41fe5711109230e5c",
+          "id": "a-71945399031313c15d31",
           "ko_token_indexes": [
             13,
             14,
@@ -76,7 +76,7 @@ export default {
           ]
         },
         {
-          "id": "a-d396260d040e2ca3f90c",
+          "id": "a-853dbf6bc297b73bc10d",
           "ko_token_indexes": [
             20,
             21,
@@ -104,7 +104,7 @@ export default {
           ]
         },
         {
-          "id": "a-513a967145c1c7f05a19",
+          "id": "a-62f824c6d5818c266f95",
           "ko_token_indexes": [
             31,
             32,
@@ -124,7 +124,7 @@ export default {
           ]
         },
         {
-          "id": "a-f93b119b4c0a90330a73",
+          "id": "a-47c83157b94175d1bb2d",
           "ko_token_indexes": [
             38,
             39,
@@ -140,7 +140,7 @@ export default {
           ]
         },
         {
-          "id": "a-cfb9ad9536d12672325d",
+          "id": "a-cce51d9f76406274c223",
           "ko_token_indexes": [
             41,
             42,
@@ -152,7 +152,8 @@ export default {
             48,
             49,
             50,
-            51
+            51,
+            52
           ],
           "source_token_indexes": [
             51,
@@ -187,8 +188,8 @@ export default {
         "notes": [
           "요한이 세 복음서를 받아들이고 초기 행적을 보충했다는 말에는 “전한다”는 φασί가 두 번 쓰인다."
         ],
-        "revision_id": "sha256:5f0328950bce4838772c4ce2bf5df9a145a726a78429989e5070194c57987ae5",
-        "text": "마가와 누가가 이미 각자의 복음서를 펴낸 뒤에도 요한은 줄곧 글로 쓰지 않고 선포하다가 마침내 다음과 같은 까닭으로 기록하기에 이르렀다고 한다. 앞서 기록된 세 복음서가 이미 모든 사람에게, 또 그에게도 전해졌을 때 그는 그것들을 받아들이고 그 진실성을 증언했다고 한다. 다만 그 기록에는 그리스도께서 선포를 시작하시던 맨 처음에 행하신 일들에 관한 이야기가 빠져 있었다."
+        "revision_id": "sha256:ebc6f5cb9511d939aa7371c0516c6b7f04770e8abafec4c1f1aa5efd787fe043",
+        "text": "마가와 누가가 이미 각자의 복음서를 펴낸 뒤에도 요한은 줄곧 글로 쓰지 않고 선포하다가 마침내 다음과 같은 까닭으로 기록하기에 이르렀다고 한다. 앞서 기록된 세 복음서가 이미 모든 사람에게, 또 그에게도 전해졌을 때 그는 그것들을 받아들이고 그 진실성을 증언했다고 한다. 다만 그 기록에는 그리스도께서 선포를 시작하시던 맨 처음에 행하신 일들에 관한 이야기만 빠져 있었다고 한다."
       },
       "work_id": "eusebius-ecclesiastical-history",
       "work_passage_id": "eusebius-ecclesiastical-history:3.24.7"

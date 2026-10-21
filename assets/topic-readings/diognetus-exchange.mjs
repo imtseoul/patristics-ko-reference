@@ -6,7 +6,7 @@ export default {
       "author": "익명",
       "groups": [
         {
-          "id": "a-fb91050ec729220a70e1",
+          "id": "a-7fb6ec6d9e669d2539fb",
           "ko_token_indexes": [
             0,
             1,
@@ -45,7 +45,7 @@ export default {
           ]
         },
         {
-          "id": "a-259f7a331af96bb78ea1",
+          "id": "a-ff20c68aaea065caa2e2",
           "ko_token_indexes": [
             14,
             15,
@@ -74,7 +74,7 @@ export default {
           ]
         },
         {
-          "id": "a-074af11d5e0ff19d1cc4",
+          "id": "a-9a40b9ecf877ab95ec47",
           "ko_token_indexes": [
             22,
             23,
@@ -94,7 +94,7 @@ export default {
           ]
         },
         {
-          "id": "a-983c30185aa2726b9001",
+          "id": "a-312c482b1279f50dab79",
           "ko_token_indexes": [
             27,
             28,
@@ -103,8 +103,7 @@ export default {
             31,
             32,
             33,
-            34,
-            35
+            34
           ],
           "source_token_indexes": [
             40,
@@ -117,11 +116,11 @@ export default {
           ]
         },
         {
-          "id": "a-f916f1198d5abad12a74",
+          "id": "a-fb4dbc4641b6071fa4ea",
           "ko_token_indexes": [
+            35,
             36,
-            37,
-            38
+            37
           ],
           "source_token_indexes": [
             47,
@@ -130,15 +129,15 @@ export default {
           ]
         },
         {
-          "id": "a-e55c3dfa68dd9d3ee5db",
+          "id": "a-96d2a76b962ae82411a1",
           "ko_token_indexes": [
+            38,
             39,
             40,
             41,
             42,
             43,
-            44,
-            45
+            44
           ],
           "source_token_indexes": [
             50,
@@ -150,13 +149,13 @@ export default {
           ]
         },
         {
-          "id": "a-c5aa582f37daebb89243",
+          "id": "a-e91ca752e9df3989d81d",
           "ko_token_indexes": [
+            45,
             46,
             47,
             48,
-            49,
-            50
+            49
           ],
           "source_token_indexes": [
             56,
@@ -170,13 +169,13 @@ export default {
           ]
         },
         {
-          "id": "a-5105e2714594745c6e5f",
+          "id": "a-2e50d70b149eef412096",
           "ko_token_indexes": [
+            50,
             51,
             52,
             53,
-            54,
-            55
+            54
           ],
           "source_token_indexes": [
             64,
@@ -186,14 +185,14 @@ export default {
           ]
         },
         {
-          "id": "a-73ff153847a2d37c8a6d",
+          "id": "a-64705d5b4a8631d5da1b",
           "ko_token_indexes": [
+            55,
             56,
             57,
             58,
             59,
-            60,
-            61
+            60
           ],
           "source_token_indexes": [
             68,
@@ -204,13 +203,13 @@ export default {
           ]
         },
         {
-          "id": "a-f52af1b1a646ac9269b2",
+          "id": "a-41491e99aeef24350145",
           "ko_token_indexes": [
+            61,
             62,
             63,
             64,
-            65,
-            66
+            65
           ],
           "source_token_indexes": [
             73,
@@ -221,15 +220,15 @@ export default {
           ]
         },
         {
-          "id": "a-0b79ca6e0ac0a5b2f0a4",
+          "id": "a-eee874dd5861240949e1",
           "ko_token_indexes": [
+            66,
             67,
             68,
             69,
             70,
             71,
-            72,
-            73
+            72
           ],
           "source_token_indexes": [
             78,
@@ -240,15 +239,15 @@ export default {
           ]
         },
         {
-          "id": "a-c8b741fa0721d9d6429c",
+          "id": "a-bead24c2835b4a5cd531",
           "ko_token_indexes": [
+            73,
             74,
             75,
             76,
             77,
             78,
-            79,
-            80
+            79
           ],
           "source_token_indexes": [
             83,
@@ -273,8 +272,8 @@ export default {
         "notes": [
           "λύτρον은 속량을 위해 치르는 값이다. 거룩함·의로움·불멸을 지닌 한 이와 구원이 필요한 여러 사람을 짝지어 설명한다."
         ],
-        "revision_id": "sha256:01fd8692ca37c50213c52c41d0ff00d2e4948cbc3ff4bdd18af5b940a75095c7",
-        "text": "우리의 불의가 가득 차고 그 대가로 형벌과 죽음을 기다려야 한다는 것이 온전히 드러났을 때, 하나님께서 자신의 인자하심과 능력을 나타내기로 정하신 때가 왔습니다. (아, 하나님의 넘치는 인류애와 사랑이여!) 그분은 우리를 미워하거나 내치지 않으셨고, 악을 마음에 품지도 않으셨습니다. 오래 참으시며 견디셨습니다. 우리를 불쌍히 여기셔서 친히 우리의 죄를 짊어지셨고, 자신의 아들을 우리의 몸값으로 내주셨습니다. 거룩한 이를 무법한 이들을 위해, 악이 없는 이를 악한 이들을 위해, 의로운 이를 불의한 이들을 위해, 썩지 않는 이를 썩어 없어질 이들을 위해, 죽지 않는 이를 죽을 이들을 위해 내주셨습니다."
+        "revision_id": "sha256:753b9d715ca3debf29f6938d188d40b2ec107d8f35f15b6502c9714b88c08428",
+        "text": "우리의 불의가 가득 차고 그 대가로 형벌과 죽음을 기다려야 한다는 것이 온전히 드러났을 때, 하나님께서 자신의 인자하심과 능력을 나타내기로 정하신 때가 왔습니다. (아, 하나님의 넘치는 인류애와 사랑이여!) 그분은 우리를 미워하거나 내치지 않으셨고, 원한을 품지도 않으셨습니다. 오래 참으시며 견디셨습니다. 우리를 불쌍히 여기셔서 친히 우리의 죄를 짊어지셨고, 자신의 아들을 우리의 몸값으로 내주셨습니다. 거룩한 이를 무법한 이들을 위해, 악이 없는 이를 악한 이들을 위해, 의로운 이를 불의한 이들을 위해, 썩지 않는 이를 썩어 없어질 이들을 위해, 죽지 않는 이를 죽을 이들을 위해 내주셨습니다."
       },
       "work_id": "diognetus",
       "work_passage_id": "diognetus:lake-1917:9.2"
@@ -283,7 +282,7 @@ export default {
       "author": "익명",
       "groups": [
         {
-          "id": "a-b6c623bd62ed86fc139b",
+          "id": "a-df6f97ab61ce3c484ae2",
           "ko_token_indexes": [
             0,
             1,
@@ -293,7 +292,8 @@ export default {
             5,
             6,
             7,
-            8
+            8,
+            9
           ],
           "source_token_indexes": [
             0,
@@ -322,8 +322,8 @@ export default {
       "title": "디오그네토스에게 보낸 편지",
       "translation": {
         "notes": [],
-        "revision_id": "sha256:df1c9fcfce3ffc00aa6694908191cc1ecaa633e4568f82b470741ee7cf0c887e",
-        "text": "그분의 의로움 외에 무엇이 우리의 죄를 덮을 수 있었겠습니까?"
+        "revision_id": "sha256:e452879f2dcbf1e953135e13c5a47719a1481c197bea3931b16378b3384c3750",
+        "text": "그 아들의 의로움 외에 무엇이 우리의 죄를 덮을 수 있었겠습니까?"
       },
       "work_id": "diognetus",
       "work_passage_id": "diognetus:lake-1917:9.3"
@@ -505,7 +505,7 @@ export default {
       "author": "아타나시우스",
       "groups": [
         {
-          "id": "a-286aaff72bd308d1caee",
+          "id": "a-6e3e7887959879b78044",
           "ko_token_indexes": [
             0,
             1,
@@ -559,7 +559,7 @@ export default {
           ]
         },
         {
-          "id": "a-a762d3e8a84b145576b9",
+          "id": "a-89d977fb613df227d11e",
           "ko_token_indexes": [
             22,
             23,
@@ -640,7 +640,7 @@ export default {
           ]
         },
         {
-          "id": "a-91c261b88aba7c84a1d3",
+          "id": "a-e6c4d677d14a03bb2111",
           "ko_token_indexes": [
             60,
             61,
@@ -721,8 +721,8 @@ export default {
       "title": "말씀의 성육신에 관하여",
       "translation": {
         "notes": [],
-        "revision_id": "sha256:dea217a66d25f8f69c3f591b0e1f4aa0e913c98df9034fe6e8637a27b372d15b",
-        "text": "이처럼 우리에게서 우리와 같은 몸을 취하시고, 모든 사람이 죽음의 썩음에 책임이 있으므로, 모든 사람을 대신하여 그 몸을 죽음에 내어 주고 아버지께 바치셨습니다. 그분은 사람을 사랑하시는 마음으로 이렇게 하셨습니다. 모든 사람이 그 몸 안에서 죽은 것으로 되어, 사람들의 썩음에 관한 법이 해소되게 하셨습니다. 그 법의 권한이 주의 몸에서 성취되었으므로, 그와 같은 본성을 지닌 사람들에게 더는 그 법이 적용될 자리가 없기 때문입니다. 또 썩음으로 돌아섰던 사람들을 다시 썩지 않는 상태로 되돌리고 죽음에서 살아나게 하셨습니다. 그 몸을 자신의 것으로 삼으시고 부활의 은혜를 주셔서, 불에 짚이 사라지듯 그들에게서 죽음을 없애십니다."
+        "revision_id": "sha256:8002a8c7835c1f6e47447a11a88afd6d0fe7437161f2eb5ac28e6a8698f65f40",
+        "text": "이처럼 우리에게서 우리와 같은 몸을 취하시고, 모든 사람이 죽음의 썩음에 매여 있으므로, 모든 사람을 대신하여 그 몸을 죽음에 내어 주고 아버지께 바치셨습니다. 그분은 사람을 사랑하시는 마음으로 이렇게 하셨습니다. 모든 사람이 그 몸 안에서 죽은 것으로 되어, 사람들의 썩음에 관한 법이 해소되게 하셨습니다. 그 법의 권한이 주의 몸에서 성취되었으므로, 그와 같은 본성을 지닌 사람들에게 더는 그 법이 적용될 자리가 없기 때문입니다. 또 썩음으로 돌아섰던 사람들을 다시 썩지 않는 상태로 되돌리고 죽음에서 살아나게 하셨습니다. 그 몸을 자신의 것으로 삼으시고 부활의 은혜를 주셔서, 불에 짚이 사라지듯 그들에게서 죽음을 없애십니다."
       },
       "work_id": "athanasius-incarnation",
       "work_passage_id": "athanasius-incarnation:8.4"
@@ -731,7 +731,7 @@ export default {
       "author": "아타나시우스",
       "groups": [
         {
-          "id": "a-b4d656ce524f72c0a8e4",
+          "id": "a-de3923f5025e6c19b071",
           "ko_token_indexes": [
             0,
             1,
@@ -753,7 +753,8 @@ export default {
             17,
             18,
             19,
-            20
+            20,
+            21
           ],
           "source_token_indexes": [
             0,
@@ -785,9 +786,8 @@ export default {
           ]
         },
         {
-          "id": "a-2d27520b6220e9a80702",
+          "id": "a-729f79a4905f94dc611e",
           "ko_token_indexes": [
-            21,
             22,
             23,
             24,
@@ -806,7 +806,9 @@ export default {
             37,
             38,
             39,
-            40
+            40,
+            41,
+            42
           ],
           "source_token_indexes": [
             26,
@@ -836,10 +838,8 @@ export default {
           ]
         },
         {
-          "id": "a-3f62f3b3af1efcc7b45b",
+          "id": "a-d6fb7f431e0b612584b8",
           "ko_token_indexes": [
-            41,
-            42,
             43,
             44,
             45,
@@ -852,7 +852,9 @@ export default {
             52,
             53,
             54,
-            55
+            55,
+            56,
+            57
           ],
           "source_token_indexes": [
             50,
@@ -896,8 +898,8 @@ export default {
         "notes": [
           "〈οὕτως συνὼν〉은 채택 본문에서 꺾쇠로 표시된 문구다. 인쇄 각주는 다른 전승의 표현도 제시한다. 본문에는 채택된 문구와 표지를 유지한다."
         ],
-        "revision_id": "sha256:82a11533a79fbf8857e0f7507bf0e8af010ce746e9d4f876ad0ab7e53b736604",
-        "text": "하나님의 말씀은 모든 존재보다 높으시므로, 자신의 성전이며 육체의 도구인 몸을 모든 사람의 생명을 대신하여 바치셨습니다. 이로써 죽음에서 갚아야 할 빚을 채우셨습니다. 썩지 않는 하나님의 아들은 우리와 같은 몸을 통해 모든 사람과 이처럼 결합하셨기에, 부활에 관한 약속으로 모든 사람에게 썩지 않음을 입히셨습니다. 그분이 하나의 몸을 통해 사람들 안에 거하시므로, 죽음의 썩음 자체도 사람들에게 더는 적용될 자리가 없습니다."
+        "revision_id": "sha256:f873a73c35c4b2c728bc125c6a2ec4e14df549f836582d3c1d1774fd9af05c55",
+        "text": "하나님의 말씀은 모든 존재보다 높으시므로, 마땅히 자신의 성전이며 육체의 도구인 몸을 모든 사람의 생명을 대신하여 바치셨습니다. 이로써 죽음에서 갚아야 할 빚을 채우셨습니다. 썩지 않는 하나님의 아들은 우리와 같은 몸을 통해 모든 사람과 이처럼 결합하셨기에, 마땅히 부활에 관한 약속으로 모든 사람에게 썩지 않음을 입히셨습니다. 그분이 하나의 몸을 통해 사람들 안에 거하시므로, 죽음의 썩음 자체도 사람들에게 더는 적용될 자리가 없습니다."
       },
       "work_id": "athanasius-incarnation",
       "work_passage_id": "athanasius-incarnation:9.2"

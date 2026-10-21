@@ -6,28 +6,13 @@ export default {
       "author": "아리우스",
       "groups": [
         {
-          "id": "a-3c1de93c65749abc0a06",
+          "id": "a-6d60257e7335dda4000e",
           "ko_token_indexes": [
             0,
             1,
             2,
             3,
-            4
-          ],
-          "source_token_indexes": [
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "id": "a-fe7e3e374183570b6ed1",
-          "ko_token_indexes": [
+            4,
             5,
             6,
             7,
@@ -37,11 +22,17 @@ export default {
             11,
             12,
             13,
-            14,
-            15,
-            16
+            14
           ],
           "source_token_indexes": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
             15,
             16,
             17,
@@ -54,17 +45,17 @@ export default {
           ]
         },
         {
-          "id": "a-d1a81df41bfc81f53df3",
+          "id": "a-a52cc5ccdf14b44a3333",
           "ko_token_indexes": [
+            15,
+            16,
             17,
             18,
             19,
             20,
             21,
             22,
-            23,
-            24,
-            25
+            23
           ],
           "source_token_indexes": [
             0,
@@ -77,11 +68,11 @@ export default {
           ]
         },
         {
-          "id": "a-07179ecbd796726895e6",
+          "id": "a-74bfe771f0bbc661c98c",
           "ko_token_indexes": [
-            26,
-            27,
-            28
+            24,
+            25,
+            26
           ],
           "source_token_indexes": [
             24,
@@ -105,8 +96,8 @@ export default {
           "아리우스가 니코메디아의 유세비우스에게 보낸 서신이다. 테오도레토스 『교회사』 Schulze·Migne판 1.4 안에 보존된 편지 전문을 수록한다. §1-4는 편지의 XML 문단 순서에 붙인 읽기 번호이다.",
           "다음 절에서 알렉산드로스에게 돌리는 말은 아리우스가 전하는 상대의 주장이다. ἀγεννητογενής의 역설적인 표현도 그 인용에 속한다."
         ],
-        "revision_id": "sha256:528149795b8132692dbc64d4f833b20d359c5bfdcc49fff7aa3da45932619957",
-        "text": "아버지 알렉산드로스에게 부당하게 박해받는 아리우스가, 모든 것을 이기는 진리, 그대도 지키고 있는 그 진리 때문에 박해받는 내가, 몹시 그리워하는 주님, 하나님의 사람이며 신실하고 바르게 믿는 유세비우스에게 주님 안에서 인사합니다."
+        "revision_id": "sha256:3933da791a49e8ce641dbea6d91a80e894ed98f75e4a6e7b261912bc0e05858c",
+        "text": "모든 것을 이기는 진리, 그대도 지키고 있는 그 진리 때문에 아버지 알렉산드로스에게 부당하게 박해받는 아리우스가, 몹시 그리워하는 어른이요 하나님의 사람이며 신실하고 바르게 믿는 유세비우스에게 주님 안에서 인사합니다."
       },
       "work_id": "arius-eusebius-letter",
       "work_passage_id": "arius-eusebius-letter:1"
@@ -631,7 +622,7 @@ export default {
       "author": "아리우스",
       "groups": [
         {
-          "id": "a-a71783ab701609dd990d",
+          "id": "a-a934d1133e79e1ba9341",
           "ko_token_indexes": [
             0,
             1,
@@ -656,7 +647,7 @@ export default {
           ]
         },
         {
-          "id": "a-0ac6c5219e5e1fe4b4d6",
+          "id": "a-298d1e923de11615f1c4",
           "ko_token_indexes": [
             8,
             9,
@@ -674,7 +665,7 @@ export default {
           ]
         },
         {
-          "id": "a-efd68a74ed935a56b5ee",
+          "id": "a-1efd2f5fae03f79eac3a",
           "ko_token_indexes": [
             13,
             14,
@@ -694,7 +685,7 @@ export default {
           ]
         },
         {
-          "id": "a-4ed1a25dba264961f7ad",
+          "id": "a-85a7275b1e3070b16e0b",
           "ko_token_indexes": [
             20,
             21,
@@ -711,7 +702,7 @@ export default {
           ]
         },
         {
-          "id": "a-0e9b974ccc6beed854ad",
+          "id": "a-97f7191936ed892981cc",
           "ko_token_indexes": [
             26,
             27,
@@ -742,7 +733,7 @@ export default {
           ]
         },
         {
-          "id": "a-bd69149aa84756abccb6",
+          "id": "a-283059be29d56c4aa149",
           "ko_token_indexes": [
             37
           ],
@@ -751,20 +742,12 @@ export default {
           ]
         },
         {
-          "id": "a-65cc7bb25921ed1d3132",
+          "id": "a-3f30d806a99d6056f6db",
           "ko_token_indexes": [
             38,
             39,
             40,
-            41
-          ],
-          "source_token_indexes": [
-            40
-          ]
-        },
-        {
-          "id": "a-4cc8e71b3492b710fb01",
-          "ko_token_indexes": [
+            41,
             42,
             43,
             44,
@@ -777,6 +760,7 @@ export default {
             51
           ],
           "source_token_indexes": [
+            40,
             41,
             42,
             43,
@@ -791,7 +775,7 @@ export default {
           ]
         },
         {
-          "id": "a-95af5c2a54a31d6084d4",
+          "id": "a-0492ff667739d6df6f7f",
           "ko_token_indexes": [
             52,
             53,
@@ -807,7 +791,7 @@ export default {
           ]
         },
         {
-          "id": "a-420a3ffe35cfc0c3aa18",
+          "id": "a-f26950e57886a2d8214e",
           "ko_token_indexes": [
             57,
             58,
@@ -822,7 +806,7 @@ export default {
           ]
         },
         {
-          "id": "a-30ce9c3f21da06321ba6",
+          "id": "a-1c21dcc2a930c5969d66",
           "ko_token_indexes": [
             62,
             63,
@@ -836,7 +820,7 @@ export default {
           ]
         },
         {
-          "id": "a-a10a30c8d86020bcd0ef",
+          "id": "a-265f3cb7b28a697b4aa7",
           "ko_token_indexes": [
             65,
             66,
@@ -863,10 +847,10 @@ export default {
       "title": "니코메디아의 유세비우스에게 보낸 편지",
       "translation": {
         "notes": [
-          "‘뜻과 의도에 따라’는 성자의 존재를 설명하는 아리우스 자신의 표현이다. 나심·창조·정함·기초를 놓음이 나란히 열거된다."
+          "‘뜻과 결정에 따라’는 아들의 존재를 설명하는 아리우스 자신의 표현이다. 나심·창조·정함·기초를 놓음이 나란히 열거된다."
         ],
-        "revision_id": "sha256:dea39a7e6074daba777c3260cef42104ba7d0100e6aaf29d184c53642a0f640d",
-        "text": "우리는 무엇을 말하고 생각하며, 무엇을 가르쳤고 가르치고 있습니까? 아들은 나지 않으신 분이 아니며, 어떤 방식으로도 나지 않으신 분의 일부가 아니고, 어떤 기체에서 나온 것도 아니라고 합니다. 그분은 뜻과 결정에 따라 시간과 시대에 앞서 온전한 하나님으로 존재하게 되셨으며, 외아들이고, 변하지 않는 분이라고 합니다. 그러나 나시거나, 곧 창조되거나 정해지거나 기초가 놓이기 전에는 계시지 않았습니다. 나지 않으신 분이 아니었기 때문입니다. 우리는 이렇게 말했다는 이유로 박해받습니다. “아들에게는 시작이 있지만, 하나님은 시작이 없으시다.”"
+        "revision_id": "sha256:6b396807cd4b2f24ba615dee92fa705a67e8cce080af5244708294c7f70e8521",
+        "text": "우리는 무엇을 말하고 생각하며, 무엇을 가르쳤고 가르치고 있습니까? 아들은 나지 않으신 분이 아니며, 어떤 방식으로도 나지 않으신 분의 일부가 아니고, 어떤 기체에서 나온 것도 아니라고 말합니다. 그분은 뜻과 결정에 따라 시간과 시대에 앞서 온전한 하나님으로 존재하게 되셨으며, 외아들이고, 변하지 않는 분이라고 말합니다. 또 나시거나, 곧 창조되거나 정해지거나 기초가 놓이기 전에는 계시지 않았습니다. 나지 않으신 분이 아니었기 때문입니다. 우리는 이렇게 말했다는 이유로 박해받습니다. “아들에게는 시작이 있지만, 하나님은 시작이 없으시다.”"
       },
       "work_id": "arius-eusebius-letter",
       "work_passage_id": "arius-eusebius-letter:3"
@@ -1029,7 +1013,7 @@ export default {
       "author": "니케아 공의회",
       "groups": [
         {
-          "id": "a-19e38f4634958e4760f8",
+          "id": "a-5cab293a55f5606cfb7e",
           "ko_token_indexes": [
             0,
             1,
@@ -1044,7 +1028,7 @@ export default {
           ]
         },
         {
-          "id": "a-0a7cdcf732feafbb3f04",
+          "id": "a-ed94d6a9d073b4c900d8",
           "ko_token_indexes": [
             5,
             6,
@@ -1062,7 +1046,7 @@ export default {
           ]
         },
         {
-          "id": "a-e3255a545427ef06dcd8",
+          "id": "a-3df80917ffe2415cfee1",
           "ko_token_indexes": [
             10,
             11,
@@ -1078,7 +1062,7 @@ export default {
           ]
         },
         {
-          "id": "a-33f0730e2423ffb45d94",
+          "id": "a-368bc7fe3b924c27b0ee",
           "ko_token_indexes": [
             14,
             15,
@@ -1097,7 +1081,7 @@ export default {
           ]
         },
         {
-          "id": "a-0973597c32eab460d7ba",
+          "id": "a-0cc270543bb3d28adf6e",
           "ko_token_indexes": [
             20,
             21,
@@ -1119,7 +1103,7 @@ export default {
           ]
         },
         {
-          "id": "a-99fdb02e83c08dc8e558",
+          "id": "a-76e7d1641606bb4b2333",
           "ko_token_indexes": [
             27,
             28,
@@ -1147,7 +1131,7 @@ export default {
           ]
         },
         {
-          "id": "a-a00bddb172e0edc64899",
+          "id": "a-56454d544c5509f6769d",
           "ko_token_indexes": [
             39,
             40,
@@ -1182,8 +1166,8 @@ export default {
           "여기서 ὑπόστασις는 ‘실체’, οὐσία는 ‘본질’로 옮겼다. 두 말이 함께 쓰인 325년의 용례는 『안티오키아인들에게 보낸 서한』 5-6장의 용어 논의와 비교할 수 있다.",
           "대괄호는 Schaff의 편집 표지를 원문과 번역에 보존한 것이다. ἀναθεματίζει는 그렇게 말하는 사람들을 아나테마로 선언하여 교회의 사귐에서 끊는다는 정죄 용어로, ‘아나테마로 정죄한다’고 옮겼다."
         ],
-        "revision_id": "sha256:467bc56ec882813437da740c6dec8a4dac52a1202a707966a7eac22929c409ba",
-        "text": "그러나 다음과 같이 말하는 이들, “그분이 계시지 않던 때가 있었다”, “나시기 전에는 계시지 않았다”, “존재하지 않는 것들에서 생겨났다”고 말하는 이들, 혹은 다른 실체나 본질에서 나왔다고 주장하는 이들, 하나님의 아들을 [피조물이라거나] 변할 수 있고 달라질 수 있는 분이라고 하는 이들, 보편적 [사도적] 교회는 [이들을] 아나테마로 정죄합니다."
+        "revision_id": "sha256:e0d9e148498d033b1533374d0ca3171bc3a53558a48e6eefaa51179e5073b987",
+        "text": "그러나 다음과 같이 말하는 이들, “그분이 계시지 않던 때가 있었다”, “나시기 전에는 계시지 않았다”, “존재하지 않는 것들에서 생겨났다”고 말하는 이들, 혹은 다른 실체나 본질에서 나왔다고 주장하는 이들, 하나님의 아들을 [피조물이라거나] 변할 수 있거나 달라질 수 있는 분이라고 하는 이들, 보편적 [사도적] 교회는 [이들을] 아나테마로 정죄합니다."
       },
       "work_id": "nicene-creed-325",
       "work_passage_id": "nicene-creed-325:4"

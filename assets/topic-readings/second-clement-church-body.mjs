@@ -174,7 +174,7 @@ export default {
       "author": "익명 (클레멘스에게 전승상 귀속)",
       "groups": [
         {
-          "id": "a-241f1c5f891a1548323b",
+          "id": "a-baafd23350d94f0699b0",
           "ko_token_indexes": [
             0,
             1,
@@ -202,7 +202,7 @@ export default {
           ]
         },
         {
-          "id": "a-47995764f0ce5498f724",
+          "id": "a-5ae2b71dd77d7485f95d",
           "ko_token_indexes": [
             10,
             11
@@ -215,7 +215,7 @@ export default {
           ]
         },
         {
-          "id": "a-a8a19b5b422156ada5e4",
+          "id": "a-79d827ac4b3752e42749",
           "ko_token_indexes": [
             12,
             13,
@@ -235,7 +235,7 @@ export default {
           ]
         },
         {
-          "id": "a-263a80bf920c16287f15",
+          "id": "a-b20afdebc579bb9f5cfd",
           "ko_token_indexes": [
             17,
             18,
@@ -255,7 +255,7 @@ export default {
           ]
         },
         {
-          "id": "a-5562bed28fa877cfade2",
+          "id": "a-961a7fce9973abc6e12a",
           "ko_token_indexes": [
             21,
             22,
@@ -288,13 +288,14 @@ export default {
           ]
         },
         {
-          "id": "a-2daa640cd9493c2cf471",
+          "id": "a-33a50687a8ce8457f00d",
           "ko_token_indexes": [
             32,
             33,
             34,
             35,
-            36
+            36,
+            37
           ],
           "source_token_indexes": [
             47,
@@ -308,13 +309,13 @@ export default {
           ]
         },
         {
-          "id": "a-691ce70aa4f2e710dd5d",
+          "id": "a-70c55d6d112adcf1f61e",
           "ko_token_indexes": [
-            37,
             38,
             39,
             40,
-            41
+            41,
+            42
           ],
           "source_token_indexes": [
             55,
@@ -344,8 +345,8 @@ export default {
           "창세기 1:27의 남자와 여자를 그리스도와 교회에 연결한다. 교회가 그리스도의 몸이라는 진술에는 Lake가 에베소서 1:22를 여백 참조로 제시한다.",
           "책들과 사도들이 ‘말한다’는 동사 λέγουσιν은 Lake가 편집 본문에 채택한 보충이다. 150쪽 각주 2는 C의 생략과 시리아어 역본의 증거, 정확한 어휘와 위치의 불확실성을 설명한다."
         ],
-        "revision_id": "sha256:5328ea5aee44934c63edc6ff49f96684165852a345e4af77bf88ca7bd88c5e90",
-        "text": "살아 있는 교회가 그리스도의 몸이라는 것을 여러분도 알고 있으리라 생각합니다. 성경은 말합니다. “하나님께서 사람을 남자와 여자로 만드셨다.” 남자는 그리스도이고 여자는 교회입니다. 성경의 책들과 사도들도 교회가 지금 생겨난 것이 아니라 처음부터 있었다고 말합니다. 교회는 우리의 예수처럼 영적인 존재였으며, 우리를 구원하려고 마지막 날들에 나타났습니다."
+        "revision_id": "sha256:5ee1a9a42f01d4df1f97bc7f63166d03c40789dddbfcf19f8081bcb26064c575",
+        "text": "살아 있는 교회가 그리스도의 몸이라는 것을 여러분도 알고 있으리라 생각합니다. 성경은 말합니다. “하나님께서 사람을 남자와 여자로 만드셨다.” 남자는 그리스도이고 여자는 교회입니다. 성경의 책들과 사도들도 교회가 지금 생겨난 것이 아니라 처음부터 있었다고 말합니다. 교회는 우리의 예수처럼 영적인 존재였습니다. 그분은 우리를 구원하시려고 마지막 날들에 나타나셨습니다."
       },
       "work_id": "clement-2-corinthians",
       "work_passage_id": "clement-2-corinthians:lake-1914:14.2"
@@ -354,7 +355,7 @@ export default {
       "author": "익명 (클레멘스에게 전승상 귀속)",
       "groups": [
         {
-          "id": "a-0c5777aa66d0aac0841d",
+          "id": "a-3327e518660a6fdd01b1",
           "ko_token_indexes": [
             0,
             1,
@@ -378,7 +379,7 @@ export default {
           ]
         },
         {
-          "id": "a-50ad57b78dd0d2364db2",
+          "id": "a-e7650fe2d119792b1b68",
           "ko_token_indexes": [
             7,
             8,
@@ -390,7 +391,7 @@ export default {
           ]
         },
         {
-          "id": "a-a38f5e9a85253e32ca31",
+          "id": "a-c05b1be75b3862e44cb0",
           "ko_token_indexes": [
             10,
             11,
@@ -418,15 +419,14 @@ export default {
           ]
         },
         {
-          "id": "a-7f65813c1d113da6ae65",
+          "id": "a-8cfa4d022477e4c0b826",
           "ko_token_indexes": [
             19,
             20,
             21,
             22,
             23,
-            24,
-            25
+            24
           ],
           "source_token_indexes": [
             24,
@@ -439,14 +439,14 @@ export default {
           ]
         },
         {
-          "id": "a-b14fa0c8cfd0d580a187",
+          "id": "a-26435a4de252a2121d8c",
           "ko_token_indexes": [
+            25,
             26,
             27,
             28,
             29,
-            30,
-            31
+            30
           ],
           "source_token_indexes": [
             31,
@@ -460,8 +460,9 @@ export default {
           ]
         },
         {
-          "id": "a-05def803c7ffb37a9b9e",
+          "id": "a-66e9b5821f2d825d03e7",
           "ko_token_indexes": [
+            31,
             32,
             33,
             34,
@@ -469,8 +470,7 @@ export default {
             36,
             37,
             38,
-            39,
-            40
+            39
           ],
           "source_token_indexes": [
             39,
@@ -484,23 +484,23 @@ export default {
           ]
         },
         {
-          "id": "a-d1072236ad29d1cab9de",
+          "id": "a-ecb8079ba301443ce380",
           "ko_token_indexes": [
-            41,
-            42
+            40,
+            41
           ],
           "source_token_indexes": [
             51
           ]
         },
         {
-          "id": "a-21e8d8348e9a5c3cc937",
+          "id": "a-a18332044cd23d1b5410",
           "ko_token_indexes": [
+            42,
             43,
             44,
             45,
-            46,
-            47
+            46
           ],
           "source_token_indexes": [
             47,
@@ -510,13 +510,13 @@ export default {
           ]
         },
         {
-          "id": "a-9052ba9eb6105e093493",
+          "id": "a-5ddb12ec1d555a8218c0",
           "ko_token_indexes": [
+            47,
             48,
             49,
             50,
-            51,
-            52
+            51
           ],
           "source_token_indexes": [
             52,
@@ -543,8 +543,8 @@ export default {
         "notes": [
           "형상은 ἀντίτυπος, 원형은 αὐθεντικόν을 옮긴 것이다. 육신을 지키는 일과 영에 참여하는 일을 연결하는 논증 안에 쓰인다."
         ],
-        "revision_id": "sha256:a808eafae8285fa44fe40e35db0c94fa8db435ea1eff25ffaf1c9a8d796f2ca4",
-        "text": "교회는 영적인 존재이면서 그리스도의 육신 안에 나타났습니다. 이로써 우리에게 밝힙니다. 우리 가운데 누가 육신 안에서 교회를 지키고 훼손하지 않으면, 거룩한 영 안에서 교회를 받게 될 것입니다. 이 육신은 영에 대응하는 형상이기 때문입니다. 그 형상을 훼손한 사람은 그 원형에 참여하지 못할 것입니다. 형제 여러분, 그러므로 이 말의 뜻은 이렇습니다. 영에 참여하도록 육신을 지키라는 것입니다."
+        "revision_id": "sha256:72e4d030bbd8855b72cff4c5642e4478a924fc59dc52e488cec62c82f0908ddc",
+        "text": "교회는 영적인 존재이면서 그리스도의 육신 안에 나타났습니다. 이로써 우리에게 밝힙니다. 우리 가운데 누가 육신 안에서 교회를 지키고 훼손하지 않으면, 성령 안에서 교회를 받게 될 것입니다. 이 육신은 영에 대응하는 형상이기 때문입니다. 그 형상을 훼손한 사람은 그 원형에 참여하지 못할 것입니다. 형제 여러분, 그러므로 이 말의 뜻은 이렇습니다. 영에 참여하도록 육신을 지키라는 것입니다."
       },
       "work_id": "clement-2-corinthians",
       "work_passage_id": "clement-2-corinthians:lake-1914:14.3"
@@ -649,7 +649,7 @@ export default {
       "author": "익명 (클레멘스에게 전승상 귀속)",
       "groups": [
         {
-          "id": "a-6e721afc3af1519b9327",
+          "id": "a-2df10f514ba2f94b5ae2",
           "ko_token_indexes": [
             0,
             1,
@@ -664,8 +664,7 @@ export default {
             10,
             11,
             12,
-            13,
-            14
+            13
           ],
           "source_token_indexes": [
             0,
@@ -686,8 +685,9 @@ export default {
           ]
         },
         {
-          "id": "a-aac4e87589b58ecad1cf",
+          "id": "a-7a06980260c3d6685989",
           "ko_token_indexes": [
+            14,
             15,
             16,
             17,
@@ -698,8 +698,7 @@ export default {
             22,
             23,
             24,
-            25,
-            26
+            25
           ],
           "source_token_indexes": [
             15,
@@ -730,8 +729,8 @@ export default {
       "title": "클레멘스 2서",
       "translation": {
         "notes": [],
-        "revision_id": "sha256:2b5928a8ede4e251501dbd77f8089343a535c870650ff86e6b10cb036800659a",
-        "text": "이 육신은 거룩한 영이 결합할 때 그토록 큰 생명과 썩지 않음을 받아 누릴 수 있습니다. 주님께서 택하신 이들을 위해 마련하신 것은 누구도 다 말하거나 표현할 수 없습니다."
+        "revision_id": "sha256:f4cbccc1597b751c32b122622a7917ea0410802ea984557efcb98e547af13beb",
+        "text": "이 육신은 성령이 결합할 때 그토록 큰 생명과 썩지 않음을 받아 누릴 수 있습니다. 주님께서 택하신 이들을 위해 마련하신 것은 누구도 다 말하거나 표현할 수 없습니다."
       },
       "work_id": "clement-2-corinthians",
       "work_passage_id": "clement-2-corinthians:lake-1914:14.5"

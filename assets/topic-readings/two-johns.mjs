@@ -398,7 +398,7 @@ export default {
       "author": "유세비우스",
       "groups": [
         {
-          "id": "a-91b4aa8117e47a9c1e21",
+          "id": "a-cc4316b80f698d665eca",
           "ko_token_indexes": [
             0,
             1,
@@ -421,7 +421,7 @@ export default {
           ]
         },
         {
-          "id": "a-576aa752578872b9e18b",
+          "id": "a-b54f28108d6456fcb92f",
           "ko_token_indexes": [
             8,
             9,
@@ -438,7 +438,7 @@ export default {
           ]
         },
         {
-          "id": "a-688a64ee31d624cfffd0",
+          "id": "a-6cff72768782c05a383c",
           "ko_token_indexes": [
             12,
             13,
@@ -457,7 +457,7 @@ export default {
           ]
         },
         {
-          "id": "a-991e3d2505289d5b1b26",
+          "id": "a-8efd300a5e3b45582b60",
           "ko_token_indexes": [
             18,
             19,
@@ -476,7 +476,7 @@ export default {
           ]
         },
         {
-          "id": "a-b77533a9d315ddb4aafa",
+          "id": "a-736aabbff1af5af83244",
           "ko_token_indexes": [
             22,
             23,
@@ -495,7 +495,7 @@ export default {
           ]
         },
         {
-          "id": "a-be6243a9a5c8d41e13fb",
+          "id": "a-e76a9f8b07638298c182",
           "ko_token_indexes": [
             28,
             29,
@@ -515,7 +515,7 @@ export default {
           ]
         },
         {
-          "id": "a-4f095414481ee43c31c8",
+          "id": "a-e32b0ff399ea73e0fac1",
           "ko_token_indexes": [
             34,
             35,
@@ -534,14 +534,13 @@ export default {
           ]
         },
         {
-          "id": "a-1ff7ae414cef814f4b24",
+          "id": "a-5f2cb1b677b171cc207e",
           "ko_token_indexes": [
             40,
             41,
             42,
             43,
-            44,
-            45
+            44
           ],
           "source_token_indexes": [
             34,
@@ -563,10 +562,10 @@ export default {
       "title": "교회사",
       "translation": {
         "notes": [
-          "두 번째 요한과 계시록을 연결하는 대목에는 εἰκός, 곧 가능성을 나타내는 말과 “첫 번째를 주장하지 않는다면”이라는 조건이 붙어 있다. ἑορακέναι는 묵시를 보았다는 뜻이다."
+          "두 번째 요한과 계시록을 연결하는 대목에는 εἰκός, 곧 개연성을 나타내는 말과 “첫 번째를 주장하지 않는다면”이라는 조건이 붙어 있다. ἑορακέναι는 묵시를 보았다는 뜻이다."
         ],
-        "revision_id": "sha256:b7f358781f0e8c07c6984b748ebd9b9ddcaf14a67a21e8693a3d5bf16a40e76c",
-        "text": "아시아에 같은 이름을 가진 두 사람이 있었다는 전승, 에베소에 두 무덤이 있었고 각각 지금도 요한의 무덤이라 불린다는 전승이 이 말들로도 사실임이 입증된다. 이 점에 주의를 기울일 필요가 있다. 요한의 이름으로 전해지는 묵시를 본 사람은, 누군가 첫 번째 요한이라고 주장하지 않는다면, 두 번째 요한일 가능성이 있기 때문이다."
+        "revision_id": "sha256:862be681ae618e1064407ae9f4d92e9e663a99fe4642c45eba110ebfb53e113e",
+        "text": "아시아에 같은 이름을 가진 두 사람이 있었다는 전승, 에베소에 두 무덤이 있었고 각각 지금도 요한의 무덤이라 불린다는 전승이 이 말들로도 사실임이 입증된다. 이 점에 주의를 기울일 필요가 있다. 요한의 이름으로 전해지는 묵시를 본 사람은, 누군가 첫 번째 요한이라고 주장하지 않는다면, 두 번째 요한이었을 법하기 때문이다."
       },
       "work_id": "eusebius-ecclesiastical-history",
       "work_passage_id": "eusebius-ecclesiastical-history:3.39.6"

@@ -6,7 +6,7 @@ export default {
       "author": "스미르나 교회",
       "groups": [
         {
-          "id": "a-c5985423229c987a113f",
+          "id": "a-2496f33cfce118789b4d",
           "ko_token_indexes": [
             0,
             1,
@@ -32,7 +32,7 @@ export default {
           ]
         },
         {
-          "id": "a-3ee6241ac8cca31ebef2",
+          "id": "a-019ee520d6bf1c952453",
           "ko_token_indexes": [
             8,
             9,
@@ -58,7 +58,7 @@ export default {
           ]
         },
         {
-          "id": "a-c21ea9e16a9d187f3e82",
+          "id": "a-4f2691cf20e339fea87f",
           "ko_token_indexes": [
             16,
             17,
@@ -94,7 +94,7 @@ export default {
           ]
         },
         {
-          "id": "a-911f04fda9eb6b56d973",
+          "id": "a-665e93049aaa24a3e3ac",
           "ko_token_indexes": [
             30,
             31,
@@ -113,7 +113,7 @@ export default {
           ]
         },
         {
-          "id": "a-d2478c0f33b6495d2410",
+          "id": "a-d873e3e355a2c1bfd1f6",
           "ko_token_indexes": [
             34,
             35,
@@ -129,7 +129,7 @@ export default {
           ]
         },
         {
-          "id": "a-c9bec13f372b748b212c",
+          "id": "a-4f8b88537e0fdd9cd01b",
           "ko_token_indexes": [
             39,
             40,
@@ -160,9 +160,9 @@ export default {
       "title": "폴리카르포스의 순교",
       "translation": {
         "notes": [
-          "‘카이사르가 주님이다’는 Κύριος καῖσαρ를 옮긴 말이다. 치안 책임자는 제물 봉헌과 함께 이 고백을 요구한다."
+          "‘카이사르가 주님이다’는 Κύριος καῖσαρ를 옮긴 말이다. 헤로데와 그의 아버지 니케테스는 제물 봉헌과 함께 이 고백을 하라고 설득한다."
         ],
-        "revision_id": "sha256:080836062a4fe0c6e769e2301f6f25e62e96755ea8f7473226e635788eb71e1a",
+        "revision_id": "sha256:f25000308a3e63fdf2c021403fa763cfee0a17dac50c2914aced523595fd435c",
         "text": "치안 책임자 헤로데와 그의 아버지 니케테스가 그를 맞았습니다. 그들은 그를 마차에 옮겨 태우고 곁에 앉아 설득했습니다. “‘카이사르가 주님이다’라고 말하고 제물을 바치는 등 필요한 일을 하여 목숨을 건지는 것이 무슨 잘못이오?” 그는 처음에는 대답하지 않았습니다. 그러나 그들이 계속 재촉하자 말했습니다. “당신들이 권하는 일을 할 생각이 없습니다.”"
       },
       "work_id": "polycarp-martyrdom",
@@ -313,7 +313,7 @@ export default {
       "author": "스미르나 교회",
       "groups": [
         {
-          "id": "a-025d2469563fcf57063a",
+          "id": "a-bdc23abb6b501594d63e",
           "ko_token_indexes": [
             0,
             1
@@ -325,7 +325,7 @@ export default {
           ]
         },
         {
-          "id": "a-cdd3e18e957a4ac91927",
+          "id": "a-a5fc2818bc0cb74fb74b",
           "ko_token_indexes": [
             2,
             3
@@ -337,7 +337,7 @@ export default {
           ]
         },
         {
-          "id": "a-a8bd81930815279d8c77",
+          "id": "a-abaa31f909b5390e7dda",
           "ko_token_indexes": [
             4,
             5
@@ -350,7 +350,7 @@ export default {
           ]
         },
         {
-          "id": "a-901e198e179d438b7d6e",
+          "id": "a-d1a051da3b6539dd1b4e",
           "ko_token_indexes": [
             6,
             7,
@@ -367,7 +367,7 @@ export default {
           ]
         },
         {
-          "id": "a-6c074a686b2932891949",
+          "id": "a-357eee05f9b3190f9d96",
           "ko_token_indexes": [
             11,
             12,
@@ -398,7 +398,7 @@ export default {
           ]
         },
         {
-          "id": "a-729d04c54848fa0ace81",
+          "id": "a-168c6476cf956888dd50",
           "ko_token_indexes": [
             21,
             22,
@@ -415,7 +415,7 @@ export default {
           ]
         },
         {
-          "id": "a-c11c55e368753ab876b6",
+          "id": "a-accddbd2d6e2307f58f0",
           "ko_token_indexes": [
             27,
             28,
@@ -425,7 +425,8 @@ export default {
             32,
             33,
             34,
-            35
+            35,
+            36
           ],
           "source_token_indexes": [
             33,
@@ -453,8 +454,8 @@ export default {
         "notes": [
           "‘해가 되지 않는 범위’는 통치자에게 표할 존경을 한정한다. Lake는 로마서 13:1과 베드로전서 2:13을 여백에 연결한다."
         ],
-        "revision_id": "sha256:46e9a5ff8cd533a7412cdd2eafa9bdd8073000edf1530cf148fd5aec41eb98e9",
-        "text": "총독이 말했습니다. “군중을 설득하시오.” 폴리카르포스가 대답했습니다. “당신과는 말씀을 나눌 만하다고 여겼습니다. 우리는 하나님께서 세우신 통치자들과 권세들에게 마땅한 존경을 표하라고 배웠기 때문입니다. 우리에게 해가 되지 않는 범위에서 말입니다. 그러나 저들은 내가 변론해 줄 만한 사람들이라고 여기지 않습니다.”"
+        "revision_id": "sha256:0ec2ac62b261528bbb7564aeaf0d3c9d9c83a1e5f887c96b2e567a4a5dffc809",
+        "text": "총독이 말했습니다. “군중을 설득하시오.” 폴리카르포스가 대답했습니다. “당신과는 말씀을 나눌 만하다고 여겼습니다. 우리는 하나님께서 세우신 통치자들과 권세들에게 마땅한 존경을 표하라고 배웠기 때문입니다. 우리에게 해가 되지 않는 범위에서 말입니다. 그러나 저들은 내가 그 앞에서 변론할 만한 사람들이라고 여기지 않습니다.”"
       },
       "work_id": "polycarp-martyrdom",
       "work_passage_id": "polycarp-martyrdom:lake-1917:10.2"

@@ -156,7 +156,7 @@ export default {
       "author": "아테나고라스",
       "groups": [
         {
-          "id": "a-d7db0b22ce3946ad1133",
+          "id": "a-732a8b09ad78e463fd45",
           "ko_token_indexes": [
             0,
             1,
@@ -184,7 +184,7 @@ export default {
           ]
         },
         {
-          "id": "a-665a7e09831a48c560b8",
+          "id": "a-781c5e8323f5020c5201",
           "ko_token_indexes": [
             9,
             10,
@@ -204,7 +204,7 @@ export default {
           ]
         },
         {
-          "id": "a-9e0ffcecae2fd206f063",
+          "id": "a-d4de9350f96af4f178f7",
           "ko_token_indexes": [
             14,
             15,
@@ -218,7 +218,7 @@ export default {
           ]
         },
         {
-          "id": "a-cfb4f21dd2edf7f0308c",
+          "id": "a-d7a4b7ac8650cf1a85f4",
           "ko_token_indexes": [
             18,
             19,
@@ -247,7 +247,7 @@ export default {
           ]
         },
         {
-          "id": "a-ea9db4214f83c2af2f59",
+          "id": "a-f8432ec348be229f47b3",
           "ko_token_indexes": [
             26,
             27,
@@ -261,7 +261,7 @@ export default {
           ]
         },
         {
-          "id": "a-9d832c5d29a26fde0602",
+          "id": "a-58426c58599ce298014e",
           "ko_token_indexes": [
             30,
             31,
@@ -290,7 +290,7 @@ export default {
           ]
         },
         {
-          "id": "a-68c7d92708fa6ce00096",
+          "id": "a-59aedc1da22f4f8caeef",
           "ko_token_indexes": [
             40,
             41,
@@ -314,7 +314,7 @@ export default {
           ]
         },
         {
-          "id": "a-018c31fb38e04bab5890",
+          "id": "a-a921d5c54a94deffbf21",
           "ko_token_indexes": [
             49,
             50,
@@ -346,8 +346,8 @@ export default {
         "notes": [
           "πρῶτον γέννημα는 ‘첫 소생’이다. 이어지는 설명은 하나님께서 영원히 말씀을 지니셨다는 점과, 말씀이 만물의 형상과 작용으로 나오셨다는 점을 연결한다."
         ],
-        "revision_id": "sha256:5fb7f7b1d00c6a9614ef57b25ab13bd6d9963edba1fd92e6fb815cfb9af9e627",
-        "text": "폐하들의 뛰어난 통찰로 이 아들이 무엇을 뜻하는지 살펴보고 싶으시다면, 아버지의 첫 소생이라고 짧게 말씀드리겠습니다. 그가 생겨났다는 뜻은 아닙니다. 하나님은 영원한 지성이시므로 처음부터 자신 안에 말씀을 지니셨고, 영원히 말씀을 지니신 분이셨습니다. 모든 물질이 아직 성질도 없는 본성, 쓸모없는 땅처럼 놓여 있고, 더 무거운 것들이 더 가벼운 것들과 뒤섞여 있을 때, 아들은 그것들의 형상과 작용이 되도록 나오셨습니다."
+        "revision_id": "sha256:aca7e43dc446b943a5255c2596ba5eb55ba5d7d71d1e81e8b9789d1aaa470bb4",
+        "text": "폐하들의 뛰어난 통찰로 이 아들이 무엇을 뜻하는지 살펴보고 싶으시다면, 아버지의 첫 소생이라고 짧게 말씀드리겠습니다. 그가 생겨났다는 뜻은 아닙니다. 하나님은 영원한 지성이시므로 처음부터 자신 안에 말씀을 지니셨습니다. 영원히 이성적인 분이셨기 때문입니다. 모든 물질이 아직 성질도 없는 본성, 쓸모없는 땅처럼 놓여 있고, 더 무거운 것들이 더 가벼운 것들과 뒤섞여 있을 때, 아들은 그것들의 형상과 작용이 되도록 나오셨습니다."
       },
       "work_id": "athenagoras-plea",
       "work_passage_id": "athenagoras-plea:10.41"
@@ -581,7 +581,7 @@ export default {
       "author": "유스티노스",
       "groups": [
         {
-          "id": "a-de366dd6329a25da543f",
+          "id": "a-a92932ca2c44962534e5",
           "ko_token_indexes": [
             0,
             1,
@@ -609,7 +609,7 @@ export default {
           ]
         },
         {
-          "id": "a-5cd133d27995d8b67efa",
+          "id": "a-514b83d1e93648c6989b",
           "ko_token_indexes": [
             10,
             11,
@@ -628,7 +628,7 @@ export default {
           ]
         },
         {
-          "id": "a-0c0908e7dd6f1cfe9bca",
+          "id": "a-be00760d040f1720780e",
           "ko_token_indexes": [
             16,
             17,
@@ -654,7 +654,7 @@ export default {
           ]
         },
         {
-          "id": "a-ac8de641dd1863398f1f",
+          "id": "a-a9cd9171aab0cefcb707",
           "ko_token_indexes": [
             26,
             27,
@@ -683,7 +683,7 @@ export default {
           ]
         },
         {
-          "id": "a-de24167de837a39e2eeb",
+          "id": "a-4efb9c0c3df33bbfb9d1",
           "ko_token_indexes": [
             37,
             38,
@@ -704,7 +704,7 @@ export default {
           ]
         },
         {
-          "id": "a-e6e6787eab38150bdae0",
+          "id": "a-ce9f37f59375ff0ba5d1",
           "ko_token_indexes": [
             45,
             46,
@@ -729,7 +729,7 @@ export default {
           ]
         },
         {
-          "id": "a-d4ff95e73cfa2b9079d5",
+          "id": "a-612cc99c3a967d65cee3",
           "ko_token_indexes": [
             53,
             54,
@@ -747,7 +747,7 @@ export default {
           ]
         },
         {
-          "id": "a-c847030f3e47d3bb6f99",
+          "id": "a-939ec82c05642a275c93",
           "ko_token_indexes": [
             58,
             59,
@@ -788,7 +788,7 @@ export default {
           ]
         },
         {
-          "id": "a-8ecffbfafa85457b411b",
+          "id": "a-465c43607d6f5ab01571",
           "ko_token_indexes": [
             72,
             73,
@@ -808,7 +808,7 @@ export default {
           ]
         },
         {
-          "id": "a-a2474f7b8674e78bdeaf",
+          "id": "a-7695bdd16a11d3538fba",
           "ko_token_indexes": [
             79,
             80,
@@ -838,7 +838,7 @@ export default {
           ]
         },
         {
-          "id": "a-37a3b8c6a70ed87954cf",
+          "id": "a-b572553440930d07bdc8",
           "ko_token_indexes": [
             89,
             90,
@@ -866,7 +866,7 @@ export default {
           ]
         },
         {
-          "id": "a-2a81fe926b5d2f1a9de5",
+          "id": "a-123518a2aaa42b1bc22d",
           "ko_token_indexes": [
             98,
             99,
@@ -887,7 +887,7 @@ export default {
           ]
         },
         {
-          "id": "a-66da6d16693b2abc56f7",
+          "id": "a-94ac4083973385b870e7",
           "ko_token_indexes": [
             103,
             104,
@@ -905,7 +905,7 @@ export default {
           ]
         },
         {
-          "id": "a-90568406a905feb48915",
+          "id": "a-742be9e0e0b1fae0f5ed",
           "ko_token_indexes": [
             109,
             110,
@@ -932,7 +932,7 @@ export default {
           ]
         },
         {
-          "id": "a-8cad41eb73da9e9f667f",
+          "id": "a-a624e15ba7d0878a8895",
           "ko_token_indexes": [
             118,
             119,
@@ -960,7 +960,7 @@ export default {
           ]
         },
         {
-          "id": "a-fdc4c7ac2fa2c0d4f209",
+          "id": "a-e87888d36471244e6203",
           "ko_token_indexes": [
             128,
             129,
@@ -1010,7 +1010,7 @@ export default {
           ]
         },
         {
-          "id": "a-96e5928a858cd60c2918",
+          "id": "a-9cd1e2de036e55d3b076",
           "ko_token_indexes": [
             148,
             149,
@@ -1029,7 +1029,7 @@ export default {
           ]
         },
         {
-          "id": "a-02f5be04a171712ffe53",
+          "id": "a-88d1831d4213c8218c77",
           "ko_token_indexes": [
             155,
             156,
@@ -1063,9 +1063,9 @@ export default {
       "title": "제1변증서",
       "translation": {
         "notes": [
-          "아들을 둘째 자리에, 예언의 영을 셋째 순서에 둔다는 표현은 각각 δευτέρᾳ χώρᾳ와 τρίτῃ τάξει를 옮긴 것이다."
+          "아들을 둘째 자리에, 예언의 영을 셋째 순위에 모신다는 표현은 각각 δευτέρᾳ χώρᾳ와 τρίτῃ τάξει를 옮긴 것이다."
         ],
-        "revision_id": "sha256:769df51324d9159ceb2ba4c7089a0b2646311c161510501a90501f623a9ecf42",
+        "revision_id": "sha256:2f33289d8a9e688e0af44d95d938bd479a3d3d45b240a8ca8d5d21c485c9f6af",
         "text": "우리가 무신론자가 아니라는 것을 분별 있는 사람이라면 누가 인정하지 않겠습니까? 우리는 이 우주를 지으신 분을 경외하며, 그분께서 피와 전제와 향을 필요로 하지 않으신다고 배운 대로 말합니다. 우리가 누리는 모든 것에 대하여 기도와 감사의 말로 힘껏 그분을 찬양합니다. 우리가 전해 받은, 그분께 합당한 유일한 공경은 이것입니다. 그분께서 양식으로 주신 것을 불에 태워 없애지 않고, 우리와 궁핍한 사람들을 위해 사용하며, 그분께 감사하여 우리의 존재와 건강을 위한 모든 공급에 대해 말로 찬미와 찬송을 올리는 것입니다. 온갖 종류의 것들과 계절의 변화에 대해서도 그러합니다. 그리고 그분을 믿는 믿음을 통하여 다시 불멸의 삶을 얻도록 간구합니다. 이것들을 우리의 스승으로서 가르치셨고 이를 위해 태어나신 예수 그리스도, 티베리우스 카이사르 시대에 유대의 총독이었던 본디오 빌라도 아래에서 십자가에 달리신 그분이 참되신 하나님의 아들이심을 우리가 배웠으며, 그분을 둘째 자리에 모시고 예언의 영을 셋째 순위에 모셔 이성에 따라 공경한다는 것을 밝히겠습니다. 바로 이 점에서 사람들은 우리를 미쳤다고 여깁니다. 변함없이 영원히 계시며 만물의 아버지이신 하나님 다음의 자리를 십자가에 달린 인간에게 내준다고 말합니다. 그 안에 담긴 신비를 알지 못하기 때문입니다. 우리가 설명할 때 여러분이 이 신비에 주의를 기울이기를 권합니다."
       },
       "work_id": "justin-first-apology",

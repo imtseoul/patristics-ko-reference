@@ -6,7 +6,7 @@ export default {
       "author": "익명 (바르나바에게 전승상 귀속)",
       "groups": [
         {
-          "id": "a-c473ee2f9f4523b4218c",
+          "id": "a-cc3ecbcc042126f24e5f",
           "ko_token_indexes": [
             0,
             1,
@@ -23,7 +23,10 @@ export default {
             12,
             13,
             14,
-            15
+            15,
+            16,
+            17,
+            18
           ],
           "source_token_indexes": [
             0,
@@ -49,15 +52,15 @@ export default {
           ]
         },
         {
-          "id": "a-7c484a3f7c3437605bcf",
+          "id": "a-023b31b6a95f0f1f4453",
           "ko_token_indexes": [
-            16,
-            17,
-            18,
             19,
             20,
             21,
-            22
+            22,
+            23,
+            24,
+            25
           ],
           "source_token_indexes": [
             20,
@@ -86,8 +89,8 @@ export default {
         "notes": [
           "눈의 아들의 이름은 그리스어로 Ἰησοῦς이며 예수의 이름과 같다. 한국어 성경의 여호수아를 가리킨다. 이 이름을 연결하는 저자의 논증에 따라 본문에서 ‘예수’로 옮겼다."
         ],
-        "revision_id": "sha256:dc318a2f25f5a733b1e84821d6499a70ea61f083f7ad41fd3c3b9ceba77a580b",
-        "text": "또 모세는 예언자인 눈의 아들에게 예수라는 이름을 붙여 주고, 온 백성이 듣도록 그에게 무슨 말을 합니까? 아버지께서는 아들 예수에 관한 모든 것을 드러내십니다."
+        "revision_id": "sha256:7e7f1c9bb6b015c5375e4fef0f7b87836375de7f91635a6d08010f9bde15f6f4",
+        "text": "또 모세는 예언자인 눈의 아들에게 예수라는 이름을 붙여 주고, 온 백성이 오직 그의 말만 듣도록 그에게 무슨 말을 합니까? 아버지께서는 아들 예수에 관한 모든 것을 드러내십니다."
       },
       "work_id": "barnabas",
       "work_passage_id": "barnabas:lake-1914:12.8"

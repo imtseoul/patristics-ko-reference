@@ -264,7 +264,7 @@ export default {
       "author": "익명 (바르나바에게 전승상 귀속)",
       "groups": [
         {
-          "id": "a-664a3a3fca21db53b0d3",
+          "id": "a-7fb01e68eb7876401bfb",
           "ko_token_indexes": [
             0,
             1,
@@ -289,7 +289,7 @@ export default {
           ]
         },
         {
-          "id": "a-c70d8806acc1e0993cd4",
+          "id": "a-b66e20c044463728f39f",
           "ko_token_indexes": [
             7,
             8,
@@ -318,7 +318,7 @@ export default {
           ]
         },
         {
-          "id": "a-ad84c4eec75536663e80",
+          "id": "a-7b3f333832b702ba2be4",
           "ko_token_indexes": [
             16,
             17,
@@ -338,12 +338,14 @@ export default {
           ]
         },
         {
-          "id": "a-fdffccf89c41a917e827",
+          "id": "a-2ab84a007f1d0b93b781",
           "ko_token_indexes": [
             21,
             22,
             23,
-            24
+            24,
+            25,
+            26
           ],
           "source_token_indexes": [
             32,
@@ -352,15 +354,16 @@ export default {
           ]
         },
         {
-          "id": "a-d99e8b055573af9a2658",
+          "id": "a-ca3e12ba72c2271fdcf6",
           "ko_token_indexes": [
-            25,
-            26,
             27,
             28,
             29,
             30,
-            31
+            31,
+            32,
+            33,
+            34
           ],
           "source_token_indexes": [
             35,
@@ -376,16 +379,16 @@ export default {
           ]
         },
         {
-          "id": "a-1f0dbbbb2984e7e52609",
+          "id": "a-79411346793d5c79089e",
           "ko_token_indexes": [
-            32,
-            33,
-            34,
             35,
             36,
             37,
             38,
-            39
+            39,
+            40,
+            41,
+            42
           ],
           "source_token_indexes": [
             45,
@@ -407,14 +410,14 @@ export default {
           ]
         },
         {
-          "id": "a-785613f3541377c0d836",
+          "id": "a-2ca12c3934592bfb9820",
           "ko_token_indexes": [
-            40,
-            41,
-            42,
             43,
             44,
-            45
+            45,
+            46,
+            47,
+            48
           ],
           "source_token_indexes": [
             61,
@@ -440,8 +443,8 @@ export default {
         "notes": [
           "열매를 맺을 때는 장차 받을 보상에, 떨어지지 않는 잎은 믿음과 사랑으로 하는 말에 연결한다. 인용된 표현 다음에 저자의 해설이 이어진다."
         ],
-        "revision_id": "sha256:6121e14b9c79ff7e27c1e0baaf32e5aade898992a55b59959fcc919818c6b1c7",
-        "text": "그분이 물과 십자가를 어떻게 함께 나타내셨는지 깨달으십시오. 이는 십자가에 희망을 두고 물에 내려간 이들이 복되다는 뜻입니다. 보상에 관하여 ‘제때에’라고 하셨기 때문입니다. “그때 내가 갚겠다”는 말씀입니다. ‘그 잎은 떨어지지 않는다’는 말의 뜻은 이렇습니다. 믿음과 사랑 가운데 여러분의 입에서 나오는 모든 말이 많은 사람에게 돌이킴과 희망을 가져다줄 것입니다."
+        "revision_id": "sha256:b7c2fdb8ba2cc072848a8f926d8139cd64be3e04456a6b75154e6ca55b1511b7",
+        "text": "그분이 물과 십자가를 어떻게 함께 나타내셨는지 깨달으십시오. 이는 십자가에 희망을 두고 물에 내려간 이들이 복되다는 뜻입니다. 보상에 관하여 ‘제때에’라고 하셨기 때문입니다. “그때 내가 갚겠다”는 말씀입니다. 그런데 지금 ‘그 잎은 떨어지지 않는다’고 하신 말의 뜻은 이렇습니다. 믿음과 사랑 가운데 여러분의 입에서 나오는 모든 말이 많은 사람에게 돌이킴과 희망을 가져다줄 것입니다."
       },
       "work_id": "barnabas",
       "work_passage_id": "barnabas:lake-1914:11.8"

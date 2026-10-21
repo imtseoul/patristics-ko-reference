@@ -1,6 +1,6 @@
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
 import {rememberRecent} from './reading-progress.mjs?v=291a7b63c18d';
-import {passageMetadata,sourceDetails} from './archive-tools.mjs?v=23627914712c';
+import {passageMetadata,sourceDetails} from './archive-tools.mjs?v=3295ebc20584';
 import {workInformationURL} from './work-information.mjs?v=08fe874cceb9';
 import {searchReturnURL} from './archive-search-core.mjs?v=c183809f9954';
 

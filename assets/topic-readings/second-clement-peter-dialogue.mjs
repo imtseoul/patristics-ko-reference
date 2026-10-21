@@ -116,7 +116,7 @@ export default {
       "author": "익명 (클레멘스에게 전승상 귀속)",
       "groups": [
         {
-          "id": "a-273bb72fc3e5f183cad4",
+          "id": "a-78ffc7779b4bca20117c",
           "ko_token_indexes": [
             0,
             1,
@@ -131,7 +131,7 @@ export default {
           ]
         },
         {
-          "id": "a-4bce93d6496da17e4b0a",
+          "id": "a-a11e680f4af7ba1f2a22",
           "ko_token_indexes": [
             3,
             4,
@@ -155,7 +155,7 @@ export default {
           ]
         },
         {
-          "id": "a-856b2a09475eaca7b1d1",
+          "id": "a-aa7e808ce3ce43bd149c",
           "ko_token_indexes": [
             10,
             11,
@@ -167,9 +167,7 @@ export default {
             17,
             18,
             19,
-            20,
-            21,
-            22
+            20
           ],
           "source_token_indexes": [
             15,
@@ -187,8 +185,10 @@ export default {
           ]
         },
         {
-          "id": "a-294816e11aaf8ee3d7d8",
+          "id": "a-d0d7b945c5bfedfbf313",
           "ko_token_indexes": [
+            21,
+            22,
             23,
             24,
             25,
@@ -198,9 +198,7 @@ export default {
             29,
             30,
             31,
-            32,
-            33,
-            34
+            32
           ],
           "source_token_indexes": [
             27,
@@ -237,8 +235,8 @@ export default {
         "notes": [
           "죽음 이후 혼과 몸을 심판할 권세가 있는 분을 두려워하라는 말씀이다. 게헨나는 γέεννα를 음역한 말이며, 본문은 불의 게헨나라고 표현한다."
         ],
-        "revision_id": "sha256:57fa926bf53e68994072903181db131a0ad9ba8c145718d7c2be6bbbd84cfa0c",
-        "text": "예수께서 베드로에게 말씀하셨습니다. “어린양들은 죽은 뒤에는 늑대들을 두려워하지 말아야 한다. 너희도 너희를 죽인 뒤에는 더 할 수 있는 일이 없는 자들을 두려워하지 마라. 너희가 죽은 뒤에 혼과 몸을 불의 게헨나에 던질 권세를 지닌 분을 두려워하여라.”"
+        "revision_id": "sha256:5f6faaa8d445fbb1fc6296b9b1b816b4f2f81257253744178f792183771965fb",
+        "text": "예수께서 베드로에게 말씀하셨습니다. “어린양들은 죽은 뒤에는 늑대들을 두려워하지 말아야 한다. 너희도 너희를 죽이고 너희에게 아무것도 할 수 없는 자들을 두려워하지 마라. 너희가 죽은 뒤에 혼과 몸을 불의 게헨나에 던질 권세를 지닌 분을 두려워하여라.”"
       },
       "work_id": "clement-2-corinthians",
       "work_passage_id": "clement-2-corinthians:lake-1914:5.4"

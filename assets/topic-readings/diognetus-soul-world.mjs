@@ -6,7 +6,7 @@ export default {
       "author": "익명",
       "groups": [
         {
-          "id": "a-0d526630c4f31fce58d3",
+          "id": "a-b852740083342259cbe6",
           "ko_token_indexes": [
             0,
             1
@@ -18,28 +18,22 @@ export default {
           ]
         },
         {
-          "id": "a-249bfad51c37c93a9e8b",
+          "id": "a-8068d634fe2f7c616118",
           "ko_token_indexes": [
             2,
             3,
             4,
-            5
+            5,
+            6,
+            7,
+            8,
+            9
           ],
           "source_token_indexes": [
             3,
             4,
             5,
-            6
-          ]
-        },
-        {
-          "id": "a-c7d19198111f0914a942",
-          "ko_token_indexes": [
             6,
-            7,
-            8
-          ],
-          "source_token_indexes": [
             7,
             8,
             9,
@@ -62,8 +56,8 @@ export default {
         "notes": [
           "몸과 영혼의 관계를 세상과 그리스도인의 관계에 대응시키는 비유가 6장 전체에 이어진다."
         ],
-        "revision_id": "sha256:1c6c7316b7c2060718bdfa875d33c41fe1c4d5581931a5cf36694a38193d9f16",
-        "text": "한마디로 말하면, 몸에서 영혼이 하는 일을 세상에서는 그리스도인들이 합니다."
+        "revision_id": "sha256:410d8c8449269451bc29de3bdd068b0aaab915fccf0952796a09be39d8b10318",
+        "text": "한마디로 말하면, 영혼이 몸에 대해 무엇인지, 그리스도인들은 세상에서 바로 그것입니다."
       },
       "work_id": "diognetus",
       "work_passage_id": "diognetus:lake-1917:6.1"

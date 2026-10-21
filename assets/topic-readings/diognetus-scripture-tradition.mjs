@@ -6,7 +6,7 @@ export default {
       "author": "익명",
       "groups": [
         {
-          "id": "a-0b03b398dbd9f55957cf",
+          "id": "a-0c7140e143f4a4f634c3",
           "ko_token_indexes": [
             0,
             1,
@@ -28,14 +28,17 @@ export default {
           ]
         },
         {
-          "id": "a-633bac18c37f3347435a",
+          "id": "a-9c419c9354ee75c1f93b",
           "ko_token_indexes": [
             9,
             10,
             11,
             12,
             13,
-            14
+            14,
+            15,
+            16,
+            17
           ],
           "source_token_indexes": [
             6,
@@ -48,18 +51,18 @@ export default {
           ]
         },
         {
-          "id": "a-84ad283251acf8a04434",
+          "id": "a-540fc0f95b6e7cb04d36",
           "ko_token_indexes": [
-            15,
-            16,
-            17,
             18,
             19,
             20,
             21,
             22,
             23,
-            24
+            24,
+            25,
+            26,
+            27
           ],
           "source_token_indexes": [
             13,
@@ -87,8 +90,8 @@ export default {
           "11-12장은 Lake가 349쪽 서론에서 앞부분과 구분하여 설명한 마지막 두 장이다. 그 편집 판단과 경계를 구절 자료에 기록했다.",
           "μαθητής는 ‘제자’라는 보통명사이다. 이 대목의 화자는 자신을 사도들의 제자이자 이방인들의 스승으로 소개한다."
         ],
-        "revision_id": "sha256:f848a1a2ec8a198fb0aa7cb2584f0c40d13958135d138a4939ad24eb2dbc9718",
-        "text": "나는 낯선 이야기를 하거나 터무니없는 것을 탐구하는 것이 아닙니다. 사도들의 제자가 되어 이방인들의 스승이 되었습니다. 진리의 제자가 되는 이들에게 전해 받은 것을 합당하게 전하며 섬깁니다."
+        "revision_id": "sha256:9ba81b4dd8e33f7b3de9b7e9f6a76977ed4c525f6413060ba6159f71f4f5fae9",
+        "text": "나는 낯선 이야기를 하거나 터무니없는 것을 탐구하는 것이 아닙니다. 사도들의 제자가 된 나는 이방인들의 스승이 되어 가고 있습니다. 진리의 제자가 되는 이들에게 전해 받은 것을 합당하게 전하며 섬깁니다."
       },
       "work_id": "diognetus",
       "work_passage_id": "diognetus:lake-1917:11.1"

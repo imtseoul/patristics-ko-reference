@@ -292,7 +292,7 @@ export default {
       "author": "로마의 클레멘스 (전승상 귀속)",
       "groups": [
         {
-          "id": "a-ca49bc144648e6aac1d8",
+          "id": "a-bdd9eb88146ff4d1eddf",
           "ko_token_indexes": [
             0
           ],
@@ -302,7 +302,7 @@ export default {
           ]
         },
         {
-          "id": "a-10c93e32c3d0e5d6981f",
+          "id": "a-edeaa1bb67030aa003af",
           "ko_token_indexes": [
             1,
             2,
@@ -323,7 +323,7 @@ export default {
           ]
         },
         {
-          "id": "a-5e51fec38b9011315992",
+          "id": "a-b8e4ce93f9e843ec9bb3",
           "ko_token_indexes": [
             8
           ],
@@ -332,7 +332,7 @@ export default {
           ]
         },
         {
-          "id": "a-e7108cf6090b2636fc3e",
+          "id": "a-ca9dfbabe159ddeecf4f",
           "ko_token_indexes": [
             9,
             10
@@ -345,7 +345,7 @@ export default {
           ]
         },
         {
-          "id": "a-1b71c69e101bdd2f37a3",
+          "id": "a-3a74e14b44f1b99191d9",
           "ko_token_indexes": [
             11
           ],
@@ -354,7 +354,7 @@ export default {
           ]
         },
         {
-          "id": "a-f4ea2b62ad8521f2989b",
+          "id": "a-aa061a1bbf6a4b731b13",
           "ko_token_indexes": [
             12,
             13,
@@ -368,7 +368,7 @@ export default {
           ]
         },
         {
-          "id": "a-3c6f9b1dd40af4cf0cf2",
+          "id": "a-e94145c2e18e84a92f32",
           "ko_token_indexes": [
             15,
             16
@@ -381,7 +381,7 @@ export default {
           ]
         },
         {
-          "id": "a-08be18c9a68c99960b7c",
+          "id": "a-6927a046b1d371db48b7",
           "ko_token_indexes": [
             17,
             18
@@ -394,7 +394,7 @@ export default {
           ]
         },
         {
-          "id": "a-037c0436084d21575664",
+          "id": "a-1a069bc8f71d01301ee8",
           "ko_token_indexes": [
             19,
             20
@@ -406,7 +406,7 @@ export default {
           ]
         },
         {
-          "id": "a-2808144a67c324c4a9b3",
+          "id": "a-2f135d9e2fbcd4938a7b",
           "ko_token_indexes": [
             21,
             22,
@@ -418,7 +418,7 @@ export default {
           ]
         },
         {
-          "id": "a-7bab957d1422d14b2757",
+          "id": "a-56f662f7462e923aaf94",
           "ko_token_indexes": [
             24,
             25,
@@ -431,7 +431,7 @@ export default {
           ]
         },
         {
-          "id": "a-4459de6cdd08107ff709",
+          "id": "a-294811d724687df521e8",
           "ko_token_indexes": [
             28
           ],
@@ -440,7 +440,7 @@ export default {
           ]
         },
         {
-          "id": "a-6ae776c81e03da2bda53",
+          "id": "a-e1b835ff3299ad3a9718",
           "ko_token_indexes": [
             29,
             30,
@@ -455,7 +455,7 @@ export default {
           ]
         },
         {
-          "id": "a-343d0883ed758180e338",
+          "id": "a-64ca4fc9f01a9b4c6646",
           "ko_token_indexes": [
             33,
             34
@@ -466,7 +466,7 @@ export default {
           ]
         },
         {
-          "id": "a-56412181b9ef23cbb1b6",
+          "id": "a-a14e5f522d66ffe16dc8",
           "ko_token_indexes": [
             35,
             36,
@@ -480,7 +480,7 @@ export default {
           ]
         },
         {
-          "id": "a-cf52e5a7bf67ee5a7ac7",
+          "id": "a-834a6abafce82ff4a899",
           "ko_token_indexes": [
             38
           ],
@@ -490,7 +490,7 @@ export default {
           ]
         },
         {
-          "id": "a-7d020c6675f4a1a6a57d",
+          "id": "a-f9b560323c72941dddda",
           "ko_token_indexes": [
             39,
             40
@@ -500,7 +500,7 @@ export default {
           ]
         },
         {
-          "id": "a-911fb5fd238ee8a46a26",
+          "id": "a-4c62a78982c8f01b2df5",
           "ko_token_indexes": [
             41,
             42,
@@ -528,8 +528,8 @@ export default {
         "notes": [
           "기도는 하나님께서 통치자들에게 권한을 주셨다고 말하며, 그들이 이를 바르게 수행하도록 건강, 평화, 화합, 안정을 구한다."
         ],
-        "revision_id": "sha256:6aefed08f0867d240bd2122e9b9de6dee2ff4a25290341a6092c8d4b9d434c25",
-        "text": "주님께서는 위대하고 말로 다 할 수 없는 권능으로 그들에게 통치 권한을 주셨습니다. 당신께서 그들에게 주신 영광과 존귀를 우리가 알고, 당신의 뜻을 조금도 거스르지 않으며, 그들에게 순종하게 하려는 것입니다. 주님, 건강과 평화와 화합과 안정을 그들에게 주시어, 당신께서 그들에게 주신 통치권을 거리낌 없이 수행하게 해 주십시오."
+        "revision_id": "sha256:af984250cba963e3b9213cb40448807eba1c5013785e98afb849b556cf63fd98",
+        "text": "주재께서는 위대하고 말로 다 할 수 없는 권능으로 그들에게 통치 권한을 주셨습니다. 당신께서 그들에게 주신 영광과 존귀를 우리가 알고, 당신의 뜻을 조금도 거스르지 않으며, 그들에게 순종하게 하려는 것입니다. 주님, 건강과 평화와 화합과 안정을 그들에게 주시어, 당신께서 그들에게 주신 통치권을 허물 없이 수행하게 해 주십시오."
       },
       "work_id": "clement-1-corinthians",
       "work_passage_id": "clement-1-corinthians:lake-1914:61.1"

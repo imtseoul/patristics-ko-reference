@@ -6,7 +6,7 @@ export default {
       "author": "스미르나 교회",
       "groups": [
         {
-          "id": "a-3286a0544225fad7879a",
+          "id": "a-57cee656237d5cc99cbf",
           "ko_token_indexes": [
             0,
             1,
@@ -38,7 +38,7 @@ export default {
           ]
         },
         {
-          "id": "a-386d7db7597829118ab2",
+          "id": "a-d0f9f18e05244538876f",
           "ko_token_indexes": [
             11,
             12,
@@ -46,7 +46,8 @@ export default {
             14,
             15,
             16,
-            17
+            17,
+            18
           ],
           "source_token_indexes": [
             14,
@@ -58,11 +59,11 @@ export default {
           ]
         },
         {
-          "id": "a-0bb18eeec95a709a1dd3",
+          "id": "a-856557baae7a143ba0c0",
           "ko_token_indexes": [
-            18,
             19,
-            20
+            20,
+            21
           ],
           "source_token_indexes": [
             20,
@@ -71,14 +72,14 @@ export default {
           ]
         },
         {
-          "id": "a-b78f561f435f9aacf4a0",
+          "id": "a-feb41dc8ed1418938475",
           "ko_token_indexes": [
-            21,
             22,
             23,
             24,
             25,
-            26
+            26,
+            27
           ],
           "source_token_indexes": [
             23,
@@ -89,12 +90,12 @@ export default {
           ]
         },
         {
-          "id": "a-b07e431d3dd1ac5888b8",
+          "id": "a-b25dab8b44c4f39277be",
           "ko_token_indexes": [
-            27,
             28,
             29,
-            30
+            30,
+            31
           ],
           "source_token_indexes": [
             28,
@@ -104,9 +105,8 @@ export default {
           ]
         },
         {
-          "id": "a-25e019b791be8e9e388b",
+          "id": "a-08a7aa1dece925c476ff",
           "ko_token_indexes": [
-            31,
             32,
             33,
             34,
@@ -118,7 +118,8 @@ export default {
             40,
             41,
             42,
-            43
+            43,
+            44
           ],
           "source_token_indexes": [
             32,
@@ -154,8 +155,8 @@ export default {
         "notes": [
           "Lake가 채택한 본문에는 περιστερὰ καὶ(비둘기와)가 들어 있다. 334쪽 각주는 유세비우스 전승에서 이 두 단어가 빠진다고 기록한다. 수록된 『교회사』 4.15.39에서도 많은 피가 나오는 형태를 확인할 수 있다."
         ],
-        "revision_id": "sha256:c9d0b60302abe22266916a384dff24aa817bc129db41e26765ff79b94103c51e",
-        "text": "마침내 무법한 자들은 그의 몸이 불에 타 없어지지 않는 것을 보고, 처형 집행인에게 가까이 가서 단검으로 찌르라고 명령했습니다. 그가 그렇게 하자, 비둘기 한 마리와 많은 피가 나왔습니다. 그 피가 불을 꺼뜨렸고, 온 군중은 믿지 않는 이들과 선택받은 이들 사이에 이토록 큰 차이가 있는지 놀랐습니다."
+        "revision_id": "sha256:c6682d645938382390c8b6203979fcf65f50e39d0e0aef0a7b06bd3d68f9706c",
+        "text": "마침내 무법한 자들은 그의 몸이 불에 타 없어지지 않는 것을 보고, 처형 집행인에게 명령하여 그에게 다가가 단검으로 찌르게 했습니다. 그가 그렇게 하자, 비둘기 한 마리와 많은 피가 나왔습니다. 그 피가 불을 꺼뜨렸고, 온 군중은 믿지 않는 이들과 선택받은 이들 사이에 이토록 큰 차이가 있는지 놀랐습니다."
       },
       "work_id": "polycarp-martyrdom",
       "work_passage_id": "polycarp-martyrdom:lake-1917:16.1"

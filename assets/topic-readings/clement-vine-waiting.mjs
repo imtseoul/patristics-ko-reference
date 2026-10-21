@@ -281,10 +281,11 @@ export default {
       "author": "로마의 클레멘스 (전승상 귀속)",
       "groups": [
         {
-          "id": "a-e555fa6cb799f0756b16",
+          "id": "a-b81152d9a1446f9e03fa",
           "ko_token_indexes": [
             0,
-            1
+            1,
+            2
           ],
           "source_token_indexes": [
             4,
@@ -293,12 +294,12 @@ export default {
           ]
         },
         {
-          "id": "a-03af46764f7a57699f67",
+          "id": "a-73f46678ced62bb2ba38",
           "ko_token_indexes": [
-            2,
             3,
             4,
-            5
+            5,
+            6
           ],
           "source_token_indexes": [
             2,
@@ -306,11 +307,11 @@ export default {
           ]
         },
         {
-          "id": "a-6aa423629f833cb9fed4",
+          "id": "a-54c10c9cf49e7c9a9de1",
           "ko_token_indexes": [
-            6,
             7,
-            8
+            8,
+            9
           ],
           "source_token_indexes": [
             0,
@@ -318,10 +319,10 @@ export default {
           ]
         },
         {
-          "id": "a-c261d53cfd2425129218",
+          "id": "a-2749becda2541f37737b",
           "ko_token_indexes": [
-            9,
-            10
+            10,
+            11
           ],
           "source_token_indexes": [
             7,
@@ -329,11 +330,11 @@ export default {
           ]
         },
         {
-          "id": "a-432b39b1f2b0b3252cbf",
+          "id": "a-6c7a47d28a6e5ab12803",
           "ko_token_indexes": [
-            11,
             12,
-            13
+            13,
+            14
           ],
           "source_token_indexes": [
             11,
@@ -341,9 +342,9 @@ export default {
           ]
         },
         {
-          "id": "a-8a0d1463bd4a62e8e90b",
+          "id": "a-9f11d726e29a497f15d8",
           "ko_token_indexes": [
-            14
+            15
           ],
           "source_token_indexes": [
             15,
@@ -351,10 +352,10 @@ export default {
           ]
         },
         {
-          "id": "a-922cf1e0ff88ec57b1c6",
+          "id": "a-53a2be7f397c28938165",
           "ko_token_indexes": [
-            15,
-            16
+            16,
+            17
           ],
           "source_token_indexes": [
             13,
@@ -362,11 +363,11 @@ export default {
           ]
         },
         {
-          "id": "a-7b3dad31bb2dfc5798c8",
+          "id": "a-727f48d23eabcbbe5d80",
           "ko_token_indexes": [
-            17,
             18,
-            19
+            19,
+            20
           ],
           "source_token_indexes": [
             17,
@@ -374,9 +375,9 @@ export default {
           ]
         },
         {
-          "id": "a-786718664400993ddf76",
+          "id": "a-e0d109cfc4affde73075",
           "ko_token_indexes": [
-            20
+            21
           ],
           "source_token_indexes": [
             9,
@@ -384,11 +385,11 @@ export default {
           ]
         },
         {
-          "id": "a-21f8f03c3cd6173d7426",
+          "id": "a-c590ba548c3ff108dc99",
           "ko_token_indexes": [
-            21,
             22,
-            23
+            23,
+            24
           ],
           "source_token_indexes": [
             21,
@@ -399,11 +400,11 @@ export default {
           ]
         },
         {
-          "id": "a-a6275348aa8af99f11a2",
+          "id": "a-9c4e5d8e226dabfb3222",
           "ko_token_indexes": [
-            24,
             25,
-            26
+            26,
+            27
           ],
           "source_token_indexes": [
             19,
@@ -411,11 +412,11 @@ export default {
           ]
         },
         {
-          "id": "a-1a8eb1804f45425dd2c3",
+          "id": "a-aef25177aa1e041448ce",
           "ko_token_indexes": [
-            27,
             28,
-            29
+            29,
+            30
           ],
           "source_token_indexes": [
             26,
@@ -424,14 +425,15 @@ export default {
           ]
         },
         {
-          "id": "a-f78bc2e2c48e9ac7e461",
+          "id": "a-0800fde69bbced5cf479",
           "ko_token_indexes": [
-            30,
             31,
             32,
             33,
             34,
-            35
+            35,
+            36,
+            37
           ],
           "source_token_indexes": [
             29,
@@ -454,10 +456,10 @@ export default {
       "title": "클레멘스 1서",
       "translation": {
         "notes": [
-          "저자는 이 말을 ‘기록’이라고 소개하고, 그 안에 조상 때부터 들은 약속을 의심하는 이들의 말을 다시 인용한다. 바깥 인용과 안쪽 발언을 따옴표로 구분했다."
+          "저자는 출처가 알려지지 않은 이 말을 23.5의 구약 인용처럼 ‘성경’이라고 소개하고, 그 안에 조상 때부터 들은 약속을 의심하는 이들의 말을 다시 인용한다. 바깥 인용과 안쪽 발언을 따옴표로 구분했다."
         ],
-        "revision_id": "sha256:721d441799eeaebdf4fb8a0552978632c1ebfb9d49c3a175605ffe82ad2d67b6",
-        "text": "다음 기록이 우리를 두고 하는 말이 되지 않게 합시다. 이렇게 말합니다. “두 마음을 품고 영혼으로 의심하는 이들, 이렇게 말하는 이들은 불행하다. ‘우리 조상들의 때에도 이런 말을 들었는데, 보라, 우리는 늙었어도 그 어떤 일도 우리에게 일어나지 않았다.’"
+        "revision_id": "sha256:d270f6330d02c622e237f84d37f987b8c684f319e2b903d4fd6382f793aa766c",
+        "text": "다음 성경 말씀이 우리를 두고 하는 말이 되지 않게 합시다. 이렇게 말합니다. “두 마음을 품고 영혼으로 의심하는 이들, 이렇게 말하는 이들은 불행하다. ‘우리 조상들의 때에도 이런 말을 들었는데, 보라, 우리는 늙었어도 그 가운데 어떤 일도 우리에게 일어나지 않았다.’"
       },
       "work_id": "clement-1-corinthians",
       "work_passage_id": "clement-1-corinthians:lake-1914:23.3"

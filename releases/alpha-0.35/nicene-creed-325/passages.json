@@ -1,0 +1,1074 @@
+{
+  "attribution_url": "https://patristics.missionalbible.org/rights.html",
+  "correction_registry_url": "https://patristics.missionalbible.org/data/corrections.json",
+  "coverage": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "coverage_kind": "complete_adopted_edition",
+  "human_review_status": "not_reviewed",
+  "passages": [
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:b5355d87c3515ae45e04062d27fa0902be8f186cf269e91fcf11086231ddcff0",
+        "part_links": [
+          [
+            "sha256:3f4e1496eaf70184215442382af719f2866c38ea6942a70c46b1e8300007c996"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:c809ca4873d9b914e6a6510f36d67b28983dc2ce9cb6d623a19f1a649cd9a98d"
+        ],
+        "translation_revision_ids": [
+          "sha256:61d33e0df6b9af6d3c7e0f0e1851c51ef0faaab09dfe2863f10d652206f3d942"
+        ],
+        "work_passage_id": "nicene-creed-325:1"
+      },
+      "annotation_rights_id": "nicene-creed-325-notes",
+      "annotations": [],
+      "citation": "니케아 공의회, 『니케아 신조 (325년)』 자체 단락 1, 그리스어 편집 본문, Schaff 1878, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.35, https://patristics.missionalbible.org/releases/alpha-0.35/nicene-creed-325/index.html#p-1",
+      "public_url": "https://patristics.missionalbible.org/releases/alpha-0.35/nicene-creed-325/index.html#p-1",
+      "review_records": [
+        {
+          "observation": "1878년 표제지와 57-58·60쪽 인쇄면에서 그리스어 본문을 직접 전사했다. 대역과 각주는 본문과 구별한다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-27",
+          "review_id": "sha256:696ed7865cc7b0d97a1e76c500f139a69627a9fcbfc76896db2664a76eef7e83",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:b5355d87c3515ae45e04062d27fa0902be8f186cf269e91fcf11086231ddcff0",
+            "source_revision_id": "sha256:c809ca4873d9b914e6a6510f36d67b28983dc2ce9cb6d623a19f1a649cd9a98d",
+            "translation_revision_id": "sha256:61d33e0df6b9af6d3c7e0f0e1851c51ef0faaab09dfe2863f10d652206f3d942"
+          },
+          "work_passage_id": "nicene-creed-325:1"
+        },
+        {
+          "observation": "작성한 번역을 채택 그리스어와 다시 대조하여 논증의 주체·부정·조건, 인용 경계와 핵심 용어를 확인했다. 같은 AI의 자체 대조이다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-27",
+          "review_id": "sha256:f473cacffd0c756e6c301b6e92941fa4bbec4cd7c39bd98c384f7ac5c83d331f",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:b5355d87c3515ae45e04062d27fa0902be8f186cf269e91fcf11086231ddcff0",
+            "source_revision_id": "sha256:c809ca4873d9b914e6a6510f36d67b28983dc2ce9cb6d623a19f1a649cd9a98d",
+            "translation_revision_id": "sha256:61d33e0df6b9af6d3c7e0f0e1851c51ef0faaab09dfe2863f10d652206f3d942"
+          },
+          "work_passage_id": "nicene-creed-325:1"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:696ed7865cc7b0d97a1e76c500f139a69627a9fcbfc76896db2664a76eef7e83",
+          "sha256:f473cacffd0c756e6c301b6e92941fa4bbec4cd7c39bd98c384f7ac5c83d331f"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.35/nicene-creed-325/index.html#p-1",
+      "source": {
+        "applied_corrections": [],
+        "citation_note": "§ 번호는 이 저장소가 전문을 나눈 읽기 단위이며 원문 판본 위치는 각 구절에 기록한다.",
+        "citation_scheme": "local_sections",
+        "edition_id": "schaff-1878-nicene-creed-325",
+        "edition_label": "Philip Schaff 편집, The Creeds of Christendom II, New York: Harper & Brothers, 1878, 60쪽 그리스어 본문",
+        "edition_reference": {
+          "edition": "Schaff 1878",
+          "printed_pages": [
+            60
+          ],
+          "unit_scope": "project_clause"
+        },
+        "edition_short_label": "Schaff 1878",
+        "editorial_features": [],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "rights_id": "nicene-creed-325-source",
+        "segments": [
+          {
+            "image_url": "https://archive.org/download/creedsofchristen02scha/page/n73.jpg",
+            "page_key": "60",
+            "printed_page": 60,
+            "reference_label": "Schaff 1878, 60쪽",
+            "segment_id": "sha256:3f4e1496eaf70184215442382af719f2866c38ea6942a70c46b1e8300007c996",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "Πιστεύομεν εἰς ἕνα ΘΕΟΝ ΠΑΤΕΡΑ παντοκράτορα, πάντων ὁρατῶν τε καὶ ἀοράτων ποιητήν.",
+            "transmission": "Greek_text_in_identified_edition"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_language_label": "그리스어 편집 본문",
+        "source_reference_label": "채택 원문 자료",
+        "source_review_observation": "1878년 표제지와 57-58·60쪽 인쇄면에서 그리스어 본문을 직접 전사했다. 대역과 각주는 본문과 구별한다.",
+        "source_revision_id": "sha256:c809ca4873d9b914e6a6510f36d67b28983dc2ce9cb6d623a19f1a649cd9a98d",
+        "source_url": "https://archive.org/details/creedsofchristen02scha",
+        "text": "Πιστεύομεν εἰς ἕνα ΘΕΟΝ ΠΑΤΕΡΑ παντοκράτορα, πάντων ὁρατῶν τε καὶ ἀοράτων ποιητήν.",
+        "transcription_input_path": "data/nicene-creed-325/source-transcription.json",
+        "transcription_method": "1878년 표제지와 57-58·60쪽 인쇄면에서 그리스어 본문을 직접 전사했다. 대역과 각주는 본문과 구별한다.",
+        "transcription_record_serialization": "UTF-8 JSON, sorted keys, indent=2, terminal newline",
+        "transcription_record_sha256": "e0c3555ed55da5572c4c5b219feb3b8cab8ae8ef7965fcf57aed7969fe0e4e44",
+        "typographic_policy": "NFC와 공백을 정규화한다. 출처 파일은 해시로 식별한다. 편집 보충과 이문은 본문과 구별해 기록한다.",
+        "upstream_text": "Πιστεύομεν εἰς ἕνα ΘΕΟΝ ΠΑΤΕΡΑ παντοκράτορα, πάντων ὁρατῶν τε καὶ ἀοράτων ποιητήν.",
+        "work_passage_id": "nicene-creed-325:1"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-27",
+          "method": "명시한 그리스어 판본에서 한국어로 직접 AI 번역. 원문 전사와 번역을 의미 구간별로 연결하고 인쇄면 교정 및 자체 대조 범위를 기록.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "325년 신조의 창조주 고백이다. 채택 대본은 Schaff 1878년판 60쪽의 그리스어 본문이다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:3f4e1496eaf70184215442382af719f2866c38ea6942a70c46b1e8300007c996"
+            ],
+            "text": "보이는 것과 보이지 않는 모든 것의 창조주이신, 전능하신 한 분 하나님 아버지를 우리는 믿습니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:c809ca4873d9b914e6a6510f36d67b28983dc2ce9cb6d623a19f1a649cd9a98d"
+        ],
+        "text": "보이는 것과 보이지 않는 모든 것의 창조주이신, 전능하신 한 분 하나님 아버지를 우리는 믿습니다.",
+        "translation_revision_id": "sha256:61d33e0df6b9af6d3c7e0f0e1851c51ef0faaab09dfe2863f10d652206f3d942",
+        "work_passage_id": "nicene-creed-325:1"
+      },
+      "work_location": "1",
+      "work_passage_id": "nicene-creed-325:1"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:a7dcdd87b5409f37f5368832d9f6a0b4526ed53723ceab20a15b1f3f23ef9e5b",
+        "part_links": [
+          [
+            "sha256:49c2adbf5a889d33e8cc58a25feeb79f36d676946fedce5e5db1c53c68f07d1a"
+          ]
+        ],
+        "previous_alignment_revision_id": "sha256:045a9defd7b7cb3ad5c9af154db5e2737d84a896265d60d6db5c42d373d4fd63",
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:f8f2bdc00d87c45fcd14708ed620ef80b665fe025b817f581b7783e835eb098b"
+        ],
+        "translation_revision_ids": [
+          "sha256:ccabd7877dc37fb32ec2b2605b33375bcf5dd4ff690c5fb3d724ad9b1797a294"
+        ],
+        "work_passage_id": "nicene-creed-325:2"
+      },
+      "annotation_rights_id": "nicene-creed-325-notes",
+      "annotations": [],
+      "citation": "니케아 공의회, 『니케아 신조 (325년)』 자체 단락 2, 그리스어 편집 본문, Schaff 1878, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.35, https://patristics.missionalbible.org/releases/alpha-0.35/nicene-creed-325/index.html#p-2",
+      "public_url": "https://patristics.missionalbible.org/releases/alpha-0.35/nicene-creed-325/index.html#p-2",
+      "review_records": [
+        {
+          "observation": "1878년 표제지와 57-58·60쪽 인쇄면에서 그리스어 본문을 직접 전사했다. 대역과 각주는 본문과 구별한다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-27",
+          "review_id": "sha256:eab000bb9f3ca3846e1345a2835f8f9741961e244967b66ef417a64c8af965a9",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:4886b3ffe1fcdd99854e4c89eddc9fbaec48336e31d5d4cd007b76b1f69da586",
+            "source_revision_id": "sha256:f8f2bdc00d87c45fcd14708ed620ef80b665fe025b817f581b7783e835eb098b",
+            "translation_revision_id": "sha256:68005ed26ba8b8463534f1c9fe3b0c24915d8abfa51908d6da668881a6fbb308"
+          },
+          "work_passage_id": "nicene-creed-325:2"
+        },
+        {
+          "observation": "작성한 번역을 채택 그리스어와 다시 대조하여 논증의 주체·부정·조건, 인용 경계와 핵심 용어를 확인했다. 같은 AI의 자체 대조이다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-27",
+          "review_id": "sha256:d94de70b3033a92d2a4c00eb5ecebfc6a239f7f3de89a5ab4d81855690ac1bb7",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:4886b3ffe1fcdd99854e4c89eddc9fbaec48336e31d5d4cd007b76b1f69da586",
+            "source_revision_id": "sha256:f8f2bdc00d87c45fcd14708ed620ef80b665fe025b817f581b7783e835eb098b",
+            "translation_revision_id": "sha256:68005ed26ba8b8463534f1c9fe3b0c24915d8abfa51908d6da668881a6fbb308"
+          },
+          "work_passage_id": "nicene-creed-325:2"
+        },
+        {
+          "correction_keys": [
+            "input:b01-didache-creeds#101"
+          ],
+          "evidence": [
+            {
+              "correction_key": "input:b01-didache-creeds#101",
+              "decision": "신조를 인용하거나 설명하는 두 곳의 μονογενής는 아카이브의 신조와 같이 ‘외아들’로 한다(『니케아 서신』 §7의 인용 신조, 325년 신조 §2의 번역 메모). 다른 문헌의 ‘독생자’는 이번에 건드리지 않는다.",
+              "decision_ref": 7,
+              "evidence_source": "corrections/c4-proposed.json decisions; TERMINOLOGY.md",
+              "kind": "terminology_decision"
+            }
+          ],
+          "finding_keys": [],
+          "human_review_status": "not_reviewed",
+          "observation": "원어 대본은 바꾸지 않았다. source_revision_id sha256:f8f2bdc00d87c45fcd14708ed620ef80b665fe025b817f581b7783e835eb098b를 그대로 유지하며, 이번 교정은 번역 메모에만 해당한다. 인쇄면 재대조는 하지 않았다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-10-12",
+          "prior_review_ids": [
+            "sha256:eab000bb9f3ca3846e1345a2835f8f9741961e244967b66ef417a64c8af965a9",
+            "sha256:d94de70b3033a92d2a4c00eb5ecebfc6a239f7f3de89a5ab4d81855690ac1bb7"
+          ],
+          "revalidation_id": "translation-audit-20261012",
+          "review_extent": "whole_selected_passage_korean_and_notes",
+          "review_id": "sha256:29902bcff8e693fdde128d753a8b6fe8c37494e020c9604c178533f445f6ea1a",
+          "reviewer": {
+            "independent": true,
+            "kind": "ai",
+            "name": "Claude Code"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:045a9defd7b7cb3ad5c9af154db5e2737d84a896265d60d6db5c42d373d4fd63",
+            "source_revision_id": "sha256:f8f2bdc00d87c45fcd14708ed620ef80b665fe025b817f581b7783e835eb098b",
+            "translation_revision_id": "sha256:b6e95d47fac952e55c021168e569471b62c2db5770120dedcb2b25a0d9b5e064"
+          },
+          "work_passage_id": "nicene-creed-325:2"
+        },
+        {
+          "correction_keys": [
+            "input:b01-didache-creeds#101"
+          ],
+          "evidence": [
+            {
+              "correction_key": "input:b01-didache-creeds#101",
+              "decision": "신조를 인용하거나 설명하는 두 곳의 μονογενής는 아카이브의 신조와 같이 ‘외아들’로 한다(『니케아 서신』 §7의 인용 신조, 325년 신조 §2의 번역 메모). 다른 문헌의 ‘독생자’는 이번에 건드리지 않는다.",
+              "decision_ref": 7,
+              "evidence_source": "corrections/c4-proposed.json decisions; TERMINOLOGY.md",
+              "kind": "terminology_decision"
+            }
+          ],
+          "finding_keys": [],
+          "human_review_status": "not_reviewed",
+          "observation": "수정 요지: 용어 통일 결정 7: 본문은 ‘외아들’인데 메모가 ‘독생자’로 옮겼다고 적은 불일치를 바로잡고, ‘독생자’는 전통적 대안으로 언급했다. 본문은 그대로이다. Codex 번역자와 별개인 Claude Code AI 검토이며 사람 검수가 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-10-12",
+          "prior_review_ids": [
+            "sha256:eab000bb9f3ca3846e1345a2835f8f9741961e244967b66ef417a64c8af965a9",
+            "sha256:d94de70b3033a92d2a4c00eb5ecebfc6a239f7f3de89a5ab4d81855690ac1bb7"
+          ],
+          "revalidation_id": "translation-audit-20261012",
+          "review_extent": "whole_selected_passage_korean_and_notes",
+          "review_id": "sha256:3cf15426807fbaeb71a19ac8b3787b2784ac925059e19ba6329beeb421c81fbe",
+          "reviewer": {
+            "independent": true,
+            "kind": "ai",
+            "name": "Claude Code"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:045a9defd7b7cb3ad5c9af154db5e2737d84a896265d60d6db5c42d373d4fd63",
+            "source_revision_id": "sha256:f8f2bdc00d87c45fcd14708ed620ef80b665fe025b817f581b7783e835eb098b",
+            "translation_revision_id": "sha256:b6e95d47fac952e55c021168e569471b62c2db5770120dedcb2b25a0d9b5e064"
+          },
+          "work_passage_id": "nicene-creed-325:2"
+        },
+        {
+          "evidence": {
+            "items": [
+              {
+                "key": "b01-didache-creeds#12",
+                "origin": "minor",
+                "reason": "원문에서 γεννηθέντα, οὐ ποιηθέντα는 ὁμοούσιον 바로 앞에 오는 분사이므로, ‘이어지는’이라는 순서와 명사형 표기가 원문과 맞지 않았다."
+              }
+            ]
+          },
+          "human_review_status": "not_reviewed",
+          "item_keys": [
+            "b01-didache-creeds#12"
+          ],
+          "observation": "원어 본문은 바꾸지 않았다. 원어 대본은 공개 판과 같다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-10-21",
+          "prior_review_ids": [
+            "sha256:eab000bb9f3ca3846e1345a2835f8f9741961e244967b66ef417a64c8af965a9",
+            "sha256:d94de70b3033a92d2a4c00eb5ecebfc6a239f7f3de89a5ab4d81855690ac1bb7",
+            "sha256:29902bcff8e693fdde128d753a8b6fe8c37494e020c9604c178533f445f6ea1a",
+            "sha256:3cf15426807fbaeb71a19ac8b3787b2784ac925059e19ba6329beeb421c81fbe"
+          ],
+          "revalidation_id": "translation-polish-20261021",
+          "review_extent": "whole_selected_passage",
+          "review_id": "sha256:16d0ce8114b62b871b8fde512c2823be7ae6fd38141b5d40630e84fe80fe7c99",
+          "reviewer": {
+            "independent": true,
+            "kind": "ai",
+            "name": "Claude Code"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:a7dcdd87b5409f37f5368832d9f6a0b4526ed53723ceab20a15b1f3f23ef9e5b",
+            "source_revision_id": "sha256:f8f2bdc00d87c45fcd14708ed620ef80b665fe025b817f581b7783e835eb098b",
+            "translation_revision_id": "sha256:ccabd7877dc37fb32ec2b2605b33375bcf5dd4ff690c5fb3d724ad9b1797a294"
+          },
+          "work_passage_id": "nicene-creed-325:2"
+        },
+        {
+          "evidence": {
+            "items": [
+              {
+                "key": "b01-didache-creeds#12",
+                "origin": "minor",
+                "reason": "원문에서 γεννηθέντα, οὐ ποιηθέντα는 ὁμοούσιον 바로 앞에 오는 분사이므로, ‘이어지는’이라는 순서와 명사형 표기가 원문과 맞지 않았다."
+              }
+            ]
+          },
+          "human_review_status": "not_reviewed",
+          "item_keys": [
+            "b01-didache-creeds#12"
+          ],
+          "observation": "원문에서 γεννηθέντα, οὐ ποιηθέντα는 ὁμοούσιον 바로 앞에 오는 분사이므로, ‘이어지는’이라는 순서와 명사형 표기가 원문과 맞지 않았다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-10-21",
+          "prior_review_ids": [
+            "sha256:eab000bb9f3ca3846e1345a2835f8f9741961e244967b66ef417a64c8af965a9",
+            "sha256:d94de70b3033a92d2a4c00eb5ecebfc6a239f7f3de89a5ab4d81855690ac1bb7",
+            "sha256:29902bcff8e693fdde128d753a8b6fe8c37494e020c9604c178533f445f6ea1a",
+            "sha256:3cf15426807fbaeb71a19ac8b3787b2784ac925059e19ba6329beeb421c81fbe"
+          ],
+          "revalidation_id": "translation-polish-20261021",
+          "review_extent": "whole_selected_passage",
+          "review_id": "sha256:84a09b1d97a65aa3683f718732975908dcc160fee95e1b3a7904033dc49c4570",
+          "reviewer": {
+            "independent": true,
+            "kind": "ai",
+            "name": "Claude Code"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:a7dcdd87b5409f37f5368832d9f6a0b4526ed53723ceab20a15b1f3f23ef9e5b",
+            "source_revision_id": "sha256:f8f2bdc00d87c45fcd14708ed620ef80b665fe025b817f581b7783e835eb098b",
+            "translation_revision_id": "sha256:ccabd7877dc37fb32ec2b2605b33375bcf5dd4ff690c5fb3d724ad9b1797a294"
+          },
+          "work_passage_id": "nicene-creed-325:2"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [
+          "sha256:d94de70b3033a92d2a4c00eb5ecebfc6a239f7f3de89a5ab4d81855690ac1bb7",
+          "sha256:3cf15426807fbaeb71a19ac8b3787b2784ac925059e19ba6329beeb421c81fbe"
+        ],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:eab000bb9f3ca3846e1345a2835f8f9741961e244967b66ef417a64c8af965a9",
+          "sha256:29902bcff8e693fdde128d753a8b6fe8c37494e020c9604c178533f445f6ea1a",
+          "sha256:16d0ce8114b62b871b8fde512c2823be7ae6fd38141b5d40630e84fe80fe7c99",
+          "sha256:84a09b1d97a65aa3683f718732975908dcc160fee95e1b3a7904033dc49c4570"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.35/nicene-creed-325/index.html#p-2",
+      "source": {
+        "applied_corrections": [],
+        "citation_note": "§ 번호는 이 저장소가 전문을 나눈 읽기 단위이며 원문 판본 위치는 각 구절에 기록한다.",
+        "citation_scheme": "local_sections",
+        "edition_id": "schaff-1878-nicene-creed-325",
+        "edition_label": "Philip Schaff 편집, The Creeds of Christendom II, New York: Harper & Brothers, 1878, 60쪽 그리스어 본문",
+        "edition_reference": {
+          "edition": "Schaff 1878",
+          "printed_pages": [
+            60
+          ],
+          "unit_scope": "project_clause"
+        },
+        "edition_short_label": "Schaff 1878",
+        "editorial_features": [],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "rights_id": "nicene-creed-325-source",
+        "segments": [
+          {
+            "image_url": "https://archive.org/download/creedsofchristen02scha/page/n73.jpg",
+            "page_key": "60",
+            "printed_page": 60,
+            "reference_label": "Schaff 1878, 60쪽",
+            "segment_id": "sha256:49c2adbf5a889d33e8cc58a25feeb79f36d676946fedce5e5db1c53c68f07d1a",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "Καὶ εἰς ἕνα κύριον ἸΗΣΟΥΝ ΧΡΙΣΤΟΝ, τὸν υἱὸν τοῦ θεοῦ, γεννηθέντα ἐκ τοῦ πατρὸς μονογενῆ, τουτέστιν ἐκ τῆς οὐσίας τοῦ πατρός, θεὸν ἐκ θεοῦ, φῶς ἐκ φωτός, θεὸν ἀληθινὸν ἐκ θεοῦ ἀληθινοῦ, γεννηθέντα, οὐ ποιηθέντα, ὁμοούσιον τῷ πατρί· δι’ οὗ τὰ πάντα ἐγένετο, τά τε ἐν τῷ οὐρανῷ καὶ τὰ ἐπὶ τῆς γῆς· τὸν δι’ ἡμᾶς τοὺς ἀνθρώπους καὶ διὰ τὴν ἡμετέραν σωτηρίαν κατελθόντα καὶ σαρκωθέντα καὶ ἐνανθρωπήσαντα, παθόντα, καὶ ἀναστάντα τῇ τρίτῃ ἡμέρᾳ, καὶ ἀνελθόντα εἰς τοὺς οὐρανούς, καὶ ἐρχόμενον κρῖναι ζῶντας καὶ νεκρούς.",
+            "transmission": "Greek_text_in_identified_edition"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_language_label": "그리스어 편집 본문",
+        "source_reference_label": "채택 원문 자료",
+        "source_review_observation": "1878년 표제지와 57-58·60쪽 인쇄면에서 그리스어 본문을 직접 전사했다. 대역과 각주는 본문과 구별한다.",
+        "source_revision_id": "sha256:f8f2bdc00d87c45fcd14708ed620ef80b665fe025b817f581b7783e835eb098b",
+        "source_url": "https://archive.org/details/creedsofchristen02scha",
+        "text": "Καὶ εἰς ἕνα κύριον ἸΗΣΟΥΝ ΧΡΙΣΤΟΝ, τὸν υἱὸν τοῦ θεοῦ, γεννηθέντα ἐκ τοῦ πατρὸς μονογενῆ, τουτέστιν ἐκ τῆς οὐσίας τοῦ πατρός, θεὸν ἐκ θεοῦ, φῶς ἐκ φωτός, θεὸν ἀληθινὸν ἐκ θεοῦ ἀληθινοῦ, γεννηθέντα, οὐ ποιηθέντα, ὁμοούσιον τῷ πατρί· δι’ οὗ τὰ πάντα ἐγένετο, τά τε ἐν τῷ οὐρανῷ καὶ τὰ ἐπὶ τῆς γῆς· τὸν δι’ ἡμᾶς τοὺς ἀνθρώπους καὶ διὰ τὴν ἡμετέραν σωτηρίαν κατελθόντα καὶ σαρκωθέντα καὶ ἐνανθρωπήσαντα, παθόντα, καὶ ἀναστάντα τῇ τρίτῃ ἡμέρᾳ, καὶ ἀνελθόντα εἰς τοὺς οὐρανούς, καὶ ἐρχόμενον κρῖναι ζῶντας καὶ νεκρούς.",
+        "transcription_input_path": "data/nicene-creed-325/source-transcription.json",
+        "transcription_method": "1878년 표제지와 57-58·60쪽 인쇄면에서 그리스어 본문을 직접 전사했다. 대역과 각주는 본문과 구별한다.",
+        "transcription_record_serialization": "UTF-8 JSON, sorted keys, indent=2, terminal newline",
+        "transcription_record_sha256": "f48b148a9670d35e9498e633e27af26ade4cbb14abb7c6641b92a8830bf1c9a3",
+        "typographic_policy": "NFC와 공백을 정규화한다. 출처 파일은 해시로 식별한다. 편집 보충과 이문은 본문과 구별해 기록한다.",
+        "upstream_text": "Καὶ εἰς ἕνα κύριον ἸΗΣΟΥΝ ΧΡΙΣΤΟΝ, τὸν υἱὸν τοῦ θεοῦ, γεννηθέντα ἐκ τοῦ πατρὸς μονογενῆ, τουτέστιν ἐκ τῆς οὐσίας τοῦ πατρός, θεὸν ἐκ θεοῦ, φῶς ἐκ φωτός, θεὸν ἀληθινὸν ἐκ θεοῦ ἀληθινοῦ, γεννηθέντα, οὐ ποιηθέντα, ὁμοούσιον τῷ πατρί· δι’ οὗ τὰ πάντα ἐγένετο, τά τε ἐν τῷ οὐρανῷ καὶ τὰ ἐπὶ τῆς γῆς· τὸν δι’ ἡμᾶς τοὺς ἀνθρώπους καὶ διὰ τὴν ἡμετέραν σωτηρίαν κατελθόντα καὶ σαρκωθέντα καὶ ἐνανθρωπήσαντα, παθόντα, καὶ ἀναστάντα τῇ τρίτῃ ἡμέρᾳ, καὶ ἀνελθόντα εἰς τοὺς οὐρανούς, καὶ ἐρχόμενον κρῖναι ζῶντας καὶ νεκρούς.",
+        "work_passage_id": "nicene-creed-325:2"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-27",
+          "method": "명시한 그리스어 판본에서 한국어로 직접 AI 번역. 원문 전사와 번역을 의미 구간별로 연결하고 인쇄면 교정 및 자체 대조 범위를 기록.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "ὁμοούσιον은 ‘동일본질’로 옮겼다. 바로 앞의 γεννηθέντα, οὐ ποιηθέντα(나셨고 지음을 받지 않으셨다)의 구별과 함께 읽을 수 있다.",
+          "μονογενής는 ‘외아들’로 옮겼다. 전통적인 호칭으로는 ‘독생자’가 있다. 본문은 이어서 ‘아버지의 본질에서’라는 설명을 붙인다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:49c2adbf5a889d33e8cc58a25feeb79f36d676946fedce5e5db1c53c68f07d1a"
+            ],
+            "text": "또 한 분 주 예수 그리스도를 믿습니다. 그분은 하나님의 아들이시며, 아버지에게서 외아들로 나셨습니다. 곧 아버지의 본질에서 나셨으며, 하나님에게서 나신 하나님, 빛에서 나신 빛, 참 하나님에게서 나신 참 하나님이십니다. 지음을 받지 않고 나셨으며, 아버지와 동일본질이십니다. 그분을 통해 만물이 생겨났으니, 하늘에 있는 것들과 땅 위에 있는 것들입니다. 그분은 우리 인간과 우리의 구원을 위해 내려오셔서 육신을 취하고 사람이 되셨으며, 고난받으시고, 셋째 날에 다시 살아나셨으며, 하늘로 올라가셨고, 산 자와 죽은 자를 심판하러 오십니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": "sha256:b6e95d47fac952e55c021168e569471b62c2db5770120dedcb2b25a0d9b5e064",
+        "revalidation": {
+          "id": "translation-polish-20261021",
+          "item_keys": [
+            "b01-didache-creeds#12"
+          ],
+          "notes_changed": true,
+          "performed_on": "2026-10-21",
+          "scope": "korean_translation_and_notes; source unchanged",
+          "text_changed": false
+        },
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:f8f2bdc00d87c45fcd14708ed620ef80b665fe025b817f581b7783e835eb098b"
+        ],
+        "text": "또 한 분 주 예수 그리스도를 믿습니다. 그분은 하나님의 아들이시며, 아버지에게서 외아들로 나셨습니다. 곧 아버지의 본질에서 나셨으며, 하나님에게서 나신 하나님, 빛에서 나신 빛, 참 하나님에게서 나신 참 하나님이십니다. 지음을 받지 않고 나셨으며, 아버지와 동일본질이십니다. 그분을 통해 만물이 생겨났으니, 하늘에 있는 것들과 땅 위에 있는 것들입니다. 그분은 우리 인간과 우리의 구원을 위해 내려오셔서 육신을 취하고 사람이 되셨으며, 고난받으시고, 셋째 날에 다시 살아나셨으며, 하늘로 올라가셨고, 산 자와 죽은 자를 심판하러 오십니다.",
+        "translation_revision_id": "sha256:ccabd7877dc37fb32ec2b2605b33375bcf5dd4ff690c5fb3d724ad9b1797a294",
+        "work_passage_id": "nicene-creed-325:2"
+      },
+      "work_location": "2",
+      "work_passage_id": "nicene-creed-325:2"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:9bc2b49b11f78ca357538385dd07fbb2ec8b65fa3872ef893543231b90a7783a",
+        "part_links": [
+          [
+            "sha256:a72766cb0cb919b920571112f894d68d14ab0026ebed5dbb1fda15796b142721"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:9775ef1c40454d5abe4de7859985c66c7307da6916b47f656f4fe9eec42a0d54"
+        ],
+        "translation_revision_ids": [
+          "sha256:e41492472544a7667fc6ff668c6f3ab05f6e60ba7d3af0689283ba7d0549c54c"
+        ],
+        "work_passage_id": "nicene-creed-325:3"
+      },
+      "annotation_rights_id": "nicene-creed-325-notes",
+      "annotations": [],
+      "citation": "니케아 공의회, 『니케아 신조 (325년)』 자체 단락 3, 그리스어 편집 본문, Schaff 1878, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.35, https://patristics.missionalbible.org/releases/alpha-0.35/nicene-creed-325/index.html#p-3",
+      "public_url": "https://patristics.missionalbible.org/releases/alpha-0.35/nicene-creed-325/index.html#p-3",
+      "review_records": [
+        {
+          "observation": "1878년 표제지와 57-58·60쪽 인쇄면에서 그리스어 본문을 직접 전사했다. 대역과 각주는 본문과 구별한다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-27",
+          "review_id": "sha256:aeb95ef3d9014f58762033e1369a4d0ed7ce1211433473fe69fed8c738834cf7",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:9bc2b49b11f78ca357538385dd07fbb2ec8b65fa3872ef893543231b90a7783a",
+            "source_revision_id": "sha256:9775ef1c40454d5abe4de7859985c66c7307da6916b47f656f4fe9eec42a0d54",
+            "translation_revision_id": "sha256:e41492472544a7667fc6ff668c6f3ab05f6e60ba7d3af0689283ba7d0549c54c"
+          },
+          "work_passage_id": "nicene-creed-325:3"
+        },
+        {
+          "observation": "작성한 번역을 채택 그리스어와 다시 대조하여 논증의 주체·부정·조건, 인용 경계와 핵심 용어를 확인했다. 같은 AI의 자체 대조이다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-27",
+          "review_id": "sha256:4d1107dc70d769720f98edb26f1cc6e8b3b3df5e876b0859cae84fbd5a65effa",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:9bc2b49b11f78ca357538385dd07fbb2ec8b65fa3872ef893543231b90a7783a",
+            "source_revision_id": "sha256:9775ef1c40454d5abe4de7859985c66c7307da6916b47f656f4fe9eec42a0d54",
+            "translation_revision_id": "sha256:e41492472544a7667fc6ff668c6f3ab05f6e60ba7d3af0689283ba7d0549c54c"
+          },
+          "work_passage_id": "nicene-creed-325:3"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:aeb95ef3d9014f58762033e1369a4d0ed7ce1211433473fe69fed8c738834cf7",
+          "sha256:4d1107dc70d769720f98edb26f1cc6e8b3b3df5e876b0859cae84fbd5a65effa"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.35/nicene-creed-325/index.html#p-3",
+      "source": {
+        "applied_corrections": [],
+        "citation_note": "§ 번호는 이 저장소가 전문을 나눈 읽기 단위이며 원문 판본 위치는 각 구절에 기록한다.",
+        "citation_scheme": "local_sections",
+        "edition_id": "schaff-1878-nicene-creed-325",
+        "edition_label": "Philip Schaff 편집, The Creeds of Christendom II, New York: Harper & Brothers, 1878, 60쪽 그리스어 본문",
+        "edition_reference": {
+          "edition": "Schaff 1878",
+          "printed_pages": [
+            60
+          ],
+          "unit_scope": "project_clause"
+        },
+        "edition_short_label": "Schaff 1878",
+        "editorial_features": [],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "rights_id": "nicene-creed-325-source",
+        "segments": [
+          {
+            "image_url": "https://archive.org/download/creedsofchristen02scha/page/n73.jpg",
+            "page_key": "60",
+            "printed_page": 60,
+            "reference_label": "Schaff 1878, 60쪽",
+            "segment_id": "sha256:a72766cb0cb919b920571112f894d68d14ab0026ebed5dbb1fda15796b142721",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "Καὶ εἰς τὸ ἍΓΙΟΝ ΠΝΕΥΜΑ.",
+            "transmission": "Greek_text_in_identified_edition"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_language_label": "그리스어 편집 본문",
+        "source_reference_label": "채택 원문 자료",
+        "source_review_observation": "1878년 표제지와 57-58·60쪽 인쇄면에서 그리스어 본문을 직접 전사했다. 대역과 각주는 본문과 구별한다.",
+        "source_revision_id": "sha256:9775ef1c40454d5abe4de7859985c66c7307da6916b47f656f4fe9eec42a0d54",
+        "source_url": "https://archive.org/details/creedsofchristen02scha",
+        "text": "Καὶ εἰς τὸ ἍΓΙΟΝ ΠΝΕΥΜΑ.",
+        "transcription_input_path": "data/nicene-creed-325/source-transcription.json",
+        "transcription_method": "1878년 표제지와 57-58·60쪽 인쇄면에서 그리스어 본문을 직접 전사했다. 대역과 각주는 본문과 구별한다.",
+        "transcription_record_serialization": "UTF-8 JSON, sorted keys, indent=2, terminal newline",
+        "transcription_record_sha256": "2e4966c34f6344ddda8a23a855a3403caa1dd6eea9f4496a20a9393f117dbfbe",
+        "typographic_policy": "NFC와 공백을 정규화한다. 출처 파일은 해시로 식별한다. 편집 보충과 이문은 본문과 구별해 기록한다.",
+        "upstream_text": "Καὶ εἰς τὸ ἍΓΙΟΝ ΠΝΕΥΜΑ.",
+        "work_passage_id": "nicene-creed-325:3"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-27",
+          "method": "명시한 그리스어 판본에서 한국어로 직접 AI 번역. 원문 전사와 번역을 의미 구간별로 연결하고 인쇄면 교정 및 자체 대조 범위를 기록.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "325년 신조의 성령 고백은 이 짧은 문장으로 이루어진다. 성령에 관한 더 긴 고백은 별도로 수록한 니케아·콘스탄티노폴리스 신조 §8에서 읽을 수 있다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:a72766cb0cb919b920571112f894d68d14ab0026ebed5dbb1fda15796b142721"
+            ],
+            "text": "또 성령을 믿습니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:9775ef1c40454d5abe4de7859985c66c7307da6916b47f656f4fe9eec42a0d54"
+        ],
+        "text": "또 성령을 믿습니다.",
+        "translation_revision_id": "sha256:e41492472544a7667fc6ff668c6f3ab05f6e60ba7d3af0689283ba7d0549c54c",
+        "work_passage_id": "nicene-creed-325:3"
+      },
+      "work_location": "3",
+      "work_passage_id": "nicene-creed-325:3"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:3f3ac06a56835a5157dffba82e43f4d58c830327ca1d2ce7ccd19f3ae995f3af",
+        "part_links": [
+          [
+            "sha256:f7feb54b7ebd23a5607ae81dffcbcdaa9228019033bcc3ba643dc8e3f7c62b02"
+          ]
+        ],
+        "previous_alignment_revision_id": "sha256:87fd45cfa8fab66b35b093dc5f9c55eed7a59727fbebabe3fcb533383e1b1f6b",
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:747631c019322e1278480daf7bf8c7f0f7c240386261dbf44a8a53bd31eae93b"
+        ],
+        "translation_revision_ids": [
+          "sha256:e0d9e148498d033b1533374d0ca3171bc3a53558a48e6eefaa51179e5073b987"
+        ],
+        "work_passage_id": "nicene-creed-325:4"
+      },
+      "annotation_rights_id": "nicene-creed-325-notes",
+      "annotations": [],
+      "citation": "니케아 공의회, 『니케아 신조 (325년)』 자체 단락 4, 그리스어 편집 본문, Schaff 1878, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.35, https://patristics.missionalbible.org/releases/alpha-0.35/nicene-creed-325/index.html#p-4",
+      "public_url": "https://patristics.missionalbible.org/releases/alpha-0.35/nicene-creed-325/index.html#p-4",
+      "review_records": [
+        {
+          "observation": "1878년 표제지와 57-58·60쪽 인쇄면에서 그리스어 본문을 직접 전사했다. 대역과 각주는 본문과 구별한다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-27",
+          "review_id": "sha256:032aace90842bd61addeb877e3eb51ad55b71d9c1a7aa88c66200587d34ffedf",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:7978b6cc1ee530cdf4ea8a295fabee68774425dd314ff8ef97946c1ce4ae2ce1",
+            "source_revision_id": "sha256:747631c019322e1278480daf7bf8c7f0f7c240386261dbf44a8a53bd31eae93b",
+            "translation_revision_id": "sha256:778387d5acdd49f748c1e34a87af4fa9c6fc1315fb2833c32d9c6a5c356dac68"
+          },
+          "work_passage_id": "nicene-creed-325:4"
+        },
+        {
+          "observation": "작성한 번역을 채택 그리스어와 다시 대조하여 논증의 주체·부정·조건, 인용 경계와 핵심 용어를 확인했다. 같은 AI의 자체 대조이다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-27",
+          "review_id": "sha256:1f1d3ff8b2bc08377008f57336d37021b4ebe845e96fcabe484920836bdaf97d",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:7978b6cc1ee530cdf4ea8a295fabee68774425dd314ff8ef97946c1ce4ae2ce1",
+            "source_revision_id": "sha256:747631c019322e1278480daf7bf8c7f0f7c240386261dbf44a8a53bd31eae93b",
+            "translation_revision_id": "sha256:778387d5acdd49f748c1e34a87af4fa9c6fc1315fb2833c32d9c6a5c356dac68"
+          },
+          "work_passage_id": "nicene-creed-325:4"
+        },
+        {
+          "correction_keys": [
+            "b01-didache-creeds#13"
+          ],
+          "evidence": [
+            {
+              "batch": "b01-didache-creeds",
+              "category": "term",
+              "confidence": "medium",
+              "correction_key": "b01-didache-creeds#13",
+              "evidence_source": "findings-merged.json",
+              "final_severity": "major",
+              "finding_key": "b01-didache-creeds#13",
+              "kind": "finding",
+              "problem": "ἀναθεματίζω는 ‘아나테마(저주받은 자, 공동체에서 끊어진 자)로 선언하다’라는 공식 정죄 용어다. ‘배척합니다’는 ‘거부하다, 밀어내다’ 정도의 일반어여서 정죄의 형식과 강도를 약하게 만든다. 또 메모는 “해당 가르침을 교회의 신앙에서 배제한다”고 설명하지만, 원문의 목적어는 가르침이 아니라 그렇게 말하는 사람들(τοὺς λέγοντας … τούτους)이다. 메모가 원문의 대상을 잘못 설명한다.",
+              "severity_as_reported": "major",
+              "source_excerpt": "[τούτους] ἀναθεματίζει ἡ καθολικὴ [καὶ ἀποστολικὴ] ἐκκλησία",
+              "verification": {
+                "reason": "ἀναθεματίζει는 ‘아나테마로 선언하다’, 곧 공적으로 저주하여 교회의 사귐에서 끊는 정죄 정형어다. ‘배척합니다’는 ‘밀어내다, 물리치다’ 수준의 일반어라 정죄의 형식과 강도가 흐려진다. 또 원문의 목적어는 τοὺς λέγοντας ... φάσκοντας ... [τούτους], 곧 그렇게 말하는 사람들인데 메모는 ‘해당 가르침을 교회의 신앙에서 배제한다’고 하여 대상을 사람에서 가르침으로 바꾼다. 두 지적 모두 맞다. 다만 제안문의 괄호 설명 ‘(저주하여 끊어 냅니다)’는 본문 번역으로는 어색하다.",
+                "verdict": "confirmed"
+              }
+            }
+          ],
+          "finding_keys": [
+            "b01-didache-creeds#13"
+          ],
+          "human_review_status": "not_reviewed",
+          "observation": "원어 대본은 바꾸지 않았다. source_revision_id sha256:747631c019322e1278480daf7bf8c7f0f7c240386261dbf44a8a53bd31eae93b를 그대로 유지하며, 이번 교정은 한국어 번역과 메모에만 해당한다. 인쇄면 재대조는 하지 않았다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-10-12",
+          "prior_review_ids": [
+            "sha256:032aace90842bd61addeb877e3eb51ad55b71d9c1a7aa88c66200587d34ffedf",
+            "sha256:1f1d3ff8b2bc08377008f57336d37021b4ebe845e96fcabe484920836bdaf97d"
+          ],
+          "revalidation_id": "translation-audit-20261012",
+          "review_extent": "whole_selected_passage_korean_and_notes",
+          "review_id": "sha256:95f9d5cb19679a46065925be49cb90b06eba9454f212d91ea9264d22a6475f19",
+          "reviewer": {
+            "independent": true,
+            "kind": "ai",
+            "name": "Claude Code"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:87fd45cfa8fab66b35b093dc5f9c55eed7a59727fbebabe3fcb533383e1b1f6b",
+            "source_revision_id": "sha256:747631c019322e1278480daf7bf8c7f0f7c240386261dbf44a8a53bd31eae93b",
+            "translation_revision_id": "sha256:467bc56ec882813437da740c6dec8a4dac52a1202a707966a7eac22929c409ba"
+          },
+          "work_passage_id": "nicene-creed-325:4"
+        },
+        {
+          "correction_keys": [
+            "b01-didache-creeds#13"
+          ],
+          "evidence": [
+            {
+              "batch": "b01-didache-creeds",
+              "category": "term",
+              "confidence": "medium",
+              "correction_key": "b01-didache-creeds#13",
+              "evidence_source": "findings-merged.json",
+              "final_severity": "major",
+              "finding_key": "b01-didache-creeds#13",
+              "kind": "finding",
+              "problem": "ἀναθεματίζω는 ‘아나테마(저주받은 자, 공동체에서 끊어진 자)로 선언하다’라는 공식 정죄 용어다. ‘배척합니다’는 ‘거부하다, 밀어내다’ 정도의 일반어여서 정죄의 형식과 강도를 약하게 만든다. 또 메모는 “해당 가르침을 교회의 신앙에서 배제한다”고 설명하지만, 원문의 목적어는 가르침이 아니라 그렇게 말하는 사람들(τοὺς λέγοντας … τούτους)이다. 메모가 원문의 대상을 잘못 설명한다.",
+              "severity_as_reported": "major",
+              "source_excerpt": "[τούτους] ἀναθεματίζει ἡ καθολικὴ [καὶ ἀποστολικὴ] ἐκκλησία",
+              "verification": {
+                "reason": "ἀναθεματίζει는 ‘아나테마로 선언하다’, 곧 공적으로 저주하여 교회의 사귐에서 끊는 정죄 정형어다. ‘배척합니다’는 ‘밀어내다, 물리치다’ 수준의 일반어라 정죄의 형식과 강도가 흐려진다. 또 원문의 목적어는 τοὺς λέγοντας ... φάσκοντας ... [τούτους], 곧 그렇게 말하는 사람들인데 메모는 ‘해당 가르침을 교회의 신앙에서 배제한다’고 하여 대상을 사람에서 가르침으로 바꾼다. 두 지적 모두 맞다. 다만 제안문의 괄호 설명 ‘(저주하여 끊어 냅니다)’는 본문 번역으로는 어색하다.",
+                "verdict": "confirmed"
+              }
+            }
+          ],
+          "finding_keys": [
+            "b01-didache-creeds#13"
+          ],
+          "human_review_status": "not_reviewed",
+          "observation": "ἀναθεματίζω는 ‘아나테마(저주받은 자, 공동체에서 끊어진 자)로 선언하다’라는 공식 정죄 용어다. ‘배척합니다’는 ‘거부하다, 밀어내다’ 정도의 일반어여서 정죄의 형식과 강도를 약하게 만든다. 또 메모는 “해당 가르침을 교회의 신앙에서 배제한다”고 설명하지만, 원문의 목적어는 가르침이 아니라 그렇게 말하는 사람들(τοὺς λέγοντας … τούτους)이다. 메모가 원문의 대상을 잘못 설명한다. 검증 판정(confirmed): ἀναθεματίζει는 ‘아나테마로 선언하다’, 곧 공적으로 저주하여 교회의 사귐에서 끊는 정죄 정형어다. ‘배척합니다’는 ‘밀어내다, 물리치다’ 수준의 일반어라 정죄의 형식과 강도가 흐려진다. 또 원문의 목적어는 τοὺς λέγοντας ... φάσκοντας ... [τούτους], 곧 그렇게 말하는 사람들인데 메모는 ‘해당 가르침을 교회의 신앙에서 배제한다’고 하여 대상을 사람에서 가르침으로 바꾼다. 두 지적 모두 맞다. 다만 제안문의 괄호 설명 ‘(저주하여 끊어 냅니다)’는 본문 번역으로는 어색하다. 수정 요지: ἀναθεματίζει를 ‘배척합니다’에서 ‘아나테마로 정죄합니다’로 고치고 메모의 정죄 대상을 가르침에서 사람으로 바로잡았다. 같은 정형구를 ‘배척’으로 옮긴 유세비우스 니케아 서신 8, 아타나시오스 안티오키아인들에게 3.1·11.2와의 용어 통일은 소유자 결정이 필요하다. Codex 번역자와 별개인 Claude Code AI 검토이며 사람 검수가 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-10-12",
+          "prior_review_ids": [
+            "sha256:032aace90842bd61addeb877e3eb51ad55b71d9c1a7aa88c66200587d34ffedf",
+            "sha256:1f1d3ff8b2bc08377008f57336d37021b4ebe845e96fcabe484920836bdaf97d"
+          ],
+          "revalidation_id": "translation-audit-20261012",
+          "review_extent": "whole_selected_passage_korean_and_notes",
+          "review_id": "sha256:89e05b1c489e763e99eb03c8021fb97267640688fba150d7acab49af0ca2a3ba",
+          "reviewer": {
+            "independent": true,
+            "kind": "ai",
+            "name": "Claude Code"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:87fd45cfa8fab66b35b093dc5f9c55eed7a59727fbebabe3fcb533383e1b1f6b",
+            "source_revision_id": "sha256:747631c019322e1278480daf7bf8c7f0f7c240386261dbf44a8a53bd31eae93b",
+            "translation_revision_id": "sha256:467bc56ec882813437da740c6dec8a4dac52a1202a707966a7eac22929c409ba"
+          },
+          "work_passage_id": "nicene-creed-325:4"
+        },
+        {
+          "evidence": {
+            "items": [
+              {
+                "key": "p2:b01-didache-creeds#20",
+                "origin": "minor",
+                "reason": "τρεπτὸν ἢ ἀλλοιωτόν의 ἢ는 ‘또는’이므로 둘 중 하나만 주장해도 정죄 대상이 되는데, ‘-고’는 두 주장을 함께 하는 경우로 읽히게 한다."
+              }
+            ]
+          },
+          "human_review_status": "not_reviewed",
+          "item_keys": [
+            "p2:b01-didache-creeds#20"
+          ],
+          "observation": "원어 본문은 바꾸지 않았다. 원어 대본은 공개 판과 같다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-10-21",
+          "prior_review_ids": [
+            "sha256:032aace90842bd61addeb877e3eb51ad55b71d9c1a7aa88c66200587d34ffedf",
+            "sha256:1f1d3ff8b2bc08377008f57336d37021b4ebe845e96fcabe484920836bdaf97d",
+            "sha256:95f9d5cb19679a46065925be49cb90b06eba9454f212d91ea9264d22a6475f19",
+            "sha256:89e05b1c489e763e99eb03c8021fb97267640688fba150d7acab49af0ca2a3ba"
+          ],
+          "revalidation_id": "translation-polish-20261021",
+          "review_extent": "whole_selected_passage",
+          "review_id": "sha256:f3b2eaf96c3ef298bdfbc533693413f023ae68b47a25e083dd683636b63534a0",
+          "reviewer": {
+            "independent": true,
+            "kind": "ai",
+            "name": "Claude Code"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:3f3ac06a56835a5157dffba82e43f4d58c830327ca1d2ce7ccd19f3ae995f3af",
+            "source_revision_id": "sha256:747631c019322e1278480daf7bf8c7f0f7c240386261dbf44a8a53bd31eae93b",
+            "translation_revision_id": "sha256:e0d9e148498d033b1533374d0ca3171bc3a53558a48e6eefaa51179e5073b987"
+          },
+          "work_passage_id": "nicene-creed-325:4"
+        },
+        {
+          "evidence": {
+            "items": [
+              {
+                "key": "p2:b01-didache-creeds#20",
+                "origin": "minor",
+                "reason": "τρεπτὸν ἢ ἀλλοιωτόν의 ἢ는 ‘또는’이므로 둘 중 하나만 주장해도 정죄 대상이 되는데, ‘-고’는 두 주장을 함께 하는 경우로 읽히게 한다."
+              }
+            ]
+          },
+          "human_review_status": "not_reviewed",
+          "item_keys": [
+            "p2:b01-didache-creeds#20"
+          ],
+          "observation": "τρεπτὸν ἢ ἀλλοιωτόν의 ἢ는 ‘또는’이므로 둘 중 하나만 주장해도 정죄 대상이 되는데, ‘-고’는 두 주장을 함께 하는 경우로 읽히게 한다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-10-21",
+          "prior_review_ids": [
+            "sha256:032aace90842bd61addeb877e3eb51ad55b71d9c1a7aa88c66200587d34ffedf",
+            "sha256:1f1d3ff8b2bc08377008f57336d37021b4ebe845e96fcabe484920836bdaf97d",
+            "sha256:95f9d5cb19679a46065925be49cb90b06eba9454f212d91ea9264d22a6475f19",
+            "sha256:89e05b1c489e763e99eb03c8021fb97267640688fba150d7acab49af0ca2a3ba"
+          ],
+          "revalidation_id": "translation-polish-20261021",
+          "review_extent": "whole_selected_passage",
+          "review_id": "sha256:e8e14b482db83d088d554026d1e3d918a0288b4ae18299801877b64babdda68e",
+          "reviewer": {
+            "independent": true,
+            "kind": "ai",
+            "name": "Claude Code"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:3f3ac06a56835a5157dffba82e43f4d58c830327ca1d2ce7ccd19f3ae995f3af",
+            "source_revision_id": "sha256:747631c019322e1278480daf7bf8c7f0f7c240386261dbf44a8a53bd31eae93b",
+            "translation_revision_id": "sha256:e0d9e148498d033b1533374d0ca3171bc3a53558a48e6eefaa51179e5073b987"
+          },
+          "work_passage_id": "nicene-creed-325:4"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [
+          "sha256:1f1d3ff8b2bc08377008f57336d37021b4ebe845e96fcabe484920836bdaf97d",
+          "sha256:89e05b1c489e763e99eb03c8021fb97267640688fba150d7acab49af0ca2a3ba"
+        ],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:032aace90842bd61addeb877e3eb51ad55b71d9c1a7aa88c66200587d34ffedf",
+          "sha256:95f9d5cb19679a46065925be49cb90b06eba9454f212d91ea9264d22a6475f19",
+          "sha256:f3b2eaf96c3ef298bdfbc533693413f023ae68b47a25e083dd683636b63534a0",
+          "sha256:e8e14b482db83d088d554026d1e3d918a0288b4ae18299801877b64babdda68e"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.35/nicene-creed-325/index.html#p-4",
+      "source": {
+        "applied_corrections": [],
+        "citation_note": "§ 번호는 이 저장소가 전문을 나눈 읽기 단위이며 원문 판본 위치는 각 구절에 기록한다.",
+        "citation_scheme": "local_sections",
+        "edition_id": "schaff-1878-nicene-creed-325",
+        "edition_label": "Philip Schaff 편집, The Creeds of Christendom II, New York: Harper & Brothers, 1878, 60쪽 그리스어 본문",
+        "edition_reference": {
+          "edition": "Schaff 1878",
+          "printed_pages": [
+            60
+          ],
+          "unit_scope": "project_clause"
+        },
+        "edition_short_label": "Schaff 1878",
+        "editorial_features": [
+          {
+            "text": "[ἢ κτιστόν,]",
+            "type": "editorial_brackets"
+          },
+          {
+            "text": "[τούτους]",
+            "type": "editorial_brackets"
+          },
+          {
+            "text": "[καὶ ἀποστολικὴ]",
+            "type": "editorial_brackets"
+          }
+        ],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "rights_id": "nicene-creed-325-source",
+        "segments": [
+          {
+            "image_url": "https://archive.org/download/creedsofchristen02scha/page/n73.jpg",
+            "page_key": "60",
+            "printed_page": 60,
+            "reference_label": "Schaff 1878, 60쪽",
+            "segment_id": "sha256:f7feb54b7ebd23a5607ae81dffcbcdaa9228019033bcc3ba643dc8e3f7c62b02",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "Τοὺς δὲ λέγοντας, ὅτι ἦν ποτε ὅτε οὐκ ἦν, καὶ πρὶν γεννηθῆναι οὐκ ἦν, καὶ ὅτι ἐξ οὐκ ὄντων ἐγένετο, ἢ ἐξ ἑτέρας ὑποστάσεως ἢ οὐσίας φάσκοντας εἶναι, [ἢ κτιστόν,] τρεπτὸν ἢ ἀλλοιωτὸν τὸν υἱὸν τοῦ θεοῦ, [τούτους] ἀναθεματίζει ἡ καθολικὴ [καὶ ἀποστολικὴ] ἐκκλησία.",
+            "transmission": "Greek_text_in_identified_edition"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_language_label": "그리스어 편집 본문",
+        "source_reference_label": "채택 원문 자료",
+        "source_review_observation": "1878년 표제지와 57-58·60쪽 인쇄면에서 그리스어 본문을 직접 전사했다. 대역과 각주는 본문과 구별한다.",
+        "source_revision_id": "sha256:747631c019322e1278480daf7bf8c7f0f7c240386261dbf44a8a53bd31eae93b",
+        "source_url": "https://archive.org/details/creedsofchristen02scha",
+        "text": "Τοὺς δὲ λέγοντας, ὅτι ἦν ποτε ὅτε οὐκ ἦν, καὶ πρὶν γεννηθῆναι οὐκ ἦν, καὶ ὅτι ἐξ οὐκ ὄντων ἐγένετο, ἢ ἐξ ἑτέρας ὑποστάσεως ἢ οὐσίας φάσκοντας εἶναι, [ἢ κτιστόν,] τρεπτὸν ἢ ἀλλοιωτὸν τὸν υἱὸν τοῦ θεοῦ, [τούτους] ἀναθεματίζει ἡ καθολικὴ [καὶ ἀποστολικὴ] ἐκκλησία.",
+        "transcription_input_path": "data/nicene-creed-325/source-transcription.json",
+        "transcription_method": "1878년 표제지와 57-58·60쪽 인쇄면에서 그리스어 본문을 직접 전사했다. 대역과 각주는 본문과 구별한다.",
+        "transcription_record_serialization": "UTF-8 JSON, sorted keys, indent=2, terminal newline",
+        "transcription_record_sha256": "8015e9e0f28cf4dde25eb0ef47e17cb5319e7b332d46ddc20398872433f14f0a",
+        "typographic_policy": "NFC와 공백을 정규화한다. 출처 파일은 해시로 식별한다. 편집 보충과 이문은 본문과 구별해 기록한다.",
+        "upstream_text": "Τοὺς δὲ λέγοντας, ὅτι ἦν ποτε ὅτε οὐκ ἦν, καὶ πρὶν γεννηθῆναι οὐκ ἦν, καὶ ὅτι ἐξ οὐκ ὄντων ἐγένετο, ἢ ἐξ ἑτέρας ὑποστάσεως ἢ οὐσίας φάσκοντας εἶναι, [ἢ κτιστόν,] τρεπτὸν ἢ ἀλλοιωτὸν τὸν υἱὸν τοῦ θεοῦ, [τούτους] ἀναθεματίζει ἡ καθολικὴ [καὶ ἀποστολικὴ] ἐκκλησία.",
+        "work_passage_id": "nicene-creed-325:4"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-27",
+          "method": "명시한 그리스어 판본에서 한국어로 직접 AI 번역. 원문 전사와 번역을 의미 구간별로 연결하고 인쇄면 교정 및 자체 대조 범위를 기록.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "여기서 ὑπόστασις는 ‘실체’, οὐσία는 ‘본질’로 옮겼다. 두 말이 함께 쓰인 325년의 용례는 『안티오키아인들에게 보낸 서한』 5-6장의 용어 논의와 비교할 수 있다.",
+          "대괄호는 Schaff의 편집 표지를 원문과 번역에 보존한 것이다. ἀναθεματίζει는 그렇게 말하는 사람들을 아나테마로 선언하여 교회의 사귐에서 끊는다는 정죄 용어로, ‘아나테마로 정죄한다’고 옮겼다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:f7feb54b7ebd23a5607ae81dffcbcdaa9228019033bcc3ba643dc8e3f7c62b02"
+            ],
+            "text": "그러나 다음과 같이 말하는 이들, “그분이 계시지 않던 때가 있었다”, “나시기 전에는 계시지 않았다”, “존재하지 않는 것들에서 생겨났다”고 말하는 이들, 혹은 다른 실체나 본질에서 나왔다고 주장하는 이들, 하나님의 아들을 [피조물이라거나] 변할 수 있거나 달라질 수 있는 분이라고 하는 이들, 보편적 [사도적] 교회는 [이들을] 아나테마로 정죄합니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": "sha256:467bc56ec882813437da740c6dec8a4dac52a1202a707966a7eac22929c409ba",
+        "revalidation": {
+          "id": "translation-polish-20261021",
+          "item_keys": [
+            "p2:b01-didache-creeds#20"
+          ],
+          "notes_changed": false,
+          "performed_on": "2026-10-21",
+          "scope": "korean_translation_and_notes; source unchanged",
+          "text_changed": true
+        },
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:747631c019322e1278480daf7bf8c7f0f7c240386261dbf44a8a53bd31eae93b"
+        ],
+        "text": "그러나 다음과 같이 말하는 이들, “그분이 계시지 않던 때가 있었다”, “나시기 전에는 계시지 않았다”, “존재하지 않는 것들에서 생겨났다”고 말하는 이들, 혹은 다른 실체나 본질에서 나왔다고 주장하는 이들, 하나님의 아들을 [피조물이라거나] 변할 수 있거나 달라질 수 있는 분이라고 하는 이들, 보편적 [사도적] 교회는 [이들을] 아나테마로 정죄합니다.",
+        "translation_revision_id": "sha256:e0d9e148498d033b1533374d0ca3171bc3a53558a48e6eefaa51179e5073b987",
+        "work_passage_id": "nicene-creed-325:4"
+      },
+      "work_location": "4",
+      "work_passage_id": "nicene-creed-325:4"
+    }
+  ],
+  "public_url": "https://patristics.missionalbible.org/works/nicene-creed-325/index.html",
+  "publication_status": "ai_translation_beta",
+  "release_id": "alpha-0.35",
+  "rights": {
+    "corpus-ko-cc-by-sa-4.0": {
+      "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+      "license": "CC-BY-SA-4.0",
+      "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "corpus-notes-cc-by-sa-4.0": {
+      "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+      "license": "CC-BY-SA-4.0",
+      "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "first1k-cc-by-sa-4.0": {
+      "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+      "license": "CC-BY-SA-4.0",
+      "scope": "First1KGreek에서 가공한 그리스어 자료",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "nicene-creed-325-notes": {
+      "attribution": "Codex AI 번역·메모",
+      "license": "CC-BY-SA-4.0",
+      "scope": "프로젝트가 작성한 한국어 메모에 보유 가능한 권리",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "nicene-creed-325-source": {
+      "attribution": "고대 신조; Philip Schaff 편집; 프로젝트의 인쇄면 전사.",
+      "evidence_url": "https://archive.org/details/creedsofchristen02scha",
+      "license": "Public-Domain",
+      "scope": "지정된 그리스어 편집 본문과 프로젝트 전사·가공물",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "pilot-ko-cc-by-sa-4.0": {
+      "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+      "license": "CC-BY-SA-4.0",
+      "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "pilot-notes-cc-by-sa-4.0": {
+      "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+      "license": "CC-BY-SA-4.0",
+      "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  "schema_version": "patristics-library-0.1",
+  "scope": "니케아 공의회가 채택한 신조와 배척 선언 전문, Schaff 1878년판 60쪽",
+  "work": {
+    "aliases": [
+      "니케아 신조",
+      "Nicene Creed 325",
+      "Nicaea 325"
+    ],
+    "ambiguous_aliases": [],
+    "annotation_rights_id": "nicene-creed-325-notes",
+    "author": "니케아 공의회",
+    "author_aliases": [
+      "니케아 공의회"
+    ],
+    "chapters": 1,
+    "citation_scheme": "local_sections",
+    "edition_short_label": "Schaff 1878",
+    "id": "nicene-creed-325",
+    "passages": 4,
+    "scope": "니케아 공의회가 채택한 신조와 배척 선언 전문, Schaff 1878년판 60쪽",
+    "source_profile": "manual_print",
+    "title": "니케아 신조 (325년)",
+    "title_is_unambiguous": true,
+    "translation_method": "명시한 그리스어 판본에서 한국어로 직접 AI 번역. 원문 전사와 번역을 의미 구간별로 연결하고 인쇄면 교정 및 자체 대조 범위를 기록."
+  }
+}

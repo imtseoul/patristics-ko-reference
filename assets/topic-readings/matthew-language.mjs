@@ -381,7 +381,7 @@ export default {
       "author": "파피아스와 전승자들",
       "groups": [
         {
-          "id": "a-69c39c40839c29ae1982",
+          "id": "a-baae301428920ceeca5a",
           "ko_token_indexes": [
             0,
             1
@@ -394,7 +394,7 @@ export default {
           ]
         },
         {
-          "id": "a-66165c68d3062dee7bb7",
+          "id": "a-3313cf02ac1e7598abaf",
           "ko_token_indexes": [
             2,
             3
@@ -405,7 +405,7 @@ export default {
           ]
         },
         {
-          "id": "a-20ce4cdb4a7013871896",
+          "id": "a-821358e3066e70862ea1",
           "ko_token_indexes": [
             4
           ],
@@ -416,7 +416,7 @@ export default {
           ]
         },
         {
-          "id": "a-e1ea1bcbab652ad76e00",
+          "id": "a-47e5e7f1554f311d4b71",
           "ko_token_indexes": [
             5
           ],
@@ -426,7 +426,7 @@ export default {
           ]
         },
         {
-          "id": "a-725eb190e368a5b2bc09",
+          "id": "a-e4ee6c2cdab38af2c6a2",
           "ko_token_indexes": [
             6
           ],
@@ -436,7 +436,7 @@ export default {
           ]
         },
         {
-          "id": "a-e1af8b073c05f3fb39c7",
+          "id": "a-46a47105f007d3db8660",
           "ko_token_indexes": [
             7
           ],
@@ -445,7 +445,7 @@ export default {
           ]
         },
         {
-          "id": "a-5a81eec30dbfb630d154",
+          "id": "a-585274d857c37d04f3aa",
           "ko_token_indexes": [
             8,
             9
@@ -455,7 +455,7 @@ export default {
           ]
         },
         {
-          "id": "a-64359be11e4a4ca5c4fc",
+          "id": "a-ea604b69d9838a379f27",
           "ko_token_indexes": [
             10,
             11,
@@ -470,7 +470,7 @@ export default {
           ]
         },
         {
-          "id": "a-efc499890cfc8a0f6547",
+          "id": "a-62a5011a45e0174d3f61",
           "ko_token_indexes": [
             15,
             16
@@ -482,7 +482,7 @@ export default {
           ]
         },
         {
-          "id": "a-58dfba0e06e2fd4832d7",
+          "id": "a-9ef8afa08f1570773ca5",
           "ko_token_indexes": [
             17,
             18
@@ -493,7 +493,7 @@ export default {
           ]
         },
         {
-          "id": "a-513726675b6df5791c76",
+          "id": "a-8835adcd859212a073b0",
           "ko_token_indexes": [
             19,
             20,
@@ -508,7 +508,7 @@ export default {
           ]
         },
         {
-          "id": "a-c58e18866529c9adae2b",
+          "id": "a-3ffbb6b0efb1f5261890",
           "ko_token_indexes": [
             22
           ],
@@ -517,7 +517,7 @@ export default {
           ]
         },
         {
-          "id": "a-ca6ff71b5a71bab5aaee",
+          "id": "a-5c34066ba1bf81d9acf9",
           "ko_token_indexes": [
             23
           ],
@@ -526,7 +526,7 @@ export default {
           ]
         },
         {
-          "id": "a-e3de8a9758338c3afb3a",
+          "id": "a-ee891c6a599b0fac2013",
           "ko_token_indexes": [
             24,
             25,
@@ -538,24 +538,17 @@ export default {
             31,
             32,
             33,
-            34
-          ]
-        },
-        {
-          "id": "a-e8b7b9e1072712d557ca",
-          "ko_token_indexes": [
-            28,
-            29
-          ],
-          "source_token_indexes": [
+            34,
             46,
             47,
             48
           ]
         },
         {
-          "id": "a-37edb2a589c3b51b7083",
+          "id": "a-caa49d37be4bedfa447b",
           "ko_token_indexes": [
+            28,
+            29,
             30,
             31,
             32
@@ -567,7 +560,7 @@ export default {
           ]
         },
         {
-          "id": "a-ad5c347142f4b6c44689",
+          "id": "a-c546e6dc254c95993886",
           "ko_token_indexes": [
             33
           ],
@@ -576,7 +569,7 @@ export default {
           ]
         },
         {
-          "id": "a-acd170396cb7e289c47b",
+          "id": "a-a62ce27d9986ff4772ba",
           "ko_token_indexes": [
             34,
             35
@@ -587,7 +580,7 @@ export default {
           ]
         },
         {
-          "id": "a-9444b9420bad3d830004",
+          "id": "a-ac9db5d35a5766f1338e",
           "ko_token_indexes": [
             36,
             37
@@ -598,7 +591,7 @@ export default {
           ]
         },
         {
-          "id": "a-df013c918882bb5fe111",
+          "id": "a-83da6512e7bdf4af56bc",
           "ko_token_indexes": [
             38
           ],
@@ -609,7 +602,7 @@ export default {
           ]
         },
         {
-          "id": "a-18f83ee96a9d93967087",
+          "id": "a-3ef8230d5b3ef620eb99",
           "ko_token_indexes": [
             39,
             40
@@ -622,7 +615,7 @@ export default {
           ]
         },
         {
-          "id": "a-7ffc35d8a168aba64209",
+          "id": "a-23ba03024db5543dffc0",
           "ko_token_indexes": [
             41,
             42
@@ -633,7 +626,7 @@ export default {
           ]
         },
         {
-          "id": "a-a32ad778000f759cb6da",
+          "id": "a-08dd9e7ed018fd572f9d",
           "ko_token_indexes": [
             43,
             44,
@@ -647,7 +640,7 @@ export default {
           ]
         },
         {
-          "id": "a-63850c39b023fb462e88",
+          "id": "a-4b893b7f9f469b34337b",
           "ko_token_indexes": [
             47,
             48
@@ -659,7 +652,7 @@ export default {
           ]
         },
         {
-          "id": "a-80d1052647be0322e38e",
+          "id": "a-bf80bf470517d427ce33",
           "ko_token_indexes": [
             49,
             50,
@@ -689,8 +682,8 @@ export default {
           "ἑβραΐδι διαλέκτῳ는 ‘히브리어로’, λόγια는 ‘말씀들’로 옮겼다. ἑρμηνεύω는 해석과 번역에 쓰이는 동사로, 이곳에서는 ‘해석했다’를 채택했다. 이 문장의 언어명과 저작 범위를 어떤 자료에 적용할지는 해석의 대상이다.",
           "『히브리인들의 복음서』에 실린 여자 이야기는 이 증언이 지목하는 출전이다. 판본에 실린 인용 관계를 따라 표시했다."
         ],
-        "revision_id": "sha256:4886296acfe382dc4c88af8bb4ae26ffbfe49ef79cbc8db2fcc60b173f58a673",
-        "text": "마태에 관해서는 이렇게 말했다. “마태는 말씀들을 히브리어로 기록했고, 각 사람은 자기가 할 수 있는 만큼 그것을 해석했다.” 파피아스는 또 요한의 첫째 편지에서 증언들을 가져왔고, 베드로의 편지에서도 마찬가지로 가져왔다. 주님 앞에서 많은 죄를 지었다고 고발당한 여자에 관한 다른 이야기도 제시한다. 『히브리인들의 복음서』에 담긴 이야기이다. 앞서 제시한 내용에 덧붙여 이 점들도 우리가 기록해 둘 필요가 있다."
+        "revision_id": "sha256:de73df3b5a150d52416434b07df3d445d38f50a00fcb5a4a3d08a1f80608e312",
+        "text": "마태에 관해서는 이렇게 말했다. “마태는 말씀들을 히브리어로 기록했고, 각 사람은 자기가 할 수 있는 만큼 그것을 해석했다.” 파피아스는 또 요한의 첫째 편지에서 증언들을 가져왔고, 베드로의 편지에서도 마찬가지로 가져왔다. 많은 죄를 지었다고 주님 앞에서 고발당한 여자에 관한 다른 이야기도 제시한다. 『히브리인들의 복음서』에 담긴 이야기이다. 앞서 제시한 내용에 덧붙여 이 점들도 우리가 기록해 둘 필요가 있다."
       },
       "work_id": "papias-fragments",
       "work_passage_id": "papias-fragments:funk-1901-papias:II.16"

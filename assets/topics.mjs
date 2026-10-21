@@ -1,10 +1,10 @@
 import {markedText} from './text-matches.mjs?v=c9235b0b8b9b';
 import {installPhraseHover} from './phrase-hover.mjs?v=4f4926fe87ad';
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
-import {passageTools} from './archive-tools.mjs?v=23627914712c';
+import {passageTools} from './archive-tools.mjs?v=3295ebc20584';
 import {preserveGuide,installGuideContext,guideReadingControls} from './reading-guides.mjs?v=3195acedeec2';
 import {installTopicComparison,comparisonPair} from './topic-comparison.mjs?v=eb4889bb8be8';
-import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=c22b3943da88';
+import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=e8badf123344';
 import {searchURL} from './archive-search-core.mjs?v=c183809f9954';
 
 export function topicBrowseURL(base, state) {

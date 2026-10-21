@@ -185,7 +185,7 @@ export default {
       "author": "익명 (바르나바에게 전승상 귀속)",
       "groups": [
         {
-          "id": "a-6c84fdd78b91dec82b2d",
+          "id": "a-049d44035520207f987f",
           "ko_token_indexes": [
             0,
             1,
@@ -202,7 +202,7 @@ export default {
           ]
         },
         {
-          "id": "a-e9fa5a066b3a9b1db03a",
+          "id": "a-18bd67f9a4b157ad3d26",
           "ko_token_indexes": [
             5,
             6,
@@ -224,7 +224,7 @@ export default {
           ]
         },
         {
-          "id": "a-f1977ea45058f7c95809",
+          "id": "a-cf44f07b4c9c1b5df382",
           "ko_token_indexes": [
             12,
             13,
@@ -257,7 +257,7 @@ export default {
           ]
         },
         {
-          "id": "a-2756116fe25c01a132a9",
+          "id": "a-287465c4c417686fb0cf",
           "ko_token_indexes": [
             23,
             24,
@@ -275,7 +275,7 @@ export default {
           ]
         },
         {
-          "id": "a-d040c755bebe29cb16e7",
+          "id": "a-c087cc6f8105fa197937",
           "ko_token_indexes": [
             28,
             29,
@@ -321,8 +321,8 @@ export default {
       "title": "바르나바 서신",
       "translation": {
         "notes": [],
-        "revision_id": "sha256:ed1aa632e95f4d22503bd71ed0276671525221850bea569d6789b89297511dd8",
-        "text": "그러므로 나는 성전이 있음을 발견합니다. 그것이 주님의 이름 위에 어떻게 세워지는지 배우십시오. 우리가 하나님을 믿기 전에는 우리 마음의 거처가 썩을 것이며 연약한 것이었습니다. 참으로 손으로 지은 성전과 같았습니다. 하나님을 거스르는 온갖 일을 행했기에, 우상숭배로 가득하며 다이몬들의 집이었기 때문입니다."
+        "revision_id": "sha256:d2c07ad78d25dbd1b1affe923f7ae734ea86aa32256a89af3a4c0febd38ce8ef",
+        "text": "그러므로 나는 성전이 있음을 발견합니다. 그것이 주님의 이름 위에 어떻게 세워지는지 배우십시오. 우리가 하나님을 믿기 전에는 우리 마음의 거처가 썩을 것이며 연약한 것이었습니다. 참으로 손으로 지은 성전과 같았습니다. 하나님을 거스르는 온갖 일을 행했기에, 우상숭배로 가득하며 귀신들의 집이었기 때문입니다."
       },
       "work_id": "barnabas",
       "work_passage_id": "barnabas:lake-1914:16.7"

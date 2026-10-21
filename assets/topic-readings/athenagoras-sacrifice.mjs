@@ -421,7 +421,7 @@ export default {
       "author": "유스티노스",
       "groups": [
         {
-          "id": "a-de366dd6329a25da543f",
+          "id": "a-a92932ca2c44962534e5",
           "ko_token_indexes": [
             0,
             1,
@@ -449,7 +449,7 @@ export default {
           ]
         },
         {
-          "id": "a-5cd133d27995d8b67efa",
+          "id": "a-514b83d1e93648c6989b",
           "ko_token_indexes": [
             10,
             11,
@@ -468,7 +468,7 @@ export default {
           ]
         },
         {
-          "id": "a-0c0908e7dd6f1cfe9bca",
+          "id": "a-be00760d040f1720780e",
           "ko_token_indexes": [
             16,
             17,
@@ -494,7 +494,7 @@ export default {
           ]
         },
         {
-          "id": "a-ac8de641dd1863398f1f",
+          "id": "a-a9cd9171aab0cefcb707",
           "ko_token_indexes": [
             26,
             27,
@@ -523,7 +523,7 @@ export default {
           ]
         },
         {
-          "id": "a-de24167de837a39e2eeb",
+          "id": "a-4efb9c0c3df33bbfb9d1",
           "ko_token_indexes": [
             37,
             38,
@@ -544,7 +544,7 @@ export default {
           ]
         },
         {
-          "id": "a-e6e6787eab38150bdae0",
+          "id": "a-ce9f37f59375ff0ba5d1",
           "ko_token_indexes": [
             45,
             46,
@@ -569,7 +569,7 @@ export default {
           ]
         },
         {
-          "id": "a-d4ff95e73cfa2b9079d5",
+          "id": "a-612cc99c3a967d65cee3",
           "ko_token_indexes": [
             53,
             54,
@@ -587,7 +587,7 @@ export default {
           ]
         },
         {
-          "id": "a-c847030f3e47d3bb6f99",
+          "id": "a-939ec82c05642a275c93",
           "ko_token_indexes": [
             58,
             59,
@@ -628,7 +628,7 @@ export default {
           ]
         },
         {
-          "id": "a-8ecffbfafa85457b411b",
+          "id": "a-465c43607d6f5ab01571",
           "ko_token_indexes": [
             72,
             73,
@@ -648,7 +648,7 @@ export default {
           ]
         },
         {
-          "id": "a-a2474f7b8674e78bdeaf",
+          "id": "a-7695bdd16a11d3538fba",
           "ko_token_indexes": [
             79,
             80,
@@ -678,7 +678,7 @@ export default {
           ]
         },
         {
-          "id": "a-37a3b8c6a70ed87954cf",
+          "id": "a-b572553440930d07bdc8",
           "ko_token_indexes": [
             89,
             90,
@@ -706,7 +706,7 @@ export default {
           ]
         },
         {
-          "id": "a-2a81fe926b5d2f1a9de5",
+          "id": "a-123518a2aaa42b1bc22d",
           "ko_token_indexes": [
             98,
             99,
@@ -727,7 +727,7 @@ export default {
           ]
         },
         {
-          "id": "a-66da6d16693b2abc56f7",
+          "id": "a-94ac4083973385b870e7",
           "ko_token_indexes": [
             103,
             104,
@@ -745,7 +745,7 @@ export default {
           ]
         },
         {
-          "id": "a-90568406a905feb48915",
+          "id": "a-742be9e0e0b1fae0f5ed",
           "ko_token_indexes": [
             109,
             110,
@@ -772,7 +772,7 @@ export default {
           ]
         },
         {
-          "id": "a-8cad41eb73da9e9f667f",
+          "id": "a-a624e15ba7d0878a8895",
           "ko_token_indexes": [
             118,
             119,
@@ -800,7 +800,7 @@ export default {
           ]
         },
         {
-          "id": "a-fdc4c7ac2fa2c0d4f209",
+          "id": "a-e87888d36471244e6203",
           "ko_token_indexes": [
             128,
             129,
@@ -850,7 +850,7 @@ export default {
           ]
         },
         {
-          "id": "a-96e5928a858cd60c2918",
+          "id": "a-9cd1e2de036e55d3b076",
           "ko_token_indexes": [
             148,
             149,
@@ -869,7 +869,7 @@ export default {
           ]
         },
         {
-          "id": "a-02f5be04a171712ffe53",
+          "id": "a-88d1831d4213c8218c77",
           "ko_token_indexes": [
             155,
             156,
@@ -903,9 +903,9 @@ export default {
       "title": "제1변증서",
       "translation": {
         "notes": [
-          "아들을 둘째 자리에, 예언의 영을 셋째 순서에 둔다는 표현은 각각 δευτέρᾳ χώρᾳ와 τρίτῃ τάξει를 옮긴 것이다."
+          "아들을 둘째 자리에, 예언의 영을 셋째 순위에 모신다는 표현은 각각 δευτέρᾳ χώρᾳ와 τρίτῃ τάξει를 옮긴 것이다."
         ],
-        "revision_id": "sha256:769df51324d9159ceb2ba4c7089a0b2646311c161510501a90501f623a9ecf42",
+        "revision_id": "sha256:2f33289d8a9e688e0af44d95d938bd479a3d3d45b240a8ca8d5d21c485c9f6af",
         "text": "우리가 무신론자가 아니라는 것을 분별 있는 사람이라면 누가 인정하지 않겠습니까? 우리는 이 우주를 지으신 분을 경외하며, 그분께서 피와 전제와 향을 필요로 하지 않으신다고 배운 대로 말합니다. 우리가 누리는 모든 것에 대하여 기도와 감사의 말로 힘껏 그분을 찬양합니다. 우리가 전해 받은, 그분께 합당한 유일한 공경은 이것입니다. 그분께서 양식으로 주신 것을 불에 태워 없애지 않고, 우리와 궁핍한 사람들을 위해 사용하며, 그분께 감사하여 우리의 존재와 건강을 위한 모든 공급에 대해 말로 찬미와 찬송을 올리는 것입니다. 온갖 종류의 것들과 계절의 변화에 대해서도 그러합니다. 그리고 그분을 믿는 믿음을 통하여 다시 불멸의 삶을 얻도록 간구합니다. 이것들을 우리의 스승으로서 가르치셨고 이를 위해 태어나신 예수 그리스도, 티베리우스 카이사르 시대에 유대의 총독이었던 본디오 빌라도 아래에서 십자가에 달리신 그분이 참되신 하나님의 아들이심을 우리가 배웠으며, 그분을 둘째 자리에 모시고 예언의 영을 셋째 순위에 모셔 이성에 따라 공경한다는 것을 밝히겠습니다. 바로 이 점에서 사람들은 우리를 미쳤다고 여깁니다. 변함없이 영원히 계시며 만물의 아버지이신 하나님 다음의 자리를 십자가에 달린 인간에게 내준다고 말합니다. 그 안에 담긴 신비를 알지 못하기 때문입니다. 우리가 설명할 때 여러분이 이 신비에 주의를 기울이기를 권합니다."
       },
       "work_id": "justin-first-apology",

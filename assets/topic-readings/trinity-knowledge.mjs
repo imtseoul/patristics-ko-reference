@@ -1078,7 +1078,7 @@ export default {
       "author": "나지안조스의 그레고리오스",
       "groups": [
         {
-          "id": "a-3cb715e3fcfd290e1ff2",
+          "id": "a-2681ccb248987247a926",
           "ko_token_indexes": [
             0,
             1,
@@ -1094,7 +1094,7 @@ export default {
           ]
         },
         {
-          "id": "a-ad7d62c5c620a469ab41",
+          "id": "a-415be49e5856b40ab0ca",
           "ko_token_indexes": [
             4,
             5,
@@ -1124,7 +1124,7 @@ export default {
           ]
         },
         {
-          "id": "a-13f97eb62e558a0e1ade",
+          "id": "a-fe7ffc8d96cd3b7dc561",
           "ko_token_indexes": [
             13,
             14,
@@ -1145,7 +1145,7 @@ export default {
           ]
         },
         {
-          "id": "a-6e751c606d6c4ad8be75",
+          "id": "a-7e7bf9e4c07f87ebc73d",
           "ko_token_indexes": [
             19,
             20,
@@ -1155,11 +1155,7 @@ export default {
             24,
             25,
             26,
-            27,
-            28,
-            29,
-            30,
-            31
+            27
           ],
           "source_token_indexes": [
             27,
@@ -1178,13 +1174,16 @@ export default {
           ]
         },
         {
-          "id": "a-0ef0ad2d41695321a51d",
+          "id": "a-2eec9e84f8903adba453",
           "ko_token_indexes": [
+            28,
+            29,
+            30,
+            31,
             32,
             33,
             34,
-            35,
-            36
+            35
           ],
           "source_token_indexes": [
             40,
@@ -1196,8 +1195,9 @@ export default {
           ]
         },
         {
-          "id": "a-bf4623aedbb5f76a5e6e",
+          "id": "a-48c2a978caef61458bfc",
           "ko_token_indexes": [
+            36,
             37,
             38,
             39,
@@ -1208,8 +1208,7 @@ export default {
             44,
             45,
             46,
-            47,
-            48
+            47
           ],
           "source_token_indexes": [
             46,
@@ -1226,8 +1225,9 @@ export default {
           ]
         },
         {
-          "id": "a-d2f8959b29e378141f13",
+          "id": "a-dd51f0e03e9c70dfa7c6",
           "ko_token_indexes": [
+            48,
             49,
             50,
             51,
@@ -1239,8 +1239,7 @@ export default {
             57,
             58,
             59,
-            60,
-            61
+            60
           ],
           "source_token_indexes": [
             57,
@@ -1262,8 +1261,9 @@ export default {
           ]
         },
         {
-          "id": "a-47c04106dc481f24a80d",
+          "id": "a-a9ce08cca26c6c35e431",
           "ko_token_indexes": [
+            61,
             62,
             63,
             64,
@@ -1271,8 +1271,7 @@ export default {
             66,
             67,
             68,
-            69,
-            70
+            69
           ],
           "source_token_indexes": [
             73,
@@ -1286,8 +1285,9 @@ export default {
           ]
         },
         {
-          "id": "a-57971cf238117877d395",
+          "id": "a-0d4d532712684100400e",
           "ko_token_indexes": [
+            70,
             71,
             72,
             73,
@@ -1304,8 +1304,7 @@ export default {
             84,
             85,
             86,
-            87,
-            88
+            87
           ],
           "source_token_indexes": [
             81,
@@ -1327,16 +1326,16 @@ export default {
           ]
         },
         {
-          "id": "a-36ca54e5f76d137b372f",
+          "id": "a-1572e2125d7986140310",
           "ko_token_indexes": [
+            88,
             89,
             90,
             91,
             92,
             93,
             94,
-            95,
-            96
+            95
           ],
           "source_token_indexes": [
             97,
@@ -1350,8 +1349,9 @@ export default {
           ]
         },
         {
-          "id": "a-527bbfc03be0a7748804",
+          "id": "a-1d88f9f8537c912fd59f",
           "ko_token_indexes": [
+            96,
             97,
             98,
             99,
@@ -1363,8 +1363,7 @@ export default {
             105,
             106,
             107,
-            108,
-            109
+            108
           ],
           "source_token_indexes": [
             105,
@@ -1386,16 +1385,16 @@ export default {
           ]
         },
         {
-          "id": "a-01d36ef6781eca573527",
+          "id": "a-df9b9846547c708b885a",
           "ko_token_indexes": [
+            109,
             110,
             111,
             112,
             113,
             114,
             115,
-            116,
-            117
+            116
           ],
           "source_token_indexes": [
             121,
@@ -1411,13 +1410,13 @@ export default {
           ]
         },
         {
-          "id": "a-577c687618653117e914",
+          "id": "a-cebec29712f69c043faa",
           "ko_token_indexes": [
+            117,
             118,
             119,
             120,
-            121,
-            122
+            121
           ],
           "source_token_indexes": [
             131,
@@ -1429,8 +1428,9 @@ export default {
           ]
         },
         {
-          "id": "a-1885423734b42d787761",
+          "id": "a-270c4ac074570de4c1fa",
           "ko_token_indexes": [
+            122,
             123,
             124,
             125,
@@ -1441,8 +1441,7 @@ export default {
             130,
             131,
             132,
-            133,
-            134
+            133
           ],
           "source_token_indexes": [
             137,
@@ -1476,8 +1475,8 @@ export default {
           "하나님의 평화는 빌립보서 4:7, 눈과 귀와 마음에 이르지 못한 약속은 고린도전서 2:9, 하늘과 달과 별은 시편 8:3의 표현과 연결된다. 성경의 말은 강론에 실린 그리스어 형태를 따른다.",
           "하나님께서 계신다는 사실과 그분이 무엇이신지를 구별한다. 본성을 파악하지 못한다는 설명을 믿음과 선포의 무의미함에 연결하려는 상대의 반론에 답한다."
         ],
-        "revision_id": "sha256:d5e381d9209f887e3c742fa7881cd9636f0b38d92c997550fde8ed5106d26a8c",
-        "text": "이 문제는 여기까지 두자. 우리에게는 하나님의 평화만 모든 지성과 이해를 뛰어넘는 것이 아니다. 의로운 이들에게 약속으로 마련된 것들도 그러하다. 그것들은 눈으로 보거나 귀로 듣거나 생각으로 살필 수 없으며, 조금도 그럴 수 없다. 창조를 정확히 이해하는 일도 그러하다. 우리는 창조에 대해서도 그림자만 붙들고 있다는 사실을, 다음 말을 들을 때 인정하라. “나는 주님의 손가락으로 만드신 하늘들, 달과 별들, 그리고 그 안의 확고한 질서를 보리라.” 지금 보는 것이 아니라, 언젠가 보게 될 것이라는 말이다. 이보다 훨씬 더, 이 모든 것을 뛰어넘고 이 모든 것의 근원이 되는 본성은 붙잡을 수도 담아낼 수도 없다. 나는 하나님께서 존재하신다는 사실이 아니라, 그분이 무엇이신지를 말한다. 우리의 선포가 헛되거나 믿음이 무의미한 것도 아니며, 그런 가르침을 내놓는 것도 아니기 때문이다. 우리의 솔직함을 다시 무신론과 비방의 빌미로 삼지 말라. 우리가 무지를 인정했다며 우쭐대지 말라. 어떤 것이 존재한다고 확신하는 일과 그것이 무엇인지 아는 일은 크게 다르기 때문이다."
+        "revision_id": "sha256:902bd7392c67a9f6ee7f6954120c3d47ee768f070e7d373bc94cc09793805126",
+        "text": "이 문제는 여기까지 두자. 우리에게는 하나님의 평화만 모든 지성과 이해를 뛰어넘는 것이 아니다. 의로운 이들에게 약속으로 마련된 것들도 그러하다. 그것들은 눈으로 보거나 귀로 듣거나 생각으로 살필 수 없다. 창조를 정확히 이해하는 일도 적어도 어느 정도는 그러하다. 우리는 창조에 대해서도 그림자만 붙들고 있다는 사실을, 다음 말을 들을 때 인정하라. “나는 주님의 손가락으로 만드신 하늘들, 달과 별들, 그리고 그 안의 확고한 질서를 보리라.” 지금 보는 것이 아니라, 언젠가 보게 될 것이라는 말이다. 이보다 훨씬 더, 이 모든 것을 뛰어넘고 이 모든 것의 근원이 되는 본성은 붙잡을 수도 담아낼 수도 없다. 나는 하나님께서 존재하신다는 사실이 아니라, 그분이 무엇이신지를 말한다. 우리의 선포가 헛되거나 믿음이 무의미한 것도 아니며, 그런 가르침을 내놓는 것도 아니기 때문이다. 우리의 솔직함을 다시 무신론과 비방의 빌미로 삼지 말라. 우리가 무지를 인정했다며 우쭐대지 말라. 어떤 것이 존재한다고 확신하는 일과 그것이 무엇인지 아는 일은 크게 다르기 때문이다."
       },
       "work_id": "gregory-nazianzus-oration-28",
       "work_passage_id": "gregory-nazianzus-oration-28:5"
@@ -3748,7 +3747,7 @@ export default {
       "author": "나지안조스의 그레고리오스",
       "groups": [
         {
-          "id": "a-03820439c54cd8d2bae9",
+          "id": "a-00568dc982a48e3c5c9b",
           "ko_token_indexes": [
             0,
             1,
@@ -3760,7 +3759,7 @@ export default {
           ]
         },
         {
-          "id": "a-8a98b891c05fae94254e",
+          "id": "a-c1f05022e04803a547b6",
           "ko_token_indexes": [
             3,
             4,
@@ -3785,7 +3784,7 @@ export default {
           ]
         },
         {
-          "id": "a-9bd5237c7aa4f0ae3156",
+          "id": "a-16657f6926ca69db894a",
           "ko_token_indexes": [
             11,
             12,
@@ -3813,7 +3812,7 @@ export default {
           ]
         },
         {
-          "id": "a-6eb223143d2f2c5b6a29",
+          "id": "a-fbdddab09166b643162e",
           "ko_token_indexes": [
             20,
             21,
@@ -3838,7 +3837,7 @@ export default {
           ]
         },
         {
-          "id": "a-6cdcbbd0ce7c2e1c91c4",
+          "id": "a-60210e81a2bd8726db44",
           "ko_token_indexes": [
             30,
             31,
@@ -3858,7 +3857,7 @@ export default {
           ]
         },
         {
-          "id": "a-438ddb6c095a4a02c1cf",
+          "id": "a-f5c118f813b567866a36",
           "ko_token_indexes": [
             35,
             36,
@@ -3881,7 +3880,7 @@ export default {
           ]
         },
         {
-          "id": "a-a47ba6cb92252e109d50",
+          "id": "a-d05c0613b9678585ec51",
           "ko_token_indexes": [
             42,
             43,
@@ -3902,7 +3901,7 @@ export default {
           ]
         },
         {
-          "id": "a-09ffb66d41351c33b72b",
+          "id": "a-823b4ee4636809599129",
           "ko_token_indexes": [
             50,
             51,
@@ -3928,7 +3927,7 @@ export default {
           ]
         },
         {
-          "id": "a-057394050887387251c3",
+          "id": "a-26b2be016680afb26ec1",
           "ko_token_indexes": [
             60,
             61,
@@ -3958,7 +3957,7 @@ export default {
           ]
         },
         {
-          "id": "a-3604be2d469f1c2c5ce7",
+          "id": "a-b9f33af1407560f2c244",
           "ko_token_indexes": [
             70,
             71,
@@ -3991,7 +3990,7 @@ export default {
           ]
         },
         {
-          "id": "a-ee3ccb1773c37b4815c1",
+          "id": "a-bf306b123fd5c48d6fe7",
           "ko_token_indexes": [
             84,
             85,
@@ -4027,7 +4026,7 @@ export default {
           ]
         },
         {
-          "id": "a-f59c10f26645d7173067",
+          "id": "a-82082e4e54bfe1871fb3",
           "ko_token_indexes": [
             99,
             100,
@@ -4052,7 +4051,7 @@ export default {
           ]
         },
         {
-          "id": "a-c0786b35808eaa9e0cfa",
+          "id": "a-8278497af1320e4c0dd1",
           "ko_token_indexes": [
             108,
             109,
@@ -4079,7 +4078,7 @@ export default {
           ]
         },
         {
-          "id": "a-50c8ee5eb3fc0d6f7008",
+          "id": "a-5c6ab50005d914f365b2",
           "ko_token_indexes": [
             120,
             121,
@@ -4098,7 +4097,7 @@ export default {
           ]
         },
         {
-          "id": "a-db6cc6b2646409dda758",
+          "id": "a-880278bbe8bd82b19988",
           "ko_token_indexes": [
             126,
             127,
@@ -4131,7 +4130,7 @@ export default {
           ]
         },
         {
-          "id": "a-58505bc99623bb3872d0",
+          "id": "a-90db080c42c3f1b48d10",
           "ko_token_indexes": [
             139,
             140,
@@ -4152,7 +4151,7 @@ export default {
           ]
         },
         {
-          "id": "a-edb430851b09354f2587",
+          "id": "a-3e433e6f45d129776c0d",
           "ko_token_indexes": [
             147,
             148,
@@ -4178,7 +4177,7 @@ export default {
           ]
         },
         {
-          "id": "a-bcc1966ae165da89232c",
+          "id": "a-df61aeb5db0383bf5f9a",
           "ko_token_indexes": [
             158,
             159,
@@ -4210,7 +4209,7 @@ export default {
           ]
         },
         {
-          "id": "a-4a7d57c7e30b5f8636ba",
+          "id": "a-712d203c824528110d85",
           "ko_token_indexes": [
             171,
             172,
@@ -4230,7 +4229,7 @@ export default {
           ]
         },
         {
-          "id": "a-000f4513195fc938f572",
+          "id": "a-37f0c31b3a177879f6b2",
           "ko_token_indexes": [
             178,
             179,
@@ -4271,7 +4270,7 @@ export default {
           ]
         },
         {
-          "id": "a-ff28e33bfb6985b8d1fc",
+          "id": "a-1ddadb029e129d3d3970",
           "ko_token_indexes": [
             196,
             197,
@@ -4288,7 +4287,7 @@ export default {
           ]
         },
         {
-          "id": "a-4129437c34ef1952deb7",
+          "id": "a-4763b722fc910e0bd844",
           "ko_token_indexes": [
             200,
             201,
@@ -4326,7 +4325,7 @@ export default {
           ]
         },
         {
-          "id": "a-060d05fddfd6d197beb0",
+          "id": "a-36dc21acb95c7a6e670a",
           "ko_token_indexes": [
             215,
             216,
@@ -4353,7 +4352,7 @@ export default {
           ]
         },
         {
-          "id": "a-baeafe4c51b26ccee14b",
+          "id": "a-3dab0ec192a9a8f47607",
           "ko_token_indexes": [
             226,
             227,
@@ -4388,7 +4387,7 @@ export default {
           ]
         },
         {
-          "id": "a-1c2358bffd13c0d71300",
+          "id": "a-2dce77a4f5d0f6c104ba",
           "ko_token_indexes": [
             242,
             243,
@@ -4423,7 +4422,7 @@ export default {
           ]
         },
         {
-          "id": "a-0a734821e52309882fde",
+          "id": "a-7b90294e454e69cd85fe",
           "ko_token_indexes": [
             257,
             258,
@@ -4442,7 +4441,7 @@ export default {
           ]
         },
         {
-          "id": "a-2bcb078c81845ebdbc1f",
+          "id": "a-803e30d733fb1f1b66ec",
           "ko_token_indexes": [
             262,
             263,
@@ -4472,7 +4471,7 @@ export default {
           ]
         },
         {
-          "id": "a-a49279ea5b655795f5a0",
+          "id": "a-3b66d7304d6f0d536a34",
           "ko_token_indexes": [
             274,
             275,
@@ -4494,7 +4493,7 @@ export default {
           ]
         },
         {
-          "id": "a-e56cd5d0455b3955df22",
+          "id": "a-2ffbbfc16acc08d5aa25",
           "ko_token_indexes": [
             281,
             282,
@@ -4525,7 +4524,7 @@ export default {
           ]
         },
         {
-          "id": "a-e14feb7931498a328b8f",
+          "id": "a-3cd08c390a813b1d88fd",
           "ko_token_indexes": [
             293,
             294,
@@ -4546,7 +4545,7 @@ export default {
           ]
         },
         {
-          "id": "a-ba1ac9a4431af7640747",
+          "id": "a-2c93f67f8a57a8a1b93a",
           "ko_token_indexes": [
             300,
             301,
@@ -4579,7 +4578,7 @@ export default {
           ]
         },
         {
-          "id": "a-ca5a4fd442be470e0fe9",
+          "id": "a-27a6c9bc27d7324f09a4",
           "ko_token_indexes": [
             313,
             314,
@@ -4597,7 +4596,7 @@ export default {
           ]
         },
         {
-          "id": "a-71c8a325cbc270b5fdc1",
+          "id": "a-d4b791bb450469c38b57",
           "ko_token_indexes": [
             318,
             319,
@@ -4607,8 +4606,7 @@ export default {
             323,
             324,
             325,
-            326,
-            327
+            326
           ],
           "source_token_indexes": [
             307,
@@ -4625,8 +4623,9 @@ export default {
           ]
         },
         {
-          "id": "a-0766a49d9ccc3a170673",
+          "id": "a-e9944167cbff67b9e3ea",
           "ko_token_indexes": [
+            327,
             328,
             329,
             330,
@@ -4634,8 +4633,7 @@ export default {
             332,
             333,
             334,
-            335,
-            336
+            335
           ],
           "source_token_indexes": [
             318,
@@ -4653,8 +4651,9 @@ export default {
           ]
         },
         {
-          "id": "a-d80afb765e28bd8c532c",
+          "id": "a-77158b6b83bb4f05a1eb",
           "ko_token_indexes": [
+            336,
             337,
             338,
             339,
@@ -4664,8 +4663,7 @@ export default {
             343,
             344,
             345,
-            346,
-            347
+            346
           ],
           "source_token_indexes": [
             330,
@@ -4683,15 +4681,15 @@ export default {
           ]
         },
         {
-          "id": "a-a249b5b93e1548dcac17",
+          "id": "a-20e5e89e6e1844d1ede3",
           "ko_token_indexes": [
+            347,
             348,
             349,
             350,
             351,
             352,
-            353,
-            354
+            353
           ],
           "source_token_indexes": [
             342,
@@ -4703,15 +4701,15 @@ export default {
           ]
         },
         {
-          "id": "a-afdf8ca1eff8afebcf79",
+          "id": "a-778a316c8f64a2b9e038",
           "ko_token_indexes": [
+            354,
             355,
             356,
             357,
             358,
             359,
-            360,
-            361
+            360
           ],
           "source_token_indexes": [
             348,
@@ -4738,8 +4736,8 @@ export default {
           "λαμπρότητες와 ἀναβάσεις도 천상 존재들의 열거에 들어 있다. ‘광휘와 상승이라 불리는 이들’로 옮겼다. 첫 빛을 받은 존재들이 다시 다른 이들을 밝힌다는 비유가 이어진다.",
           "마지막의 ‘두 번째 자리’는 하나님 다음의 피조된 천상 존재들을 가리킨다. ‘만물 위’라는 말에도 비교의 여지가 있어, 처음부터 계시며 홀로 계신 하나님의 본성을 강조한다."
         ],
-        "revision_id": "sha256:d37f2f57bc638c6c952148d9979f1b8ff8b67d7d22a6da15c3041d1d3663d3e4",
-        "text": "그대는 무엇이라 말하겠는가? 우리의 논의를 물질과 보이는 것들까지만 다루고 여기서 멈출까? 아니면 이성은 모세의 장막이 온 우주의 대응 모형임을 아는데, 곧 보이는 것들과 보이지 않는 것들로 이루어진 세계의 모형임을 아는데, 첫 휘장을 뚫고 감각을 넘어서, 성소 안의 지성적이며 하늘에 속한 본성을 들여다볼까? 우리는 그것도 육체의 형상 없이 볼 수는 없다. 몸이 없는 본성이라 해도, 불과 영으로 불리거나 그렇게 되기 때문이다. 하나님께서 자신의 천사들을 영으로, 자신의 일꾼들을 불꽃으로 만드신다고 말씀하기 때문이다. 여기서 만드신다는 말이, 그들이 처음 생겨난 질서에 따라 계속 간직하신다는 뜻이라면 이야기가 달라질 것이다. 그 본성은 영과 불로 불린다. 지성적 본성이므로 영이라 하고, 정결하게 하는 성질 때문에 불이라 한다. 처음부터 계신 본질에도 같은 이름들이 붙는다는 사실을 나는 안다. 어쨌든 우리는 그것을 몸이 없거나, 적어도 그에 가장 가까운 것으로 여겨 두자. 논의 앞에서 우리가 어떻게 어지러워하는지 보이는가? 우리는 천사와 대천사들이 있다는 정도를 아는 것 외에, 더 나아갈 곳을 찾지 못한다. 보좌들과 주권들과 통치들과 권세들, 광휘와 상승이라 불리는 이들, 지성적 능력들 또는 지성들, 순수하며 거짓 없는 본성들이 있다는 정도를 안다. 그들은 악한 쪽으로 움직이지 않거나 좀처럼 움직이지 않으며, 첫 원인 둘레에서 언제나 춤춘다. 또 어떤 말로 그들을 찬양할 수 있겠는가? 그들은 그 근원에서 가장 순수한 비춤을 받는다. 또는 저마다 본성과 계급에 비례하여 다른 비춤을 받는다고 할 수 있다. 아름다움으로 그토록 빚어지고 형성되어, 첫 빛이 흘러들어 나누어지는 것을 통해 또 다른 빛들이 되고, 다른 이들까지 밝힐 수 있다. 하나님의 뜻을 섬기는 이들이며, 본성에서 받은 힘과 더해 받은 힘으로 강하다. 봉사하려는 열심과 가벼운 본성 때문에, 모든 곳을 다니며 모든 이에게 어디서나 곧 함께할 준비가 되어 있다. 어떤 이들은 세계의 서로 다른 부분들을 맡고, 어떤 이들은 우주의 다른 어떤 것을 맡도록 배치되었다. 그것들을 정하고 나누신 분께서 아신다. 그들은 모든 것을 만드신 분의 한 뜻을 향하여, 모든 것을 하나로 이끈다. 하나님의 위엄을 찬양하고, 영원한 영광을 영원히 바라본다. 하나님께 영광을 더하려는 것은 아니다. 충만하신 분께 더할 것은 아무것도 없기 때문이다. 그분은 다른 이들에게도 아름다운 것들을 베푸시는 분이시다. 하나님 다음으로 처음 자리에 있는 본성들까지도, 은혜를 받는 일이 끊어지지 않게 하려는 것이다. 이것들을 그 가치에 합당하게 찬양했다면, 이는 삼위일체의 은혜이며, 세 위격 안에 계신 하나의 신성의 은혜다. 바라던 것보다 못하게 찬양했다 해도, 논의는 그렇게도 목적을 이루었다. 두 번째 자리에 있는 본성조차 지성을 뛰어넘는다는 점을 밝히려고 애썼기 때문이다. 하물며 처음부터 계시며 홀로 계신 본성은 어떠하겠는가? 나는 만물 위에 계신 본성이라고 말하기조차 망설여진다."
+        "revision_id": "sha256:28cb649721ecd60b125fe939caa978bb1718f2e250f135a5b96b27118083aeb9",
+        "text": "그대는 무엇이라 말하겠는가? 우리의 논의를 물질과 보이는 것들까지만 다루고 여기서 멈출까? 아니면 이성은 모세의 장막이 온 우주의 대응 모형임을 아는데, 곧 보이는 것들과 보이지 않는 것들로 이루어진 세계의 모형임을 아는데, 첫 휘장을 뚫고 감각을 넘어서, 성소 안의 지성적이며 하늘에 속한 본성을 들여다볼까? 우리는 그것도 육체의 형상 없이 볼 수는 없다. 몸이 없는 본성이라 해도, 불과 영으로 불리거나 그렇게 되기 때문이다. 하나님께서 자신의 천사들을 영으로, 자신의 일꾼들을 불꽃으로 만드신다고 말씀하기 때문이다. 여기서 만드신다는 말이, 그들이 처음 생겨난 질서에 따라 계속 간직하신다는 뜻이라면 이야기가 달라질 것이다. 그 본성은 영과 불로 불린다. 지성적 본성이므로 영이라 하고, 정결하게 하는 성질 때문에 불이라 한다. 처음부터 계신 본질에도 같은 이름들이 붙는다는 사실을 나는 안다. 어쨌든 우리는 그것을 몸이 없거나, 적어도 그에 가장 가까운 것으로 여겨 두자. 논의 앞에서 우리가 어떻게 어지러워하는지 보이는가? 우리는 천사와 대천사들이 있다는 정도를 아는 것 외에, 더 나아갈 곳을 찾지 못한다. 보좌들과 주권들과 통치들과 권세들, 광휘와 상승이라 불리는 이들, 지성적 능력들 또는 지성들, 순수하며 거짓 없는 본성들이 있다는 정도를 안다. 그들은 악한 쪽으로 움직이지 않거나 좀처럼 움직이지 않으며, 첫 원인 둘레에서 언제나 춤춘다. 또 어떤 말로 그들을 찬양할 수 있겠는가? 그들은 그 근원에서 가장 순수한 비춤을 받는다. 또는 저마다 본성과 계급에 비례하여 다른 비춤을 받는다고 할 수 있다. 아름다움으로 그토록 빚어지고 형성되어, 첫 빛이 흘러들어 나누어지는 것을 통해 또 다른 빛들이 되고, 다른 이들까지 밝힐 수 있다. 하나님의 뜻을 섬기는 이들이며, 본성에서 받은 힘과 더해 받은 힘으로 강하다. 봉사하려는 열심과 가벼운 본성 때문에, 모든 곳을 다니며 모든 이에게 어디서나 곧 함께할 준비가 되어 있다. 어떤 이들은 세계의 서로 다른 부분들을 맡고, 어떤 이들은 우주의 다른 어떤 것을 맡도록 배치되었다. 그것들을 정하고 나누신 분께서 아신다. 그들은 모든 것을 만드신 분의 한 뜻을 향하여, 모든 것을 하나로 이끈다. 하나님의 위엄을 찬양하고, 영원한 영광을 영원히 바라본다. 하나님께 영광을 더하려는 것은 아니다. 충만하신 분께 더할 것은 아무것도 없기 때문이다. 그분은 다른 이들에게도 아름다운 것들을 베푸시는 분이시다. 하나님 다음으로 처음 자리에 있는 본성들까지도, 은혜를 받는 일이 끊어지지 않게 하려는 것이다. 이것들을 그 가치에 합당하게 찬양했다면, 이는 삼위일체의 은혜이며, 셋 안에 계신 하나의 신성의 은혜다. 바라던 것보다 못하게 찬양했다 해도, 논의는 그렇게도 목적을 이루었다. 두 번째 자리에 있는 본성조차 지성을 뛰어넘는다는 점을 밝히려고 애썼기 때문이다. 하물며 처음부터 계시며 홀로 계신 본성은 어떠하겠는가? 나는 만물 위에 계신 본성이라고 말하기조차 망설여진다."
       },
       "work_id": "gregory-nazianzus-oration-28",
       "work_passage_id": "gregory-nazianzus-oration-28:31"
@@ -6595,7 +6593,7 @@ export default {
       "author": "나지안조스의 그레고리오스",
       "groups": [
         {
-          "id": "a-e54a13ef3f9738f3de4e",
+          "id": "a-159c94281b03b2b651b3",
           "ko_token_indexes": [
             0,
             1,
@@ -6614,7 +6612,7 @@ export default {
           ]
         },
         {
-          "id": "a-9b8e661ffebfd1252faa",
+          "id": "a-892ca14c3d5ca3b72249",
           "ko_token_indexes": [
             5,
             6,
@@ -6655,7 +6653,7 @@ export default {
           ]
         },
         {
-          "id": "a-e89e9f49ef2620b8fd98",
+          "id": "a-bb20d35c72704b77d17f",
           "ko_token_indexes": [
             21,
             22,
@@ -6707,7 +6705,7 @@ export default {
           ]
         },
         {
-          "id": "a-7690ae40905293c82985",
+          "id": "a-055441f2db20b0c659a3",
           "ko_token_indexes": [
             47,
             48,
@@ -6734,7 +6732,7 @@ export default {
           ]
         },
         {
-          "id": "a-d32184bc301082e37e23",
+          "id": "a-155c2525bea2afdd6bcf",
           "ko_token_indexes": [
             56,
             57,
@@ -6754,7 +6752,11 @@ export default {
             71,
             72,
             73,
-            74
+            74,
+            75,
+            76,
+            77,
+            78
           ],
           "source_token_indexes": [
             55,
@@ -6786,12 +6788,8 @@ export default {
           ]
         },
         {
-          "id": "a-f8f4f69f37d7f84e3ebb",
+          "id": "a-2caf5fbaa84f496a7726",
           "ko_token_indexes": [
-            75,
-            76,
-            77,
-            78,
             79,
             80,
             81,
@@ -6799,7 +6797,11 @@ export default {
             83,
             84,
             85,
-            86
+            86,
+            87,
+            88,
+            89,
+            90
           ],
           "source_token_indexes": [
             81,
@@ -6818,19 +6820,19 @@ export default {
           ]
         },
         {
-          "id": "a-1b1316b614e21cda8b27",
+          "id": "a-ac3d68d345e5fd529658",
           "ko_token_indexes": [
-            87,
-            88,
-            89,
-            90,
             91,
             92,
             93,
             94,
             95,
             96,
-            97
+            97,
+            98,
+            99,
+            100,
+            101
           ],
           "source_token_indexes": [
             94,
@@ -6850,15 +6852,15 @@ export default {
           ]
         },
         {
-          "id": "a-80da89b42f87a82e7938",
+          "id": "a-a404851e52149e61c55d",
           "ko_token_indexes": [
-            98,
-            99,
-            100,
-            101,
             102,
             103,
-            104
+            104,
+            105,
+            106,
+            107,
+            108
           ],
           "source_token_indexes": [
             108,
@@ -6872,12 +6874,8 @@ export default {
           ]
         },
         {
-          "id": "a-61945dd3cf17adde2a4d",
+          "id": "a-4f5034cf4772a9f93497",
           "ko_token_indexes": [
-            105,
-            106,
-            107,
-            108,
             109,
             110,
             111,
@@ -6888,7 +6886,11 @@ export default {
             116,
             117,
             118,
-            119
+            119,
+            120,
+            121,
+            122,
+            123
           ],
           "source_token_indexes": [
             116,
@@ -6919,12 +6921,12 @@ export default {
           ]
         },
         {
-          "id": "a-86f1ffefc8e70d949d98",
+          "id": "a-8e5d9ef2a4589c5aa331",
           "ko_token_indexes": [
-            120,
-            121,
-            122,
-            123
+            124,
+            125,
+            126,
+            127
           ],
           "source_token_indexes": [
             141,
@@ -6949,8 +6951,8 @@ export default {
           "해와 빛줄기와 빛의 비유에서는 합성과, 아버지만 실재하는 분으로 두는 문제가 생긴다고 설명한다. ὑφεστώς는 다른 것 안의 성질과 구별되는 스스로의 존재를 가리킨다.",
           "물의 움직임을 반사하는 햇빛은 빠르게 모이고 흩어져 하나와 여럿처럼 보이는 다른 비유이다. 다음 장에서 움직임을 일으키는 원인과 변화의 문제를 묻는다."
         ],
-        "revision_id": "sha256:6c59d05ae2ec3d2ff7a85e28728a7a661d5a3046bfed9243a17a6902a1ca08e5",
-        "text": "다시 해와 빛줄기와 빛을 생각했다. 그러나 여기에도 두려움이 있다. 먼저, 해와 해 안의 것들처럼 합성되지 않은 본성이 어떤 합성으로 생각될까 두렵다. 다음으로, 아버지만 본질을 지닌 분으로 세우고, 다른 두 분은 스스로 존재하는 분으로 세우지 않을까 두렵다. 하나님 안에 있는 능력들로만 삼고 스스로 존재하는 분들로 삼지 않을까 두렵다. 빛줄기와 빛은 다른 해가 아니며, 해에서 나오는 어떤 흐름과 본질의 성질들이기 때문이다. 그렇게 비유를 따라 하나님께 존재하심과 존재하지 않으심을 동시에 적용할까 두렵다. 이것은 앞서 말한 것들보다 더 불합리하다. 다음과 같은 설명을 제시하는 이의 말도 들었다. 햇빛의 반짝임이 벽에 비친다는 것이다. 물의 움직임에 따라 떨리는 그 반짝임을, 빛줄기가 받아 중간의 공기를 통과한다. 그다음 단단한 물체에 가로막혀, 놀라운 떨림이 된다. 그것은 많고 잦은 움직임으로 뛰논다. 합쳐지고 갈라지는 속도 때문에, 하나이기보다는 여럿이지도 않고, 여럿이기보다는 하나이지도 않다. 눈에 붙잡히기 전에 달아난다."
+        "revision_id": "sha256:6ba07ee34a909fb83453f33b61ae11e3d8d35bff1dd6c093789bb490456d9d17",
+        "text": "다시 해와 빛줄기와 빛을 생각했다. 그러나 여기에도 두려움이 있다. 먼저, 해와 해 안의 것들처럼 합성되지 않은 본성이 어떤 합성으로 생각될까 두렵다. 다음으로, 아버지만 본질을 지닌 분으로 세우고, 다른 두 분은 스스로 존재하는 분으로 세우지 않을까 두렵다. 하나님 안에 있는 능력들로만 삼고 스스로 존재하는 분들로 삼지 않을까 두렵다. 빛줄기와 빛은 다른 해가 아니며, 해에서 나오는 어떤 흐름과 본질의 성질들이기 때문이다. 그렇게 비유를 따라 이 두 분에 관하여 하나님께 존재하심과 존재하지 않으심을 동시에 적용할까 두렵다. 이것은 앞서 말한 것들보다 더 불합리하다. 다음과 같은 설명을 제시하는 이의 말도 들었다. 햇빛의 반짝임이 벽에 비친다는 것이다. 물의 움직임에 따라 떨리는 그 반짝임을, 빛줄기가 받아 중간의 공기를 통과한다. 그다음 단단한 물체에 가로막혀, 놀라운 떨림이 된다. 그것은 많고 잦은 움직임으로 뛰논다. 합쳐지고 갈라지는 속도 때문에, 하나이기보다는 여럿이지도 않고, 여럿이기보다는 하나이지도 않다. 눈에 붙잡히기 전에 달아난다."
       },
       "work_id": "gregory-nazianzus-oration-31",
       "work_passage_id": "gregory-nazianzus-oration-31:32"
@@ -7389,7 +7391,7 @@ export default {
       "author": "아타나시우스",
       "groups": [
         {
-          "id": "a-d94e43495edd50aa0393",
+          "id": "a-bddb51c788410656dd05",
           "ko_token_indexes": [
             0,
             1,
@@ -7412,7 +7414,7 @@ export default {
           ]
         },
         {
-          "id": "a-8f8ba6dfaf17405dd2d9",
+          "id": "a-3ca068d8488bfdbcac56",
           "ko_token_indexes": [
             7,
             8,
@@ -7433,7 +7435,7 @@ export default {
           ]
         },
         {
-          "id": "a-a60805e5dc56bf82f754",
+          "id": "a-8b1be6a3f13bbdcb34cb",
           "ko_token_indexes": [
             13,
             14,
@@ -7451,7 +7453,7 @@ export default {
           ]
         },
         {
-          "id": "a-967a033ec23df251bf13",
+          "id": "a-c8cfabec0538531ba3f4",
           "ko_token_indexes": [
             19,
             20,
@@ -7470,7 +7472,7 @@ export default {
           ]
         },
         {
-          "id": "a-728ef3f0c927d3f6f0e2",
+          "id": "a-f45e639bf3b411f5cdd6",
           "ko_token_indexes": [
             22,
             23,
@@ -7491,7 +7493,7 @@ export default {
           ]
         },
         {
-          "id": "a-c596ca63115309ad6f4a",
+          "id": "a-419648d9dba9a09b163d",
           "ko_token_indexes": [
             32,
             33,
@@ -7509,7 +7511,7 @@ export default {
           ]
         },
         {
-          "id": "a-d03e22be7a7729a5dcaa",
+          "id": "a-4195c1b403b81cc4b205",
           "ko_token_indexes": [
             37,
             38,
@@ -7518,8 +7520,7 @@ export default {
             41,
             42,
             43,
-            44,
-            45
+            44
           ],
           "source_token_indexes": [
             41,
@@ -7531,12 +7532,12 @@ export default {
           ]
         },
         {
-          "id": "a-5b0c7785c5a23382b44e",
+          "id": "a-9918650b33514c81c9cc",
           "ko_token_indexes": [
+            45,
             46,
             47,
-            48,
-            49
+            48
           ],
           "source_token_indexes": [
             47,
@@ -7546,12 +7547,12 @@ export default {
           ]
         },
         {
-          "id": "a-ccde4d617585c5cbdc06",
+          "id": "a-9b734ae0f0d687c4cce5",
           "ko_token_indexes": [
+            49,
             50,
             51,
-            52,
-            53
+            52
           ],
           "source_token_indexes": [
             51,
@@ -7564,12 +7565,12 @@ export default {
           ]
         },
         {
-          "id": "a-5eca6ac9316b73c2b441",
+          "id": "a-b649f2589a9fb3663ab1",
           "ko_token_indexes": [
+            53,
             54,
             55,
-            56,
-            57
+            56
           ],
           "source_token_indexes": [
             58,
@@ -7582,15 +7583,15 @@ export default {
           ]
         },
         {
-          "id": "a-e85f3a93f0c2fcaa4d51",
+          "id": "a-130c9387762b6c6b438c",
           "ko_token_indexes": [
+            57,
             58,
             59,
             60,
             61,
             62,
-            63,
-            64
+            63
           ],
           "source_token_indexes": [
             65,
@@ -7604,8 +7605,9 @@ export default {
           ]
         },
         {
-          "id": "a-36cc33af60300e217207",
+          "id": "a-4ee8ef5b1726539f90c8",
           "ko_token_indexes": [
+            64,
             65,
             66,
             67,
@@ -7614,8 +7616,7 @@ export default {
             70,
             71,
             72,
-            73,
-            74
+            73
           ],
           "source_token_indexes": [
             73,
@@ -7632,11 +7633,11 @@ export default {
           ]
         },
         {
-          "id": "a-4897602200b50a2b7c10",
+          "id": "a-51a3be956831dbdcd6fb",
           "ko_token_indexes": [
+            74,
             75,
-            76,
-            77
+            76
           ],
           "source_token_indexes": [
             84,
@@ -7646,13 +7647,13 @@ export default {
           ]
         },
         {
-          "id": "a-830cfa5075dfda3b44d1",
+          "id": "a-6beda3e4af1641fc65b1",
           "ko_token_indexes": [
+            77,
             78,
             79,
             80,
-            81,
-            82
+            81
           ],
           "source_token_indexes": [
             88,
@@ -7663,14 +7664,14 @@ export default {
           ]
         },
         {
-          "id": "a-21e3c9e4e3c7495d58ec",
+          "id": "a-067fb09ccf2f3c2ada12",
           "ko_token_indexes": [
+            82,
             83,
             84,
             85,
             86,
-            87,
-            88
+            87
           ],
           "source_token_indexes": [
             93,
@@ -7682,14 +7683,14 @@ export default {
           ]
         },
         {
-          "id": "a-a357efe97ba1689b996a",
+          "id": "a-5b7d344bba519efa1f76",
           "ko_token_indexes": [
+            88,
             89,
             90,
             91,
             92,
-            93,
-            94
+            93
           ],
           "source_token_indexes": [
             99,
@@ -7701,14 +7702,14 @@ export default {
           ]
         },
         {
-          "id": "a-7065baec5f193fdae043",
+          "id": "a-cbb080cb21886e3f4bed",
           "ko_token_indexes": [
+            94,
             95,
             96,
             97,
             98,
-            99,
-            100
+            99
           ],
           "source_token_indexes": [
             105,
@@ -7720,14 +7721,14 @@ export default {
           ]
         },
         {
-          "id": "a-a30463a2ab7aa858afe8",
+          "id": "a-2775c2b41ea21c722af9",
           "ko_token_indexes": [
+            100,
             101,
             102,
             103,
             104,
-            105,
-            106
+            105
           ],
           "source_token_indexes": [
             111,
@@ -7740,8 +7741,9 @@ export default {
           ]
         },
         {
-          "id": "a-43c30aec7f55f1e72e7a",
+          "id": "a-0fee50f244dade518ba6",
           "ko_token_indexes": [
+            106,
             107,
             108,
             109,
@@ -7749,8 +7751,7 @@ export default {
             111,
             112,
             113,
-            114,
-            115
+            114
           ],
           "source_token_indexes": [
             118,
@@ -7764,15 +7765,15 @@ export default {
           ]
         },
         {
-          "id": "a-8dde2a96f3ef88a19154",
+          "id": "a-cfa84c0699443086643c",
           "ko_token_indexes": [
+            115,
             116,
             117,
             118,
             119,
             120,
-            121,
-            122
+            121
           ],
           "source_token_indexes": [
             126,
@@ -7787,12 +7788,12 @@ export default {
           ]
         },
         {
-          "id": "a-cf839546cc27d39feba5",
+          "id": "a-77b40f8fe52fc61a8df2",
           "ko_token_indexes": [
+            122,
             123,
             124,
-            125,
-            126
+            125
           ],
           "source_token_indexes": [
             135,
@@ -7803,14 +7804,14 @@ export default {
           ]
         },
         {
-          "id": "a-81322a7a904ee3e582a8",
+          "id": "a-e8f520f12fdd0eeb62fe",
           "ko_token_indexes": [
+            126,
             127,
             128,
             129,
             130,
-            131,
-            132
+            131
           ],
           "source_token_indexes": [
             140,
@@ -7823,12 +7824,12 @@ export default {
           ]
         },
         {
-          "id": "a-a8a4fde53ed447ebc058",
+          "id": "a-4c366085fc1ea59536f3",
           "ko_token_indexes": [
+            132,
             133,
             134,
-            135,
-            136
+            135
           ],
           "source_token_indexes": [
             147,
@@ -7839,12 +7840,12 @@ export default {
           ]
         },
         {
-          "id": "a-408ac79b1b02b183495a",
+          "id": "a-172d48fafa9748905940",
           "ko_token_indexes": [
+            136,
             137,
             138,
-            139,
-            140
+            139
           ],
           "source_token_indexes": [
             152,
@@ -7856,12 +7857,12 @@ export default {
           ]
         },
         {
-          "id": "a-4705c623715939453497",
+          "id": "a-4be52f35d0302e911c43",
           "ko_token_indexes": [
+            140,
             141,
             142,
-            143,
-            144
+            143
           ],
           "source_token_indexes": [
             158,
@@ -7872,12 +7873,12 @@ export default {
           ]
         },
         {
-          "id": "a-51614b0b3202745aab73",
+          "id": "a-1fecf54551dfe24318d5",
           "ko_token_indexes": [
+            144,
             145,
             146,
-            147,
-            148
+            147
           ],
           "source_token_indexes": [
             163,
@@ -7887,14 +7888,14 @@ export default {
           ]
         },
         {
-          "id": "a-abe1c471ada3534816ac",
+          "id": "a-081a2f1ff0a089bc96bd",
           "ko_token_indexes": [
+            148,
             149,
             150,
             151,
             152,
-            153,
-            154
+            153
           ],
           "source_token_indexes": [
             167,
@@ -7909,13 +7910,13 @@ export default {
           ]
         },
         {
-          "id": "a-28784666a46fd232dad9",
+          "id": "a-565adf25943818613b7f",
           "ko_token_indexes": [
+            154,
             155,
             156,
             157,
-            158,
-            159
+            158
           ],
           "source_token_indexes": [
             176,
@@ -7926,12 +7927,12 @@ export default {
           ]
         },
         {
-          "id": "a-f1cccda5714b69bd4f83",
+          "id": "a-54e87224582616dff660",
           "ko_token_indexes": [
+            159,
             160,
             161,
-            162,
-            163
+            162
           ],
           "source_token_indexes": [
             181,
@@ -7943,16 +7944,16 @@ export default {
           ]
         },
         {
-          "id": "a-837da8de3e1de4b4f015",
+          "id": "a-54cdf7a5efbcf1bd35dd",
           "ko_token_indexes": [
+            163,
             164,
             165,
             166,
             167,
             168,
             169,
-            170,
-            171
+            170
           ],
           "source_token_indexes": [
             187,
@@ -7967,16 +7968,16 @@ export default {
           ]
         },
         {
-          "id": "a-dac500d6af35935fd223",
+          "id": "a-914461ee4ffbf971bcab",
           "ko_token_indexes": [
+            171,
             172,
             173,
             174,
             175,
             176,
             177,
-            178,
-            179
+            178
           ],
           "source_token_indexes": [
             196,
@@ -7993,15 +7994,15 @@ export default {
           ]
         },
         {
-          "id": "a-755328e63b2263e3258a",
+          "id": "a-719d6b4bd0edfb6cf373",
           "ko_token_indexes": [
+            179,
             180,
             181,
             182,
             183,
             184,
-            185,
-            186
+            185
           ],
           "source_token_indexes": [
             207,
@@ -8014,14 +8015,14 @@ export default {
           ]
         },
         {
-          "id": "a-0af51297bdbe850401d3",
+          "id": "a-479b8c88976b04faa50e",
           "ko_token_indexes": [
+            186,
             187,
             188,
             189,
             190,
-            191,
-            192
+            191
           ],
           "source_token_indexes": [
             214,
@@ -8033,16 +8034,16 @@ export default {
           ]
         },
         {
-          "id": "a-0aa4c598c14e0e97890b",
+          "id": "a-7de463642cb4ea4543fc",
           "ko_token_indexes": [
+            192,
             193,
             194,
             195,
             196,
             197,
             198,
-            199,
-            200
+            199
           ],
           "source_token_indexes": [
             220,
@@ -8053,14 +8054,14 @@ export default {
           ]
         },
         {
-          "id": "a-2d967297a95788b6fc2c",
+          "id": "a-bd2a67bcbef0d3a8a884",
           "ko_token_indexes": [
+            200,
             201,
             202,
             203,
             204,
-            205,
-            206
+            205
           ],
           "source_token_indexes": [
             225,
@@ -8070,16 +8071,16 @@ export default {
           ]
         },
         {
-          "id": "a-74f9e82c4918e0820a45",
+          "id": "a-bae196b4460e1f16dae5",
           "ko_token_indexes": [
+            206,
             207,
             208,
             209,
             210,
             211,
             212,
-            213,
-            214
+            213
           ],
           "source_token_indexes": [
             229,
@@ -8095,13 +8096,13 @@ export default {
           ]
         },
         {
-          "id": "a-f457f6e1c5bbea5ee6d8",
+          "id": "a-ea0c2098382d4baa9295",
           "ko_token_indexes": [
+            214,
             215,
             216,
             217,
-            218,
-            219
+            218
           ],
           "source_token_indexes": [
             239,
@@ -8117,14 +8118,14 @@ export default {
           ]
         },
         {
-          "id": "a-27e219d5fcb0bc902e2c",
+          "id": "a-c547a8be8b5de024cde4",
           "ko_token_indexes": [
+            219,
             220,
             221,
             222,
             223,
-            224,
-            225
+            224
           ],
           "source_token_indexes": [
             249,
@@ -8140,14 +8141,14 @@ export default {
           ]
         },
         {
-          "id": "a-fcbaab2911bcb152db95",
+          "id": "a-e2dbc49de532d80144fb",
           "ko_token_indexes": [
+            225,
             226,
             227,
             228,
             229,
-            230,
-            231
+            230
           ],
           "source_token_indexes": [
             259,
@@ -8161,8 +8162,9 @@ export default {
           ]
         },
         {
-          "id": "a-4c0ab3e78ec85eb147af",
+          "id": "a-3148b798f367a1a8f259",
           "ko_token_indexes": [
+            231,
             232,
             233,
             234,
@@ -8171,8 +8173,7 @@ export default {
             237,
             238,
             239,
-            240,
-            241
+            240
           ],
           "source_token_indexes": [
             267,
@@ -8191,12 +8192,12 @@ export default {
           ]
         },
         {
-          "id": "a-2b21295dea74bdcc360d",
+          "id": "a-e59c19b5e74f6ab5a004",
           "ko_token_indexes": [
+            241,
             242,
             243,
-            244,
-            245
+            244
           ],
           "source_token_indexes": [
             280,
@@ -8206,11 +8207,11 @@ export default {
           ]
         },
         {
-          "id": "a-caa8005bafc30551cb91",
+          "id": "a-b7d7bc0c37bd135808bd",
           "ko_token_indexes": [
+            245,
             246,
-            247,
-            248
+            247
           ],
           "source_token_indexes": [
             284,
@@ -8222,13 +8223,13 @@ export default {
           ]
         },
         {
-          "id": "a-1293f86214870d466fa4",
+          "id": "a-b499b15d19f113483be4",
           "ko_token_indexes": [
+            248,
             249,
             250,
             251,
-            252,
-            253
+            252
           ],
           "source_token_indexes": [
             290,
@@ -8242,8 +8243,9 @@ export default {
           ]
         },
         {
-          "id": "a-25b72d1dfc0647f8f155",
+          "id": "a-821edf7d565a9bccebbb",
           "ko_token_indexes": [
+            253,
             254,
             255,
             256,
@@ -8253,8 +8255,7 @@ export default {
             260,
             261,
             262,
-            263,
-            264
+            263
           ],
           "source_token_indexes": [
             298,
@@ -8270,15 +8271,15 @@ export default {
           ]
         },
         {
-          "id": "a-078c93e327ac92607243",
+          "id": "a-5203824a5610b3bede00",
           "ko_token_indexes": [
+            264,
             265,
             266,
             267,
             268,
             269,
-            270,
-            271
+            270
           ],
           "source_token_indexes": [
             308,
@@ -8290,16 +8291,16 @@ export default {
           ]
         },
         {
-          "id": "a-a824f0511ac72f028aae",
+          "id": "a-750beab6dbfe16cd0a78",
           "ko_token_indexes": [
+            271,
             272,
             273,
             274,
             275,
             276,
             277,
-            278,
-            279
+            278
           ],
           "source_token_indexes": [
             314,
@@ -8311,12 +8312,12 @@ export default {
           ]
         },
         {
-          "id": "a-29d85ab7bd5d45e1737e",
+          "id": "a-52afb1bb57a0c95313df",
           "ko_token_indexes": [
+            279,
             280,
             281,
-            282,
-            283
+            282
           ],
           "source_token_indexes": [
             320,
@@ -8328,8 +8329,9 @@ export default {
           ]
         },
         {
-          "id": "a-7c19698c30aacf94dc9e",
+          "id": "a-a32ac07879a5418a3822",
           "ko_token_indexes": [
+            283,
             284,
             285,
             286,
@@ -8337,8 +8339,7 @@ export default {
             288,
             289,
             290,
-            291,
-            292
+            291
           ],
           "source_token_indexes": [
             326,
@@ -8349,11 +8350,11 @@ export default {
           ]
         },
         {
-          "id": "a-e0e07f52680772124723",
+          "id": "a-af15444a6c70b8a838ca",
           "ko_token_indexes": [
+            292,
             293,
-            294,
-            295
+            294
           ],
           "source_token_indexes": [
             331,
@@ -8365,11 +8366,11 @@ export default {
           ]
         },
         {
-          "id": "a-df12acdd0a8d0fb767e4",
+          "id": "a-143bc00f3f45e9a30b3a",
           "ko_token_indexes": [
+            295,
             296,
-            297,
-            298
+            297
           ],
           "source_token_indexes": [
             337,
@@ -8380,8 +8381,9 @@ export default {
           ]
         },
         {
-          "id": "a-fff733b872c1475df71d",
+          "id": "a-ff67b0035dda700c4665",
           "ko_token_indexes": [
+            298,
             299,
             300,
             301,
@@ -8390,8 +8392,7 @@ export default {
             304,
             305,
             306,
-            307,
-            308
+            307
           ],
           "source_token_indexes": [
             342,
@@ -8403,12 +8404,12 @@ export default {
           ]
         },
         {
-          "id": "a-e21a991277af787f2ac2",
+          "id": "a-2f0e5b0a9f0c146a6708",
           "ko_token_indexes": [
+            308,
             309,
             310,
-            311,
-            312
+            311
           ],
           "source_token_indexes": [
             348,
@@ -8420,8 +8421,9 @@ export default {
           ]
         },
         {
-          "id": "a-fb82cd9b6f37f0d6779b",
+          "id": "a-bd9965c76bab84605438",
           "ko_token_indexes": [
+            312,
             313,
             314,
             315,
@@ -8433,8 +8435,7 @@ export default {
             321,
             322,
             323,
-            324,
-            325
+            324
           ],
           "source_token_indexes": [
             354,
@@ -8449,13 +8450,13 @@ export default {
           ]
         },
         {
-          "id": "a-e35866e5cafa701cb7d8",
+          "id": "a-a7f6c4b1a35939c9a758",
           "ko_token_indexes": [
+            325,
             326,
             327,
             328,
-            329,
-            330
+            329
           ],
           "source_token_indexes": [
             363,
@@ -8471,16 +8472,16 @@ export default {
           ]
         },
         {
-          "id": "a-155f11d239f7f0ab08cd",
+          "id": "a-c84eeee388ab3838e31a",
           "ko_token_indexes": [
+            330,
             331,
             332,
             333,
             334,
             335,
             336,
-            337,
-            338
+            337
           ],
           "source_token_indexes": [
             373,
@@ -8492,8 +8493,9 @@ export default {
           ]
         },
         {
-          "id": "a-94d02fd15f6b96f6faf6",
+          "id": "a-720c82ecaea32e729688",
           "ko_token_indexes": [
+            338,
             339,
             340,
             341,
@@ -8505,8 +8507,7 @@ export default {
             347,
             348,
             349,
-            350,
-            351
+            350
           ],
           "source_token_indexes": [
             379,
@@ -8537,11 +8538,11 @@ export default {
       "title": "세라피온에게 보낸 제1서신",
       "translation": {
         "notes": [
-          "삼위일체의 하나 됨을 이해할 수 없다는 이유로 성자나 성령을 피조물로 돌리는 추론을 비판한다. 롬 11:33-34와 아브라함의 믿음에 대한 언급은 인간 지식의 한계를 설명하는 근거이다.",
+          "삼위일체의 하나 됨을 이해할 수 없다는 이유로 아들이나 성령을 피조물로 돌리는 추론을 비판한다. 롬 11:33-34와 아브라함의 믿음에 대한 언급은 인간 지식의 한계를 설명하는 근거이다.",
           "신앙으로 전해진 고백과 성경의 표현에 머물라는 권면이다. 여기서 ‘생겨난 것들’은 신적 본성과 구별되는 피조된 존재들을 가리킨다."
         ],
-        "revision_id": "sha256:3d18dfa7c302153ea74168c4cb795ee03ca315954939efbf071696209179148b",
-        "text": "이 점에서도 성령을 피조물이라고 말하는 것은 광기입니다. 성령이 피조물이었다면 삼위일체에 포함되지 않았을 것입니다. 삼위일체 전체가 한 분 하나님이시기 때문입니다. 성령은 피조물이 아니며, 지음 받은 것들 가운데 셈해지지 않는다는 것을 아는 것으로 충분합니다. 삼위일체에는 낯선 것이 섞이지 않으며, 삼위일체는 나뉠 수 없고 서로 같은 본성을 지니시기 때문입니다. 믿는 이들에게는 이것으로 충분합니다. 사람들의 앎은 여기까지 이릅니다. 여기까지 그룹들이 날개로 가립니다. 그보다 더 많은 것을 찾고 조사하려는 이들은 “지나치게 지혜를 부리지 말아라. 놀라 무너지지 않도록 하여라”라는 말씀에 불순종합니다. 믿음으로 전해진 것들은 사람의 지혜로 생각할 것이 아니라, 믿음을 듣는 가운데 이해해야 하기 때문입니다. 어떤 말이 합당하게 설명할 수 있겠습니까? 생겨난 것들의 본성보다 높은 것들을 말입니다. 또 어떤 귀가 이해할 수 있겠습니까? 사람들에게 듣는 것도 말하는 것도 허용되지 않은 것들을 말입니다. 바울은 자신이 들은 것들에 관해 그렇게 말했습니다. 하나님 자신에 관해서는 말합니다. “그의 길은 얼마나 헤아릴 수 없는가! 누가 주님의 마음을 알았는가? 누가 그의 조언자가 되었는가?” 아브라함도 꼬치꼬치 캐묻지 않았고, 말씀하시는 분을 심문하지도 않았습니다. 그는 “믿었고, 그것이 그에게 의로 여겨졌습니다.” 이렇게 모세도 신실한 종이라고 불렸습니다. 아리우스의 생각을 따르는 이들은, 사악한 일을 꾸미는 그들의 영혼에 지혜가 들어가지 않으므로, 나뉠 수 없는 거룩한 삼위일체를 이해하거나 믿지 못합니다. 그렇더라도 그것 때문에 진리를 왜곡하지 말아야 합니다. 자기들이 이해할 수 없는 것들에 관해, 그런 것들이 존재할 수도 없다고 말하지 말아야 합니다. 그들은 극히 부당한 일에 빠져 있습니다. 거룩한 삼위일체가 어떻게 나뉠 수 없는지 이해하지 못하여, 아리우스파는 아들을 피조세계와 하나로 만들고, 비유론자들은 자신들도 성령을 피조물들 가운데 셈합니다. 그들은 전혀 이해하지 못한다면 침묵해야 했으며, 저들은 아들을, 이들은 성령을 피조물들과 같은 부류에 넣지 말아야 했습니다. 아니면 기록된 말씀을 깨닫고, 아들을 아버지와 결합시키며, 성령을 아들에게서 나누지 말아야 했습니다. 거룩한 삼위일체가 참으로 나뉠 수 없으며 같은 본성이시라는 고백을 유지하기 위해서입니다. 그들은 이것을 배운 뒤에는 무모하게 굴지 말고, 의심하며 이런 일이 어떻게 가능한지 묻지도 말아야 했습니다. 질문받은 이가 대답하기 어려워하더라도, 자기들 스스로 사악한 생각을 만들어 내지 않도록 해야 했습니다. 생겨난 모든 존재, 특히 우리 사람들에게는 말로 드러낼 수 없는 것들을 합당하게 말하는 것이 불가능하기 때문입니다. 그런데 말할 능력도 없으면서, 이런 일에 관해 성경의 표현과 다른 새 표현들을 만들어 내는 것은 더욱 무모합니다. 더구나 이런 시도는 질문하는 이와 대답할 생각을 하는 이 모두에게 광기 어린 일입니다. 생겨난 것들에 관해서도 이런 식으로 묻는 사람을 올바른 정신을 지녔다고 여기지는 않을 것입니다."
+        "revision_id": "sha256:2042fc3783b385bed09bd2308682537b7564f32ffcf673856980b036db3ff8ed",
+        "text": "이 점에서도 성령을 피조물이라고 말하는 것은 광기입니다. 성령이 피조물이었다면 삼위일체에 포함되지 않았을 것입니다. 삼위일체 전체가 한 분 하나님이시기 때문입니다. 성령은 피조물이 아니며, 지음 받은 것들 가운데 셈해지지 않는다는 것을 아는 것으로 충분합니다. 삼위일체에는 낯선 것이 섞이지 않으며, 삼위일체는 나뉠 수 없고 자기 자신과 같으시기 때문입니다. 믿는 이들에게는 이것으로 충분합니다. 사람들의 앎은 여기까지 이릅니다. 여기까지 그룹들이 날개로 가립니다. 그보다 더 많은 것을 찾고 조사하려는 이들은 “지나치게 지혜를 부리지 말아라. 놀라 무너지지 않도록 하여라”라는 말씀에 불순종합니다. 믿음으로 전해진 것들은 사람의 지혜로 생각할 것이 아니라, 믿음을 듣는 가운데 이해해야 하기 때문입니다. 어떤 말이 합당하게 설명할 수 있겠습니까? 생겨난 것들의 본성보다 높은 것들을 말입니다. 또 어떤 귀가 이해할 수 있겠습니까? 사람들에게 듣는 것도 말하는 것도 허용되지 않은 것들을 말입니다. 바울은 자신이 들은 것들에 관해 그렇게 말했습니다. 하나님 자신에 관해서는 말합니다. “그의 길은 얼마나 헤아릴 수 없는가! 누가 주님의 마음을 알았는가? 누가 그의 조언자가 되었는가?” 아브라함도 꼬치꼬치 캐묻지 않았고, 말씀하시는 분을 심문하지도 않았습니다. 그는 “믿었고, 그것이 그에게 의로 여겨졌습니다.” 이렇게 모세도 신실한 종이라고 불렸습니다. 아리우스의 생각을 따르는 이들은, 사악한 일을 꾸미는 그들의 영혼에 지혜가 들어가지 않으므로, 나뉠 수 없는 거룩한 삼위일체를 이해하거나 믿지 못합니다. 그렇더라도 그것 때문에 진리를 왜곡하지 말아야 합니다. 자기들이 이해할 수 없는 것들에 관해, 그런 것들이 존재할 수도 없다고 말하지 말아야 합니다. 그들은 극히 부당한 일에 빠져 있습니다. 거룩한 삼위일체가 어떻게 나뉠 수 없는지 이해하지 못하여, 아리우스파는 아들을 피조세계와 하나로 만들고, 비유론자들은 자신들도 성령을 피조물들 가운데 셈합니다. 그들은 전혀 이해하지 못한다면 침묵해야 했으며, 저들은 아들을, 이들은 성령을 피조물들과 같은 부류에 넣지 말아야 했습니다. 아니면 기록된 말씀을 깨닫고, 아들을 아버지와 결합시키며, 성령을 아들에게서 나누지 말아야 했습니다. 거룩한 삼위일체가 참으로 나뉠 수 없으며 같은 본성이시라는 고백을 유지하기 위해서입니다. 그들은 이것을 배운 뒤에는 무모하게 굴지 말고, 의심하며 이런 일이 어떻게 가능한지 묻지도 말아야 했습니다. 질문받은 이가 대답하기 어려워하더라도, 자기들 스스로 사악한 생각을 만들어 내지 않도록 해야 했습니다. 생겨난 모든 존재, 특히 우리 사람들에게는 말로 드러낼 수 없는 것들을 합당하게 말하는 것이 불가능하기 때문입니다. 그런데 말할 능력도 없으면서, 이런 일에 관해 성경의 표현과 다른 새 표현들을 만들어 내는 것은 더욱 무모합니다. 더구나 이런 시도는 질문하는 이와 대답할 생각을 하는 이 모두에게 광기 어린 일입니다. 생겨난 것들에 관해서도 이런 식으로 묻는 사람을 올바른 정신을 지녔다고 여기지는 않을 것입니다."
       },
       "work_id": "athanasius-serapion-1",
       "work_passage_id": "athanasius-serapion-1:17"
@@ -9203,7 +9204,7 @@ export default {
       "author": "아타나시우스",
       "groups": [
         {
-          "id": "a-7d827b7cd7ca56f590dd",
+          "id": "a-479366a8f54f8fdf2998",
           "ko_token_indexes": [
             0,
             1,
@@ -9224,7 +9225,7 @@ export default {
           ]
         },
         {
-          "id": "a-faed06e02e0fa7ffe4fe",
+          "id": "a-a6340d9d8fee3d2a81f6",
           "ko_token_indexes": [
             5,
             6,
@@ -9241,7 +9242,7 @@ export default {
           ]
         },
         {
-          "id": "a-fe4661bddd0057167c37",
+          "id": "a-c785d5f8c9ad7fad969c",
           "ko_token_indexes": [
             11,
             12,
@@ -9260,7 +9261,7 @@ export default {
           ]
         },
         {
-          "id": "a-e3175d3cf97ad81701e4",
+          "id": "a-15fb940e1bb745652bb5",
           "ko_token_indexes": [
             16,
             17,
@@ -9287,7 +9288,7 @@ export default {
           ]
         },
         {
-          "id": "a-fd7acaab6f8f7a38b01a",
+          "id": "a-9af8b3d314d95335a76e",
           "ko_token_indexes": [
             25,
             26,
@@ -9305,7 +9306,7 @@ export default {
           ]
         },
         {
-          "id": "a-ad7bdd0eca199aac5d28",
+          "id": "a-c86e05fcb06de06040cc",
           "ko_token_indexes": [
             29,
             30,
@@ -9330,7 +9331,7 @@ export default {
           ]
         },
         {
-          "id": "a-e72a9ed7fa793a5d6049",
+          "id": "a-b5056e51232de3109594",
           "ko_token_indexes": [
             36,
             37,
@@ -9346,7 +9347,7 @@ export default {
           ]
         },
         {
-          "id": "a-f6ee11fa612e3301d614",
+          "id": "a-38a76a4017cdcf18a0bb",
           "ko_token_indexes": [
             40,
             41,
@@ -9370,7 +9371,7 @@ export default {
           ]
         },
         {
-          "id": "a-af3b4bf05c5c2edd5add",
+          "id": "a-d712aa38ac8c219973bb",
           "ko_token_indexes": [
             46,
             47,
@@ -9387,7 +9388,7 @@ export default {
           ]
         },
         {
-          "id": "a-4ea585a41f5f771a6e7f",
+          "id": "a-352633db07f548a94ca4",
           "ko_token_indexes": [
             50,
             51,
@@ -9410,7 +9411,7 @@ export default {
           ]
         },
         {
-          "id": "a-4b2685bf104280a73334",
+          "id": "a-192045512b9099506c36",
           "ko_token_indexes": [
             55,
             56,
@@ -9433,7 +9434,7 @@ export default {
           ]
         },
         {
-          "id": "a-17659e9843ea58a9513c",
+          "id": "a-84209b89018a304bf2f3",
           "ko_token_indexes": [
             60,
             61,
@@ -9457,7 +9458,7 @@ export default {
           ]
         },
         {
-          "id": "a-3302ef9c3c2a9a84d21d",
+          "id": "a-7241ad3cfb68f59427f4",
           "ko_token_indexes": [
             66,
             67,
@@ -9473,7 +9474,7 @@ export default {
           ]
         },
         {
-          "id": "a-d98decb5d84ced3ec6c1",
+          "id": "a-7fe4077480b83e29d6da",
           "ko_token_indexes": [
             70,
             71
@@ -9485,7 +9486,7 @@ export default {
           ]
         },
         {
-          "id": "a-98f00f44da7db8a9c711",
+          "id": "a-ae0210e74df68c37b184",
           "ko_token_indexes": [
             72,
             73,
@@ -9501,7 +9502,7 @@ export default {
           ]
         },
         {
-          "id": "a-1106d9efb3d0937308a5",
+          "id": "a-3bdb1a309affbb53fd4f",
           "ko_token_indexes": [
             75,
             76,
@@ -9518,7 +9519,7 @@ export default {
           ]
         },
         {
-          "id": "a-e29a74c3e668d8505375",
+          "id": "a-857570c5b4ac89896a32",
           "ko_token_indexes": [
             79,
             80,
@@ -9541,7 +9542,7 @@ export default {
           ]
         },
         {
-          "id": "a-9300e16991dd941d3e15",
+          "id": "a-2d44acebe01dbc71ebaf",
           "ko_token_indexes": [
             85,
             86,
@@ -9570,7 +9571,7 @@ export default {
           ]
         },
         {
-          "id": "a-c7fe5e13ed8f4fe4d620",
+          "id": "a-0fe9f56f385ad0567551",
           "ko_token_indexes": [
             96,
             97,
@@ -9592,7 +9593,7 @@ export default {
           ]
         },
         {
-          "id": "a-dc36999c37f5901ec2c1",
+          "id": "a-7545974547f9b27cce57",
           "ko_token_indexes": [
             103,
             104,
@@ -9608,7 +9609,7 @@ export default {
           ]
         },
         {
-          "id": "a-af04b7c098ed4a91a027",
+          "id": "a-febd7072db1d5329c20b",
           "ko_token_indexes": [
             109,
             110,
@@ -9637,7 +9638,7 @@ export default {
           ]
         },
         {
-          "id": "a-a3e13d2bd19fca132a94",
+          "id": "a-3faa37be167f61bd9b91",
           "ko_token_indexes": [
             116,
             117,
@@ -9657,7 +9658,7 @@ export default {
           ]
         },
         {
-          "id": "a-f2927be3ee3b95c91473",
+          "id": "a-524e51821643a8a3285f",
           "ko_token_indexes": [
             123,
             124,
@@ -9674,7 +9675,7 @@ export default {
           ]
         },
         {
-          "id": "a-39e780549f98900bde48",
+          "id": "a-2ef8905b015c18275cca",
           "ko_token_indexes": [
             128,
             129,
@@ -9694,7 +9695,7 @@ export default {
           ]
         },
         {
-          "id": "a-75ece3c440a6713c7f89",
+          "id": "a-c2c3586dea5fcce7508c",
           "ko_token_indexes": [
             134,
             135,
@@ -9714,7 +9715,7 @@ export default {
           ]
         },
         {
-          "id": "a-e5b947dd98ea2376134d",
+          "id": "a-7710840a4f2cc7f0f1a4",
           "ko_token_indexes": [
             137,
             138,
@@ -9737,7 +9738,7 @@ export default {
           ]
         },
         {
-          "id": "a-be6c11f5805ec0a61b3c",
+          "id": "a-b40bcef31de0e158bd64",
           "ko_token_indexes": [
             144,
             145,
@@ -9753,7 +9754,7 @@ export default {
           ]
         },
         {
-          "id": "a-f20df3d5cf80f30edb83",
+          "id": "a-27e8bc39ebb92ad9a37a",
           "ko_token_indexes": [
             147,
             148,
@@ -9768,7 +9769,7 @@ export default {
           ]
         },
         {
-          "id": "a-235b39f22bac8180f322",
+          "id": "a-d4ca841547a6b0e1ced9",
           "ko_token_indexes": [
             150,
             151,
@@ -9783,7 +9784,7 @@ export default {
           ]
         },
         {
-          "id": "a-f59b49301c9866794d28",
+          "id": "a-e213e2fc7ec3b1f52753",
           "ko_token_indexes": [
             154,
             155,
@@ -9809,7 +9810,7 @@ export default {
           ]
         },
         {
-          "id": "a-1238568ab158ed4885f0",
+          "id": "a-f2f0cc0616c07db0ed51",
           "ko_token_indexes": [
             163,
             164,
@@ -9823,7 +9824,7 @@ export default {
           ]
         },
         {
-          "id": "a-86dec1e498a7a25d2144",
+          "id": "a-caaf464dd494e70edfcf",
           "ko_token_indexes": [
             166,
             167,
@@ -9836,7 +9837,7 @@ export default {
           ]
         },
         {
-          "id": "a-b6ecf744c436e5db44f8",
+          "id": "a-164fbefeccaac70df4b8",
           "ko_token_indexes": [
             169,
             170,
@@ -9857,7 +9858,7 @@ export default {
           ]
         },
         {
-          "id": "a-ae76f0d1b85f69fe0f39",
+          "id": "a-9199576bc9ec4af100b3",
           "ko_token_indexes": [
             174,
             175,
@@ -9876,7 +9877,7 @@ export default {
           ]
         },
         {
-          "id": "a-273036cd207d2c64be52",
+          "id": "a-3ab400760cf788774b71",
           "ko_token_indexes": [
             179,
             180,
@@ -9893,7 +9894,7 @@ export default {
           ]
         },
         {
-          "id": "a-2020991620f9bb7b2a14",
+          "id": "a-ad3469f1c679b5464115",
           "ko_token_indexes": [
             182,
             183,
@@ -9910,7 +9911,7 @@ export default {
           ]
         },
         {
-          "id": "a-af8b4036f47fa32cfc9a",
+          "id": "a-c888eb6833242d2e040e",
           "ko_token_indexes": [
             187,
             188,
@@ -9938,7 +9939,7 @@ export default {
           ]
         },
         {
-          "id": "a-2e875c28eaf622fbbe32",
+          "id": "a-a59e735d4bf1fe6edc26",
           "ko_token_indexes": [
             196,
             197,
@@ -9956,7 +9957,7 @@ export default {
           ]
         },
         {
-          "id": "a-2f08869d1d3506719563",
+          "id": "a-732933be51c749e853e8",
           "ko_token_indexes": [
             202,
             203,
@@ -9971,7 +9972,7 @@ export default {
           ]
         },
         {
-          "id": "a-e189c302eee9f30fdbbf",
+          "id": "a-ea1ca6f650c265c8f40f",
           "ko_token_indexes": [
             206,
             207,
@@ -9992,7 +9993,7 @@ export default {
           ]
         },
         {
-          "id": "a-ac946cd6e19902691633",
+          "id": "a-8e5ecf777ad40583deed",
           "ko_token_indexes": [
             212,
             213,
@@ -10010,7 +10011,7 @@ export default {
           ]
         },
         {
-          "id": "a-78241dfc09f56036a2ed",
+          "id": "a-929efe35d484b5b4451d",
           "ko_token_indexes": [
             216,
             217,
@@ -10032,7 +10033,7 @@ export default {
           ]
         },
         {
-          "id": "a-746982b570c34a99c5a8",
+          "id": "a-2a492b76e94fb9c6cc45",
           "ko_token_indexes": [
             224,
             225,
@@ -10056,7 +10057,7 @@ export default {
           ]
         },
         {
-          "id": "a-a2322b3854e0cd0c644a",
+          "id": "a-518d1f016072f5d6dfcf",
           "ko_token_indexes": [
             231,
             232,
@@ -10072,7 +10073,7 @@ export default {
           ]
         },
         {
-          "id": "a-14db90cc6c6c87aa3fab",
+          "id": "a-aa98d9cb7d3f380c55f8",
           "ko_token_indexes": [
             234,
             235,
@@ -10096,7 +10097,7 @@ export default {
           ]
         },
         {
-          "id": "a-9bc956d846d1b60a7e09",
+          "id": "a-af97d803457355aa7fca",
           "ko_token_indexes": [
             240,
             241
@@ -10111,7 +10112,7 @@ export default {
           ]
         },
         {
-          "id": "a-79d9cd875b89e0ec7a7c",
+          "id": "a-9d9e30541b04fc4a1de4",
           "ko_token_indexes": [
             242,
             243,
@@ -10126,7 +10127,7 @@ export default {
           ]
         },
         {
-          "id": "a-b7eb08af461c3b28a269",
+          "id": "a-2c42968f6ff2b7f3a1c7",
           "ko_token_indexes": [
             246,
             247
@@ -10138,7 +10139,7 @@ export default {
           ]
         },
         {
-          "id": "a-3bd84e58433ae189bfee",
+          "id": "a-a931dd1fc91d14816295",
           "ko_token_indexes": [
             248,
             249,
@@ -10154,7 +10155,7 @@ export default {
           ]
         },
         {
-          "id": "a-404f4f6b9a120d14da78",
+          "id": "a-4db5d5b77db98bfd386d",
           "ko_token_indexes": [
             252,
             253,
@@ -10176,7 +10177,7 @@ export default {
           ]
         },
         {
-          "id": "a-033eddf1f459124221e0",
+          "id": "a-c1f77d0567e8a8b79067",
           "ko_token_indexes": [
             257,
             258,
@@ -10192,7 +10193,7 @@ export default {
           ]
         },
         {
-          "id": "a-40d5519f00abf83cde6c",
+          "id": "a-ec4e221cd762fcca72fb",
           "ko_token_indexes": [
             262,
             263,
@@ -10208,7 +10209,7 @@ export default {
           ]
         },
         {
-          "id": "a-b2b2a0008001963a8963",
+          "id": "a-55a3e4d66ea3fcda0c27",
           "ko_token_indexes": [
             267,
             268,
@@ -10226,7 +10227,7 @@ export default {
           ]
         },
         {
-          "id": "a-b4bfd47190c179f68d3c",
+          "id": "a-209070b0bd37dc29ac27",
           "ko_token_indexes": [
             271,
             272,
@@ -10246,7 +10247,7 @@ export default {
           ]
         },
         {
-          "id": "a-94ab4e84139b1bbdafbe",
+          "id": "a-8de205cb4ed79c035767",
           "ko_token_indexes": [
             275,
             276,
@@ -10262,7 +10263,7 @@ export default {
           ]
         },
         {
-          "id": "a-fee73e1cee04155ef3f2",
+          "id": "a-073dca3cdf9d1b98c4c3",
           "ko_token_indexes": [
             279,
             280,
@@ -10278,7 +10279,7 @@ export default {
           ]
         },
         {
-          "id": "a-c9c11598864c73efcef2",
+          "id": "a-e3d7dd39cfba910907b1",
           "ko_token_indexes": [
             283,
             284,
@@ -10292,7 +10293,7 @@ export default {
           ]
         },
         {
-          "id": "a-ee70e40cff2f25ea6813",
+          "id": "a-c8fc318f068b76805e92",
           "ko_token_indexes": [
             286,
             287,
@@ -10308,7 +10309,7 @@ export default {
           ]
         },
         {
-          "id": "a-e14a2118163c14512c74",
+          "id": "a-e9a00c923fbe6ab38e94",
           "ko_token_indexes": [
             290,
             291,
@@ -10338,7 +10339,7 @@ export default {
           ]
         },
         {
-          "id": "a-b8240d04ebc1161d28d5",
+          "id": "a-3c073dc304961eba36f3",
           "ko_token_indexes": [
             302,
             303,
@@ -10359,7 +10360,7 @@ export default {
           ]
         },
         {
-          "id": "a-12d5235cfd2dc3a16b58",
+          "id": "a-6967bfd76820f6f2e366",
           "ko_token_indexes": [
             308,
             309,
@@ -10377,7 +10378,7 @@ export default {
           ]
         },
         {
-          "id": "a-157cff2f15c1ced2013d",
+          "id": "a-72e23074649ce76336a3",
           "ko_token_indexes": [
             313,
             314,
@@ -10394,7 +10395,7 @@ export default {
           ]
         },
         {
-          "id": "a-47ed93ddafe72f57ddb3",
+          "id": "a-a2bac7dc9f0beac7bd7d",
           "ko_token_indexes": [
             317,
             318,
@@ -10408,7 +10409,7 @@ export default {
           ]
         },
         {
-          "id": "a-e005c6daf7922080ac98",
+          "id": "a-badc1ee6f218921ca280",
           "ko_token_indexes": [
             320,
             321,
@@ -10424,7 +10425,7 @@ export default {
           ]
         },
         {
-          "id": "a-887f3409220626c7ab19",
+          "id": "a-5e7f54888768ac8fd550",
           "ko_token_indexes": [
             323,
             324,
@@ -10443,7 +10444,7 @@ export default {
           ]
         },
         {
-          "id": "a-c57eba575076f4eb0908",
+          "id": "a-b4f2b488e406d28f4844",
           "ko_token_indexes": [
             329,
             330,
@@ -10458,7 +10459,7 @@ export default {
           ]
         },
         {
-          "id": "a-9617801e12078c23fbcb",
+          "id": "a-0faceddcb77d6465f29d",
           "ko_token_indexes": [
             332,
             333,
@@ -10479,7 +10480,7 @@ export default {
           ]
         },
         {
-          "id": "a-46e672aeb93515445dc6",
+          "id": "a-f96b253a03b2c9e95c05",
           "ko_token_indexes": [
             336,
             337,
@@ -10498,7 +10499,7 @@ export default {
           ]
         },
         {
-          "id": "a-c5affb41f62e4f50480e",
+          "id": "a-3baabfc503a88e4add8a",
           "ko_token_indexes": [
             343,
             344,
@@ -10525,7 +10526,7 @@ export default {
           ]
         },
         {
-          "id": "a-0bac4275ca3a46999795",
+          "id": "a-1ea7c8b601abd14671db",
           "ko_token_indexes": [
             350,
             351,
@@ -10543,7 +10544,7 @@ export default {
           ]
         },
         {
-          "id": "a-6f283c9c30a21511ced4",
+          "id": "a-63cbc138a61e804bf843",
           "ko_token_indexes": [
             355,
             356,
@@ -10566,7 +10567,7 @@ export default {
           ]
         },
         {
-          "id": "a-b9b8b2fe04db2158b7bd",
+          "id": "a-e1e705d530fc91f3844f",
           "ko_token_indexes": [
             363,
             364,
@@ -10585,7 +10586,7 @@ export default {
           ]
         },
         {
-          "id": "a-8484309a590df26a0af9",
+          "id": "a-021b62a7182638e8e122",
           "ko_token_indexes": [
             369,
             370,
@@ -10605,7 +10606,7 @@ export default {
           ]
         },
         {
-          "id": "a-cea96b5bb597300d284f",
+          "id": "a-a2eed7a11313bc250191",
           "ko_token_indexes": [
             375,
             376,
@@ -10625,7 +10626,7 @@ export default {
           ]
         },
         {
-          "id": "a-5d294e0367a471ea5ee5",
+          "id": "a-dd01230bdc17470dd257",
           "ko_token_indexes": [
             381,
             382,
@@ -10641,7 +10642,7 @@ export default {
           ]
         },
         {
-          "id": "a-3a9de852bdad3e994dcc",
+          "id": "a-a0a790b6dcf721a73012",
           "ko_token_indexes": [
             386,
             387,
@@ -10660,7 +10661,7 @@ export default {
           ]
         },
         {
-          "id": "a-65f6037764d3525f1dc0",
+          "id": "a-28a55897bd538de64e74",
           "ko_token_indexes": [
             392,
             393,
@@ -10680,7 +10681,7 @@ export default {
           ]
         },
         {
-          "id": "a-084a3857925fcccf43b9",
+          "id": "a-fd2e2c8f6e7c533e1d7a",
           "ko_token_indexes": [
             397,
             398,
@@ -10694,7 +10695,7 @@ export default {
           ]
         },
         {
-          "id": "a-bd21d3dcdb42bfb268a2",
+          "id": "a-b9d736297ff9302a51be",
           "ko_token_indexes": [
             400,
             401,
@@ -10716,7 +10717,7 @@ export default {
           ]
         },
         {
-          "id": "a-48305d0067e2841295d1",
+          "id": "a-ac9d8d2d25a7149c0d13",
           "ko_token_indexes": [
             404,
             405,
@@ -10731,7 +10732,7 @@ export default {
           ]
         },
         {
-          "id": "a-114cf35e4804d38e0694",
+          "id": "a-b3cdb512e7ef64d0218c",
           "ko_token_indexes": [
             408,
             409,
@@ -10749,7 +10750,7 @@ export default {
           ]
         },
         {
-          "id": "a-5585ad4004cd57f62896",
+          "id": "a-3eef8db59c9e0f4c3e5e",
           "ko_token_indexes": [
             412,
             413,
@@ -10766,7 +10767,7 @@ export default {
           ]
         },
         {
-          "id": "a-e0473db2900885377e46",
+          "id": "a-6e2a24f027a0153116d3",
           "ko_token_indexes": [
             417,
             418,
@@ -10791,7 +10792,7 @@ export default {
           ]
         },
         {
-          "id": "a-bb18be4cab586de1200f",
+          "id": "a-ec0eeaba35a61d752978",
           "ko_token_indexes": [
             425,
             426,
@@ -10813,7 +10814,7 @@ export default {
           ]
         },
         {
-          "id": "a-86b0a33b35a84462d9dc",
+          "id": "a-753269725876e2986b50",
           "ko_token_indexes": [
             432,
             433,
@@ -10829,7 +10830,7 @@ export default {
           ]
         },
         {
-          "id": "a-1e403f64fb26663a9f85",
+          "id": "a-cbfb873ae386f89344ba",
           "ko_token_indexes": [
             435,
             436,
@@ -10846,7 +10847,7 @@ export default {
           ]
         },
         {
-          "id": "a-c4ada5be124f80ee6aa9",
+          "id": "a-8ef794a84d081356b0a4",
           "ko_token_indexes": [
             439,
             440,
@@ -10866,7 +10867,7 @@ export default {
           ]
         },
         {
-          "id": "a-3aafab05d2c63b297f0f",
+          "id": "a-ee10723d3cff25a207f9",
           "ko_token_indexes": [
             446,
             447,
@@ -10880,7 +10881,7 @@ export default {
           ]
         },
         {
-          "id": "a-33ee7947d71e6838ebef",
+          "id": "a-d38aadac5400be7adcd8",
           "ko_token_indexes": [
             450,
             451
@@ -10893,7 +10894,7 @@ export default {
           ]
         },
         {
-          "id": "a-66e29b122a5186bf6b3c",
+          "id": "a-9fe6934a1d3f63afccd1",
           "ko_token_indexes": [
             452,
             453,
@@ -10908,7 +10909,7 @@ export default {
           ]
         },
         {
-          "id": "a-ff9b6ed7022c90aa8e6b",
+          "id": "a-a540fcfa783616828ea7",
           "ko_token_indexes": [
             455,
             456,
@@ -10935,11 +10936,11 @@ export default {
       "title": "세라피온에게 보낸 제1서신",
       "translation": {
         "notes": [
-          "성부를 샘과 빛, 성자를 강과 광채로 설명하고, 성령 안에서 조명, 생명, 지혜, 아들 됨을 받는 사람이 성자와 성부에도 참여한다고 논증한다.",
+          "아버지를 샘과 빛, 아들을 강과 광채로 설명하고, 성령 안에서 조명, 생명, 지혜, 아들 됨을 받는 사람이 아들과 아버지에도 참여한다고 논증한다.",
           "히 1:3의 χαρακτήρ는 원형을 드러내는 새김이라는 비유를 지닌다. 본문의 ‘인장’은 그 의미를 살린 번역이다. 시편 145편은 일반적인 한국어 성경의 146편에 해당하며, 인용의 ‘눈먼 이들을 지혜롭게 하신다’는 그리스어 문구를 따른다."
         ],
-        "revision_id": "sha256:90150646141f61c72d311ba27959128d6dfe70ffe48f3cd03f949a09582949a6",
-        "text": "이런 시도는 쓸데없고 광기에 가까우므로, 누구도 더는 이런 질문을 하지 말고, 성경에 있는 것들을 배우도록 하십시오. 성경에 있는 이 문제의 비유들은 그 자체로 충분하며 합당합니다. 아버지는 샘과 빛이라고 불립니다. “그들은 생수의 샘인 나를 버렸다”라고 말씀하시기 때문입니다. 바룩에는 다시 이렇게 말합니다. “이스라엘아, 어찌하여 네가 원수들의 땅에 있느냐? 너는 지혜의 샘을 버렸다.” 요한에 따르면 “우리 하나님은 빛이십니다.” 아들은 샘과의 관계에서는 강이라고 불립니다. “하나님의 강에는 물이 가득하다”라고 하기 때문입니다. 빛과의 관계에서는 광채라고 불립니다. 바울이 말합니다. “그는 영광의 광채이며, 그의 실재를 나타내는 인장이십니다.” 그러므로 아버지가 빛이시고 아들이 그의 광채이시므로, (특히 이런 일에서는 같은 말을 여러 번 하기를 꺼리지 말아야 합니다.) 우리는 아들 안에서 성령도 볼 수 있습니다. 그 영 안에서 우리는 빛을 받습니다. “그를 아는 지혜와 계시의 영을 여러분에게 주시고, 여러분의 마음의 눈을 밝히시기를 바랍니다”라고 하기 때문입니다. 우리가 성령으로 빛을 받을 때, 성령 안에서 빛을 주시는 분은 그리스도이십니다. “그는 참된 빛이셨으며, 세상에 오는 모든 사람을 비추신다”라고 하기 때문입니다. 다시 아버지가 샘이시고, 아들이 강이라고 불리시므로, 우리는 성령을 마신다고 합니다. “우리 모두 한 성령을 마시게 되었다”라고 기록되어 있기 때문입니다. 성령을 마실 때, 우리는 그리스도를 마십니다. “그들은 뒤따르는 영적인 반석에서 마셨으며, 그 반석은 그리스도였다”라고 하기 때문입니다. 그리스도는 참된 아들이시므로, 우리는 성령을 받아 아들이 됩니다. “여러분은 다시 두려움에 빠지게 하는 종살이의 영을 받지 않았고, 아들 됨의 영을 받았습니다”라고 하기 때문입니다. 성령으로 아들이 되는 우리는, 분명 그리스도 안에서 하나님의 자녀라고 불립니다. “그를 영접한 모든 이에게 그는 하나님의 자녀가 되는 권한을 주셨다”라고 하기 때문입니다. 또 바울이 말했듯이 아버지는 홀로 지혜로우신 분이며, 아들은 그의 지혜이십니다. “그리스도는 하나님의 능력이자 하나님의 지혜”이시기 때문입니다. 아들이 지혜이시므로, 우리는 지혜의 영을 받아, 아들을 지니며, 그 안에서 지혜롭게 됩니다. 시편 145편에도 이렇게 기록되어 있습니다. “주께서는 결박된 이들을 풀어 주시며, 주께서는 눈먼 이들을 지혜롭게 하신다.” 성령께서 우리에게 주어질 때, (구주께서는 “성령을 받아라”라고 말씀하셨습니다.) 하나님께서 우리 안에 계십니다. 요한이 이렇게 썼기 때문입니다. “우리가 서로 사랑하면, 하나님께서 우리 안에 머무십니다. 우리가 그 안에 머물고 그가 우리 안에 머무신다는 것을 우리는 이로써 압니다. 그가 자기 영을 우리에게 주셨기 때문입니다.” 하나님께서 우리 안에 계실 때, 아들도 우리 안에 계십니다. 아들 자신이 말씀하십니다. “나와 아버지가 와서, 그 사람 곁에 거처를 마련할 것이다.” 또 아들은 생명이십니다. 그는 “나는 생명이다”라고 말씀하십니다. 그런데 우리는 성령 안에서 생명을 얻는다고 합니다. “그리스도 예수를 죽은 자들 가운데서 일으키신 분이 우리의 죽을 몸도 살리실 것이다. 여러분 안에 거하시는 자기 영을 통해서이다”라고 하기 때문입니다. 우리가 성령 안에서 생명을 얻을 때, 그리스도 자신이 우리 안에서 사신다고 합니다. “나는 그리스도와 함께 십자가에 못 박혔습니다. 이제는 내가 사는 것이 아니며, 내 안에서 그리스도께서 사십니다”라고 하기 때문입니다. 또 아들은 자신이 행하시는 일들을 아버지가 행하신다고 말씀하셨습니다. “내 안에 머무시는 아버지가 친히 그 일들을 하신다. 내가 아버지 안에 있고, 아버지가 내 안에 계심을 믿어라. 그렇지 못하겠다면 그 일들 자체 때문에라도 나를 믿어라.” 그처럼 바울도 자신이 성령의 능력으로 행한 일들을 그리스도의 일이라고 했습니다. “나는 감히 말하지 않겠습니다. 그리스도께서 나를 통해 행하시지 않은 것은 말입니다. 그는 이방인들을 순종하게 하시려고, 말과 행동으로, 표적과 기사의 능력으로, 성령의 능력으로 행하셨습니다.”"
+        "revision_id": "sha256:c16826889416f3e06f6c562acb3363b55dd854524f5c289c70efeb5d52084b92",
+        "text": "이런 시도는 쓸데없고 광기에 가까우므로, 누구도 더는 이런 질문을 하지 말고, 성경에 있는 것들을 배우도록 하십시오. 성경에 있는 이 문제의 비유들은 그 자체로 충분하며 합당합니다. 아버지는 샘과 빛이라고 불립니다. “그들은 생수의 샘인 나를 버렸다”라고 말씀하시기 때문입니다. 바룩에는 다시 이렇게 말합니다. “이스라엘아, 어찌하여 네가 원수들의 땅에 있느냐? 너는 지혜의 샘을 버렸다.” 요한에 따르면 “우리 하나님은 빛이십니다.” 아들은 샘과의 관계에서는 강이라고 불립니다. “하나님의 강에는 물이 가득하다”라고 하기 때문입니다. 빛과의 관계에서는 광채라고 불립니다. 바울이 말합니다. “그는 영광의 광채이며, 그의 실체를 나타내는 인장이십니다.” 그러므로 아버지가 빛이시고 아들이 그의 광채이시므로, (특히 이런 일에서는 같은 말을 여러 번 하기를 꺼리지 말아야 합니다.) 우리는 아들 안에서 성령도 볼 수 있습니다. 그 영 안에서 우리는 빛을 받습니다. “그를 아는 지혜와 계시의 영을 여러분에게 주시고, 여러분의 마음의 눈을 밝히시기를 바랍니다”라고 하기 때문입니다. 우리가 성령으로 빛을 받을 때, 성령 안에서 빛을 주시는 분은 그리스도이십니다. “그는 참된 빛이셨으며, 세상에 오는 모든 사람을 비추신다”라고 하기 때문입니다. 다시 아버지가 샘이시고, 아들이 강이라고 불리시므로, 우리는 성령을 마신다고 합니다. “우리 모두 한 성령을 마시게 되었다”라고 기록되어 있기 때문입니다. 성령을 마실 때, 우리는 그리스도를 마십니다. “그들은 뒤따르는 영적인 반석에서 마셨으며, 그 반석은 그리스도였다”라고 하기 때문입니다. 그리스도는 참된 아들이시므로, 우리는 성령을 받아 아들이 됩니다. “여러분은 다시 두려움에 빠지게 하는 종살이의 영을 받지 않았고, 아들 됨의 영을 받았습니다”라고 하기 때문입니다. 성령으로 아들이 되는 우리는, 분명 그리스도 안에서 하나님의 자녀라고 불립니다. “그를 영접한 모든 이에게 그는 하나님의 자녀가 되는 권한을 주셨다”라고 하기 때문입니다. 또 바울이 말했듯이 아버지는 홀로 지혜로우신 분이며, 아들은 그의 지혜이십니다. “그리스도는 하나님의 능력이자 하나님의 지혜”이시기 때문입니다. 아들이 지혜이시므로, 우리는 지혜의 영을 받아, 아들을 지니며, 그 안에서 지혜롭게 됩니다. 시편 145편에도 이렇게 기록되어 있습니다. “주께서는 결박된 이들을 풀어 주시며, 주께서는 눈먼 이들을 지혜롭게 하신다.” 성령께서 우리에게 주어질 때, (구주께서는 “성령을 받아라”라고 말씀하셨습니다.) 하나님께서 우리 안에 계십니다. 요한이 이렇게 썼기 때문입니다. “우리가 서로 사랑하면, 하나님께서 우리 안에 머무십니다. 우리가 그 안에 머물고 그가 우리 안에 머무신다는 것을 우리는 이로써 압니다. 그가 자기 영을 우리에게 주셨기 때문입니다.” 하나님께서 우리 안에 계실 때, 아들도 우리 안에 계십니다. 아들 자신이 말씀하십니다. “나와 아버지가 와서, 그 사람 곁에 거처를 마련할 것이다.” 또 아들은 생명이십니다. 그는 “나는 생명이다”라고 말씀하십니다. 그런데 우리는 성령 안에서 생명을 얻는다고 합니다. “그리스도 예수를 죽은 자들 가운데서 일으키신 분이 우리의 죽을 몸도 살리실 것이다. 여러분 안에 거하시는 자기 영을 통해서이다”라고 하기 때문입니다. 우리가 성령 안에서 생명을 얻을 때, 그리스도 자신이 우리 안에서 사신다고 합니다. “나는 그리스도와 함께 십자가에 못 박혔습니다. 이제는 내가 사는 것이 아니며, 내 안에서 그리스도께서 사십니다”라고 하기 때문입니다. 또 아들은 자신이 행하시는 일들을 아버지가 행하신다고 말씀하셨습니다. “내 안에 머무시는 아버지가 친히 그 일들을 하신다. 내가 아버지 안에 있고, 아버지가 내 안에 계심을 믿어라. 그렇지 못하겠다면 그 일들 자체 때문에라도 나를 믿어라.” 그처럼 바울도 자신이 성령의 능력으로 행한 일들을 그리스도의 일이라고 했습니다. “나는 감히 말하지 않겠습니다. 그리스도께서 나를 통해 행하시지 않은 것은 말입니다. 그는 이방인들을 순종하게 하시려고, 말과 행동으로, 표적과 기사의 능력으로, 성령의 능력으로 행하셨습니다.”"
       },
       "work_id": "athanasius-serapion-1",
       "work_passage_id": "athanasius-serapion-1:19"
@@ -10948,7 +10949,7 @@ export default {
       "author": "아타나시우스",
       "groups": [
         {
-          "id": "a-d9fc7e7d332f52da06cc",
+          "id": "a-c69b9e21e958c6a8fccd",
           "ko_token_indexes": [
             0,
             1,
@@ -10975,7 +10976,7 @@ export default {
           ]
         },
         {
-          "id": "a-1552d5543adff4ebfcba",
+          "id": "a-67fa58f728d9fc3e161a",
           "ko_token_indexes": [
             9,
             10,
@@ -10995,7 +10996,7 @@ export default {
           ]
         },
         {
-          "id": "a-35580492019267dc8898",
+          "id": "a-26120e7b30fa67dfc739",
           "ko_token_indexes": [
             13,
             14,
@@ -11018,7 +11019,7 @@ export default {
           ]
         },
         {
-          "id": "a-75d18cd0f1d59c4447e2",
+          "id": "a-a81db685cfc85a50c216",
           "ko_token_indexes": [
             19,
             20,
@@ -11033,7 +11034,7 @@ export default {
           ]
         },
         {
-          "id": "a-7b79d7dcefd4d18c6238",
+          "id": "a-54af190c9f8b584a6766",
           "ko_token_indexes": [
             23,
             24,
@@ -11056,7 +11057,7 @@ export default {
           ]
         },
         {
-          "id": "a-d5d16896e54caae492b7",
+          "id": "a-1429a99bf86f10b5803d",
           "ko_token_indexes": [
             30,
             31,
@@ -11075,7 +11076,7 @@ export default {
           ]
         },
         {
-          "id": "a-f55ba86bb1bd54a0ded6",
+          "id": "a-6c8e70aba4e56f7b164a",
           "ko_token_indexes": [
             36,
             37,
@@ -11093,7 +11094,7 @@ export default {
           ]
         },
         {
-          "id": "a-43bd5971102a217d747a",
+          "id": "a-c260eec2bd4728e522cf",
           "ko_token_indexes": [
             41,
             42,
@@ -11109,7 +11110,7 @@ export default {
           ]
         },
         {
-          "id": "a-3b195a9b0f542713a2ae",
+          "id": "a-624c5402c30f4845c3b9",
           "ko_token_indexes": [
             46,
             47,
@@ -11126,7 +11127,7 @@ export default {
           ]
         },
         {
-          "id": "a-e15a0b8752b2821cd65e",
+          "id": "a-74bdababa43f792f8174",
           "ko_token_indexes": [
             51,
             52,
@@ -11144,7 +11145,7 @@ export default {
           ]
         },
         {
-          "id": "a-d6c8710146b6e5a023fd",
+          "id": "a-1226b5db1d3d4db16deb",
           "ko_token_indexes": [
             56,
             57,
@@ -11163,7 +11164,7 @@ export default {
           ]
         },
         {
-          "id": "a-da382141ef4c6ab8db6a",
+          "id": "a-0ecf2aa206b55a08ac7d",
           "ko_token_indexes": [
             62,
             63,
@@ -11181,7 +11182,7 @@ export default {
           ]
         },
         {
-          "id": "a-640926c1507334322ca0",
+          "id": "a-0f2fb5b4477635f64883",
           "ko_token_indexes": [
             67,
             68,
@@ -11200,7 +11201,7 @@ export default {
           ]
         },
         {
-          "id": "a-6c9d0154a366d9e667dc",
+          "id": "a-261a679313b0b08ab220",
           "ko_token_indexes": [
             73,
             74,
@@ -11225,7 +11226,7 @@ export default {
           ]
         },
         {
-          "id": "a-60be5e82a88d776a02e3",
+          "id": "a-2585d0ff804939bf1d2b",
           "ko_token_indexes": [
             81,
             82,
@@ -11257,7 +11258,7 @@ export default {
           ]
         },
         {
-          "id": "a-de4e76b586d3d9339118",
+          "id": "a-51dfb63ced68b08114e1",
           "ko_token_indexes": [
             94,
             95,
@@ -11277,7 +11278,7 @@ export default {
           ]
         },
         {
-          "id": "a-bde59edeb68ef81373f7",
+          "id": "a-34b5e34d190eafbe2f89",
           "ko_token_indexes": [
             100,
             101,
@@ -11295,7 +11296,7 @@ export default {
           ]
         },
         {
-          "id": "a-3a87de3f64807252fdc1",
+          "id": "a-88ebf75e2b28b5633f42",
           "ko_token_indexes": [
             106,
             107,
@@ -11313,7 +11314,7 @@ export default {
           ]
         },
         {
-          "id": "a-6825f350dcad33b8af23",
+          "id": "a-6bd5b861906d9f8745ec",
           "ko_token_indexes": [
             113,
             114,
@@ -11329,7 +11330,7 @@ export default {
           ]
         },
         {
-          "id": "a-29d796c21a057165d74f",
+          "id": "a-2b9c6b490aa548f0c8b7",
           "ko_token_indexes": [
             117,
             118,
@@ -11357,7 +11358,7 @@ export default {
           ]
         },
         {
-          "id": "a-192bd22719666dc6743a",
+          "id": "a-7093ff694c25ecb445c9",
           "ko_token_indexes": [
             128,
             129,
@@ -11383,7 +11384,7 @@ export default {
           ]
         },
         {
-          "id": "a-526dd828c5a7c0860cd6",
+          "id": "a-997305aeda888de3806c",
           "ko_token_indexes": [
             137,
             138,
@@ -11405,7 +11406,7 @@ export default {
           ]
         },
         {
-          "id": "a-c725a9e0ef8d0acf7def",
+          "id": "a-bb3c71bd8dc9a159b389",
           "ko_token_indexes": [
             144,
             145,
@@ -11426,7 +11427,7 @@ export default {
           ]
         },
         {
-          "id": "a-81dae8f57de2f6c461b5",
+          "id": "a-d5a447a73f316ef31567",
           "ko_token_indexes": [
             150,
             151,
@@ -11440,7 +11441,7 @@ export default {
           ]
         },
         {
-          "id": "a-1476c9c0d52380e4ff6f",
+          "id": "a-89e7599acad199625e39",
           "ko_token_indexes": [
             153,
             154,
@@ -11460,7 +11461,7 @@ export default {
           ]
         },
         {
-          "id": "a-40d9c11afef2af623c55",
+          "id": "a-d5d7e1ed2aa07bba2b96",
           "ko_token_indexes": [
             157,
             158,
@@ -11486,7 +11487,7 @@ export default {
           ]
         },
         {
-          "id": "a-0c474817f42498eeeb91",
+          "id": "a-c3e48ac6f6cae600cd91",
           "ko_token_indexes": [
             166,
             167,
@@ -11507,7 +11508,7 @@ export default {
           ]
         },
         {
-          "id": "a-b846308cac7ce29763d6",
+          "id": "a-51185b1fce351c19d226",
           "ko_token_indexes": [
             173,
             174,
@@ -11532,7 +11533,7 @@ export default {
           ]
         },
         {
-          "id": "a-8afd7403213c0fca7b77",
+          "id": "a-00d80a18b0dd4d8376cd",
           "ko_token_indexes": [
             183,
             184,
@@ -11555,7 +11556,7 @@ export default {
           ]
         },
         {
-          "id": "a-d9113df47017b7a1696b",
+          "id": "a-b5f09982d0bfdfe04e4e",
           "ko_token_indexes": [
             190,
             191
@@ -11568,7 +11569,7 @@ export default {
           ]
         },
         {
-          "id": "a-e9a496b6a5df25ae2739",
+          "id": "a-43fa58d176beb85d0c26",
           "ko_token_indexes": [
             192,
             193,
@@ -11589,7 +11590,7 @@ export default {
           ]
         },
         {
-          "id": "a-639e37385ec7a032639b",
+          "id": "a-192e46407ba5a8a8dbe4",
           "ko_token_indexes": [
             200,
             201,
@@ -11606,7 +11607,7 @@ export default {
           ]
         },
         {
-          "id": "a-1c76b27308b3b0e193be",
+          "id": "a-de4e04a8fb1b45544fb2",
           "ko_token_indexes": [
             203,
             204
@@ -11619,7 +11620,7 @@ export default {
           ]
         },
         {
-          "id": "a-f8ea7ce713eec2b32984",
+          "id": "a-868cfaa517200a9b1cec",
           "ko_token_indexes": [
             205,
             206,
@@ -11633,7 +11634,7 @@ export default {
           ]
         },
         {
-          "id": "a-98f5d2a23332c9acdb61",
+          "id": "a-553b1f23bce57d5c1945",
           "ko_token_indexes": [
             208,
             209,
@@ -11659,7 +11660,7 @@ export default {
           ]
         },
         {
-          "id": "a-b3d554b3059df152c3f2",
+          "id": "a-95bb3af6216e41459f3f",
           "ko_token_indexes": [
             216,
             217,
@@ -11679,7 +11680,7 @@ export default {
           ]
         },
         {
-          "id": "a-83c3785dd47f2297dd85",
+          "id": "a-377335c4d4618ebe5e88",
           "ko_token_indexes": [
             222,
             223,
@@ -11700,7 +11701,7 @@ export default {
           ]
         },
         {
-          "id": "a-5a2556393895aeec527a",
+          "id": "a-267647b497d10fda66af",
           "ko_token_indexes": [
             228,
             229,
@@ -11723,7 +11724,7 @@ export default {
           ]
         },
         {
-          "id": "a-15d2d6413c7095dcde4b",
+          "id": "a-6c1bff276d59dde09702",
           "ko_token_indexes": [
             235,
             236,
@@ -11740,7 +11741,7 @@ export default {
           ]
         },
         {
-          "id": "a-2677f6b57c7721880ee5",
+          "id": "a-7a8228fcd0d734260ba4",
           "ko_token_indexes": [
             239,
             240,
@@ -11765,7 +11766,7 @@ export default {
           ]
         },
         {
-          "id": "a-6e2a28d53e6b8d986ae5",
+          "id": "a-5367386a862f30c4153d",
           "ko_token_indexes": [
             248,
             249,
@@ -11778,7 +11779,7 @@ export default {
           ]
         },
         {
-          "id": "a-8001f92d5eb095400d95",
+          "id": "a-ec483e333431d3d46780",
           "ko_token_indexes": [
             251,
             252,
@@ -11796,7 +11797,7 @@ export default {
           ]
         },
         {
-          "id": "a-3673ea4fe3d5e95e43e2",
+          "id": "a-5a1bc1d79bcafc51795a",
           "ko_token_indexes": [
             257,
             258,
@@ -11816,7 +11817,7 @@ export default {
           ]
         },
         {
-          "id": "a-5ee441b4204a661f9fc1",
+          "id": "a-5e21d0cb09dd8f7deaa2",
           "ko_token_indexes": [
             264,
             265,
@@ -11841,7 +11842,7 @@ export default {
           ]
         },
         {
-          "id": "a-fdbe29cfec35d53b4263",
+          "id": "a-ebefd5d3929899d67e46",
           "ko_token_indexes": [
             273,
             274
@@ -11857,7 +11858,7 @@ export default {
           ]
         },
         {
-          "id": "a-66b5b32f8de96bbeaf14",
+          "id": "a-cbeafb4bc6bd74307ff4",
           "ko_token_indexes": [
             275,
             276,
@@ -11878,7 +11879,7 @@ export default {
           ]
         },
         {
-          "id": "a-4ddeb343bbfe2e576081",
+          "id": "a-f520a10171e474bf2864",
           "ko_token_indexes": [
             279,
             280,
@@ -11896,7 +11897,7 @@ export default {
           ]
         },
         {
-          "id": "a-400673d75aa0173d854a",
+          "id": "a-7ebbd9cd220b69ba5e69",
           "ko_token_indexes": [
             283,
             284,
@@ -11911,7 +11912,7 @@ export default {
           ]
         },
         {
-          "id": "a-b4c0d145b4fa5868d69e",
+          "id": "a-93fb308d39c00af3a18d",
           "ko_token_indexes": [
             287,
             288,
@@ -11926,7 +11927,7 @@ export default {
           ]
         },
         {
-          "id": "a-d7daf59d6c2732b8b355",
+          "id": "a-33fdc5fd888968ddc03b",
           "ko_token_indexes": [
             291,
             292,
@@ -11947,7 +11948,7 @@ export default {
           ]
         },
         {
-          "id": "a-8efa7f9a3bed7c5aa2c7",
+          "id": "a-9a946a194151499c3229",
           "ko_token_indexes": [
             297,
             298,
@@ -11967,7 +11968,7 @@ export default {
           ]
         },
         {
-          "id": "a-dbc3892cda61b4fbe021",
+          "id": "a-07afec2fd08e27f20790",
           "ko_token_indexes": [
             304,
             305,
@@ -11993,7 +11994,7 @@ export default {
           ]
         },
         {
-          "id": "a-88c49a242803fa2e80bf",
+          "id": "a-6a8c965880c3e436c42a",
           "ko_token_indexes": [
             314,
             315,
@@ -12010,7 +12011,7 @@ export default {
           ]
         },
         {
-          "id": "a-74033af287ba0d06c313",
+          "id": "a-9303c5eba9ab0e0267fd",
           "ko_token_indexes": [
             319,
             320,
@@ -12031,7 +12032,7 @@ export default {
           ]
         },
         {
-          "id": "a-48044daf0e22d715bb5f",
+          "id": "a-f933ab99d53a04ac3df9",
           "ko_token_indexes": [
             324,
             325,
@@ -12045,7 +12046,7 @@ export default {
           ]
         },
         {
-          "id": "a-d660caa7802504ca610a",
+          "id": "a-fdd8b904f0fe15b76920",
           "ko_token_indexes": [
             327,
             328,
@@ -12064,7 +12065,7 @@ export default {
           ]
         },
         {
-          "id": "a-4ac9f5e129e2e202f52f",
+          "id": "a-3ec3517084aaf4f45c39",
           "ko_token_indexes": [
             331,
             332,
@@ -12086,7 +12087,7 @@ export default {
           ]
         },
         {
-          "id": "a-fd05f6fdce591e2ba3c9",
+          "id": "a-a719864f42ce32f001db",
           "ko_token_indexes": [
             335,
             336,
@@ -12106,7 +12107,7 @@ export default {
           ]
         },
         {
-          "id": "a-443ea382df85f31efff9",
+          "id": "a-60ee3913af12dc8463d7",
           "ko_token_indexes": [
             340,
             341,
@@ -12122,7 +12123,7 @@ export default {
           ]
         },
         {
-          "id": "a-8ba9092a8ae1c1aa8402",
+          "id": "a-dd15756dac508024bde9",
           "ko_token_indexes": [
             343,
             344,
@@ -12147,7 +12148,7 @@ export default {
           ]
         },
         {
-          "id": "a-8bed8e677aadc6530f17",
+          "id": "a-c1109f4baa5678d0105d",
           "ko_token_indexes": [
             349,
             350,
@@ -12165,7 +12166,7 @@ export default {
           ]
         },
         {
-          "id": "a-2391cbd9adfa680edc6b",
+          "id": "a-a7067a34eb0681398c40",
           "ko_token_indexes": [
             353,
             354,
@@ -12185,7 +12186,7 @@ export default {
           ]
         },
         {
-          "id": "a-bc8e367bdb52aff53ac7",
+          "id": "a-46c29f16f995a391967f",
           "ko_token_indexes": [
             359,
             360,
@@ -12202,7 +12203,7 @@ export default {
           ]
         },
         {
-          "id": "a-19e92ea3ca8ebb2fdc9c",
+          "id": "a-445a59ae2e6613568623",
           "ko_token_indexes": [
             363,
             364,
@@ -12225,7 +12226,7 @@ export default {
           ]
         },
         {
-          "id": "a-5ab4bc32722286f95196",
+          "id": "a-15ab2fe4442033fe016e",
           "ko_token_indexes": [
             370,
             371
@@ -12239,7 +12240,7 @@ export default {
           ]
         },
         {
-          "id": "a-6d3898f82e4bb32dd022",
+          "id": "a-ce9d1a2a1a9ca38291dd",
           "ko_token_indexes": [
             372,
             373,
@@ -12256,7 +12257,7 @@ export default {
           ]
         },
         {
-          "id": "a-83337156344c14375005",
+          "id": "a-b327e72c5a9ed90e5e6a",
           "ko_token_indexes": [
             376,
             377,
@@ -12273,7 +12274,7 @@ export default {
           ]
         },
         {
-          "id": "a-cf6340488f5df788d17c",
+          "id": "a-fcb664a06877d9b8d3d7",
           "ko_token_indexes": [
             379,
             380,
@@ -12290,7 +12291,7 @@ export default {
           ]
         },
         {
-          "id": "a-e5069e3da9d5b48cd159",
+          "id": "a-2dc483fb21cc4e699325",
           "ko_token_indexes": [
             382,
             383,
@@ -12318,7 +12319,7 @@ export default {
           ]
         },
         {
-          "id": "a-2caabad3a7877934a192",
+          "id": "a-624fe8ef66e8258356e5",
           "ko_token_indexes": [
             390,
             391,
@@ -12339,7 +12340,7 @@ export default {
           ]
         },
         {
-          "id": "a-4d49df550cccbe7b8902",
+          "id": "a-67a638adb7eae8b53464",
           "ko_token_indexes": [
             394,
             395,
@@ -12387,11 +12388,11 @@ export default {
       "title": "세라피온에게 보낸 제1서신",
       "translation": {
         "notes": [
-          "성부와 성자와 성령의 내주를 샘, 강, 빛, 광채, 형상이라는 성경 비유로 설명한다. 비유는 삼위일체의 관계를 말하는 데 도움을 주지만, 그 신성을 모두 증명하거나 설명하는 도구로 제시되지는 않는다.",
-          "성령은 아버지에게서 나오시며 성자가 보내고 주시는 하나의 살아 있는 선물로 서술된다. 보내심, 영광 돌림, 받음의 관계가 나란히 제시된다."
+          "아버지와 아들과 성령의 내주를 샘, 강, 빛, 광채, 형상이라는 성경 비유로 설명한다. 비유는 삼위일체의 관계를 말하는 데 도움을 주지만, 그 신성을 모두 증명하거나 설명하는 도구로 제시되지는 않는다.",
+          "성령은 아버지에게서 나오시며 아들이 보내고 주시는 하나의 살아 있는 선물로 서술된다. 보내심, 영광 돌림, 받음의 관계가 나란히 제시된다."
         ],
-        "revision_id": "sha256:28f7e7d7625560e1994fae2310ac66d483980e23ed33905e0d2258123b548863",
-        "text": "거룩한 삼위일체 안에 이처럼 서로의 관계와 하나 됨이 있는데, 누가 아들을 아버지에게서 나누거나, 성령을 아들 또는 아버지 자신에게서 나누겠습니까? 또 누가 그토록 무모하여, 삼위일체가 서로 같지 않고 본성이 다르다고 하거나, 아들이 아버지와 관계없는 다른 본질이라고 하거나, 성령이 아들에게 낯선 분이라고 하겠습니까? 그런데 이런 일이 어떻게 가능합니까? 누군가 다시 캐물으며 질문할 것입니다. “성령이 우리 안에 계실 때, 어떻게 아들도 우리 안에 계신다고 하는가? 아들이 우리 안에 계실 때, 어떻게 아버지도 우리 안에 계신다고 하는가? 삼위일체이신데, 대체 어떻게 한 분 안에서 삼위일체가 지칭되는가? 또 한 분이 우리 안에 계실 때, 어떻게 삼위일체가 우리 안에 계신다고 하는가?” 그는 먼저 빛에서 광채를 떼어 보십시오. 혹은 지혜로운 이에게서 지혜를 떼어 보십시오. 그리고 이런 일이 어떻게 가능한지 말해 보십시오. 그렇게 할 수 없다면, 하나님에 관해 이런 것을 캐묻는 일은 훨씬 더 광기 어린 무모함입니다. 앞서 말했듯이 신성은 말로 하는 증명을 통해 전해지지 않고, 믿음과 경건한 생각 가운데 경외심으로 전해지기 때문입니다. 바울은 구원을 주는 십자가에 관한 것들도, 말의 지혜가 아니라, 성령과 능력의 증명으로 선포했습니다. 또 낙원에서 “말로 다 할 수 없는 말씀들”을 들었습니다. 그것들은 “사람이 말하는 것이 허용되지 않는 말씀들”입니다. 그렇다면 누가 거룩한 삼위일체 자체에 관해 다 말할 수 있겠습니까? 그럼에도 이런 난점은 해결할 수 있을 것입니다. 먼저 믿음으로, 그다음에는 앞서 말한 비유들로 그렇게 할 수 있습니다. 곧 형상과 광채, 샘과 강, 실재와 인장이라는 비유들입니다. 아들이 자기의 형상 안에 계시듯 성령 안에 계시며, 그와 같이 아버지도 아들 안에 계십니다. 하나님의 성경은 말로 설명할 수 없고, 이런 것들을 이해할 수 없는 우리를 도우려고, 이런 비유들을 우리에게 주었습니다. 무모한 이들의 불신 때문에 우리가 더 쉬운 말로 말하고, 위험 없이 말하며, 너그러이 허용되는 범위에서 이해하도록 하려는 것입니다. 또 거룩하게 하심이 하나임을 믿게 하려는 것입니다. 그 거룩하게 하심은 아버지에게서, 아들을 통해, 성령 안에서 이루어집니다. 아들이 독생자이시듯이, 아들이 주시고 보내시는 성령도, 한 분이시며 여럿이 아니고, 여럿으로 이루어진 하나도 아니며, 오직 성령 자신이시기 때문입니다. 살아 계신 말씀이신 아들이 한 분이시므로, 그의 작용과 선물도 하나이며 완전하고 충만해야 합니다. 그것은 거룩하게 하고 빛을 주는 그의 살아 있는 작용과 선물입니다. 그 선물은 아버지에게서 나온다고 합니다. 아버지에게서 오신다고 고백되는 말씀에게서 빛나고, 보내어지고 주어지기 때문입니다. 실제로 아들은 아버지에게서 보내어지십니다. “하나님께서 세상을 이처럼 사랑하셔서, 자기의 독생자를 보내셨다”라고 하기 때문입니다. 아들은 성령을 보내십니다. “내가 떠나면 보혜사를 보내겠다”라고 말씀하시기 때문입니다. 아들은 아버지께 영광을 돌리시며, “아버지여, 내가 아버지께 영광을 돌렸습니다”라고 말씀하십니다. 성령은 아들에게 영광을 돌리십니다. “그가 내게 영광을 돌릴 것이다”라고 하시기 때문입니다. 아들은 말씀하십니다. “내가 아버지에게서 들은 것을 나는 세상에 말한다.” 성령은 아들에게서 받으십니다. “그가 내 것을 받아 너희에게 알릴 것이다”라고 하십니다. 아들은 아버지의 이름으로 오셨습니다. 성령에 관해서는 아들이 “아버지께서 내 이름으로 보내실 성령”이라고 말씀하십니다."
+        "revision_id": "sha256:2745968d9a639a06c34cc825608ad1739184635dbc4d7b814a11b6fd73b671d7",
+        "text": "거룩한 삼위일체 안에 이처럼 서로의 관계와 하나 됨이 있는데, 누가 아들을 아버지에게서 나누거나, 성령을 아들 또는 아버지 자신에게서 나누겠습니까? 또 누가 그토록 무모하여, 삼위일체가 서로 같지 않고 본성이 다르다고 하거나, 아들이 아버지와 관계없는 다른 본질이라고 하거나, 성령이 아들에게 낯선 분이라고 하겠습니까? 그런데 이런 일이 어떻게 가능합니까? 누군가 다시 캐물으며 질문할 것입니다. “성령이 우리 안에 계실 때, 어떻게 아들도 우리 안에 계신다고 하는가? 아들이 우리 안에 계실 때, 어떻게 아버지도 우리 안에 계신다고 하는가? 삼위일체이신데, 대체 어떻게 한 분 안에서 삼위일체가 지칭되는가? 또 한 분이 우리 안에 계실 때, 어떻게 삼위일체가 우리 안에 계신다고 하는가?” 그는 먼저 빛에서 광채를 떼어 보십시오. 혹은 지혜로운 이에게서 지혜를 떼어 보십시오. 그리고 이런 일이 어떻게 가능한지 말해 보십시오. 그렇게 할 수 없다면, 하나님에 관해 이런 것을 캐묻는 일은 훨씬 더 광기 어린 무모함입니다. 앞서 말했듯이 신성은 말로 하는 증명을 통해 전해지지 않고, 믿음과 경건한 생각 가운데 경외심으로 전해지기 때문입니다. 바울은 구원을 주는 십자가에 관한 것들도, 말의 지혜가 아니라, 성령과 능력의 증명으로 선포했습니다. 또 낙원에서 “말로 다 할 수 없는 말씀들”을 들었습니다. 그것들은 “사람이 말하는 것이 허용되지 않는 말씀들”입니다. 그렇다면 누가 거룩한 삼위일체 자체에 관해 다 말할 수 있겠습니까? 그럼에도 이런 난점은 해결할 수 있을 것입니다. 먼저 믿음으로, 그다음에는 앞서 말한 비유들로 그렇게 할 수 있습니다. 곧 형상과 광채, 샘과 강, 실체와 인장이라는 비유들입니다. 아들이 자기의 형상 안에 계시듯 성령 안에 계시며, 그와 같이 아버지도 아들 안에 계십니다. 하나님의 성경은 말로 설명할 수 없고, 이런 것들을 이해할 수 없는 우리를 도우려고, 이런 비유들을 우리에게 주었습니다. 무모한 이들의 불신 때문에 우리가 더 쉬운 말로 말하고, 위험 없이 말하며, 너그러이 허용되는 범위에서 이해하도록 하려는 것입니다. 또 거룩하게 하심이 하나임을 믿게 하려는 것입니다. 그 거룩하게 하심은 아버지에게서, 아들을 통해, 성령 안에서 이루어집니다. 아들이 외아들이시듯이, 아들이 주시고 보내시는 성령도, 한 분이시며 여럿이 아니고, 여럿으로 이루어진 하나도 아니며, 오직 성령 자신이시기 때문입니다. 살아 계신 말씀이신 아들이 한 분이시므로, 그의 작용과 선물도 하나이며 완전하고 충만해야 합니다. 그것은 거룩하게 하고 빛을 주는 그의 살아 있는 작용과 선물입니다. 그 선물은 아버지에게서 나온다고 합니다. 아버지에게서 오신다고 고백되는 말씀에게서 빛나고, 보내어지고 주어지기 때문입니다. 실제로 아들은 아버지에게서 보내어지십니다. “하나님께서 세상을 이처럼 사랑하셔서, 자기의 외아들을 보내셨다”라고 하기 때문입니다. 아들은 성령을 보내십니다. “내가 떠나면 보혜사를 보내겠다”라고 말씀하시기 때문입니다. 아들은 아버지께 영광을 돌리시며, “아버지여, 내가 아버지께 영광을 돌렸습니다”라고 말씀하십니다. 성령은 아들에게 영광을 돌리십니다. “그가 내게 영광을 돌릴 것이다”라고 하시기 때문입니다. 아들은 말씀하십니다. “내가 아버지에게서 들은 것을 나는 세상에 말한다.” 성령은 아들에게서 받으십니다. “그가 내 것을 받아 너희에게 알릴 것이다”라고 하십니다. 아들은 아버지의 이름으로 오셨습니다. 성령에 관해서는 아들이 “아버지께서 내 이름으로 보내실 성령”이라고 말씀하십니다."
       },
       "work_id": "athanasius-serapion-1",
       "work_passage_id": "athanasius-serapion-1:20"
@@ -12400,7 +12401,7 @@ export default {
       "author": "아타나시우스",
       "groups": [
         {
-          "id": "a-6da9a14e79fc7d89edb3",
+          "id": "a-77cc839ad5b43d6e479f",
           "ko_token_indexes": [
             0,
             1,
@@ -12417,7 +12418,7 @@ export default {
           ]
         },
         {
-          "id": "a-d6cdcb3ade07f699cafd",
+          "id": "a-501925103c012dd5c3a0",
           "ko_token_indexes": [
             4,
             5,
@@ -12441,7 +12442,7 @@ export default {
           ]
         },
         {
-          "id": "a-8c987d908ab894a791ce",
+          "id": "a-3601ccedcdec22285a4e",
           "ko_token_indexes": [
             11,
             12,
@@ -12457,7 +12458,7 @@ export default {
           ]
         },
         {
-          "id": "a-49a52873cdf04f262392",
+          "id": "a-a25f77a60646419fc3d7",
           "ko_token_indexes": [
             15,
             16,
@@ -12479,7 +12480,7 @@ export default {
           ]
         },
         {
-          "id": "a-42ca33b922322224f07f",
+          "id": "a-52f5fe6a13ce6f8f4920",
           "ko_token_indexes": [
             23,
             24,
@@ -12509,7 +12510,7 @@ export default {
           ]
         },
         {
-          "id": "a-570f78730b13dea7ccda",
+          "id": "a-c179a9c619c0655d8f2a",
           "ko_token_indexes": [
             31,
             32,
@@ -12526,7 +12527,7 @@ export default {
           ]
         },
         {
-          "id": "a-ca9b258fda8ab7733d6b",
+          "id": "a-7a24fa6626019b36cac2",
           "ko_token_indexes": [
             37,
             38,
@@ -12548,7 +12549,7 @@ export default {
           ]
         },
         {
-          "id": "a-85af2a22cd8f20ceb315",
+          "id": "a-6f4d2f87cc42006059e7",
           "ko_token_indexes": [
             42,
             43,
@@ -12566,7 +12567,7 @@ export default {
           ]
         },
         {
-          "id": "a-965e5579960f492ae4bb",
+          "id": "a-1761a59fdd84aaadfc82",
           "ko_token_indexes": [
             48,
             49,
@@ -12585,7 +12586,7 @@ export default {
           ]
         },
         {
-          "id": "a-8d526d6da1c33d8acfb0",
+          "id": "a-13852aee0b53b618ce4d",
           "ko_token_indexes": [
             52,
             53,
@@ -12604,7 +12605,7 @@ export default {
           ]
         },
         {
-          "id": "a-52a46cc7d4cba026db6a",
+          "id": "a-83917ee3b8e6cfd6249f",
           "ko_token_indexes": [
             57,
             58,
@@ -12622,7 +12623,7 @@ export default {
           ]
         },
         {
-          "id": "a-06d2f7c41cfee8aabec1",
+          "id": "a-2517ebc331d8c67f6107",
           "ko_token_indexes": [
             61,
             62,
@@ -12639,7 +12640,7 @@ export default {
           ]
         },
         {
-          "id": "a-7a1820b8a6c6eece3da8",
+          "id": "a-cd5bd3e6c0b9650169d8",
           "ko_token_indexes": [
             66,
             67,
@@ -12660,7 +12661,7 @@ export default {
           ]
         },
         {
-          "id": "a-53b2a09a24a54875415d",
+          "id": "a-e06a8a1cecee686b4fb3",
           "ko_token_indexes": [
             71,
             72,
@@ -12689,7 +12690,7 @@ export default {
           ]
         },
         {
-          "id": "a-5686690b3fa35eb5780e",
+          "id": "a-3395b6cc2e3f03e86a94",
           "ko_token_indexes": [
             80,
             81,
@@ -12724,7 +12725,7 @@ export default {
           ]
         },
         {
-          "id": "a-d8773a451146bed346b4",
+          "id": "a-cdb62f664fb2e113640c",
           "ko_token_indexes": [
             91,
             92
@@ -12738,7 +12739,7 @@ export default {
           ]
         },
         {
-          "id": "a-7f3ed91012627620b03d",
+          "id": "a-8a795c12fb1759687780",
           "ko_token_indexes": [
             93,
             94,
@@ -12764,7 +12765,7 @@ export default {
           ]
         },
         {
-          "id": "a-20810792150f76df2a90",
+          "id": "a-afe4915160e99b268b1a",
           "ko_token_indexes": [
             101,
             102,
@@ -12788,7 +12789,7 @@ export default {
           ]
         },
         {
-          "id": "a-09d65e30aa40ff0c6a74",
+          "id": "a-b412327bc18919862c6a",
           "ko_token_indexes": [
             108,
             109,
@@ -12808,7 +12809,7 @@ export default {
           ]
         },
         {
-          "id": "a-a142e874cad94e7bd4ae",
+          "id": "a-3863ee34440b0ef0d1e1",
           "ko_token_indexes": [
             114,
             115,
@@ -12822,7 +12823,7 @@ export default {
           ]
         },
         {
-          "id": "a-49a686fc69822cba412e",
+          "id": "a-0c117e35f16d657540cd",
           "ko_token_indexes": [
             117,
             118,
@@ -12838,7 +12839,7 @@ export default {
           ]
         },
         {
-          "id": "a-e4fddc2e8b88b6e9f3ff",
+          "id": "a-3b59a167ee0aafe61bf3",
           "ko_token_indexes": [
             122,
             123,
@@ -12865,7 +12866,7 @@ export default {
           ]
         },
         {
-          "id": "a-792023f65734cf3e2e33",
+          "id": "a-3db78be41cbc4d88c4ce",
           "ko_token_indexes": [
             134,
             135,
@@ -12882,7 +12883,7 @@ export default {
           ]
         },
         {
-          "id": "a-85d74ec49a6cd2a37972",
+          "id": "a-15a9f120612087357c7f",
           "ko_token_indexes": [
             138,
             139,
@@ -12900,7 +12901,7 @@ export default {
           ]
         },
         {
-          "id": "a-53cf8dc7885322b9ffc2",
+          "id": "a-c7ea51f309076fa37ad6",
           "ko_token_indexes": [
             143,
             144,
@@ -12925,7 +12926,7 @@ export default {
           ]
         },
         {
-          "id": "a-209e45cea1d8edda063a",
+          "id": "a-8de30ddee0491648c6bf",
           "ko_token_indexes": [
             152,
             153,
@@ -12944,7 +12945,7 @@ export default {
           ]
         },
         {
-          "id": "a-acda419216fd5c219f86",
+          "id": "a-6416d1df1f2bd04c080e",
           "ko_token_indexes": [
             158,
             159,
@@ -12963,7 +12964,7 @@ export default {
           ]
         },
         {
-          "id": "a-736f3ab57ed9def3d013",
+          "id": "a-467201481e387b6929b4",
           "ko_token_indexes": [
             162,
             163,
@@ -12998,7 +12999,7 @@ export default {
           ]
         },
         {
-          "id": "a-31b5db041a077a3601b7",
+          "id": "a-71e6bf8a4180008cceeb",
           "ko_token_indexes": [
             174,
             175,
@@ -13006,7 +13007,19 @@ export default {
             177,
             178,
             179,
-            180
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192
           ],
           "source_token_indexes": [
             228,
@@ -13015,39 +13028,12 @@ export default {
             231,
             232,
             233,
-            234
-          ]
-        },
-        {
-          "id": "a-03c78527b757c202d13d",
-          "ko_token_indexes": [
-            181,
-            182,
-            183,
-            184,
-            185,
-            186
-          ],
-          "source_token_indexes": [
+            234,
             235,
             236,
             237,
             238,
-            239
-          ]
-        },
-        {
-          "id": "a-2638d405ebb2151d6315",
-          "ko_token_indexes": [
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193
-          ],
-          "source_token_indexes": [
+            239,
             240,
             241,
             242,
@@ -13061,16 +13047,16 @@ export default {
           ]
         },
         {
-          "id": "a-22d095a67f434de86bb2",
+          "id": "a-da6c5a6e2cc113811318",
           "ko_token_indexes": [
+            193,
             194,
             195,
             196,
             197,
             198,
             199,
-            200,
-            201
+            200
           ],
           "source_token_indexes": [
             250,
@@ -13083,12 +13069,12 @@ export default {
           ]
         },
         {
-          "id": "a-8fd8509ab21c1ac98148",
+          "id": "a-4debc00ee6444ff35de3",
           "ko_token_indexes": [
+            201,
             202,
             203,
-            204,
-            205
+            204
           ],
           "source_token_indexes": [
             257,
@@ -13100,14 +13086,14 @@ export default {
           ]
         },
         {
-          "id": "a-2973c8c58d967c2a7189",
+          "id": "a-42223b867adc1d58dbba",
           "ko_token_indexes": [
+            205,
             206,
             207,
             208,
             209,
-            210,
-            211
+            210
           ],
           "source_token_indexes": [
             263,
@@ -13125,10 +13111,10 @@ export default {
           ]
         },
         {
-          "id": "a-23278480c30c7ea1bef0",
+          "id": "a-a8814e3855700ae8d7ee",
           "ko_token_indexes": [
-            212,
-            213
+            211,
+            212
           ],
           "source_token_indexes": [
             275,
@@ -13141,13 +13127,13 @@ export default {
           ]
         },
         {
-          "id": "a-5893113c1e877cca555d",
+          "id": "a-cfca67d0dd5ca83e20b3",
           "ko_token_indexes": [
+            213,
             214,
             215,
             216,
-            217,
-            218
+            217
           ],
           "source_token_indexes": [
             282,
@@ -13175,10 +13161,10 @@ export default {
       "translation": {
         "notes": [
           "성령에 참여하는 사람이 아들을 지니고, 아들을 지니는 사람이 성령을 지닌다는 관계를 설명한다. 롬 8:15, 고전 1:24, 갈 4:6, 고전 2:11, 요 14:10이 논증에 연결된다.",
-          "같은 하나님의 명령으로 생긴 피조물도 서로 다른 이름을 지닌다는 비유를 든다. 성부와 성자와 성령의 이름을 인간의 가족 관계에 따라 바꾸지 말라는 주장이다."
+          "같은 하나님의 명령으로 생긴 피조물도 서로 다른 이름을 지닌다는 비유를 든다. 아버지와 아들과 성령의 이름을 인간의 가족 관계에 따라 바꾸지 말라는 주장이다."
         ],
-        "revision_id": "sha256:62e597ce520c1e5c8a87547314754c156d1320127c87638dd6690677c33d9354",
-        "text": "이처럼 성령은 피조물이 아니십니다. 말씀의 본질에 고유하게 속하시며 하나님께도 고유하게 속하십니다. 하나님 안에 계신다고 일컬어지십니다. 같은 말을 다시 하는 데 주저해서는 안 됩니다. 성령이 아들이라 불리지 않으셨더라도 아들 밖에 계시지는 않습니다. 아들로 받아 주시는 영이라고 불리셨기 때문입니다. “그리스도는 하나님의 능력이자 하나님의 지혜”이시므로, 이에 따라 성령에 관해서도 이렇게 일컬어집니다. “지혜의 영이며 능력의 영이시다.” 우리는 성령에 참여함으로 아들을 지니며, 아들을 지니면 성령을 지닙니다. 성령은 우리 마음 안에서 외치십니다. 바울이 말했듯이 “아바, 아버지!”라고 외치십니다. 그런데 성령은 하나님의 영이시며 하나님 안에 계신다고 기록되어 있습니다. “하나님의 일들은 그분 안에 계신 하나님의 영 외에는 아무도 알지 못한다.” 아들도 말씀하셨습니다. “나는 아버지 안에 있고 아버지는 내 안에 계신다.” 그렇다면 어째서 이분과 저분의 이름은 같지 않고, 한 분은 아들이고 다른 분은 영입니까? 누군가 이렇게 묻는다면, 그 사람은 제정신이 아닐 것입니다. 찾아낼 수 없는 것을 캐내려 하며, 다음과 같이 말하는 사도에게 불순종하기 때문입니다. “누가 주님의 마음을 알았는가? 누가 그분의 의논 상대가 되었는가?” 더구나 하나님이 이름 붙이신 것을 누가 감히 바꾸어 부르겠습니까? 그렇다면 피조물의 문제에 대해서라도 설명해 보십시오. 피조물은 같은 명령으로 생겨났는데, 어째서 하나는 태양, 다른 하나는 하늘, 또 땅과 바다와 공기인지 말해 보십시오. 어리석은 자들이 이 일조차 할 수 없다면, 각 피조물은 생겨난 모습대로 머물기 때문입니다. 하물며 피조물보다 위에 계신 분들은 영원히 존속하십니다. 그 계신 모습 외에 다른 모습으로 계시지 않습니다. 아버지는 아버지이시며 할아버지가 아니십니다. 아들은 하나님의 아들이시며 성령의 아버지가 아니십니다. 성령은 성령이시며, 아버지의 손자도, 아들의 형제도 아니십니다."
+        "revision_id": "sha256:70adc781db82cf40fcea57cf52b6fc2785581ae73e044121ba728db621c02a70",
+        "text": "이처럼 성령은 피조물이 아니십니다. 말씀의 본질에 고유하게 속하시며 하나님께도 고유하게 속하십니다. 하나님 안에 계신다고 일컬어지십니다. 같은 말을 다시 하는 데 주저해서는 안 됩니다. 성령이 아들이라 불리지 않으셨더라도 아들 밖에 계시지는 않습니다. 아들로 받아 주시는 영이라고 불리셨기 때문입니다. “그리스도는 하나님의 능력이자 하나님의 지혜”이시므로, 이에 따라 성령에 관해서도 이렇게 일컬어집니다. “지혜의 영이며 능력의 영이시다.” 우리는 성령에 참여함으로 아들을 지니며, 아들을 지니면 성령을 지닙니다. 성령은 우리 마음 안에서 외치십니다. 바울이 말했듯이 “아바, 아버지!”라고 외치십니다. 그런데 성령은 하나님의 영이시며 하나님 안에 계신다고 기록되어 있습니다. “하나님의 일들은 그분 안에 계신 하나님의 영 외에는 아무도 알지 못한다.” 아들도 말씀하셨습니다. “나는 아버지 안에 있고 아버지는 내 안에 계신다.” 그렇다면 어째서 이분과 저분의 이름은 같지 않고, 한 분은 아들이고 다른 분은 영입니까? 누군가 이렇게 묻는다면, 그 사람은 제정신이 아닐 것입니다. 찾아낼 수 없는 것을 캐내려 하며, 다음과 같이 말하는 사도에게 불순종하기 때문입니다. “누가 주님의 마음을 알았는가? 누가 그분의 의논 상대가 되었는가?” 더구나 하나님이 이름 붙이신 것을 누가 감히 바꾸어 부르겠습니까? 그렇다면 피조물의 문제에 대해서라도 설명해 보십시오. 피조물은 같은 명령으로 생겨났는데, 어째서 하나는 태양, 다른 하나는 하늘, 또 땅과 바다와 공기인지 말해 보십시오. 어리석은 자들이 이 일조차 할 수 없다면(각 피조물은 생겨난 모습대로 머물기 때문입니다), 피조물보다 위에 계신 분들은 더욱더 영원히 존속하십니다. 그 계신 모습 외에 다른 모습으로 계시지 않습니다. 아버지는 아버지이시며 할아버지가 아니십니다. 아들은 하나님의 아들이시며 성령의 아버지가 아니십니다. 성령은 성령이시며, 아버지의 손자도, 아들의 형제도 아니십니다."
       },
       "work_id": "athanasius-serapion-4",
       "work_passage_id": "athanasius-serapion-4:4"
@@ -13639,7 +13625,7 @@ export default {
       "author": "아타나시우스",
       "groups": [
         {
-          "id": "a-b93325ad9983229744e5",
+          "id": "a-805cdd2ee91240cc485f",
           "ko_token_indexes": [
             0,
             1,
@@ -13680,7 +13666,7 @@ export default {
           ]
         },
         {
-          "id": "a-46d6673871a71dffcfd5",
+          "id": "a-b5cb1f44ca0b7ac04227",
           "ko_token_indexes": [
             14,
             15,
@@ -13706,7 +13692,9 @@ export default {
             35,
             36,
             37,
-            38
+            38,
+            39,
+            40
           ],
           "source_token_indexes": [
             20,
@@ -13737,10 +13725,8 @@ export default {
           ]
         },
         {
-          "id": "a-c9725ba115052b2b27cd",
+          "id": "a-2ccd99c87d590a402cc5",
           "ko_token_indexes": [
-            39,
-            40,
             41,
             42,
             43,
@@ -13749,7 +13735,9 @@ export default {
             46,
             47,
             48,
-            49
+            49,
+            50,
+            51
           ],
           "source_token_indexes": [
             45,
@@ -13772,10 +13760,8 @@ export default {
           ]
         },
         {
-          "id": "a-d6adb405cede2d0b2192",
+          "id": "a-ae84664cfe3ecade0f13",
           "ko_token_indexes": [
-            50,
-            51,
             52,
             53,
             54,
@@ -13785,7 +13771,9 @@ export default {
             58,
             59,
             60,
-            61
+            61,
+            62,
+            63
           ],
           "source_token_indexes": [
             62,
@@ -13806,10 +13794,8 @@ export default {
           ]
         },
         {
-          "id": "a-a7161fbb7c7cd45cdd38",
+          "id": "a-e97428b028d2b45fee7a",
           "ko_token_indexes": [
-            62,
-            63,
             64,
             65,
             66,
@@ -13820,7 +13806,9 @@ export default {
             71,
             72,
             73,
-            74
+            74,
+            75,
+            76
           ],
           "source_token_indexes": [
             77,
@@ -13846,10 +13834,8 @@ export default {
           ]
         },
         {
-          "id": "a-5ff062548974e32ff6d0",
+          "id": "a-b188b1bf998eb2b3874a",
           "ko_token_indexes": [
-            75,
-            76,
             77,
             78,
             79,
@@ -13873,7 +13859,9 @@ export default {
             97,
             98,
             99,
-            100
+            100,
+            101,
+            102
           ],
           "source_token_indexes": [
             97,
@@ -13905,10 +13893,8 @@ export default {
           ]
         },
         {
-          "id": "a-716f8d2cf65158731100",
+          "id": "a-567093bc60628f4dd81b",
           "ko_token_indexes": [
-            101,
-            102,
             103,
             104,
             105,
@@ -13922,7 +13908,9 @@ export default {
             113,
             114,
             115,
-            116
+            116,
+            117,
+            118
           ],
           "source_token_indexes": [
             123,
@@ -13948,10 +13936,8 @@ export default {
           ]
         },
         {
-          "id": "a-f67e9a12ab733590c9e7",
+          "id": "a-1f3310b2a22ab1d88346",
           "ko_token_indexes": [
-            117,
-            118,
             119,
             120,
             121,
@@ -13980,7 +13966,9 @@ export default {
             144,
             145,
             146,
-            147
+            147,
+            148,
+            149
           ],
           "source_token_indexes": [
             143,
@@ -14023,10 +14011,8 @@ export default {
           ]
         },
         {
-          "id": "a-84966a6fd5a0bc57dfb6",
+          "id": "a-829f60b16aadd5226df8",
           "ko_token_indexes": [
-            148,
-            149,
             150,
             151,
             152,
@@ -14043,7 +14029,9 @@ export default {
             163,
             164,
             165,
-            166
+            166,
+            167,
+            168
           ],
           "source_token_indexes": [
             180,
@@ -14068,17 +14056,17 @@ export default {
           ]
         },
         {
-          "id": "a-ab1552a0ef1b428e776a",
+          "id": "a-fc521eca7e076934c858",
           "ko_token_indexes": [
-            167,
-            168,
             169,
             170,
             171,
             172,
             173,
             174,
-            175
+            175,
+            176,
+            177
           ],
           "source_token_indexes": [
             199,
@@ -14097,15 +14085,15 @@ export default {
           ]
         },
         {
-          "id": "a-46d392f1bc623c224d22",
+          "id": "a-e24e7c618830e3593c2f",
           "ko_token_indexes": [
-            176,
-            177,
             178,
             179,
             180,
             181,
-            182
+            182,
+            183,
+            184
           ],
           "source_token_indexes": [
             212,
@@ -14123,10 +14111,8 @@ export default {
           ]
         },
         {
-          "id": "a-2fa07811786670475853",
+          "id": "a-e232f2d02212ec31e19a",
           "ko_token_indexes": [
-            183,
-            184,
             185,
             186,
             187,
@@ -14156,7 +14142,9 @@ export default {
             211,
             212,
             213,
-            214
+            214,
+            215,
+            216
           ],
           "source_token_indexes": [
             224,
@@ -14204,10 +14192,8 @@ export default {
           ]
         },
         {
-          "id": "a-107e5eacc854aaeaac31",
+          "id": "a-9386f6ccb87aee3fcada",
           "ko_token_indexes": [
-            215,
-            216,
             217,
             218,
             219,
@@ -14216,7 +14202,9 @@ export default {
             222,
             223,
             224,
-            225
+            225,
+            226,
+            227
           ],
           "source_token_indexes": [
             266,
@@ -14241,10 +14229,8 @@ export default {
           ]
         },
         {
-          "id": "a-b937b574e8aa2e94ecd5",
+          "id": "a-d9822d5394ca9f5423ab",
           "ko_token_indexes": [
-            226,
-            227,
             228,
             229,
             230,
@@ -14277,7 +14263,9 @@ export default {
             257,
             258,
             259,
-            260
+            260,
+            261,
+            262
           ],
           "source_token_indexes": [
             285,
@@ -14329,10 +14317,8 @@ export default {
           ]
         },
         {
-          "id": "a-0a91a30fc578583f4e47",
+          "id": "a-dafafd4f41610de65520",
           "ko_token_indexes": [
-            261,
-            262,
             263,
             264,
             265,
@@ -14341,7 +14327,9 @@ export default {
             268,
             269,
             270,
-            271
+            271,
+            272,
+            273
           ],
           "source_token_indexes": [
             331,
@@ -14365,16 +14353,16 @@ export default {
           ]
         },
         {
-          "id": "a-1324a374d7b7117f0f34",
+          "id": "a-9be919b3c29798db2c32",
           "ko_token_indexes": [
-            272,
-            273,
             274,
             275,
             276,
             277,
             278,
-            279
+            279,
+            280,
+            281
           ],
           "source_token_indexes": [
             349,
@@ -14405,8 +14393,8 @@ export default {
           "κατ’ εἰκόνα와 ὁμοίωσις는 하나님의 형상과 닮음에 관한 표현이다. 인간의 정신이 말씀을 바라보는 논증의 출발점이다. 끝의 인용은 마태복음 5:8이다.",
           "전자판에서 persName 요소 안과 뒤에 두 번 적힌 Ἀδὰμ은 PG 25, 8열을 대조하여 한 번으로 교정했다. ‘낙원’의 τροπικῶς는 비유적인 명명을 가리킨다."
         ],
-        "revision_id": "sha256:d1ee347174164317d3441e8867c35ce214d35926f5ad05089985c42755a377b5",
-        "text": "처음에는 악이 없었다. 지금도 거룩한 이들 가운데에는 악이 없으며, 그들에게 악은 전혀 존재하지 않는다. 사람들은 나중에 악을 생각해 내고 스스로에게 그 모습을 새기기 시작했다. 그 때문에 존재하지 않는 것을 존재하는 것으로 여기며, 우상에 관한 생각도 자신들을 위해 만들어 냈다. 만물의 창조자이며 모든 것을 다스리시는 하나님은 모든 존재와 인간의 생각을 초월하신다. 선하시고 지극히 아름다우신 그분은 자신의 말씀, 곧 우리의 구주 예수 그리스도를 통해, 인류를 자신의 형상대로 만드셨다. 자신과 닮게 하심으로 인간이 존재하는 것들을 바라보고 알도록 지으셨다. 또 자신의 영원함을 생각하고 아는 능력을 주셨다. 인간이 이 같은 상태를 지켜 하나님에 관한 생각에서 결코 떠나지 않고 거룩한 이들과 사는 삶에서도 벗어나지 않게 하려는 것이다. 은혜를 주신 분의 은혜를 간직하고, 아버지의 말씀에게서 받은 자신의 능력도 간직하여 기뻐하며 하나님과 교제하게 하려는 것이다. 그렇게 고통 없이 복되고 참으로 죽지 않는 삶을 살게 하셨다. 하나님을 아는 데 아무 장애가 없는 인간은 자신의 깨끗함을 통해 아버지의 형상이시며 하나님이신 말씀을 늘 바라본다. 인간은 그 말씀의 형상대로 지어졌다. 또 말씀을 통해 온 우주에 미치는 섭리를 깨닫고 크게 놀란다. 감각으로 느끼는 것들과 육체에 관한 온갖 생각 위로 올라서, 정신의 능력으로 하늘의 신적인 것들, 정신으로 파악하는 것들과 연결된다. 인간의 정신이 육체적인 것들과 어울리지 않을 때, 그것들에서 생기는 욕망이 외부에서 들어와 섞이지 않고, 처음 지어졌을 때처럼 온전히 위에 머물며 자신과 함께 있을 때, 감각적인 것들과 모든 인간적인 것을 지나 높이 오른다. 말씀을 보고 그분 안에서 말씀의 아버지도 본다. 그분을 바라보며 기뻐하고 그분을 향한 갈망으로 새로워진다. 처음 생겨난 인간도 그러했다. 히브리 말로 아담이라 불린 그 사람에 관해 거룩한 성경은, 처음에는 부끄럼 없이 담대하게 마음을 하나님께 향하고 거룩한 이들과 함께 살며 정신으로 파악하는 것들을 바라보았다고 말한다. 그가 이런 관상을 누리던 곳을 거룩한 모세도 비유적으로 낙원이라 불렀다. 영혼의 깨끗함만으로도 하나님을 거울처럼 비추어 볼 수 있다. 주께서도 이렇게 말씀하신다. “마음이 깨끗한 이들은 복되다. 그들이 하나님을 볼 것이다.”"
+        "revision_id": "sha256:2cc858a19c67724bd324ca0246c74d362fad4571879d18fbf4b85472587939a9",
+        "text": "처음에는 악이 없었다. 지금도 거룩한 이들 가운데에는 악이 없으며, 그들에게 악은 전혀 존재하지 않는다. 사람들은 나중에 악을 생각해 내고 스스로에게 해가 되도록 그 모습을 새기기 시작했다. 그 때문에 존재하지 않는 것을 존재하는 것으로 여기며, 우상에 관한 생각도 자신들을 위해 만들어 냈다. 만물의 창조자이며 모든 것을 다스리시는 하나님은 모든 본질과 인간의 생각을 초월하신다. 선하시고 지극히 아름다우신 그분은 자신의 말씀, 곧 우리의 구주 예수 그리스도를 통해, 인류를 자신의 형상대로 만드셨다. 자신과 닮게 하심으로 인간이 존재하는 것들을 바라보고 알도록 지으셨다. 또 자신의 영원함을 생각하고 아는 능력을 주셨다. 인간이 이 같은 상태를 지켜 하나님에 관한 생각에서 결코 떠나지 않고 거룩한 이들과 사는 삶에서도 벗어나지 않게 하려는 것이다. 은혜를 주신 분의 은혜를 간직하고, 아버지의 말씀에게서 받은 자신의 능력도 간직하여 기뻐하며 하나님과 교제하게 하려는 것이다. 그렇게 고통 없이 복되고 참으로 죽지 않는 삶을 살게 하셨다. 하나님을 아는 데 아무 장애가 없는 인간은 자신의 깨끗함을 통해 아버지의 형상이시며 하나님이신 말씀을 늘 바라본다. 인간은 그 말씀의 형상대로 지어졌다. 또 말씀을 통해 온 우주에 미치는 섭리를 깨닫고 크게 놀란다. 감각으로 느끼는 것들과 육체에 관한 온갖 생각 위로 올라서, 정신의 능력으로 하늘의 신적인 것들, 정신으로 파악하는 것들과 연결된다. 인간의 정신이 육체적인 것들과 어울리지 않을 때, 그것들에서 생기는 욕망이 외부에서 들어와 섞이지 않고, 처음 지어졌을 때처럼 온전히 위에 머물며 자신과 함께 있을 때, 감각적인 것들과 모든 인간적인 것을 지나 높이 오른다. 말씀을 보고 그분 안에서 말씀의 아버지도 본다. 그분을 바라보며 기뻐하고 그분을 향한 갈망으로 새로워진다. 처음 생겨난 인간도 그러했다. 히브리 말로 아담이라 불린 그 사람에 관해 거룩한 성경은, 처음에는 부끄럼 없이 담대하게 마음을 하나님께 향하고 거룩한 이들과 함께 살며 정신으로 파악하는 것들을 바라보았다고 말한다. 그가 이런 관상을 누리던 곳을 거룩한 모세도 비유적으로 낙원이라 불렀다. 영혼의 깨끗함만으로도 하나님을 거울처럼 비추어 볼 수 있다. 주께서도 이렇게 말씀하신다. “마음이 깨끗한 이들은 복되다. 그들이 하나님을 볼 것이다.”"
       },
       "work_id": "athanasius-gentes",
       "work_passage_id": "AGent2"
@@ -15043,7 +15031,7 @@ export default {
       "author": "아타나시우스",
       "groups": [
         {
-          "id": "a-c78cc6334f5e909ee4ac",
+          "id": "a-ee6f78312277e69e2c73",
           "ko_token_indexes": [
             0,
             1,
@@ -15102,7 +15090,7 @@ export default {
           ]
         },
         {
-          "id": "a-b96361d1772ee8d0e9e9",
+          "id": "a-ad04c0fbae438bb06938",
           "ko_token_indexes": [
             24,
             25,
@@ -15138,7 +15126,7 @@ export default {
           ]
         },
         {
-          "id": "a-214a46ff0b4e300e38fc",
+          "id": "a-af586a58d5c1839b0abd",
           "ko_token_indexes": [
             38,
             39,
@@ -15212,7 +15200,7 @@ export default {
           ]
         },
         {
-          "id": "a-482ef77ceff46525e15e",
+          "id": "a-512c28c16791e481241d",
           "ko_token_indexes": [
             69,
             70,
@@ -15248,7 +15236,7 @@ export default {
           ]
         },
         {
-          "id": "a-c61ea4b0313d23353e12",
+          "id": "a-7c27de5ed8fdf639e09f",
           "ko_token_indexes": [
             82,
             83,
@@ -15277,7 +15265,7 @@ export default {
           ]
         },
         {
-          "id": "a-e33ba5eb90b47fc5e52f",
+          "id": "a-915b4c41ff2666f3dfc5",
           "ko_token_indexes": [
             90,
             91,
@@ -15330,7 +15318,7 @@ export default {
           ]
         },
         {
-          "id": "a-155254227ac5158d8ad5",
+          "id": "a-82307dcd90bf836564b1",
           "ko_token_indexes": [
             109,
             110,
@@ -15419,7 +15407,7 @@ export default {
           ]
         },
         {
-          "id": "a-0ffb68964c3390e946d1",
+          "id": "a-5aeac5087ef51365f64f",
           "ko_token_indexes": [
             147,
             148,
@@ -15460,7 +15448,7 @@ export default {
           ]
         },
         {
-          "id": "a-f1cba69e40981a4ac329",
+          "id": "a-2145a6277e4a0dca122e",
           "ko_token_indexes": [
             161,
             162,
@@ -15556,7 +15544,7 @@ export default {
           ]
         },
         {
-          "id": "a-39ac5ef2ec9ab31bc439",
+          "id": "a-f8ad36e0aad1cba979bc",
           "ko_token_indexes": [
             198,
             199,
@@ -15664,8 +15652,8 @@ export default {
         "notes": [
           "우리의 형상과 닮음을 따라 인간을 만들자는 인용은 창세기 1:26이다. 이어지는 문장은 영혼을 깨끗하게 하여 아버지의 형상이신 말씀을 바라보는 논증이다."
         ],
-        "revision_id": "sha256:ba20248aa3f4e3a959a2539f466273312837e8b51b5344148bdf7658e9d1235d",
-        "text": "그러므로 앞서 말했듯, 하나님을 부인하고 생명 없는 것들을 숭배하며 자신에게 이성적 영혼도 없다고 생각하는 이들은, 스스로 광기의 책망을 받아 이성 없는 생명체들 가운데 헤아려진다. 그래서 생명 없는 듯이 생명 없는 것들에 미신을 품는 그들은, 긍휼과 인도를 받을 만하다. 그러나 영혼이 있다고 인정하며 이성적 능력을 크게 자랑한다면, 그 자체는 당연한 일이다. 그런데 왜 영혼이 없는 듯 이성을 거슬러 대담하게 행동하고, 마땅히 생각할 것을 생각하지 않으며, 자신을 신적인 것보다도 더 높이는가? 죽지 않고 눈에 보이지 않는 영혼을 지니면서, 하나님은 눈에 보이고 죽을 것들로 본뜬다. 또 하나님에게서 떠났듯이, 왜 다시 그분께 피하지 않는가? 그들은 생각으로 하나님에게서 돌아서 존재하지 않는 것들을 신으로 만들었다. 이와 같이 영혼의 정신으로 올라가 다시 하나님께 돌아설 수도 있다. 자신을 덮은 온갖 욕망의 더러움을 벗고 씻으면 돌아설 수 있다. 영혼에 덧붙은 모든 낯선 것을 버리고 영혼만 처음 지어진 모습대로 드러낼 때까지 씻어야 한다. 그래야 자기 안에서 아버지의 말씀을 바라볼 수 있다. 그들은 처음부터 그 말씀을 따라 지어졌다. 인간은 하나님의 형상대로 만들어지고 그분을 닮도록 지어졌다. 하나님의 성경도 하나님의 목소리로 말하며 이를 가리킨다. “우리의 형상대로 우리를 닮게 인간을 만들자.” 그러므로 영혼이 자신에게 쏟아진 죄의 더러움을 모두 버리고 형상을 따른 것만 깨끗하게 지키면, 그것이 밝아져 거울처럼 아버지의 형상이신 말씀을 바라보는 것은 당연하다. 또 그분 안에서 아버지를 깨닫는다. 구주는 그 아버지의 형상이다. 밖에서 정신을 흐리게 하는 것들 때문에 영혼이 더 좋은 것을 보지 못하여 영혼의 가르침만으로 충분하지 않다면, 보이는 것들에서도 하나님에 관한 지식을 파악할 수 있다. 피조물은 질서와 조화로, 마치 글처럼 자신의 주인이며 조성자를 가리키고 외친다."
+        "revision_id": "sha256:2f364879f2c77d052c7a9a337f2c82d3444a8583c08eeba38be30156d45378a6",
+        "text": "그러므로 앞서 말했듯, 하나님을 부인하고 생명 없는 것들을 숭배하며 자신에게 이성적 영혼도 없다고 생각하는 이들은, 스스로 광기의 책망을 받아 이성 없는 생명체들 가운데 헤아려진다. 그래서 생명 없는 듯이 생명 없는 것들에 미신을 품는 그들은, 긍휼과 인도를 받을 만하다. 그러나 영혼이 있다고 인정하며 이성적 능력을 크게 자랑한다면, 그 자체는 당연한 일이다. 그런데 왜 영혼이 없는 듯 이성을 거슬러 대담하게 행동하고, 마땅히 생각할 것을 생각하지 않으며, 자신을 신적인 것보다도 더 높이는가? 죽지 않고 눈에 보이지 않는 영혼을 지니면서, 하나님은 눈에 보이고 죽을 것들로 본뜬다. 또 하나님에게서 떠났듯이, 왜 다시 그분께 피하지 않는가? 그들은 생각으로 하나님에게서 돌아서 존재하지 않는 것들을 신으로 만들었다. 이와 같이 영혼의 정신으로 올라가 다시 하나님께 돌아설 수도 있다. 자신을 덮은 온갖 욕망의 더러움을 벗고 씻으면 돌아설 수 있다. 영혼에 덧붙은 모든 낯선 것을 버리고 영혼만 처음 지어진 모습대로 드러낼 때까지 씻어야 한다. 그래야 자기 안에서 아버지의 말씀을 바라볼 수 있다. 그들은 처음부터 그 말씀을 따라 지어졌다. 인간은 하나님의 형상대로 만들어지고 그분을 닮도록 지어졌다. 하나님의 성경도 하나님의 목소리로 말하며 이를 가리킨다. “우리의 형상대로 우리를 닮게 인간을 만들자.” 그러므로 영혼이 자신에게 쏟아진 죄의 더러움을 모두 버리고 형상을 따른 것만 깨끗하게 지키면, 그것이 밝아져 거울처럼 아버지의 형상이신 말씀을 바라보는 것은 당연하다. 또 그분 안에서 아버지를 깨닫는다. 구주는 그 아버지의 형상이다. 밖에서 정신을 흐리게 하는 것들 때문에 영혼이 더 좋은 것을 보지 못하여 영혼의 가르침만으로 충분하지 않다면, 보이는 것들에서도 하나님에 관한 지식을 파악할 수 있다. 피조물은 질서와 조화로, 마치 글처럼 자신의 주재이며 조성자를 가리키고 외친다."
       },
       "work_id": "athanasius-gentes",
       "work_passage_id": "AGent34"
@@ -15674,7 +15662,7 @@ export default {
       "author": "아타나시우스",
       "groups": [
         {
-          "id": "a-86871e5a11b1f62647fb",
+          "id": "a-5a5d92bc04c0d2f09859",
           "ko_token_indexes": [
             0,
             1,
@@ -15766,7 +15754,7 @@ export default {
           ]
         },
         {
-          "id": "a-7bb15e743eda64d40de2",
+          "id": "a-6f7029585fd6e731f19d",
           "ko_token_indexes": [
             37,
             38,
@@ -15816,7 +15804,7 @@ export default {
           ]
         },
         {
-          "id": "a-a70335ee72c53858f58f",
+          "id": "a-00ef3c53956ab23cc1b0",
           "ko_token_indexes": [
             55,
             56,
@@ -15842,7 +15830,7 @@ export default {
           ]
         },
         {
-          "id": "a-ddf658e81ef58abba6c1",
+          "id": "a-5a251acbe32badd89795",
           "ko_token_indexes": [
             63,
             64,
@@ -15895,7 +15883,7 @@ export default {
           ]
         },
         {
-          "id": "a-cf9fd30e12442f849d06",
+          "id": "a-dc5ecb18d7a7350fa7e2",
           "ko_token_indexes": [
             80,
             81,
@@ -15938,7 +15926,7 @@ export default {
           ]
         },
         {
-          "id": "a-b27c8fbb5a414b938a9d",
+          "id": "a-f4a8f5aa3f7982ce270a",
           "ko_token_indexes": [
             95,
             96,
@@ -15981,7 +15969,7 @@ export default {
           ]
         },
         {
-          "id": "a-df92ab17a5037ad62529",
+          "id": "a-8b7e4885acc63eb6074d",
           "ko_token_indexes": [
             111,
             112,
@@ -16022,7 +16010,7 @@ export default {
           ]
         },
         {
-          "id": "a-775e3502c9fc8094a45c",
+          "id": "a-0cd720ed59f0962ca5c8",
           "ko_token_indexes": [
             126,
             127,
@@ -16072,7 +16060,7 @@ export default {
           ]
         },
         {
-          "id": "a-4288ce11289c0e70f7ce",
+          "id": "a-5aafe38cd9010e18ded9",
           "ko_token_indexes": [
             146,
             147,
@@ -16103,7 +16091,7 @@ export default {
           ]
         },
         {
-          "id": "a-58afc0e6dd9ba8739ab1",
+          "id": "a-839270c1bdadf74e73e1",
           "ko_token_indexes": [
             159,
             160,
@@ -16195,7 +16183,7 @@ export default {
           ]
         },
         {
-          "id": "a-24b9582eb6c82bad32e0",
+          "id": "a-fe29f0001eb6cd6763f6",
           "ko_token_indexes": [
             196,
             197,
@@ -16242,7 +16230,7 @@ export default {
           ]
         },
         {
-          "id": "a-6295502f7585ce83c594",
+          "id": "a-2b8dbc67dc14b615c9ae",
           "ko_token_indexes": [
             216,
             217,
@@ -16338,7 +16326,7 @@ export default {
           ]
         },
         {
-          "id": "a-2cc0d19c56e137f41e69",
+          "id": "a-5172c3bdfee450ecf7be",
           "ko_token_indexes": [
             255,
             256,
@@ -16446,8 +16434,8 @@ export default {
         "notes": [
           "보이지 않는 것을 피조물을 통해 안다는 인용은 로마서 1:20이다. 리카오니아인들에게 한 말은 사도행전 14:15-17이다."
         ],
-        "revision_id": "sha256:3dddd4b7632ef57e376441b32307378aa57a6d2aeca2521ff22e5d89988169b3",
-        "text": "하나님은 선하시고 인간을 사랑하시며 자신이 지으신 영혼들을 돌보신다. 본성상 보이지 않고 파악할 수 없으며 모든 생성된 실체를 넘어 계신다. 그래서 인류는 그분을 아는 데 이르지 못할 처지였다. 생성된 것들은 존재하지 않던 것에서 생겼지만 그분은 생겨나지 않으셨기 때문이다. 그러므로 하나님은 자신의 말씀으로 피조물을 이처럼 질서 있게 꾸미셨다. 본성상 보이지 않으셔도 적어도 작품들로 인간에게 알려지게 하려는 것이다. 장인은 자주 눈에 보이지 않아도 작품들을 통해 알려진다. 조각가 페이디아스에 관해서도, 그의 작품은 비례와 부분들의 상호 관계로 그가 없을 때도 보는 이들에게 그를 드러낸다고 말한다. 이와 같이 몸의 눈으로 보지 못하더라도, 우주의 질서를 통해 그 조성자이며 창조자이신 하나님을 깨달아야 한다. 하나님이 보이지 않는 본성을 잘못 사용하여 인간에게 자신을 완전히 알려지지 않게 버려두셨다는 핑계는 아무도 대지 말라. 앞서 말했듯 그분은 피조물을 그렇게 질서 있게 꾸미셔서, 본성상 보이지 않으셔도 작품들을 통해 알려지게 하셨다. 이것은 내가 스스로 하는 말이 아니라 하나님에 관해 가르치는 이들에게서 배운 것이다. 그 가운데 한 사람인 바울은 로마인들에게 이렇게 쓴다. “그분의 보이지 않는 것들이 세상이 창조된 때부터 지어진 것들을 통해 깨달아져 분명히 보인다.” 리카오니아인들에게는 담대하게 말한다. “우리도 그대들과 같은 성정을 지닌 인간이다. 이 헛된 것들에서 돌아서 살아 계신 하나님께 향하라고 그대들에게 복음을 전한다. 그분은 하늘과 땅과 바다와 그 안의 모든 것을 만드셨다. 지나간 세대에는 모든 민족이 자기 길로 가게 두셨다. 그러나 선을 행하여 자신을 증거 없이 버려두지 않으셨다. 하늘에서 그대들에게 비와 열매 맺는 계절을 주시며, 그대들의 마음을 음식과 기쁨으로 채우셨다.” 하늘의 둥근 궤도와 해와 달과 다른 별들의 운행을 보라. 그 위치와 회전은 서로 반대되고 다르지만, 그 차이 속에서도 모두 함께 같은 질서를 지킨다. 누가 이것을 보고, 스스로 그렇게 하는 것이 아니라 다른 조성자가 그것들을 질서 있게 다스린다고 생각하지 않겠는가? 해는 날마다 떠오르고, 달은 밤에 나타나 늘 같은 날수에 따라 기울고 차오른다. 어떤 별은 빠르게 달리며 여러 방식으로 궤도를 바꾸고, 어떤 별은 흔들림 없이 움직인다. 이를 보고 누가 반드시 그것들을 이끄는 창조자가 계시다는 생각을 얻지 않겠는가?"
+        "revision_id": "sha256:be893c0db0878b039ec97414d326dce31fa62512adf9b1b2d742049546cbaaa6",
+        "text": "하나님은 선하시고 인간을 사랑하시며 자신이 지으신 영혼들을 돌보신다. 본성상 보이지 않고 파악할 수 없으며 모든 생성된 본질을 넘어 계신다. 그래서 인류는 그분을 아는 데 이르지 못할 처지였다. 생성된 것들은 존재하지 않던 것에서 생겼지만 그분은 생겨나지 않으셨기 때문이다. 그러므로 하나님은 자신의 말씀으로 피조물을 이처럼 질서 있게 꾸미셨다. 본성상 보이지 않으셔도 적어도 작품들로 인간에게 알려지게 하려는 것이다. 장인은 자주 눈에 보이지 않아도 작품들을 통해 알려진다. 조각가 페이디아스에 관해서도, 그의 작품은 비례와 부분들의 상호 관계로 그가 없을 때도 보는 이들에게 그를 드러낸다고 말한다. 이와 같이 몸의 눈으로 보지 못하더라도, 우주의 질서를 통해 그 조성자이며 창조자이신 하나님을 깨달아야 한다. 하나님이 보이지 않는 본성을 잘못 사용하여 인간에게 자신을 완전히 알려지지 않게 버려두셨다는 핑계는 아무도 대지 말라. 앞서 말했듯 그분은 피조물을 그렇게 질서 있게 꾸미셔서, 본성상 보이지 않으셔도 작품들을 통해 알려지게 하셨다. 이것은 내가 스스로 하는 말이 아니라 하나님에 관해 가르치는 이들에게서 배운 것이다. 그 가운데 한 사람인 바울은 로마인들에게 이렇게 쓴다. “그분의 보이지 않는 것들이 세상이 창조된 때부터 지어진 것들을 통해 깨달아져 분명히 보인다.” 리카오니아인들에게는 담대하게 말한다. “우리도 그대들과 같은 성정을 지닌 인간이다. 이 헛된 것들에서 돌아서 살아 계신 하나님께 향하라고 그대들에게 복음을 전한다. 그분은 하늘과 땅과 바다와 그 안의 모든 것을 만드셨다. 지나간 세대에는 모든 민족이 자기 길로 가게 두셨다. 그러나 선을 행하여 자신을 증거 없이 버려두지 않으셨다. 하늘에서 그대들에게 비와 열매 맺는 계절을 주시며, 그대들의 마음을 음식과 기쁨으로 채우셨다.” 하늘의 둥근 궤도와 해와 달과 다른 별들의 운행을 보라. 그 위치와 회전은 서로 반대되고 다르지만, 그 차이 속에서도 모두 함께 같은 질서를 지킨다. 누가 이것을 보고, 스스로 그렇게 하는 것이 아니라 다른 조성자가 그것들을 질서 있게 다스린다고 생각하지 않겠는가? 해는 날마다 떠오르고, 달은 밤에 나타나 늘 같은 날수에 따라 기울고 차오른다. 어떤 별은 빠르게 달리며 여러 방식으로 궤도를 바꾸고, 어떤 별은 흔들림 없이 움직인다. 이를 보고 누가 반드시 그것들을 이끄는 창조자가 계시다는 생각을 얻지 않겠는가?"
       },
       "work_id": "athanasius-gentes",
       "work_passage_id": "AGent35"

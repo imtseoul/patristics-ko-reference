@@ -6,7 +6,7 @@ export default {
       "author": "아테나고라스",
       "groups": [
         {
-          "id": "a-b8a2c7d100d25b5b94b2",
+          "id": "a-811c6a55ebe12f093685",
           "ko_token_indexes": [
             0,
             1,
@@ -26,7 +26,7 @@ export default {
           ]
         },
         {
-          "id": "a-b717458f50e638229ecb",
+          "id": "a-f148b28fd0c0f5edec7a",
           "ko_token_indexes": [
             6,
             7,
@@ -38,7 +38,7 @@ export default {
           ]
         },
         {
-          "id": "a-027735e0ff0f7a8b8c94",
+          "id": "a-daba054f8ce8e0e5f83a",
           "ko_token_indexes": [
             9,
             10,
@@ -52,7 +52,7 @@ export default {
           ]
         },
         {
-          "id": "a-4158c62adccbd1d1eff6",
+          "id": "a-b33d4b91b3727883060f",
           "ko_token_indexes": [
             12,
             13,
@@ -65,7 +65,7 @@ export default {
           ]
         },
         {
-          "id": "a-25079577ca9662fb3d59",
+          "id": "a-0f5250085d075ac79da8",
           "ko_token_indexes": [
             15,
             16,
@@ -82,7 +82,7 @@ export default {
           ]
         },
         {
-          "id": "a-b3255deb2a789424fb24",
+          "id": "a-7e9ab212a070fd752baa",
           "ko_token_indexes": [
             20,
             21,
@@ -106,7 +106,7 @@ export default {
           ]
         },
         {
-          "id": "a-a95d8e80a14aa99e9eaa",
+          "id": "a-422f1065c26da91837fd",
           "ko_token_indexes": [
             27,
             28,
@@ -132,7 +132,7 @@ export default {
           ]
         },
         {
-          "id": "a-e4266dcd3618aad4e62e",
+          "id": "a-f4db5c92af154cace2f1",
           "ko_token_indexes": [
             37,
             38,
@@ -166,8 +166,8 @@ export default {
         "notes": [
           "마태복음 5:44-45와 누가복음 6:27-28에 연결되는 가르침이다. 이 문헌에는 원수 사랑, 저주하는 이의 축복, 박해자를 위한 기도가 함께 나온다."
         ],
-        "revision_id": "sha256:82bfa574dea10b1d59d75df8b34918d805ac370c20ac33e8b5e5e425c1c5772e",
-        "text": "그렇다면 저희가 배우며 자라는 말씀은 무엇입니까? “내가 너희에게 말한다. 너희 원수를 사랑하고, 저주하는 이들을 축복하며, 너희를 박해하는 이들을 위해 기도하라. 그리하여 하늘에 계신 너희 아버지의 아들들이 되어라. 그분은 악한 이와 선한 이 위에 자신의 해를 떠오르게 하시며, 의로운 이와 불의한 이 위에 비를 내리신다.”"
+        "revision_id": "sha256:16f7906712884cc1cfdb389c6ff71621e4b16917a7258e383ba0d18e4e759e3d",
+        "text": "그렇다면 저희가 배우며 자라는 말씀은 무엇입니까? “내가 너희에게 말한다. 너희 원수를 사랑하고, 저주하는 이들을 축복하며, 너희를 박해하는 이들을 위해 기도하라. 하늘에 계신 너희 아버지의 아들들이 되기 위해서다. 그분은 악한 이와 선한 이 위에 자신의 해를 떠오르게 하시며, 의로운 이와 불의한 이 위에 비를 내리신다.”"
       },
       "work_id": "athenagoras-plea",
       "work_passage_id": "athenagoras-plea:11.46"
@@ -176,7 +176,7 @@ export default {
       "author": "아테나고라스",
       "groups": [
         {
-          "id": "a-47d8d90840a7a7e373c2",
+          "id": "a-fe5a28a3d531b20c55ad",
           "ko_token_indexes": [
             0,
             1,
@@ -203,7 +203,7 @@ export default {
           ]
         },
         {
-          "id": "a-1e89c215ff15001869d3",
+          "id": "a-07d16a20fa09048ef137",
           "ko_token_indexes": [
             10,
             11,
@@ -229,7 +229,7 @@ export default {
           ]
         },
         {
-          "id": "a-623a1ccb3a6750c72f7b",
+          "id": "a-4e98f554456e5dde2ba2",
           "ko_token_indexes": [
             18,
             19,
@@ -249,7 +249,7 @@ export default {
           ]
         },
         {
-          "id": "a-cd2e870662019a14f4a0",
+          "id": "a-a1b7250547ed2d56606b",
           "ko_token_indexes": [
             24,
             25,
@@ -272,7 +272,7 @@ export default {
           ]
         },
         {
-          "id": "a-0a7b2c183227e708dec1",
+          "id": "a-4969706f2bd8734e25e6",
           "ko_token_indexes": [
             32,
             33,
@@ -292,7 +292,7 @@ export default {
           ]
         },
         {
-          "id": "a-a72e16c1b0d2cbc2edb4",
+          "id": "a-ab51d5a431f7a17043d2",
           "ko_token_indexes": [
             38,
             39,
@@ -326,8 +326,8 @@ export default {
       "title": "그리스도인들을 위한 청원",
       "translation": {
         "notes": [],
-        "revision_id": "sha256:06b27cbbb57a13080b97d4b5356373188608b1655e4794dcf87e71854648b4b9",
-        "text": "그러나 저희 가운데에는 배우지 못한 사람들과 수공업자들, 늙은 여인들도 있습니다. 그들은 가르침에서 받은 유익을 말로 설명할 수 없더라도, 자신의 결단에서 나온 유익을 행동으로 드러냅니다. 말을 외우는 데 그치지 않고 선한 행동을 실천합니다. 맞아도 맞때리지 않고, 빼앗겨도 소송하지 않으며, 달라는 이에게 주고 이웃을 자신처럼 사랑합니다."
+        "revision_id": "sha256:16df2ba93376deb3980ed490a3fe2283b4525cecce5736679e9e086c128920df",
+        "text": "그러나 저희 가운데에는 배우지 못한 사람들과 수공업자들, 늙은 여인들도 있습니다. 그들은 가르침에서 받은 유익을 말로 설명할 수 없더라도, 자신의 결단에서 나온 유익을 행동으로 드러냅니다. 말을 외워 늘어놓지 않고 선한 행동을 보여 줍니다. 맞아도 맞때리지 않고, 빼앗겨도 소송하지 않으며, 달라는 이에게 주고 이웃을 자신처럼 사랑합니다."
       },
       "work_id": "athenagoras-plea",
       "work_passage_id": "athenagoras-plea:11.48"

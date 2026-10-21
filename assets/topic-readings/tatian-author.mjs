@@ -6,7 +6,7 @@ export default {
       "author": "타티아노스",
       "groups": [
         {
-          "id": "a-df46de6ee4298700e6da",
+          "id": "a-9087bf852a3096a2f40c",
           "ko_token_indexes": [
             0,
             1,
@@ -20,7 +20,7 @@ export default {
           ]
         },
         {
-          "id": "a-877d569298d13b71cb71",
+          "id": "a-d0a4033127c53f2ac8ff",
           "ko_token_indexes": [
             4,
             5
@@ -34,7 +34,7 @@ export default {
           ]
         },
         {
-          "id": "a-5b652967fcb10e848b8b",
+          "id": "a-dbf9006d260815be1826",
           "ko_token_indexes": [
             6,
             7,
@@ -64,7 +64,7 @@ export default {
           ]
         },
         {
-          "id": "a-b1f51a5896818c6a4875",
+          "id": "a-7954e40340ab5388930b",
           "ko_token_indexes": [
             18,
             19,
@@ -101,7 +101,7 @@ export default {
           ]
         },
         {
-          "id": "a-2ec3225c1b3133443500",
+          "id": "a-fb1326f05ac1b21c362d",
           "ko_token_indexes": [
             29,
             30,
@@ -131,7 +131,7 @@ export default {
           ]
         },
         {
-          "id": "a-882db6beeb3c1a2dfe79",
+          "id": "a-5eb4f244b0a7d5498883",
           "ko_token_indexes": [
             39,
             40,
@@ -153,7 +153,7 @@ export default {
           ]
         },
         {
-          "id": "a-f96cca5f837e5f7924ba",
+          "id": "a-e1307ac5c62cbd6aa9ea",
           "ko_token_indexes": [
             47,
             48,
@@ -178,7 +178,7 @@ export default {
           ]
         },
         {
-          "id": "a-0789f94b7bc6e791478b",
+          "id": "a-12bfe4bfe496c6a3f2aa",
           "ko_token_indexes": [
             56,
             57,
@@ -205,7 +205,7 @@ export default {
           ]
         },
         {
-          "id": "a-610f7189431c58c8140f",
+          "id": "a-8254afa6db7688c0908f",
           "ko_token_indexes": [
             66,
             67,
@@ -223,7 +223,7 @@ export default {
           ]
         },
         {
-          "id": "a-d733507b4cb64e36115f",
+          "id": "a-fd6540ad4f0c4f821291",
           "ko_token_indexes": [
             70,
             71,
@@ -243,7 +243,7 @@ export default {
           ]
         },
         {
-          "id": "a-f086074d9e1bc7b69aeb",
+          "id": "a-ecf2202adc8b2fd46362",
           "ko_token_indexes": [
             76,
             77,
@@ -262,7 +262,7 @@ export default {
           ]
         },
         {
-          "id": "a-6497c91721d415b0ca2c",
+          "id": "a-3823b3cd297511593e24",
           "ko_token_indexes": [
             81,
             82,
@@ -277,7 +277,7 @@ export default {
           ]
         },
         {
-          "id": "a-38e8a9df08d731626b91",
+          "id": "a-8048bbbae13d48d3a9cd",
           "ko_token_indexes": [
             84,
             85,
@@ -293,7 +293,7 @@ export default {
           ]
         },
         {
-          "id": "a-4936e0961713558f8927",
+          "id": "a-5447d4e523c4b94edc0e",
           "ko_token_indexes": [
             88,
             89,
@@ -311,7 +311,7 @@ export default {
           ]
         },
         {
-          "id": "a-07c78dc13c098579d333",
+          "id": "a-83ff3bd4125c7e5acf4e",
           "ko_token_indexes": [
             93,
             94,
@@ -325,7 +325,7 @@ export default {
           ]
         },
         {
-          "id": "a-da269e69b37f9d0ac530",
+          "id": "a-67a96a572cc52248c802",
           "ko_token_indexes": [
             96,
             97
@@ -340,7 +340,7 @@ export default {
           ]
         },
         {
-          "id": "a-0ab72f66f1cc1b916af0",
+          "id": "a-4665bad2bc1413e73d9a",
           "ko_token_indexes": [
             98,
             99,
@@ -358,7 +358,7 @@ export default {
           ]
         },
         {
-          "id": "a-b8a827c74e2d14c9bdc0",
+          "id": "a-4afecb5c77c6d91657f8",
           "ko_token_indexes": [
             104,
             105,
@@ -376,7 +376,7 @@ export default {
           ]
         },
         {
-          "id": "a-f1a8cdbfca233c5bc3cf",
+          "id": "a-9603aee406fec8444c76",
           "ko_token_indexes": [
             109,
             110,
@@ -395,7 +395,7 @@ export default {
           ]
         },
         {
-          "id": "a-aaaeff7cf0b324f69a34",
+          "id": "a-e7b602cce9203df4a530",
           "ko_token_indexes": [
             114,
             115,
@@ -418,7 +418,7 @@ export default {
           ]
         },
         {
-          "id": "a-910cad2f3c934440068d",
+          "id": "a-ffa2d39af524942e87eb",
           "ko_token_indexes": [
             122,
             123,
@@ -442,7 +442,7 @@ export default {
           ]
         },
         {
-          "id": "a-8218db64484c53d2e29e",
+          "id": "a-bd808526105e3d7fdd92",
           "ko_token_indexes": [
             130,
             131,
@@ -464,7 +464,7 @@ export default {
           ]
         },
         {
-          "id": "a-4c276b0d1bbae87795b9",
+          "id": "a-3ae4a7638d88abb51620",
           "ko_token_indexes": [
             138,
             139,
@@ -501,8 +501,8 @@ export default {
         "notes": [
           "저자는 이방의 문헌을 받아들인 이유를 문체·저자의 태도·창조 설명·예고·계명·한 분의 통치라는 순서로 든다."
         ],
-        "revision_id": "sha256:706f18b57d30261ca7a4bdfa41b080bfb602c65761af7c7be1b274a4a5b1e6b9",
-        "text": "나는 이런 일들을 보고, 비의에도 참여하며, 나약한 남자들과 남녀의 모습을 섞은 자들을 통해 이루어지는 여러 민족의 종교를 살펴보았습니다. 로마에서는 라티아리스라고 부르는 제우스가 인간의 핏덩이와 살육의 피를 즐기는 것을 보았고, 큰 도시에서 멀지 않은 곳의 아르테미스도 같은 종류의 일을 행하며, 곳곳의 다른 악령들도 악행의 반란을 꾀하는 것을 보았습니다. 그래서 홀로 생각하며 어떻게 진리를 찾을 수 있을지 탐구했습니다. 진지한 문제를 숙고하던 중, 나는 어떤 이방의 문헌들을 만나게 되었습니다. 그것들은 그리스인의 가르침보다 오래되었고, 그들의 오류에 비하면 더 신적인 것이었습니다. 나는 그 문헌들을 믿게 되었습니다. 말에 허세가 없고, 말한 이들에게 꾸밈이 없으며, 만물의 창조를 알기 쉽게 설명하고, 앞일을 미리 알리며, 계명들이 탁월하고, 만물을 다스리는 한 분을 가르쳤기 때문입니다. 내 영혼이 하나님께 가르침을 받자, 앞의 것들은 정죄받을 성격을 띠지만, 이 문헌들은 세상의 종살이를 풀어 준다는 것을 깨달았습니다. 이것들은 수많은 지배자와 무수한 폭군에게서 우리를 떼어 내고, 우리가 받은 적 없는 것을 주는 것이 아니라 이미 받았으나 오류 때문에 누리지 못했던 것을 줍니다."
+        "revision_id": "sha256:6f6fadf0cc86f1f088087dc856d57a6cfa2966b01bf12101fae25e962263b2a4",
+        "text": "나는 이런 일들을 보고, 비의에도 참여하며, 나약한 남자들과 남녀의 모습을 섞은 자들을 통해 이루어지는 여러 민족의 종교를 살펴보았습니다. 로마에서는 라티아리스라고 부르는 제우스가 인간의 핏덩이와 살육의 피를 즐기는 것을 보았고, 큰 도시에서 멀지 않은 곳의 아르테미스도 같은 종류의 일을 행하며, 곳곳의 다른 귀신들도 악행의 반란을 꾀하는 것을 보았습니다. 그래서 홀로 생각하며 어떻게 진리를 찾을 수 있을지 탐구했습니다. 진지한 문제를 숙고하던 중, 나는 어떤 이방의 문헌들을 만나게 되었습니다. 그것들은 그리스인의 가르침보다 오래되었고, 그들의 오류에 비하면 더 신적인 것이었습니다. 나는 그 문헌들을 믿게 되었습니다. 말에 허세가 없고, 말한 이들에게 꾸밈이 없으며, 만물의 창조를 알기 쉽게 설명하고, 앞일을 미리 알리며, 계명들이 탁월하고, 만물을 다스리는 한 분을 가르쳤기 때문입니다. 내 영혼이 하나님께 가르침을 받자, 앞의 것들은 정죄받을 성격을 띠지만, 이 문헌들은 세상의 종살이를 풀어 준다는 것을 깨달았습니다. 이것들은 수많은 지배자와 무수한 폭군에게서 우리를 떼어 내고, 우리가 받은 적 없는 것을 주는 것이 아니라 이미 받았으나 오류 때문에 누리지 못했던 것을 줍니다."
       },
       "work_id": "tatian-greeks",
       "work_passage_id": "tatian-greeks:29.1"
