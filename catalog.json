@@ -2,11 +2,19 @@
   "base_url": "https://patristics.missionalbible.org",
   "human_review_status": "not_reviewed",
   "patched_work_ids": [
+    "athenagoras-plea",
     "athenagoras-resurrection",
+    "basil-holy-spirit",
     "eusebius-ecclesiastical-history",
-    "irenaeus-against-heresies"
+    "gregory-nazianzus-oration-31",
+    "irenaeus-against-heresies",
+    "justin-first-apology",
+    "papias-fragments",
+    "tatian-greeks",
+    "tertullian-marcion-1",
+    "theophilus-autolycus"
   ],
-  "release_id": "alpha-0.36",
+  "release_id": "alpha-0.37",
   "release_kind": "changed_work_patch",
   "rights_url": "https://patristics.missionalbible.org/rights.html",
   "schema_version": "patristics-library-catalog-0.1",
@@ -363,14 +371,14 @@
       ],
       "chapters": 20,
       "citation_scheme": "collection_items",
-      "data_release_id": "alpha-0.35",
+      "data_release_id": "alpha-0.37",
       "edition_short_label": "Funk 1901",
-      "fixed_html_path": "releases/alpha-0.35/papias-fragments/index.html",
+      "fixed_html_path": "releases/alpha-0.37/papias-fragments/index.html",
       "html_path": "works/papias-fragments/index.html",
       "id": "papias-fragments",
-      "json_path": "releases/alpha-0.35/papias-fragments/passages.json",
-      "json_sha256": "c185879844c387be7590d01ddba3689da29367e7c2d4162a1e5b902d4251b633",
-      "jsonl_path": "releases/alpha-0.35/papias-fragments/passages.jsonl",
+      "json_path": "releases/alpha-0.37/papias-fragments/passages.json",
+      "json_sha256": "19efcca57499f9ccfcd2b74109a27bd4e4b5612af5ce206cebe0b0218c4e75c5",
+      "jsonl_path": "releases/alpha-0.37/papias-fragments/passages.jsonl",
       "passages": 48,
       "scope": "Funk 1901의 I-XX 단편·증언 전체와 서문 표제. 후기 증언과 XX의 근대 라틴어 중역 구분",
       "source_languages": [
@@ -507,7 +515,7 @@
             "1.h28.s9",
             "1.h29"
           ],
-          "fixed_html_path": "releases/alpha-0.36/irenaeus-against-heresies/book-1.html",
+          "fixed_html_path": "releases/alpha-0.37/irenaeus-against-heresies/book-1.html",
           "html_path": "works/irenaeus-against-heresies/book-1.html"
         },
         {
@@ -669,7 +677,7 @@
             "2.h58.s1",
             "2.h58.s2"
           ],
-          "fixed_html_path": "releases/alpha-0.36/irenaeus-against-heresies/book-2.html",
+          "fixed_html_path": "releases/alpha-0.37/irenaeus-against-heresies/book-2.html",
           "html_path": "works/irenaeus-against-heresies/book-2.html"
         },
         {
@@ -800,7 +808,7 @@
             "3.h42.s1",
             "3.h42.s2"
           ],
-          "fixed_html_path": "releases/alpha-0.36/irenaeus-against-heresies/book-3.html",
+          "fixed_html_path": "releases/alpha-0.37/irenaeus-against-heresies/book-3.html",
           "html_path": "works/irenaeus-against-heresies/book-3.html"
         },
         {
@@ -974,7 +982,7 @@
             "4.h68.s1",
             "4.h68.s2"
           ],
-          "fixed_html_path": "releases/alpha-0.36/irenaeus-against-heresies/book-4.html",
+          "fixed_html_path": "releases/alpha-0.37/irenaeus-against-heresies/book-4.html",
           "html_path": "works/irenaeus-against-heresies/book-4.html"
         },
         {
@@ -1084,21 +1092,21 @@
             "5.h35.s2",
             "5.h36.s1"
           ],
-          "fixed_html_path": "releases/alpha-0.36/irenaeus-against-heresies/book-5.html",
+          "fixed_html_path": "releases/alpha-0.37/irenaeus-against-heresies/book-5.html",
           "html_path": "works/irenaeus-against-heresies/book-5.html"
         }
       ],
       "books": 5,
       "chapters": 233,
       "citation_scheme": "edition_bound_books",
-      "data_release_id": "alpha-0.36",
+      "data_release_id": "alpha-0.37",
       "edition_short_label": "Harvey 1857",
-      "fixed_html_path": "releases/alpha-0.36/irenaeus-against-heresies/index.html",
+      "fixed_html_path": "releases/alpha-0.37/irenaeus-against-heresies/index.html",
       "html_path": "works/irenaeus-against-heresies/index.html",
       "id": "irenaeus-against-heresies",
-      "json_path": "releases/alpha-0.36/irenaeus-against-heresies/passages.json",
-      "json_sha256": "322fac9d538ce5503a76c864460052326bdc73b2dd318014b0a3adeec9c84d89",
-      "jsonl_path": "releases/alpha-0.36/irenaeus-against-heresies/passages.jsonl",
+      "json_path": "releases/alpha-0.37/irenaeus-against-heresies/passages.json",
+      "json_sha256": "029b619b413eaef732bf1d64ffa7ccac6dca2f408c78a527edf89acf0e47ff6e",
+      "jsonl_path": "releases/alpha-0.37/irenaeus-against-heresies/passages.jsonl",
       "passages": 652,
       "reader_layout": "books",
       "scope": "Harvey 1857의 1-5권 서문과 본문 전체. 라틴어 고대 역본 대본과 그리스어 병렬문, 통상 장절 대응 포함",
@@ -1319,7 +1327,7 @@
             "1.13.21",
             "1.13.22"
           ],
-          "fixed_html_path": "releases/alpha-0.36/eusebius-ecclesiastical-history/book-1.html",
+          "fixed_html_path": "releases/alpha-0.37/eusebius-ecclesiastical-history/book-1.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-1.html"
         },
         {
@@ -1527,7 +1535,7 @@
             "2.26.1",
             "2.26.2"
           ],
-          "fixed_html_path": "releases/alpha-0.36/eusebius-ecclesiastical-history/book-2.html",
+          "fixed_html_path": "releases/alpha-0.37/eusebius-ecclesiastical-history/book-2.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-2.html"
         },
         {
@@ -1816,7 +1824,7 @@
             "3.39.16",
             "3.39.17"
           ],
-          "fixed_html_path": "releases/alpha-0.36/eusebius-ecclesiastical-history/book-3.html",
+          "fixed_html_path": "releases/alpha-0.37/eusebius-ecclesiastical-history/book-3.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-3.html"
         },
         {
@@ -2063,7 +2071,7 @@
             "4.30.2",
             "4.30.3"
           ],
-          "fixed_html_path": "releases/alpha-0.36/eusebius-ecclesiastical-history/book-4.html",
+          "fixed_html_path": "releases/alpha-0.37/eusebius-ecclesiastical-history/book-4.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-4.html"
         },
         {
@@ -2342,7 +2350,7 @@
             "5.28.18",
             "5.28.19"
           ],
-          "fixed_html_path": "releases/alpha-0.36/eusebius-ecclesiastical-history/book-5.html",
+          "fixed_html_path": "releases/alpha-0.37/eusebius-ecclesiastical-history/book-5.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-5.html"
         },
         {
@@ -2646,7 +2654,7 @@
             "6.46.4",
             "6.46.5"
           ],
-          "fixed_html_path": "releases/alpha-0.36/eusebius-ecclesiastical-history/book-6.html",
+          "fixed_html_path": "releases/alpha-0.37/eusebius-ecclesiastical-history/book-6.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-6.html"
         },
         {
@@ -2890,7 +2898,7 @@
             "7.32.31",
             "7.32.32"
           ],
-          "fixed_html_path": "releases/alpha-0.36/eusebius-ecclesiastical-history/book-7.html",
+          "fixed_html_path": "releases/alpha-0.37/eusebius-ecclesiastical-history/book-7.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-7.html"
         },
         {
@@ -3046,7 +3054,7 @@
             "8.app.5",
             "8.app.6"
           ],
-          "fixed_html_path": "releases/alpha-0.36/eusebius-ecclesiastical-history/book-8.html",
+          "fixed_html_path": "releases/alpha-0.37/eusebius-ecclesiastical-history/book-8.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-8.html"
         },
         {
@@ -3166,7 +3174,7 @@
             "9.11.7",
             "9.11.8"
           ],
-          "fixed_html_path": "releases/alpha-0.36/eusebius-ecclesiastical-history/book-9.html",
+          "fixed_html_path": "releases/alpha-0.37/eusebius-ecclesiastical-history/book-9.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-9.html"
         },
         {
@@ -3327,21 +3335,21 @@
             "10.9.8",
             "10.9.9"
           ],
-          "fixed_html_path": "releases/alpha-0.36/eusebius-ecclesiastical-history/book-10.html",
+          "fixed_html_path": "releases/alpha-0.37/eusebius-ecclesiastical-history/book-10.html",
           "html_path": "works/eusebius-ecclesiastical-history/book-10.html"
         }
       ],
       "books": 10,
       "chapters": 252,
       "citation_scheme": "edition_bound_books",
-      "data_release_id": "alpha-0.36",
+      "data_release_id": "alpha-0.37",
       "edition_short_label": "Loeb 1926-1932",
-      "fixed_html_path": "releases/alpha-0.36/eusebius-ecclesiastical-history/index.html",
+      "fixed_html_path": "releases/alpha-0.37/eusebius-ecclesiastical-history/index.html",
       "html_path": "works/eusebius-ecclesiastical-history/index.html",
       "id": "eusebius-ecclesiastical-history",
-      "json_path": "releases/alpha-0.36/eusebius-ecclesiastical-history/passages.json",
-      "json_sha256": "9f9e61a9666039a8fe035a1a4e297507a43c883f3da9ac81a898f938e2cfdf74",
-      "jsonl_path": "releases/alpha-0.36/eusebius-ecclesiastical-history/passages.jsonl",
+      "json_path": "releases/alpha-0.37/eusebius-ecclesiastical-history/passages.json",
+      "json_sha256": "343da97e346b91322673c1555cef5d78f20e9208a5dfe42f273f42dd1c39aaa6",
+      "jsonl_path": "releases/alpha-0.37/eusebius-ecclesiastical-history/passages.jsonl",
       "passages": 2126,
       "reader_layout": "books",
       "scope": "Perseus Loeb판의 1-10권 전문, 권별 장 목록과 8권 부록. 그리스어 편집 본문에서 번역",
@@ -3372,14 +3380,14 @@
       ],
       "chapters": 68,
       "citation_scheme": "chapters_with_project_paragraphs",
-      "data_release_id": "alpha-0.35",
+      "data_release_id": "alpha-0.37",
       "edition_short_label": "Rauschen 1911",
-      "fixed_html_path": "releases/alpha-0.35/justin-first-apology/index.html",
+      "fixed_html_path": "releases/alpha-0.37/justin-first-apology/index.html",
       "html_path": "works/justin-first-apology/index.html",
       "id": "justin-first-apology",
-      "json_path": "releases/alpha-0.35/justin-first-apology/passages.json",
-      "json_sha256": "2a20380ccd86d66990b61284db18c0f43801f75ced3eee95c8737d1c7565e8a8",
-      "jsonl_path": "releases/alpha-0.35/justin-first-apology/passages.jsonl",
+      "json_path": "releases/alpha-0.37/justin-first-apology/passages.json",
+      "json_sha256": "7c2a45e644471bc9c2cdd70b0017499c8f98d8f58ef425a869e15be9d1cdf365",
+      "jsonl_path": "releases/alpha-0.37/justin-first-apology/passages.jsonl",
       "passages": 70,
       "scope": "Rauschen 1911 제2판의 1-68장과 끝에 실린 하드리아누스의 답신 전체. 장 단위 번역과 별도 답신 표제·본문",
       "source_languages": [
@@ -3623,14 +3631,14 @@
       ],
       "chapters": 37,
       "citation_scheme": "chapters_sections",
-      "data_release_id": "alpha-0.35",
+      "data_release_id": "alpha-0.37",
       "edition_short_label": "March·Owen 1876",
-      "fixed_html_path": "releases/alpha-0.35/athenagoras-plea/index.html",
+      "fixed_html_path": "releases/alpha-0.37/athenagoras-plea/index.html",
       "html_path": "works/athenagoras-plea/index.html",
       "id": "athenagoras-plea",
-      "json_path": "releases/alpha-0.35/athenagoras-plea/passages.json",
-      "json_sha256": "e420263878afdbbc7a4b67042a1d85dd3c0d75b70f2dcda11759f8afefcf43b9",
-      "jsonl_path": "releases/alpha-0.35/athenagoras-plea/passages.jsonl",
+      "json_path": "releases/alpha-0.37/athenagoras-plea/passages.json",
+      "json_sha256": "abf7945d9ec20f946638ef8e8f5c1873d7aeda9221d06490b182a405cce9279d",
+      "jsonl_path": "releases/alpha-0.37/athenagoras-plea/passages.jsonl",
       "passages": 174,
       "scope": "March·Owen 1876년판 9-52쪽의 헌사와 1-37장 전문. 절 번호 1-173은 작품 전체에서 연속되는 판본 번호",
       "section_numbering": "continuous_across_work",
@@ -3679,7 +3687,7 @@
             "1.13",
             "1.14"
           ],
-          "fixed_html_path": "releases/alpha-0.35/theophilus-autolycus/book-1.html",
+          "fixed_html_path": "releases/alpha-0.37/theophilus-autolycus/book-1.html",
           "html_path": "works/theophilus-autolycus/book-1.html"
         },
         {
@@ -3724,7 +3732,7 @@
             "2.37",
             "2.38"
           ],
-          "fixed_html_path": "releases/alpha-0.35/theophilus-autolycus/book-2.html",
+          "fixed_html_path": "releases/alpha-0.37/theophilus-autolycus/book-2.html",
           "html_path": "works/theophilus-autolycus/book-2.html"
         },
         {
@@ -3761,21 +3769,21 @@
             "3.29",
             "3.30"
           ],
-          "fixed_html_path": "releases/alpha-0.35/theophilus-autolycus/book-3.html",
+          "fixed_html_path": "releases/alpha-0.37/theophilus-autolycus/book-3.html",
           "html_path": "works/theophilus-autolycus/book-3.html"
         }
       ],
       "books": 3,
       "chapters": 82,
       "citation_scheme": "edition_bound_books",
-      "data_release_id": "alpha-0.35",
+      "data_release_id": "alpha-0.37",
       "edition_short_label": "Humphry 1852",
-      "fixed_html_path": "releases/alpha-0.35/theophilus-autolycus/index.html",
+      "fixed_html_path": "releases/alpha-0.37/theophilus-autolycus/index.html",
       "html_path": "works/theophilus-autolycus/index.html",
       "id": "theophilus-autolycus",
-      "json_path": "releases/alpha-0.35/theophilus-autolycus/passages.json",
-      "json_sha256": "d45101f8094c086b0b62c16932f60f847c0ee1069071d1c002824f3be9c0bb2f",
-      "jsonl_path": "releases/alpha-0.35/theophilus-autolycus/passages.jsonl",
+      "json_path": "releases/alpha-0.37/theophilus-autolycus/passages.json",
+      "json_sha256": "5e045b209cbd29ddab9c00220c0bf30e544af157a859545f48f13922c4932388",
+      "jsonl_path": "releases/alpha-0.37/theophilus-autolycus/passages.jsonl",
       "passages": 82,
       "reader_layout": "books",
       "scope": "Humphry 1852년판의 세 권 전문: 1권 1-14장, 2권 1-38장, 3권 1-30장. 각 읽기 단위는 장 전체",
@@ -3811,14 +3819,14 @@
       ],
       "chapters": 42,
       "citation_scheme": "chapters_with_project_paragraphs",
-      "data_release_id": "alpha-0.35",
+      "data_release_id": "alpha-0.37",
       "edition_short_label": "Otto 1851",
-      "fixed_html_path": "releases/alpha-0.35/tatian-greeks/index.html",
+      "fixed_html_path": "releases/alpha-0.37/tatian-greeks/index.html",
       "html_path": "works/tatian-greeks/index.html",
       "id": "tatian-greeks",
-      "json_path": "releases/alpha-0.35/tatian-greeks/passages.json",
-      "json_sha256": "16f6348a2b2e928079038ea4582336b19e679abe27de415b201d20691316119b",
-      "jsonl_path": "releases/alpha-0.35/tatian-greeks/passages.jsonl",
+      "json_path": "releases/alpha-0.37/tatian-greeks/passages.json",
+      "json_sha256": "036769531c2b02b5a9ca16dd851ec9ac61b2c84ae3188612f7b853c809a3a383",
+      "jsonl_path": "releases/alpha-0.37/tatian-greeks/passages.jsonl",
       "passages": 42,
       "scope": "Otto 1851년판의 1-42장 전문. 각 읽기 단위는 장 전체이며 8장의 두 XML 문단도 모두 포함",
       "source_languages": [
@@ -4088,14 +4096,14 @@
       ],
       "chapters": 30,
       "citation_scheme": "chapters_sections",
-      "data_release_id": "alpha-0.35",
+      "data_release_id": "alpha-0.37",
       "edition_short_label": "Johnston 1892",
-      "fixed_html_path": "releases/alpha-0.35/basil-holy-spirit/index.html",
+      "fixed_html_path": "releases/alpha-0.37/basil-holy-spirit/index.html",
       "html_path": "works/basil-holy-spirit/index.html",
       "id": "basil-holy-spirit",
-      "json_path": "releases/alpha-0.35/basil-holy-spirit/passages.json",
-      "json_sha256": "13c85db500dacf08772dc904dd201944363bcc5fbaba81ee3bb1785c4839ee6a",
-      "jsonl_path": "releases/alpha-0.35/basil-holy-spirit/passages.jsonl",
+      "json_path": "releases/alpha-0.37/basil-holy-spirit/passages.json",
+      "json_sha256": "19ee4ab24c0fa1f9555dd65695690892717149a923bc001789ccb3965180139c",
+      "jsonl_path": "releases/alpha-0.37/basil-holy-spirit/passages.jsonl",
       "passages": 79,
       "scope": "Johnston 1892년판 13-157쪽, 1-30장 1-79절 전문. 장·절 경계와 독법은 채택 인쇄본을 따른다.",
       "source_languages": [
@@ -4236,14 +4244,14 @@
       ],
       "chapters": 33,
       "citation_scheme": "chapters",
-      "data_release_id": "alpha-0.35",
+      "data_release_id": "alpha-0.37",
       "edition_short_label": "Mason 1899",
-      "fixed_html_path": "releases/alpha-0.35/gregory-nazianzus-oration-31/index.html",
+      "fixed_html_path": "releases/alpha-0.37/gregory-nazianzus-oration-31/index.html",
       "html_path": "works/gregory-nazianzus-oration-31/index.html",
       "id": "gregory-nazianzus-oration-31",
-      "json_path": "releases/alpha-0.35/gregory-nazianzus-oration-31/passages.json",
-      "json_sha256": "03336ccb72edceef39df02171495217c1820bc673d83532ada045372a53956c2",
-      "jsonl_path": "releases/alpha-0.35/gregory-nazianzus-oration-31/passages.jsonl",
+      "json_path": "releases/alpha-0.37/gregory-nazianzus-oration-31/passages.json",
+      "json_sha256": "419a8aef5c7dc8268cb1de884cd1765964251c94bf4a95107ad081226edced5a",
+      "jsonl_path": "releases/alpha-0.37/gregory-nazianzus-oration-31/passages.jsonl",
       "passages": 33,
       "scope": "Mason 1899년판 145-190쪽, 제31강론(제5신학강론) 1-33장 전문.",
       "source_languages": [
@@ -4436,14 +4444,14 @@
       ],
       "chapters": 25,
       "citation_scheme": "chapters_sections",
-      "data_release_id": "alpha-0.36",
+      "data_release_id": "alpha-0.37",
       "edition_short_label": "March·Owen 1876",
-      "fixed_html_path": "releases/alpha-0.36/athenagoras-resurrection/index.html",
+      "fixed_html_path": "releases/alpha-0.37/athenagoras-resurrection/index.html",
       "html_path": "works/athenagoras-resurrection/index.html",
       "id": "athenagoras-resurrection",
-      "json_path": "releases/alpha-0.36/athenagoras-resurrection/passages.json",
-      "json_sha256": "30bc9d600173cf580d871e651d53f619886c9cb6545b78bf4d153097f6152575",
-      "jsonl_path": "releases/alpha-0.36/athenagoras-resurrection/passages.jsonl",
+      "json_path": "releases/alpha-0.37/athenagoras-resurrection/passages.json",
+      "json_sha256": "5b813f8d09d3c2053266f5e670c3bc95a9bfb0c4edb24c41acc6cac7a8be38ec",
+      "jsonl_path": "releases/alpha-0.37/athenagoras-resurrection/passages.jsonl",
       "passages": 126,
       "scope": "March·Owen 1876년판 53-86쪽의 1-25장 전문. 절 번호1-126은 작품 전체의 연속 번호",
       "section_numbering": "continuous_across_work",
@@ -4550,14 +4558,14 @@
       ],
       "chapters": 29,
       "citation_scheme": "chapters",
-      "data_release_id": "alpha-0.35",
+      "data_release_id": "alpha-0.37",
       "edition_short_label": "Kroymann 1906 (CSEL 47)",
-      "fixed_html_path": "releases/alpha-0.35/tertullian-marcion-1/index.html",
+      "fixed_html_path": "releases/alpha-0.37/tertullian-marcion-1/index.html",
       "html_path": "works/tertullian-marcion-1/index.html",
       "id": "tertullian-marcion-1",
-      "json_path": "releases/alpha-0.35/tertullian-marcion-1/passages.json",
-      "json_sha256": "6dda784675a45d125b53a1d7006df4354824e6f03d579f9a2aaa69ab6931ecb2",
-      "jsonl_path": "releases/alpha-0.35/tertullian-marcion-1/passages.jsonl",
+      "json_path": "releases/alpha-0.37/tertullian-marcion-1/passages.json",
+      "json_sha256": "ac2e0a01420294a7f6c1117b9cb060578555303dae8a560959cc97d6bd2da834",
+      "jsonl_path": "releases/alpha-0.37/tertullian-marcion-1/passages.jsonl",
       "passages": 29,
       "scope": "Kroymann 1906, CSEL 47의 마르키온 반박 1권 1-29장. 전체 5권 가운데 1권이다. 고정 전자 원문을 290-333쪽 인쇄면과 대조해 교정.",
       "source_languages": [

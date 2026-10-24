@@ -1,5 +1,5 @@
 import {installReaderToolbar} from './reader-toolbar.mjs?v=c58caaa1e294';
-import {installReaderFeatures} from './reader-features.mjs?v=eba89f29418d';
+import {installReaderFeatures} from './reader-features.mjs?v=e2acf245c47b';
 import {installReaderSearch} from './reader-search.mjs?v=f3bd50f09359';
 const chapterMenu = document.querySelector('.chapter-menu');
 chapterMenu?.querySelectorAll('a').forEach(link => {
@@ -49,7 +49,7 @@ async function installTopicContext() {
   };
   try {
     const [{default:navigation},{topicBrowseURL,topicReaderURL,topicReadingPosition}] = await Promise.all([
-      import('./topic-navigation.mjs?v=701b392d6fb6'), import('./topics.mjs?v=02a37ba6fe84'),
+      import('./topic-navigation.mjs?v=701b392d6fb6'), import('./topics.mjs?v=d61a80745a42'),
     ]);
     const topic = navigation.topics.find(t=>t.id===id);
     if (!topic?.passages.length) return;
