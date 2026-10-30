@@ -1,5 +1,5 @@
 import {readSaved,saveReadings,mergeSaved,parseSavedFile,savedFile,removeSaved,storageProblem} from './saved-readings.mjs?v=cc89cfac9055';
-import {canonicalSaved} from './passage-tools.mjs?v=8f0edd98bb2e';
+import {canonicalSaved} from './passage-tools.mjs?v=7a8c3bc2f190';
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
 
 export function installReadingCollection() {

@@ -2,19 +2,9 @@
   "base_url": "https://patristics.missionalbible.org",
   "human_review_status": "not_reviewed",
   "patched_work_ids": [
-    "athenagoras-plea",
-    "athenagoras-resurrection",
-    "basil-holy-spirit",
-    "eusebius-ecclesiastical-history",
-    "gregory-nazianzus-oration-31",
-    "irenaeus-against-heresies",
-    "justin-first-apology",
-    "papias-fragments",
-    "tatian-greeks",
-    "tertullian-marcion-1",
-    "theophilus-autolycus"
+    "tertullian-apology"
   ],
-  "release_id": "alpha-0.37",
+  "release_id": "alpha-0.37.1",
   "release_kind": "changed_work_patch",
   "rights_url": "https://patristics.missionalbible.org/rights.html",
   "schema_version": "patristics-library-catalog-0.1",
@@ -4719,6 +4709,51 @@
       "title": "마르키온 반박 5권",
       "title_is_unambiguous": true,
       "translation_method": "Kroymann 1906의 라틴어 본문에서 직접 한국어로 AI 번역. 인쇄면 대조로 전자 원문의 오류를 교정하고 편집자의 삭제 제안·보충·† 표시를 유지. 879개 의미 구간의 전체 대응을 자체 점검."
+    },
+    {
+      "aliases": [
+        "변증",
+        "테르툴리아누스 변증",
+        "터툴리안 변증",
+        "호교론",
+        "Apologeticum",
+        "Apologeticus",
+        "Apology of Tertullian"
+      ],
+      "ambiguous_aliases": [
+        "변증서",
+        "Apology",
+        "Apol."
+      ],
+      "annotation_rights_id": "tertullian-apology-notes-cc-by-sa-4.0",
+      "author": "테르툴리아누스",
+      "author_aliases": [
+        "테르툴리아누스",
+        "터툴리안",
+        "테르툴리안",
+        "Tertullian",
+        "Tertullianus",
+        "Quintus Septimius Florens Tertullianus"
+      ],
+      "chapters": 50,
+      "citation_scheme": "chapters_sections",
+      "data_release_id": "alpha-0.37.1",
+      "edition_short_label": "Glover 1931 (LCL 250)",
+      "fixed_html_path": "releases/alpha-0.37.1/tertullian-apology/index.html",
+      "html_path": "works/tertullian-apology/index.html",
+      "id": "tertullian-apology",
+      "json_path": "releases/alpha-0.37.1/tertullian-apology/passages.json",
+      "json_sha256": "a3360ac2917206fca87e7f30464b428a22a2f5b404bed07c51ebf5c521b2725d",
+      "jsonl_path": "releases/alpha-0.37.1/tertullian-apology/passages.jsonl",
+      "passages": 505,
+      "scope": "Glover 1931 Loeb판(LCL 250) 라틴어 본문 1-50장 505절 전체. 장·절 번호는 인쇄면 여백의 번호",
+      "source_languages": [
+        "lat"
+      ],
+      "source_profile": "prepared_tei",
+      "title": "변증",
+      "title_is_unambiguous": true,
+      "translation_method": "Glover 1931의 라틴어 본문에서 직접 한국어로 AI 번역. 고정 전자 원문을 2-226쪽 인쇄면과 두 AI가 따로 대조하고 세 번째 AI가 판정해 교정. 1030개 의미 구간의 전체 대응을 자체 점검."
     }
   ]
 }
