@@ -1,4 +1,4 @@
-import {archiveResults} from './archive-search-engine.mjs?v=a970870bc28c';
+import {archiveResults} from './archive-search-engine.mjs?v=2ce91865165d';
 
 const cancelled=()=>Object.assign(new Error('검색을 취소했습니다.'),{name:'AbortError'});
 
@@ -19,7 +19,7 @@ export function createArchiveSearchClient(WorkerFactory=globalThis.Worker) {
       if(!WorkerFactory){fallback();return;}
       try {
         if(!worker) {
-          worker=new WorkerFactory(new URL('./archive-search-worker.mjs?v=724125ec6057',import.meta.url),{type:'module'});
+          worker=new WorkerFactory(new URL('./archive-search-worker.mjs?v=e7898b951168',import.meta.url),{type:'module'});
           const created=worker;
           worker.addEventListener('message',event=>{
             if(worker!==created)return;

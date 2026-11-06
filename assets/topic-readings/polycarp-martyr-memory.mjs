@@ -300,7 +300,7 @@ export default {
       "author": "유세비우스",
       "groups": [
         {
-          "id": "a-8f62e3aa8e9f54975476",
+          "id": "a-8a5b6d12499b57f2d98b",
           "ko_token_indexes": [
             0,
             1,
@@ -317,7 +317,7 @@ export default {
           ]
         },
         {
-          "id": "a-2c2fb4c8d3417b6bfa54",
+          "id": "a-4eaa44b863175b992b71",
           "ko_token_indexes": [
             5,
             6,
@@ -331,7 +331,7 @@ export default {
           ]
         },
         {
-          "id": "a-1d9fbe95c8ea5666786a",
+          "id": "a-6387753faee5c2d5e9b4",
           "ko_token_indexes": [
             8,
             9,
@@ -347,7 +347,7 @@ export default {
           ]
         },
         {
-          "id": "a-e95d36891f5c99f1446b",
+          "id": "a-aa7a9cbb102dac8b6838",
           "ko_token_indexes": [
             11,
             12,
@@ -362,7 +362,7 @@ export default {
           ]
         },
         {
-          "id": "a-fee4fa7c23d70511f253",
+          "id": "a-24f038850eacee0c3905",
           "ko_token_indexes": [
             15,
             16,
@@ -380,7 +380,7 @@ export default {
           ]
         },
         {
-          "id": "a-513674c9f94fb4c9de06",
+          "id": "a-e4620c9baf1747c04061",
           "ko_token_indexes": [
             20,
             21,
@@ -414,8 +414,8 @@ export default {
         "notes": [
           "편지는 폴리카르포스의 순교일을 “탄생일”(γενέθλιος)로 부르며 그날 모여 기념할 뜻을 밝힌다."
         ],
-        "revision_id": "sha256:1c47898619e26c2d5d3b1b36f690b0e6b6811c1d75bf60a69ee0e7034b4e4239",
-        "text": "“우리가 가능한 대로 그곳에 모여 환희와 기쁨 속에 그의 순교일을 탄생일로 기념하도록 주님께서 허락하실 것이다. 이는 앞서 싸운 이들을 기억하고 앞으로 싸울 이들을 훈련하며 준비시키기 위해서다.”"
+        "revision_id": "sha256:afc89864d3df61062f95aa2756fcc62da1d72f203b39bf7f58ef4910fa684ae6",
+        "text": "“우리가 가능한 대로 그곳에 모여 환희와 기쁨 속에 그의 순교일을 탄생일로 기념하도록 주님께서 허락하실 것입니다. 이는 앞서 싸운 이들을 기억하고 앞으로 싸울 이들을 훈련하며 준비시키기 위해서입니다.”"
       },
       "work_id": "eusebius-ecclesiastical-history",
       "work_passage_id": "eusebius-ecclesiastical-history:4.15.44"

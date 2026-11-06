@@ -1,6 +1,6 @@
 // Pure helpers for the search screen: work shortcuts, related topics, facets and condition labels.
 import {catalogueMatch,normalizedCatalogueText} from './catalogue-search.mjs?v=71d83a0edc6e';
-import {scriptureReferenceLabel} from './scripture-search.mjs?v=3a95761ab6e9';
+import {scriptureReferenceLabel} from './scripture-search.mjs?v=c9426c091243';
 
 export const modeLabels={ko:'한국어 본문',grc:'그리스어 원문',lat:'라틴어 원문',notes:'번역 주석',scripture:'성경 구절'};
 const relationLabels={quotation:'직접 인용',paraphrase:'의역',exposition:'해설',possible_allusion:'가능한 암시',reference:'참조'};

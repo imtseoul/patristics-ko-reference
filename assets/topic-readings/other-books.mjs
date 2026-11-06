@@ -6,7 +6,7 @@ export default {
       "author": "유세비우스",
       "groups": [
         {
-          "id": "a-0038a434dd7431403239",
+          "id": "a-bef1b6e6ad4dc789caa0",
           "ko_token_indexes": [
             0,
             1
@@ -25,7 +25,7 @@ export default {
           ]
         },
         {
-          "id": "a-9d73efdb77511d578584",
+          "id": "a-9348661d4c64540fd8d3",
           "ko_token_indexes": [
             2,
             3,
@@ -43,7 +43,7 @@ export default {
           ]
         },
         {
-          "id": "a-92f91c60a459d9a04bae",
+          "id": "a-85f6cbfebcfb5e305a79",
           "ko_token_indexes": [
             5,
             6,
@@ -61,7 +61,7 @@ export default {
           ]
         },
         {
-          "id": "a-e333beab6b9e16bf1044",
+          "id": "a-4c7d09d009908d38e9c9",
           "ko_token_indexes": [
             9,
             10,
@@ -79,7 +79,7 @@ export default {
           ]
         },
         {
-          "id": "a-9bbcf4b618574f188987",
+          "id": "a-2caf9dfbd3f3b3bc0e56",
           "ko_token_indexes": [
             14,
             15
@@ -92,7 +92,7 @@ export default {
           ]
         },
         {
-          "id": "a-d9c8fc5c4eecef7bbcf2",
+          "id": "a-49507b7a218a8748dc8b",
           "ko_token_indexes": [
             16,
             17
@@ -103,7 +103,7 @@ export default {
           ]
         },
         {
-          "id": "a-93a2be6d200212b43d5f",
+          "id": "a-7042d7113b1c51d91e62",
           "ko_token_indexes": [
             18,
             19,
@@ -118,7 +118,7 @@ export default {
           ]
         },
         {
-          "id": "a-1a99d244e881b6d52892",
+          "id": "a-894c8bf643c8fdbee243",
           "ko_token_indexes": [
             23,
             24,
@@ -138,7 +138,7 @@ export default {
           ]
         },
         {
-          "id": "a-4fabdf6928a22220a384",
+          "id": "a-1655424397acffa18687",
           "ko_token_indexes": [
             31,
             32,
@@ -170,8 +170,8 @@ export default {
         "notes": [
           "νόθοι는 이 목록에서 위작을 가리킨다. 3절의 논쟁의 대상이 되는 문헌(ἀντιλεγόμενα)과 따로 세운 범주이지만, 6절은 이 문헌들까지 모두 논쟁의 대상이 되는 문헌에 속할 것이라고 말한다. 7절은 이단자들의 문헌을 이 범주에서도 배제한다. Διδαχαὶ τῶν ἀποστόλων은 사도들의 가르침이라는 제목의 복수형이다."
         ],
-        "revision_id": "sha256:7a898012a5769283c0e077b2c4b6180b3ab253bff426f35d9d733d048cd02f36",
-        "text": "위작에는 바울행전, 이른바 목자와 베드로계시록, 바나바의 서신으로 전해지는 문헌, 이른바 사도들의 가르침을 넣어야 한다. 앞서 말했듯이 적절하다고 여겨진다면 요한계시록도 여기에 넣어야 할 것이다. 이미 말한 대로 어떤 이들은 이 문헌을 배척하고, 다른 이들은 널리 인정되는 문헌에 포함한다."
+        "revision_id": "sha256:a4e7068d45289f2647eacf21763500803afa980fa262a461bde7485112e29706",
+        "text": "위작에는 바울행전, 이른바 목자와 베드로계시록, 바르나바의 서신으로 전해지는 문헌, 이른바 사도들의 가르침을 넣어야 한다. 앞서 말했듯이 적절하다고 여겨진다면 요한계시록도 여기에 넣어야 할 것이다. 이미 말한 대로 어떤 이들은 이 문헌을 배척하고, 다른 이들은 널리 인정되는 문헌에 포함한다."
       },
       "work_id": "eusebius-ecclesiastical-history",
       "work_passage_id": "eusebius-ecclesiastical-history:3.25.4"

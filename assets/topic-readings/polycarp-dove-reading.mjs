@@ -165,7 +165,7 @@ export default {
       "author": "유세비우스",
       "groups": [
         {
-          "id": "a-81d82ea66afb6f49abab",
+          "id": "a-4d0cca8a7028c5a32029",
           "ko_token_indexes": [
             0,
             1,
@@ -178,7 +178,7 @@ export default {
           ]
         },
         {
-          "id": "a-314f54b009dcb41494c1",
+          "id": "a-7f99557501d46cb5bbcd",
           "ko_token_indexes": [
             3,
             4,
@@ -192,7 +192,7 @@ export default {
           ]
         },
         {
-          "id": "a-dfed5bf8aabde054306f",
+          "id": "a-5017cefb65cdbf9610bb",
           "ko_token_indexes": [
             7,
             8
@@ -205,7 +205,7 @@ export default {
           ]
         },
         {
-          "id": "a-990866ce651c075c4123",
+          "id": "a-b21aec452258877cde43",
           "ko_token_indexes": [
             9,
             10,
@@ -225,7 +225,7 @@ export default {
           ]
         },
         {
-          "id": "a-eda0cc28c321321e92a0",
+          "id": "a-cf021d5265d0b1b0e680",
           "ko_token_indexes": [
             15,
             16,
@@ -241,7 +241,7 @@ export default {
           ]
         },
         {
-          "id": "a-d439c341091c77016c98",
+          "id": "a-cb5bb78b8fd7639a7e1e",
           "ko_token_indexes": [
             20,
             21,
@@ -256,7 +256,7 @@ export default {
           ]
         },
         {
-          "id": "a-b11c4cd0ffb325017ea8",
+          "id": "a-96be79bd5857f848b750",
           "ko_token_indexes": [
             23,
             24,
@@ -274,7 +274,7 @@ export default {
           ]
         },
         {
-          "id": "a-d606f7bd8f6b68c549ce",
+          "id": "a-2776a378d06619d3b010",
           "ko_token_indexes": [
             29,
             30,
@@ -295,7 +295,7 @@ export default {
           ]
         },
         {
-          "id": "a-d0a3a49bb2f72660edb1",
+          "id": "a-a52b6499c9e21ab503ce",
           "ko_token_indexes": [
             35,
             36,
@@ -309,7 +309,7 @@ export default {
           ]
         },
         {
-          "id": "a-4714b57f8da54a3da1ed",
+          "id": "a-e38bce7d322daf2a09ba",
           "ko_token_indexes": [
             38,
             39,
@@ -327,7 +327,7 @@ export default {
           ]
         },
         {
-          "id": "a-96ae40d0d4c2a46bafe4",
+          "id": "a-7b7f27534fc53d44072d",
           "ko_token_indexes": [
             43,
             44,
@@ -348,7 +348,7 @@ export default {
           ]
         },
         {
-          "id": "a-df910ab1cf784d15c67b",
+          "id": "a-aa7d2d5c6d78157debb0",
           "ko_token_indexes": [
             48,
             49,
@@ -378,8 +378,8 @@ export default {
         "notes": [
           "“보편 교회”의 원어는 καθολικὴ ἐκκλησία이다. 이 편지는 폴리카르포스를 스미르나 교회의 감독이자 사도적이고 예언자적인 교사로 부른다."
         ],
-        "revision_id": "sha256:41d171ef30c9f9caca8bdd0e059f61c15456dedaa2fe868af202e2ceb62d281a",
-        "text": "“그가 그렇게 하자 피가 많이 쏟아져 나와 불을 껐다. 믿지 않는 이들과 선택받은 이들 사이에 그토록 큰 차이가 있다는 것에 온 무리가 놀랐다. 이 사람도 선택받은 이들 가운데 하나였다. 그는 우리 시대의 참으로 놀라운 교사였으며 사도적이고 예언자적인 인물이자 스미르나에 있는 보편 교회의 감독이었다. 그의 입에서 나온 모든 말은 이미 이루어졌고 또 이루어질 것이다.”"
+        "revision_id": "sha256:3d28fb203629b17b00caec3f49a4835009ef03177eef7e397ff34083bbc43c39",
+        "text": "“그가 그렇게 하자 피가 많이 쏟아져 나와 불을 껐습니다. 믿지 않는 이들과 선택받은 이들 사이에 그토록 큰 차이가 있다는 것에 온 무리가 놀랐습니다. 이 사람도 선택받은 이들 가운데 하나였습니다. 그는 우리 시대의 참으로 놀라운 교사였으며 사도적이고 예언자적인 인물이자 스미르나에 있는 보편 교회의 감독이었습니다. 그의 입에서 나온 모든 말은 이미 이루어졌고 또 이루어질 것입니다.”"
       },
       "work_id": "eusebius-ecclesiastical-history",
       "work_passage_id": "eusebius-ecclesiastical-history:4.15.39"

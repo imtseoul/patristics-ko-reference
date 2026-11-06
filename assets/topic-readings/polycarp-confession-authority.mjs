@@ -464,7 +464,7 @@ export default {
       "author": "유세비우스",
       "groups": [
         {
-          "id": "a-99b14c4901624c257c25",
+          "id": "a-415b45ecec1828fba9d1",
           "ko_token_indexes": [
             0,
             1,
@@ -481,7 +481,7 @@ export default {
           ]
         },
         {
-          "id": "a-77183c9015dbe13d8d61",
+          "id": "a-e13be8bbe2bcc2e44f4a",
           "ko_token_indexes": [
             4,
             5,
@@ -496,7 +496,7 @@ export default {
           ]
         },
         {
-          "id": "a-f917807c98f05191b064",
+          "id": "a-9df9f7f2daf94bdb3a8e",
           "ko_token_indexes": [
             8,
             9
@@ -508,7 +508,7 @@ export default {
           ]
         },
         {
-          "id": "a-78e8cacd5d13481b5948",
+          "id": "a-6fd60f4dc1b5dd5f88f0",
           "ko_token_indexes": [
             10,
             11
@@ -520,7 +520,7 @@ export default {
           ]
         },
         {
-          "id": "a-64e740295bc7c4b9e00f",
+          "id": "a-63a7d6bca69beda14595",
           "ko_token_indexes": [
             12,
             13,
@@ -540,7 +540,7 @@ export default {
           ]
         },
         {
-          "id": "a-bc27e89e43340e2f72da",
+          "id": "a-8f81430c2c0541547b05",
           "ko_token_indexes": [
             19,
             20,
@@ -557,7 +557,7 @@ export default {
           ]
         },
         {
-          "id": "a-1067a42c96aaa622df41",
+          "id": "a-aef7f55de4c4682498d2",
           "ko_token_indexes": [
             25,
             26,
@@ -579,7 +579,7 @@ export default {
           ]
         },
         {
-          "id": "a-4dcae2fdc6e547772abc",
+          "id": "a-1ef83606cbd9975668ff",
           "ko_token_indexes": [
             33,
             34,
@@ -607,8 +607,8 @@ export default {
         "notes": [
           "여든여섯 해는 폴리카르포스가 그리스도를 섬겨 왔다고 밝히는 기간이다."
         ],
-        "revision_id": "sha256:de98dbbc7bdd2dbc28ed31508c2c1c40b8e471dfcc88c7881b7458ac31a6ccea",
-        "text": "“총독은 집요하게 요구하며 말했다. ‘맹세하면 그대를 풀어 주겠소. 그리스도를 욕하시오.’ 폴리카르포스가 대답했다. ‘나는 여든여섯 해 동안 그분을 섬겨 왔습니다. 그분은 나에게 아무런 해도 끼치지 않으셨습니다. 그런데 내가 어떻게 나의 왕을 모독할 수 있겠습니까? 나를 구원하신 그분을 말입니다.’”"
+        "revision_id": "sha256:43868c6adbff2186da2e5f826b949ffa02bfbc5188af1e763f739a870ee7bdc8",
+        "text": "“총독은 집요하게 요구하며 말했습니다. ‘맹세하면 그대를 풀어 주겠소. 그리스도를 욕하시오.’ 폴리카르포스가 대답했습니다. ‘나는 여든여섯 해 동안 그분을 섬겨 왔습니다. 그분은 나에게 아무런 해도 끼치지 않으셨습니다. 그런데 내가 어떻게 나의 왕을 모독할 수 있겠습니까? 나를 구원하신 그분을 말입니다.’”"
       },
       "work_id": "eusebius-ecclesiastical-history",
       "work_passage_id": "eusebius-ecclesiastical-history:4.15.20"
