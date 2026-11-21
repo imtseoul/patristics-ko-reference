@@ -1,11 +1,11 @@
 import {markedText} from './text-matches.mjs?v=149147752b85';
 import {installPhraseHover} from './phrase-hover.mjs?v=4f4926fe87ad';
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
-import {passageTools} from './archive-tools.mjs?v=a3610343ae16';
+import {passageTools} from './archive-tools.mjs?v=f7489066b3e0';
 import {preserveGuide,installGuideContext,guideReadingControls} from './reading-guides.mjs?v=3195acedeec2';
 import {installTopicComparison,comparisonPair} from './topic-comparison.mjs?v=eb4889bb8be8';
 import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=c9426c091243';
-import {searchURL} from './archive-search-core.mjs?v=81ebd941d0ad';
+import {searchURL} from './archive-search-core.mjs?v=d02e3b53d14b';
 
 export function topicBrowseURL(base, state) {
   const url = new URL('topics.html', new URL('/', base));
@@ -20,6 +20,7 @@ export function topicBrowseURL(base, state) {
 export function topicReaderURL(path, base, state) {
   const url = new URL(path, new URL('/', base));
   if (url.origin !== new URL(base).origin) throw new Error('Unexpected reading destination');
+  url.pathname = currentWorkPath(url.pathname);
   url.searchParams.set('topic', state.topic);
   url.searchParams.delete('group'); url.searchParams.delete('q');
   if (state.group) url.searchParams.set('group', state.group);
@@ -31,17 +32,22 @@ export function topicReaderURL(path, base, state) {
   return preserveGuide(url,base);
 }
 
+function currentWorkPath(path) {
+  return path.replace(/^(\/works\/[a-z0-9-]+\/)index\.html$/, '$1');
+}
+
 export function topicReadingPosition(passages, base, savedPassage) {
   const current = new URL(base);
+  const currentPath = currentWorkPath(current.pathname);
   const anchor = current.hash.replace(/^#note-/, '#p-');
   const exact = passages.findIndex(p => {
     const url = new URL(p.html_path, new URL('/', base));
-    return url.pathname === current.pathname && url.hash === anchor;
+    return currentWorkPath(url.pathname) === currentPath && url.hash === anchor;
   });
   if (exact >= 0) return exact;
   const saved = passages.findIndex(p => p.work_passage_id === savedPassage);
   if (saved >= 0) return saved;
-  const inDocument = passages.findIndex(p => new URL(p.html_path, new URL('/', base)).pathname === current.pathname);
+  const inDocument = passages.findIndex(p => currentWorkPath(new URL(p.html_path, new URL('/', base)).pathname) === currentPath);
   return Math.max(0, inDocument);
 }
 

@@ -1,5 +1,5 @@
 {
-  "alignment_revision_id": "sha256:f422348b9668fedcbba6a2f75506242a5f68fba6ba2f1c3bbb0f5cb49c9ad6d8",
+  "alignment_revision_id": "sha256:bd622c93c0d4273df84838a198fa2adcd841ba83242d958c5a0f1ab8a07b74fa",
   "description": "현재 번역을 읽기 위한 의미 대응 구간. 사전 뜻풀이 또는 문법 분석이 아니며 사람 검수 미실시.",
   "group_count": 76848,
   "passage_count": 5952,
@@ -1652854,7 +1652854,7 @@
       "granularity": "word_or_phrase",
       "groups": [
         {
-          "id": "a-ba59ac0916cbd57b2083",
+          "id": "a-9d3d21a3bb702cbfd531",
           "ko_token_indexes": [
             0,
             1,
@@ -1652889,7 +1652889,7 @@
           ]
         },
         {
-          "id": "a-214d543681cccf9cfb04",
+          "id": "a-3bdbd3c0122b6370fe60",
           "ko_token_indexes": [
             15,
             16,
@@ -1652968,7 +1652968,7 @@
       "review_status": "ai_generated_not_human_reviewed",
       "source_revision_id": "sha256:b1cd8734fb5674a45a44f022c1964f3a6614fe5f82f16fa5595f1022c38d4060",
       "source_text": "Quem quidem et ipsum proinde examinatorem Christianorum adhiberi oportebat ut foculum, ut acerram. Proinde enim probarentur sanguinem humanum adpetendo quemadmodum sacrificium respuendo, alioquin negandi si non gustassent, quemadmodum si immolassent, et utique non deesset vobis in auditione custodiarum et damnatione sanguis humanus.",
-      "translation_revision_id": "sha256:d5eea569ef9ee21674dece1197903c0a142a7c159b9b60f09f2caaa363d1e309",
+      "translation_revision_id": "sha256:a1faa4651dc233a5e9a656bcde40aa53b866ab043303de35e50719bb0d93bc37",
       "work_location": "9.15",
       "work_passage_id": "TertApol.9.15"
     },
@@ -1698798,7 +1698798,7 @@
       "attribution_url": "https://patristics.missionalbible.org/rights.html",
       "author": "테르툴리아누스",
       "id": "tertullian-apology",
-      "release_id": "alpha-0.37.1",
+      "release_id": "alpha-0.39",
       "rights": {
         "corpus-ko-cc-by-sa-4.0": {
           "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",

@@ -38,7 +38,8 @@ export function legacySearchURL(current) {
 // The clicked result travels with the return address, so the page number and the result anchor stay together.
 export function searchReaderURL(path,base,state,result='') {
   const reader=new URL(path,base),back=searchURL(base,state);
-  if(reader.origin!==back.origin||!/^\/works\/[a-z0-9-]+\/(?:index|book-\d+)\.html$/.test(reader.pathname))throw new Error('본문 주소를 확인해 주세요.');
+  if(reader.origin!==back.origin||!/^\/works\/[a-z0-9-]+\/(?:(?:index|book-\d+)\.html)?$/.test(reader.pathname))throw new Error('본문 주소를 확인해 주세요.');
+  reader.pathname=reader.pathname.replace(/\/index\.html$/, '/');
   if(result)back.hash='result-'+result;
   reader.searchParams.set('search',back.pathname+back.search+back.hash);return reader;
 }

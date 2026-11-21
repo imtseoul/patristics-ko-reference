@@ -1,4 +1,4 @@
-import {searchReturnURL,searchState,textMatches} from './archive-search-core.mjs?v=81ebd941d0ad';
+import {searchReturnURL,searchState,textMatches} from './archive-search-core.mjs?v=d02e3b53d14b';
 import {matchRanges} from './text-matches.mjs?v=149147752b85';
 
 export function selectedTextGroups(nodes,language='') {

@@ -1,12 +1,12 @@
-import {createArchiveSearchClient} from './archive-search-client.mjs?v=9eb9255f366d';
+import {createArchiveSearchClient} from './archive-search-client.mjs?v=4ecce9183dfb';
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
-export {archiveResults} from './archive-search-engine.mjs?v=2ce91865165d';
+export {archiveResults} from './archive-search-engine.mjs?v=ba8185d06c26';
 import index from './archive-search-index.mjs?v=1fbcbe54d13f';
 import {dataErrorMessage} from './packed-data.mjs?v=1a75398990a6';
 import {markedText,matchExcerpts} from './text-matches.mjs?v=149147752b85';
 import {parseScriptureQuery,scriptureReferenceLabel} from './scripture-search.mjs?v=c9426c091243';
 import {workInformationURL} from './work-information.mjs?v=08fe874cceb9';
-import {searchState,searchURL,searchReaderURL,workReference,pageSlice,plainExcerpt,useLabels,originLabels,speakerLabels,compositionLabels,resultCitation,resultCSV} from './archive-search-core.mjs?v=81ebd941d0ad';
+import {searchState,searchURL,searchReaderURL,workReference,pageSlice,plainExcerpt,useLabels,originLabels,speakerLabels,compositionLabels,resultCitation,resultCSV} from './archive-search-core.mjs?v=d02e3b53d14b';
 import {workShortcuts,relatedTopics,facetCounts,searchKind,appliedConditions} from './search-results.mjs?v=965195d23435';
 
 const works=new Map(index.works.map(work=>[work.id,work]));

@@ -145,6 +145,8 @@ button:hover { background: #333333; }
 /* 2026-10-12 첫 화면 정리: 제목 다음에 바로 목록. 시대 > 저자 > 문헌의 세 단계를 한 열의 색인으로 구분한다. */
 .catalogue-header { padding-bottom: 24px; border-bottom: 1px solid var(--ink); }
 .catalogue-header .catalogue-lead { font-size: 14px; color: var(--muted); }
+.catalogue-discovery { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: 0 16px; font-size: 14px; line-height: 24px; }
+.catalogue-discovery a { padding: 4px 0; text-underline-offset: .22em; }
 .recent-reading { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; margin: 0; padding: 16px 0; border-block: 0; border-bottom: 1px solid var(--line); font-size: 14px; }
 .recent-reading h2 { font-size: 14px; font-weight: 400; color: var(--muted); }
 .recent-reading ul { display: contents; }
